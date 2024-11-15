@@ -1,0 +1,660 @@
+
+==================================================
+
+===== Article 195 =====
+[Primary - Text]
+Art. 195
+Testimonianza indiretta
+
+1.  Quando il testimone si riferisce, per la conoscenza dei fatti, ad altre persone, il giudice, a richiesta di parte, dispone che queste siano chiamate a deporre.
+
+2.  Il giudice può disporre anche di ufficio l'esame delle persone indicate nel comma 1.
+
+3.  L'inosservanza della disposizione del comma 1 rende inutilizzabili le dichiarazioni relative a fatti di cui il testimone abbia avuto conoscenza da altre persone, salvo che l'esame di queste risulti impossibile per morte, infermità o irreperibilità.
+
+4.  Gli ufficiali e gli agenti di polizia giudiziaria non possono deporre sul contenuto delle dichiarazioni acquisite da testimoni con le modalità di cui agli articoli 351 e 357, comma 2, lettere a) e b). Negli altri casi si applicano le disposizioni dei commi 1, 2 e 3 del presente articolo. ((161))
+
+5.  Le disposizioni dei commi precedenti si applicano anche quando il testimone abbia avuto comunicazione del fatto in forma diversa da quella orale.
+
+6.  I testimoni non possono essere esaminati su fatti comunque appresi dalle persone indicate negli articoli 200 e 201 in relazione alle circostanze previste nei medesimi articoli, salvo che le predette persone abbiano deposto sugli stessi fatti o li abbiano in altro modo divulgati.
+
+7.  Non può essere utilizzata la testimonianza di chi si rifiuta o non è in grado di indicare la persona o la fonte da cui ha appreso la notizia dei fatti oggetto dell'esame.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 195
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 195
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 43896/2018
+                                      Il divieto di cui all'art. 195, comma 4, cod. proc. pen. trova applicazione anche in caso di mancata verbalizzazione di una denuncia di reato.(Fattispecie relativa a dichiarazioni rese da un testimone che riferiva di avere subito un tentativo di corruzione per non dichiarare ciò che era a sua conoscenza, ad un operante di P.G. che aveva svolto attività investigativa nel procedimento e che non provvedeva a redigere il relativo atto di denuncia orale ex art.357, comma 2, cod. proc. pen.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 43896 del  3 ottobre 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14730/2018
+                                      In tema di testimonianza indiretta, i"fatti" cui fa riferimento l'art. 195, comma 1, cod. proc. pen., che impongono l'esame della fonte diretta a semplice richiesta di parte, senza alcun sindacato del giudice, sono solo quelli rappresentati dalla fonte diretta alla fonte de relato e non anche quelli che attengono ai rapporti tra i due soggetti e alle circostanze il cui accertamento è necessario per valutarne la credibilità; in tali casi il nuovo esame della fonte diretta costituisce atto istruttorio che presuppone la puntuale allegazione della parte richiedente di elementi da cui desumere la necessità della verifica domandata.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 14730 del 30 marzo 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29236/2017
+                                      La testimonianza indiretta è pienamente utilizzabile nel giudizio abbreviato "incondizionato", operando l'inutilizzabilità prevista dall'art. 195, comma settimo, cod. proc. pen. solo nell'ipotesi in cui l'imputato abbia subordinato l'accesso al rito ad una integrazione probatoria costituita dall'assunzione del teste indiretto e se, nonostante l'audizione, sia rimasta non individuata la fonte dell'informazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 29236 del 13 giugno 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15760/2017
+                                      È legittima, perché riconducibile agli "altri casi" di cui all'art. 195, comma quarto, cod. proc. pen., la testimonianza indiretta dell'ufficiale o agente di polizia giudiziaria sulle dichiarazioni di contenuto narrativo ricevute dall'imputato al di fuori del procedimento, ovvero prima del formale inizio delle indagini, con la conseguenza che le stesse sono liberamente valutabili dal giudice di merito, assumendo la valenza di fatto storico percepito e riferito dal teste. (Fattispecie relativa a porto abusivo di arma da sparo e minaccia aggravata, in cui è stata ritenuta utilizzabile la testimonianza "de relato" di un carabiniere il quale, libero dal servizio, si era per caso imbattuto - subito dopo la commissione del fatto - in una persona che gli aveva spontaneamente riferito di aver esploso, poco prima, colpi di arma da fuoco all'indirizzo di altro soggetto e di essersi poi dato alla fuga, temendo di venire rintracciato attraverso il numero di targa della propria autovettura).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 15760 del 29 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13205/2017
+                                      È inutilizzabile, perché resa in violazione del divieto posto dall'art. 195, comma quarto, cod. proc. pen., la testimonianza indiretta degli ufficiali e agenti di polizia sulle dichiarazioni ricevute da persone informate sui fatti anche nel caso di mancata verbalizzazione delle stesse, qualora tale verbalizzazione sia prescritta dalla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 13205 del 20 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42718/2016
+                                      Sono utilizzabili le dichiarazioni "de relato" aventi ad oggetto quanto appreso dal minore vittima di abusi sessuali, non esaminato nel giudizio, solo se sia stata accertata, in base a motivato parere reso da professionista, l'impossibilità di procedere all'esame del minore, che può essere assoluta, nel caso in cui la sua personalità sia talmente fragile da poter essere qualificata in termini di infermità ai sensi dell'art. 195, comma terzo, cod. proc. pen., o relativa, in considerazione del concreto e grave pregiudizio alla salute che potrebbe derivare dall'esame - da valutare in riferimento all'età del minore al momento dello svolgimento dell'atto istruttorio e non a quella al momento del fatto - e della possibilità di adottare le modalità protette previste dall'art. 498, comma 4-ter, cod. proc. pen.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 42718 del 10 ottobre 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13967/2016
+                                      In tema di prova testimoniale, l'acquisizione, su accordo delle parti, al fascicolo per il dibattimento del verbale delle dichiarazioni rese dalla persona direttamente informata di un fatto, prima dell'esame dibattimentale del teste de relato, non comporta l'obbligo di esame del teste di riferimento sul medesimo fatto, poiché, in tal caso, le informazioni rese da quest'ultimo risultano già comprese nel compendio probatorio utilizzabile per la decisione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 13967 del  7 aprile 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13927/2015
+                                      In tema di testimonianza indiretta, il divieto posto dal comma settimo dell'art. 195 c.p.p. non opera in maniera automatica ogni qualvolta il testimone non è in grado di fornire elementi idonei ad una univoca ed immediata identificazione della fonte delle informazioni da lui riferite, ma solo quando, per effetto di tale omessa identificazione, non sia possibile discutere, sulla base di dati certi e non seriamente controvertibili, dell'esistenza e attendibilità di tale fonte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 13927 del  2 aprile 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37370/2014
+                                      In tema di testimonianza indiretta, il divieto posto dal comma settimo dell'art. 195 cod. proc. pen. non opera in maniera automatica ogni qualvolta il testimone non è in grado di fornire elementi idonei ad una univoca ed immediata identificazione della fonte delle informazioni da lui riferite, ma solo quando, per effetto di tale omessa identificazione, non sia possibile discutere, sulla base di dati certi e non seriamente controvertibili, dell'esistenza ed attendibilità di tale fonte. (In applicazione del principio, la S.C. ha giudicato legittima la ritenuta utilizzabilità, a fini probatori, della testimonianza resa da appartenente alla polizia giudiziaria e relativa ad informazioni apprese da agenti di forza di polizia straniera, non identificati nominativamente).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 37370 del  9 settembre 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 50589/2013
+                                      In tema di dichiarazioni rese da collaboratori di giustizia, l'eventuale motivazione "mercenaria" che spinge alla collaborazione non è di per sé indice di insincerità delle dichiarazioni stesse, sicché la preliminare valutazione di credibilità non può essere effettuata mediante strumenti diversi dall'analisi delle condotte del dichiarante, in particolare considerando la sua posizione all'interno dell'organizzazione criminale di cui ha fatto parte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 50589 del 13 dicembre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41003/2013
+                                      In tema di testimonianza indiretta, la richiesta di parte finalizzata all'esame delle persone alle quali il teste si sia riferito per la conoscenza dei fatti, deve essere presentata al giudice nel momento stesso in cui il testimone riferisce le circostanze apprese da terzi e non può utilmente intervenire dopo che il teste sia stato licenziato o l'udienza istruttoria conclusa, in quanto la disposizione di cui all'art. 195, comma primo, cod. proc. pen., è ispirata alla finalità di evitare richieste tardive o pretestuose, tali da provocare un eccessivo allungamento dei tempi processuali.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 41003 del  4 ottobre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4977/2010
+                                      La disciplina dettata in tema di testimonianza indiretta dall'art. 195 c.p.p. che prescrive l'audizione della fonte diretta, non può trovare applicazione quando quest'ultima si identifichi nella persona dell'imputato, che non può essere chiamato a rendere dichiarazioni "contra se", tali da pregiudicare la propria posizione.
+                                          
+                      –
+                      
+                                                          Sono direttamente utilizzabili le dichiarazioni rese da collaboratore di giustizia su circostanze apprese in relazione al ruolo di vertice del sodalizio criminoso di appartenenza e derivanti da patrimonio conoscitivo costituito da un flusso circolare di informazioni relative a fatti di interesse comune degli associati, in quanto non assimilabili né a dichiarazioni "de relato", utilizzabili solo attraverso la particolare procedura di cui all'art. 195 c.p.p., né alle cosiddette "voci correnti nel pubblico" delle quali la legge prevede l'inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 4977 del  8 febbraio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41379/2009
+                                      Non comportano violazione del divieto di testimonianza indiretta, stabilito per gli appartenenti alla polizia giudiziaria dall’art. 195, comma 4, c.p.p., e possono quindi legittimamente esserne utilizzati i risultati, le intercettazioni, regolarmente autorizzate, di conversazioni nel corso delle quali persone informate sui fatti (nella specie, la vittima del reato) abbiano reso ad un ufficiale di polizia giudiziaria dichiarazioni confidenziali le quali non siano poi state trasfuse a verbale per avere gli stessi dichiaranti rifiutato di sottoscriverle.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 41379 del 28 ottobre 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 47545/2008
+                                      Sono utilizzabili in sede cautelare le dichiarazioni della persona offesa raccolte dalla polizia giudiziaria nell'immediatezza del fatto, non verbalizzate per l'urgenza determinata dalla necessità del suo ricovero ospedaliero, ma acquisite al procedimento attraverso la deposizione della stessa autorità di pubblica sicurezza. V. Corte cost., 30 luglio 2008 n. 305.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 47545 del 22 dicembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38321/2008
+                                      In tema di chiamata di correo, non può definirsi de relato l'accusa proveniente da un correo di associazione mafiosa, il quale, proprio per la sua qualità di associato, ha precisa e sicura conoscenza degli altri partecipanti al sodalizio, anche se nell'ipotesi in cui l'accusato abbia una posizione preminente nella gerarchia dell'organizzazione il chiamante non abbia avuto con lui contatti diretti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 38321 del  8 ottobre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38076/2008
+                                      La testimonianza indiretta è utilizzabile qualora nessuna parte abbia chiesto che il teste di riferimento fosse chiamato a deporre, posto che il divieto di utilizzazione è preveduto solo nel caso in cui il giudice, richiesto da una parte, non abbia disposto l'assunzione della testimonianza, o nel caso in cui il testimone indiretto non abbia voluto o potuto indicare la persona da cui aveva appreso la notizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Feriale,
+                                        sentenza n. 38076 del  6 ottobre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35426/2008
+                                      In tema di testimonianza indiretta, il divieto di utilizzazione di cui all'art. 195, comma settimo, c.p.p. non opera allorquando il teste indiretto non sia in grado di indicare, al di là del solo nome di battesimo, la persona da cui abbia appreso la notizia dei fatti illeciti, giacché tale «indicazione » non va intesa come informazione completa sui dati anagrafici e sull'indirizzo della persona, dalla quale la notizia proviene, bensì come dato oggettivo, in forza del quale risulti indubitabile la sua reale esistenza quale soggetto costituente fonte originaria e diretta della notizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 35426 del 16 settembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35191/2008
+                                      La deposizione di un ufficiale di polizia giudiziaria sul contenuto di dichiarazioni testimoniali, acquisita agli atti prima dell'entrata in vigore della novella codicistica della L. n. 63 del 2001 che ha introdotto per questa parte ed in riferimento anche ai processi in corso uno specifico divieto di acquisizione e non di utilizzazione in riferimento, è utilizzabile in quanto si sostanzia in una prova legittimamente già acquisita.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 35191 del 11 settembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11100/2008
+                                      In tema di testimonianza indiretta, l'inutilizzabilità della deposizione di chi si rifiuta o non è in grado di indicare la persona o la fonte da cui ha appreso la notizia dei fatti oggetto dell'esame (art. 195, comma settimo, c.p.p.) opera, in caso di giudizio abbreviato, solo nell'ipotesi in cui la parte abbia subordinato l'accesso al rito ad un'integrazione probatoria costituita dall'assunzione del teste indiretto e se, nonostante l'audizione, sia rimasta non individuata la fonte dell'informazione.
+                                          
+                      –
+                      
+                                                          In tema di testimonianza indiretta, la parte ha il diritto di ottenere l'ammissione del teste indiretto anche se non viene indicata la fonte dell'informazione, in quanto la previsione di inutilizzabilità contemplata dall'art. 195, comma settimo, c.p.p. opera solo dopo l'assunzione della testimonianza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 11100 del 12 marzo 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4069/2008
+                                      È affetta dal vizio di manifesta illogicità, la motivazione della sentenza nella quale la valutazione sulla credibilità ed attendibilità delle dichiarazioni del minore, vittima di abusi sessuali, venga compiuta esclusivamente riferendosi alla intrinseca coerenza interna del racconto, senza tenere adeguatamente conto di tutte le circostanze concrete che possono influire su tale valutazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 4069 del 28 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3050/2008
+                                      Non sussiste il divieto di testimonianza indiretta degli ufficiali ed agenti di P.G. di cui all'art. 195, comma quarto, c.p.p. con riguardo alle dichiarazioni ricevute dal pubblico ufficiale durante l'inchiesta amministrativa dallo stesso effettuata anteriormente al procedimento penale, difettando in tal caso il necessario presupposto soggettivo della qualifica di agente od ufficiale di polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3050 del 21 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2001/2008
+                                      In tema di testimonianza indiretta, il giudice ha l'obbligo di valutarla con speciale cautela, atteso il carattere «mediato» che ha la rappresentazione del fatto da provare, pur dovendosi escludere che la stessa necessiti di elementi di riscontro a fini probatori.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2001 del 15 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35728/2007
+                                      In tema di reati contro la libertà sessuale, le dichiarazioni rese dal minore al perito e registrate sono utilizzabili anche senza la sua audizione diretta, qualora quest'ultima sia idonea a turbare il suo equilibrio psichico.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 35728 del 28 settembre 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35412/2007
+                                      Non viola il divieto di testimonianza indiretta degli ufficiali e agenti di polizia giudiziaria, previsto dall'art. 195, comma quarto, c.p.p., e non incorre in alcuna causa di inutilizzabilità, l'intercettazione ambientale, debitamente autorizzata, nel corso della quale siano state registrate le dichiarazioni rese confidenzialmente alla polizia giudiziaria dalla persona offesa di un delitto, la quale si sia rifiutata di deporre, così rendendo impossibile la formale redazione del verbale delle suddette dichiarazioni (principio affermato, nella specie, con riguardo alla dedotta inutilizzabilità delle dichiarazioni registrate della persona offesa ai fini dell'applicazione di una misura cautelare).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 35412 del 24 settembre 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26284/2006
+                                      La testimonianza de relato è utilizzabile allorquando il soggetto nel quale si identifica l'originaria fonte della notizia dei fatti, sottoposto a esame, si avvale del diritto di non rispondere. In tal caso, quanto da esso riferito è liberamente valutato dal giudice ai fini del proprio convincimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 26284 del 27 luglio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7352/2006
+                                      Poichè la legge n. 63 del 2001 ha modificato l'art. 195, comma quarto, c.p.p., introducendo non un divieto di utilizzazione, ma uno specifico divieto di acquisizione probatoria, la deposizione di un ufficiale di polizia giudiziaria sul contenuto di dichiarazioni di testimoni, avvenuta prima dell'entrata in vigore della nuova legge, è legittimamente acquisita al fascicolo del dibattimento ed è pienamente utilizzabile, in applicazione del principio generale stabilito dall'art. 526 c.p.p., secondo cui il giudice non può utilizzare ai fini della deliberazione prove diverse da quelle legittimamente acquisite nel dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7352 del  1 marzo 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1151/2006
+                                      In tema di prova testimoniale, l'inutilizzabilità della dichiarazione « de relato» resa dal testimone deriva esclusivamente dall'inosservanza della disposizione del comma primo dell'articolo 195 cod. proc.pen., allorchè il giudice, « richiesto dalla parte» non abbia disposto che sia chiamata a deporre l'altra persona a cui si è riferito il testimone per la conoscenza dei fatti. In mancanza della richiesta di parte, il giudice può anche esercitare il potere d'ufficio conferitogli dall'articolo 507 cod. proc.pen. (richiamato dall'art.195, comma secondo, c.p.p.), ma la circostanza che egli non ritenga di avvalersi di tale potere non comporta l'inutilizzabilità della dichiarazione «de relato».
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1151 del 13 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42226/2005
+                                      In tema di testimonianza indiretta di ufficiali e agenti di polizia giudiziaria, gli «altri casi» cui si riferisce l'art. 195, comma 4, ultima parte, c.p.p., nei quali non opera il divieto di deporre sul contenuto delle dichiarazioni acquisite da testimoni ma si applicano le disposizioni di cui ai precedenti commi 1, 2 e 3 del medesimo articolo, si identificano con le ipotesi in cui le dichiarazioni siano state rese da terzi e percepite al di fuori di uno specifico contesto procedimentale, in una situazione operativa eccezionale o di straordinaria urgenza caratterizzata dall'assenza di un dialogo fra teste e ufficiale o agente di polizia giudiziaria, ciascuno nella propria qualità. (Nella specie, in applicazione di tale principio, la Corte ha ritenuto utilizzabile la deposizione de relato di appartenenti alla polizia giudiziaria i quali, avendo accompagnato d'urgenza in ospedale un soggetto che era stato appena prima gravemente ferito a colpi di arma da fuoco, avevano poi riferito di quanto ad essi dichiarato, durante il trasporto, dal medesimo soggetto circa l'identità dello sparatore).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 42226 del 23 novembre 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 46795/2003
+                                      Debbono essere ritenute utilizzabili le dichiarazioni de relato quando nessuna delle parti processuali si sia avvalsa del diritto di chiedere che sia chiamato a deporre il teste di riferimento in quanto l'art. 195 c.p.p. circoscrivere l'ipotesi di inutilizzabilità solo al caso in cui il giudice abbia omesso la citazione dei testimoni diretti, nonostante l'espressa richiesta di parte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 46795 del  4 dicembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 46289/2003
+                                      In tema di violenza sessuale sui minori avvenuta in ambito familiare, le dichiarazioni dei congiunti che hanno raccolto le confidenze del minore costituiscono veri e propri riscontri allorché integrano qualificate deposizioni de relato e riferiscono informazioni rese in un contesto di normalità allo scopo di soddisfare un naturale bisogno di difesa e protezione del minore stesso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 46289 del  3 dicembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32144/2002
+                                      In tema di testimonianza indiretta, deve considerarsi tassativa l'elencazione dei casi in cui, divenendo impossibile l'esame del soggetto indicato quale fonte primaria (per morte, infermità o irreperibilità), la norma di cui al comma 3 dell'art. 195 c.p.p. consente l'utilizzazione delle dichiarazioni rese dal testimone de relato. Ne consegue che, in ogni ipotesi ove la concreta impossibilità dell'esame dipenda da circostanze diverse, e sempre che vi sia stata richiesta di parte per l'audizione del soggetto di riferimento, la testimonianza indiretta deve considerarsi inutilizzabile. (Fattispecie concernente l'utilizzazione delle dichiarazioni de relato di adulti i quali avevano raccolto le confidenze di una minore vittima di abusi sessuali, senza che quest'ultima fosse ascoltata, sulla base di relazione peritale che segnalava l'avvio di un meccanismo di rimozione dell'accaduto da parte dell'interessata; la Corte per altro, rilevato che non risultava esservi stata richiesta delle parti per l'esame della persona offesa, ha ritenuto nella specie utilizzabili le testimonianze de relato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 32144 del 26 settembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26414/2002
+                                      L'art. 195, comma 4, c.p.p., nel testo sostituito dall'art. 4 della L. 1 marzo 2001, n. 63, limita il divieto di testimonianza indiretta degli ufficiali e agenti di polizia giudiziaria al solo contenuto di dichiarazioni acquisite con le specifiche modalità di cui agli artt. 351 e 357, comma 2, lett. a) e b), c.p.p., prescrivendo che, negli altri casi, trovano applicazione le disposizioni di cui ai commi 1, 2 e 3 dello stesso art. 195; e tali casi non possono essere altri che quelli nei quali la polizia giudiziaria, attesa l'eccezionalità e l'urgenza della situazione operativa, abbia acquisito le dichiarazioni in questione dalla fonte primaria omettendo di documentarle nella forma del verbale. (Nella specie, in applicazione di tali principi, la Corte ha ritenuto che legittimamente fossero state utilizzate, ai fini dell'emissione di una misura cautelare, talune annotazioni di servizio sulle quali si riferiva delle dichiarazioni rese, sull'immediatezza di un fatto omicidiario che prossimi congiunti della vittima, i quali si erano poi rifiutati di confermarle a verbale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 26414 del 11 luglio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24711/2002
+                                      In tema di dichiarazioni provenienti da collaboratore di giustizia che abbia militato all'interno di un'associazione mafiosa, occorre tenere distinte le informazioni che lo stesso sia in grado di rendere in quanto riconducibili ad un patrimonio cognitivo comune a tutti gli associati di quel determinato sodalizio dalle ordinarie dichiarazioni de relato, che non sono utilizzabili se non attraverso la particolare procedura prevista dall'art. 195 c.p.p., in quanto l'impossibilità di esperire, nel primo caso, l'anzidetta procedura rende le stesse propalazioni meno affidabili e, come tali, inidonee di per sè a giustificare un'affermazione di colpevolezza; nondimeno, le stesse possono assumere rilievo probatorio a condizione che siano supportate da validi elementi di verifica in ordine al fatto che la notizia riferita costituisca, davvero, oggetto di patrimonio conoscitivo comune, derivante da un flusso circolare di informazioni attinenti a fatti di interesse comune per gli associati, in aggiunta ai normali riscontri richiesti per le propalazioni dei collaboratori di giustizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 24711 del 26 giugno 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1948/2002
+                                      È viziata da inutilizzabilità ai sensi dell'art. 195 c.p.p. la testimonianza indiretta allorché il giudice abbia omesso di procedere, nonostante la richiesta della difesa, all'assunzione del testimone diretto, anche nel caso in cui quest'ultimo sia persona minore di età. (Fattispecie in cui la Corte ha annullato con rinvio la sentenza di merito in quanto il giudice aveva erroneamente ritenuto non presentata dalla difesa una specifica istanza di audizione del minore, vittima di un reato di violenza sessuale, ed aveva, di conseguenza, utilizzato per la decisione le sole dichiarazioni dei testimoni de relato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1948 del 21 gennaio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32464/2001
+                                      La testimonianza indiretta è utilizzabile (art. 195, comma 7, c.p.p.) solo in caso di irreperibilità del testimone primario, non anche nel caso in cui ne risulti impossibile l'identificazione, atteso che la legge - prescindendo dalla volontà del dichiarante - pone a carico della parte che abbia interesse all'utilizzazione della testimonianza indiretta o, in mancanza, del giudice, ai sensi dell'art. 507 c.p.p., l'obbligo di compiere ogni accertamento utile all'identificazione del testimone diretto, in vista del diritto delle parti di chiederne l'escussione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 32464 del 29 agosto 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 28376/2001
+                                      Non vi è ragione di escludere l'utilizzabilità, a fini cautelari, di dichiarazioni eteroaccusatorie ricevute da un ufficiale di polizia giudiziaria e da questi registrate all'insaputa del dichiarante non gravato, all'epoca, da alcun indizio di reità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 28376 del 12 luglio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 23423/2001
+                                      In tema di reati contro la libertà sessuale le dichiarazioni rese dal minore in sede di incontro videoregistrato presso il servizio psichiatrico alla presenza di un funzionario o agente di polizia giudiziaria possono essere oggetto di testimonianza de relato da parte dell'ufficiale di P.G. ai sensi dell'art. 195 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 23423 del  8 giugno 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20382/2001
+                                      Le dichiarazioni rese da soggetto che non rivestiva al momento la veste di indagato e registrate da ufficiale di polizia giudiziaria possono essere oggetto di relazione all'autorità giudiziaria e su di esse l'ufficiale di polizia giudiziaria può rendere testimonianza de relato, sempre che tale testimonianza non venga utilizzata nei confronti dello stesso soggetto, non assumendo rilievo la mancata verbalizzazione. (Fattispecie antecedente all'entrata in vigore della L. 1 marzo 2001 n. 63).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 20382 del 19 maggio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1717/2000
+                                      In caso di contrasto tra quanto riferito dai testi de relato e dalla fonte da essi indicata, è legittima l'attribuzione, in esito ad esauriente verifica, di maggiore veridicità alle dichiarazioni dei primi, in quanto l'art. 195 c.p.p. non stabilisce al riguardo alcuna gerarchia, ma prevede solo l'obbligo, a impulso di parte, di escussione giudiziaria della fonte diretta.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1717 del 14 febbraio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12890/1999
+                                      In tema di dichiarazioni de relato, la sanzione dell'inutilizzabilità non ha modo di operare qualora nel dibattimento di primo grado la parte non abbia fatto uso della facoltà di chiedere che siano chiamati a deporre i testi di riferimento, né ad una tale omissione può ovviarsi con la richiesta di rinnovazione — anche parziale — del dibattimento in appello.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 12890 del 11 novembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12904/1998
+                                      Il divieto di testimonianza sulle dichiarazioni dell'imputato o dell'indagato, sancito dall'art. 62 c.p.p., essendo diretto ad assicurare l'inutilizzabilità di quanto raccolto al di fuori degli atti garantiti dalla presenza del difensore e pervenuto attraverso la testimonianza di chi dette dichiarazioni abbia ricevuto in qualsiasi maniera, presuppone che dette dichiarazioni siano state rese nel corso del procedimento e non anteriormente o al di fuori del medesimo; il divieto, in quest'ultima ipotesi, non può, infatti, operare, assumendo l'oggetto della testimonianza, nel suo contenuto specifico, valore di fatto storico percepito dal teste, e, come tale, valutabile dal giudice alla stregua degli ordinari criteri applicabili al detto mezzo di prova
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 12904 del  9 dicembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11320/1998
+                                      Il disposto dell'art. 195 c.p.p., che prevede l'audizione delle fonti dirette, non è applicabile nel caso che il testimone o l'imputato in procedimento connesso si riferiscano, per la conoscenza dei fatti, all'imputato del medesimo procedimento in cui vengano assunte le loro dichiarazioni. (A sostegno di tale principio, la S.C. ha addotto non solo il dato letterale, ma anche quello logico-sistematico, che fa ritenere incongrua l'obbligo o la facoltà del giudice di escutere la fonte diretta, ove questa si identifichi con l'imputato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 11320 del 28 ottobre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5285/1998
+                                      La ratio dell'art. 195 c.p.p. consiste non nell'impedire, sempre e comunque, qualsiasi esposizione di fatti non verificatisi sotto gli occhi del dichiarante, ma semplicemente nel consentire un controllo di conoscenza. Ne consegue che non può considerarsi una forma di testimonianza indiretta la rappresentazione di fatti ai quali il teste abbia assistito solo per una parte, ma che tuttavia consenta di ricostruire per intero, sia pure in via di logica consequenzialità, i medesimi fatti nella loro totalità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5285 del  6 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3139/1998
+                                      Nel caso di esame di soggetto imputato in procedimento connesso, questi deve essere assistito da un difensore e deve essere avvisato della sua facoltà di non rispondere: non può essere ritenuto procedimento connesso (o collegato), e quindi in tal caso sono utilizzabili le dichiarazioni eventualmente rese pur in assenza delle suddette garanzie, quello che vede la persona sottoposta ad esame accusata di reati del tutto distinti da quelli del processo in corso, commessi in un contesto temporale e territoriale diversi, senza neppure il legame di una comunanza probatoria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3139 del 12 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7947/1997
+                                      La testimonianza cosiddetta de relato è sempre utilizzabile allorquando sia impossibile l'esame del soggetto nel quale si identifica l'originaria fonte della notizia sui fatti. Pur individuando l'art. 195 comma terzo c.p.p. solo tre casi di impossibilità (per morte, infermità o irreperibilità), deve escludersi che tale elenco sia tassativo e che non possano essere individuati, nella pratica, altri casi di impossibilità oggettive, analoghi e quelli elencati dal legislatore. (Nella fattispecie è stata esclusa la illogicità della motivazione dei giudici di merito i quali avevano ritenuto impossibile l'esame di una bambina di circa tre anni — che aveva fornito ad alcune persone, poi esaminate nel corso del dibattimento, indicazioni utili per l'identificazione dell'autore dell'omicidio del padre cui aveva assistito — assimilando la tenerissima età della piccola ad una sorta di «infermità» mentale, potendo sussistere in entrambi i casi una totale incapacità di discernimento tra la realtà e la fantasia: la Suprema Corte ha altresì precisato che, in questi casi, quanto riferito dal teste de relato può essere utilizzato solo quale dato storico-processuale, cioè nei limiti di un indizio da verificare e da valutare unitamente ad altri indizi che abbiano i prescritti requisiti della certezza, precisione e concordanza, e non come vera e propria prova).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7947 del 22 agosto 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4976/1997
+                                      In tema di testimonianza indiretta, nell'ipotesi in cui il referente del testimone indiretto sia persona che abbia la qualità di imputato nel procedimento, ovvero che tale qualità avrebbe potuto assumere se ancora in vita, non è necessario che il giudice compia la verifica sull'esistenza di altri elementi di prova che confermano l'attendibilità della dichiarazione, come richiesto dall'art. 192, terzo comma, c.p.p.; e ciò in quanto mentre la dichiarazione resa al giudice da chi è coinvolto negli stessi fatti addebitati all'imputato può, per sua natura, ingenerare un erroneo convincimento, tanto che la legge pretende per la chiamata di correo maggior rigore valutativo e necessario riscontro probatorio, nell'ipotesi di testimonianza indiretta il racconto del referente è fatto fuori del processo, sicché la cautela imposta dal legislatore è limitata al controllo delle fonti di conoscenza del testimone de relato.
+                                          
+                      –
+                      
+                                                          La testimonianza de relato, nei limiti di utilizzabilità stabiliti dall'art. 195, commi terzo e settimo, c.p.p., assume valenza, sul piano probatorio e storico, di rappresentazione diretta del fatto e non di semplice indizio, fermo restando l'onere del giudice di motivare adeguatamente in ordine alle ragioni che lo inducono a ritenere rilevanti e veridiche le affermazioni del testimone. (Fattispecie relativa a testimonianza resa su fatti dei quali il testimone aveva avuto conoscenza da persona il cui esame risultava impossibile per morte).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4976 del 28 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 599/1997
+                                      Le dichiarazioni de relato sono inutilizzabili solo quando si intenda assumerle come «prove», e cioè come elementi determinanti o, comunque, utili ai fini del decidere in ordine alla fondatezza o meno dell'imputazione, all'esito del giudizio di merito, e non quando si intenda attribuire loro il mero valore di «indizi», sia pure necessariamente gravi, in funzione dell'adozione di provvedimenti in materia cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 599 del 12 marzo 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8610/1996
+                                      In tema di testimonianza indiretta, il disposto dell'art. 195, settimo comma, c.p.p., secondo il quale non può essere utilizzata la dichiarazione di chi si rifiuta o non è in grado di indicare la persona o la fonte da cui ha appreso la notizia dei fatti oggetto dell'esame, deve essere interpretata nel senso che l'inutilizzabilità si ricollega alla volontà, diretta o indiretta, della fonte primaria di non consentire la verifica di quella secondaria; ne discende che il predetto divieto non opera allorché il soggetto dichiarante vuole che il soggetto confidente sia rintracciato e pertanto, pur non conoscendone le generalità, offre concreti elementi idonei alla sua identificazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 8610 del 24 settembre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2071/1996
+                                      L'indizio proveniente dalla chiamata indiretta, non riscontrata a norma dell'art. 195 c.p.p., pur ammissibile in sede di applicazione dell'art. 273 c.p.p. ha valenza diversa e minore di quella proveniente dalla chiamata diretta che, alla luce dell'art. 192, comma terzo, c.p.p., deve qualificarsi prova. Pertanto, il cosiddetto vaglio di attendibilità estrinseca del dichiarante indiretto a differenza di quello diretto che si può indurre anche da elementi non pertinenti ai fatti riferiti, consiste nel procedimento logico indiziario disciplinato dall'art. 192, comma secondo, c.p.p. perché, trattandosi di un mero indizio, esige riscontri specifici, e cioè la concordanza con altri elementi sul fatto da provare, che dimostrino la rilevante probabilità di colpevolezza dell'indagato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 2071 del  9 settembre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2780/1996
+                                      La facoltà dell'ufficiale o dell'agente di polizia giudiziaria, esaminato come testimone, di servirsi dei verbali e degli altri atti di documentazione delle attività compiute dalla polizia giudiziaria, deve ritenersi estesa, dopo la sentenza n. 24 del 1992 della Corte costituzionale, ai verbali delle dichiarazioni acquisite da testimoni. (Fattispecie relativa all'utilizzazione di dichiarazioni rese da ufficiale di P.G. in ordine a prospetti, da lui redatti, contenenti dati numerici relativi a quantitativi di tabacco ceduti da singoli produttori a società commerciale, risultata destinataria di premi da parte dell'Aima. Nell'enunciare il principio di cui in massima, la S.C. ha ritenuto che quelle dichiarazioni costituivano una forma di consultazione in aiuto della memoria, secondo quanto dispone l'art. 499, comma quinto, c.p.p. e non integravano violazione del divieto di lettura di cui all'art. 514 stesso codice, in quanto l'acquisizione al giudizio di elementi contenuti in quei prospetti avveniva per il tramite dell'esame e del controesame del testimone, con piena garanzia del contraddittorio e, quindi, dei diritti della difesa).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 2780 del 15 marzo 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5141/1994
+                                      Le dichiarazioni indizianti, rese in sede di polizia giudiziaria da persona indagata, utilizzabili nei confronti dei terzi chiamati in correità, anche se rese in assenza del difensore dell'indagato dichiarante, se non sono state verbalizzate dalla polizia giudiziaria, non possono formare oggetto di testimonianza da parte dell'ufficiale di polizia giudiziaria che le ha raccolte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 5141 del  4 maggio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2548/1993
+                                      Ai sensi dell'art. 136 della Costituzione, quando la Corte costituzionale dichiara l'illegittimità di una norma, questa cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione. Pertanto, qualora il pretore abbia ammesso il teste, la cui deposizione fosse vietata dall'art. 195, quarto comma, c.p.p. ancora in vigore, è da ritenersi legittima la deposizione medesima se al momento in cui essa è stata assunta il divieto è venuto meno per effetto della dichiarazione di illegittimità costituzionale della disposizione che la prevedeva. (Nella specie l'ammissione del teste, ufficiale di polizia giudiziaria, che avrebbe dovuto deporre sulle dichiarazioni ricevute da testimoni resisi irreperibili, era stata chiesta ed ammessa a chiusura della discussione finale il 29 gennaio 1992, quando era stata dichiarata l'illegittimità costituzionale del quarto comma dell'art. 195 citato, avvenuta con sentenza della Corte costituzionale 31 gennaio 1992, della quale si conosceva già il dispositivo, deliberato il 22 gennaio 1992).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2548 del 17 marzo 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3753/1992
+                                      A seguito della sentenza 31 gennaio 1992, n. 24 della Corte costituzionale che ha dichiarato l'illegittimità costituzionale dell'art. 195 comma quarto c.p.p. è ammessa la testimonianza indiretta della polizia giudiziaria anche sul contenuto delle dichiarazioni, ad essa rese, che non possono essere confermate dal dichiarante per morte, infermità o irreperibilità, a nulla rilevando che, successivamente ad esse il dichiarante sia divenuto coimputato.
+                                          
+                      –
+                      
+                                                          Salvo che all'esclusivo fine di contestazione della nuova testimonianza, la lettura dei verbali di polizia giudiziaria in dibattimento non è consentita neanche dopo la sentenza 31 gennaio 1992, n. 24 della Corte costituzionale che ha dichiarato l'illegittimità costituzionale dell'art. 195, comma quarto, c.p.p. in tema di testimonianza indiretta degli ufficiali e agenti di P.G.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3753 del 27 marzo 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2799/1992
+                                      A seguito della dichiarazione di illegittimità costituzionale dell'art. 195 comma quarto c.p.p., intervenuta nelle more del giudizio di cassazione con sentenza 31 gennaio 1992, n. 24 della Corte costituzionale, va annullata con rinvio la decisione del giudice di merito che abbia riconosciuto la responsabilità dell'imputato sulla base di testimonianza resa da ufficiale di polizia giudiziaria in ordine al contenuto delle dichiarazioni acquisite da testimoni diretti del fatto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2799 del 16 marzo 1992)
+                  
+
+- 
+
+Ratio: La disposizione in esame trova la propria ratio nel principio che vieta le testimonianze di provenienza anonima.
+Spiegazione: 
+La testimonianza appartiene ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+La norma in commento disciplina la testimonianza indiretta, utilizzabile solo a determinate condizioni.
+
+Nello specifico, da un lato viene sancita l’inutilizzabilità della deposizione di chi non possa o non voglia indicare la persona o la fonte da cui abbia appreso la notizia oggetto di esame testimoniale (in applicazione del principio che vieta le testimonianze di provenienza anonima), dall’altro lato si prevede che, qualora il testimone riferisca fatti o circostanze riferite da persone diverse, queste ultime possono sia essere chiamate d’ufficio a deporre, sia che debbano essere comunque chiamate a richiesta di parte, pena l’inutilizzabilità delle dichiarazioni.
+
+Nel caso in cui non si proceda nella maniera appena esposta, è prevista l’inutilizzabilità, salva l’ipotesi in cui l’esame del testimone de relato sia impossibile per morte, incapacità o irreperibilità.
+
+Una specifica disciplina è prevista per la testimonianza degli agenti e degli ufficiali di polizia giudiziaria, i quali non possono deporre sul contenuto di dichiarazioni rese da testimoni, ma limitatamente alle dichiarazioni acquisite con le modalità di cui agli artt. 351 e 357 comma 2, lett. a e b. Negli altri casi possono invece essere chiamati a deporre.
+
+L’ordinaria disciplina dei primi tre commi si applicherà dunque sia in relazione a qualsiasi dichiarazione proveniente da soggetti terzi ed appresa al di fuori di un rapporto dialettico formale (ad es. interrogatorio), sia con riferimento a dichiarazioni rese da tali soggetti, se correttamente documentate secondo modalità diverse da quelle richiamate dal comma 4.
+
+Nel caso invece in cui gli organi di polizia abbiano eluso le norme relative ai loro doveri di verbalizzazione, il divieto deve ritenersi operante, dato che è proprio questa l’ipotesi in cui maggiormente si riscontra la ratio del principio.
+
+Da ultimo, il comma 6 prevede che i testimoni non possono essere sentiti su fatti comunque appresi dalle persone destinatarie del segreto professionale e del segreto d’ufficio, dato che altrimenti si eluderebbe quanto disposto dagli articolo 200 e 201, a meno che tali persone abbiano già deposto sui fatti oggetto di segreto o li abbiano comunque divulgati.
+

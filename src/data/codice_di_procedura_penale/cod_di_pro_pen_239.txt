@@ -1,0 +1,35 @@
+
+==================================================
+
+===== Article 239 =====
+[Primary - Text]
+Art. 239
+Accertamento della provenienza dei documenti
+
+1.  Se occorre verificarne la provenienza, il documento è sottoposto per il riconoscimento alle parti private o ai testimoni.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 239
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 239
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 39259/2010
+                                      Non è da ritenersi anonimo il documento, pur privo di sottoscrizione, di cui l'autorità inquirente sia in grado di identificare l'autore, sulla base di logiche e pertinenti considerazioni. (Nella specie, si trattava di lettere senza firma, inviate da un coimputato all'altro per concordare la tesi difensiva della legittima difesa). (Dichiara inammissibile, Ass.App. Palermo, 11/12/2009).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 39259 del 13 ottobre 2010)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente e garantire una netta distinzione netta tra acquisizione ed utilizzazione.
+Spiegazione: 
+La norma in esame stabilisce semplicemente che, qualora occorra verificare la provenienza di un documento, quest’ultimo deve essere sottoposto per riconoscimento alle parti private o ai testimoni, a seconda delle ipotesi. La verifica della provenienza del documento è da considerarsi quale condizione indispensabile al fine di una sua corretta utilizzazione probatoria, dato che esso potrebbe essere stato ad esempio contraffatto o altrimenti falsificato. Appare chiaro come il fatto di accertare la provenienza del documento sia importante tanto quanto il contenuto dello stesso.
+

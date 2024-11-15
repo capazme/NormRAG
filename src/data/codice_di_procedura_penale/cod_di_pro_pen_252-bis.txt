@@ -1,0 +1,43 @@
+
+==================================================
+
+===== Article 252-bis =====
+[Primary - Text]
+Art. 252-bis
+(( (Opposizione al decreto di perquisizione emesso dal pubblico ministero). ))
+
+((
+
+1.  Salvo che alla perquisizione sia seguito il sequestro, contro il decreto di perquisizione emesso dal pubblico ministero la persona nei cui confronti vengono svolte le indagini e la persona nei cui confronti la perquisizione è stata disposta o eseguita possono proporre opposizione, sulla quale il giudice provvede a norma dell'articolo 127.
+
+2.  L'opposizione è proposta, a pena di decadenza, entro dieci giorni dalla data di esecuzione del provvedimento o dalla diversa data in cui l'interessato ha avuto conoscenza dell'avvenuta perquisizione.
+
+3.  Il giudice accoglie l'opposizione quando accerta che la perquisizione è stata disposta fuori dei casi previsti dalla legge.
+
+))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo II - Perquisizioni>Articolo 252 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 252-bis
+
+[Secondary - Brocardi Information]
+Ratio: 
+	Sulla scorta di una serie di pronunce della Corte Europea dei Diritti dell’Uomo (da ultima, la sentenza 27 settembre 2018, Brazzi c Italia), è emersa la necessità di prevedere un rimedio per colmare l’assenza, nel sistema italiano, di un controllo giurisdizionale sul decreto di perquisizione, disposto durante l’indagine, non seguito da sequestro. La norma in esame introduce questo rimedio per assicurare, anche nel caso di perquisizione negativa, una tutela al diritto alla riparazione delle violazioni dei diritti convenzionalmente e costituzionalmente garantiti.
+Spiegazione: 
+
+	L’art. 252-bis c.p.p. (inserito dalla riforma Cartabia, d.lgs. n. 150 del 2022) introduce uno specifico rimedio, avente carattere impugnatorio, che permette all’indagato e ai soggetti interessati di richiedere un controllo sul presupposto che fonda l’attività di perquisizione. In sintesi, la norma prevede il diritto dell’indagato e degli interessati di proporre, innanzi al giudice per le indagini preliminari, opposizione contro il decreto di perquisizione al quale non segua un provvedimento di sequestro (è il caso della cd. perquisizione negativa).
+
+	Il comma 1 prevede che l’indagato e la persona, nei cui confronti la perquisizione è stata disposta o eseguita, possono proporre opposizione contro il decreto di perquisizione emesso dal pubblico ministero.
+
+	Però, questo rimedio non può essere esperito quando alla perquisizione sia seguito il sequestro. Invece, qualora sia stato disposto il sequestro dopo la perquisizione, l’interessato potrà esperire il riesame di cui all’art. 324 del c.p.p..
+
+	Il comma 2 stabilisce che l’opposizione può essere proposta, a pena di decadenza, entro dieci giorni dalla data di esecuzione del provvedimento o dalla diversa data in cui l’interessato ha avuto conoscenza dell’avvenuta perquisizione.
+
+	Ai sensi dei commi 1 e 3, il giudice per le indagini preliminari provvede sull’opposizione a norma dell’art. 127 del c.p.p. (ossia, in camera di consiglio) e accoglie l’opposizione quando accerta che la perquisizione è stata disposta fuori dei casi previsti dalla legge.
+
+	Però la norma non specifica in modo espresso i motivi per cui l’opposizione può essere presentata. Tuttavia, dato che il comma 3 prevede che il giudice debba accogliere l’opposizione solo quando accerti che la perquisizione sia stata disposta fuori dei casi previsti dalla legge, è possibile limitare i motivi dell’opposizione ai vizi relativi ai presupposti sostanziali prescritti dalla legge per la perquisizione. D’altronde, l’attività di perquisizione può dirsi arbitraria soltanto in mancanza di tali presupposti.
+
+	Peraltro, una previsione simile è stata introdotta nell'art. 352 del c.p.p. in relazione alla perquisizione eseguita di iniziativa dalla polizia giudiziaria. Difatti, il nuovo comma 4-bis prevede che, entro dieci giorni dalla data di conoscenza del decreto di convalida, l'indagato e i soggetti interessati possono proporre opposizione al decreto di convalida emesso dal pubblico ministero. 
+

@@ -1,0 +1,82 @@
+
+==================================================
+
+===== Article 254 =====
+[Primary - Text]
+Art. 254
+Sequestro di corrispondenza
+
+((
+
+1.  Presso coloro che forniscono servizi postali, telegrafici, telematici o di telecomunicazioni è consentito procedere al sequestro di lettere, pieghi, pacchi, valori, telegrammi e altri oggetti di corrispondenza, anche se inoltrati per via telematica, che l'autorità giudiziaria abbia fondato motivo di ritenere spediti dall'imputato o a lui diretti, anche sotto nome diverso o per mezzo di persona diversa, o che comunque possono avere relazione con il reato.
+
+))
+
+2.  Quando al sequestro procede un ufficiale di polizia giudiziaria, questi deve consegnare all'autorità giudiziaria gli oggetti di corrispondenza sequestrati, senza aprirli  (( o alterarli ))  e senza prendere altrimenti conoscenza del loro contenuto.
+
+3.  Le carte e gli altri documenti sequestrati che non rientrano fra la corrispondenza sequestrabile sono immediatamente restituiti all'avente diritto e non possono comunque essere utilizzati.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 254
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 254
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 24919/2014
+                                      Non è applicabile la disciplina dettata dall'art. 254 cod. proc. pen., bensì quella ordinaria in materia di sequestro, con riferimento a lettere o pieghi non ancora avviati dal mittente al destinatario o già ricevuti da quest'ultimo, poiché tali oggetti non costituiscono "corrispondenza", implicando tale nozione un'attività di spedizione in corso o comunque avviata dal mittente mediante la consegna del plico a terzi per il recapito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 24919 del 12 giugno 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 28997/2012
+                                      La sottoposizione a controllo e la utilizzazione probatoria della corrispondenza epistolare non è soggetta alla disciplina delle intercettazioni di conversazioni o comunicazioni, dovendosi invece seguire le forme del sequestro di corrispondenza di cui agli artt. 254 e 353 c.p.p. e, nel caso di corrispondenza di detenuti, anche le particolari formalità stabilite dall'art. 18 ter ord. pen.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 28997 del 18 luglio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20228/2006
+                                      Il provvedimento, con cui il pubblico ministero ordina al direttore della Casa circondariale di esibire alla polizia giudiziaria tutta la corrispondenza relativa ad un detenuto e di consentirle l'estrazione di copia, dà luogo, in assenza di un precedente ordine di sottoposizione a visto di controllo disposto con le modalità e le garanzie della legge di ordinamento penitenziario, ad una forma atipica di intercettazione del contenuto della corrispondenza epistolare, con conseguente inutilizzabilità probatoria della corrispondenza per mancanza dell'autorizzazione del giudice
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 20228 del 13 giugno 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 205/1993
+                                      Nel caso in cui in sede di riesame di un provvedimento di sequestro probatorio di una notevole mole di documenti l'interessato formuli espressa censura in ordine alla esuberanza del sequestro effettuato rispetto a quanto necessario ai fini di prova, il tribunale ha l'onere di individuare e motivare in ordine al nesso diretto o pertinenziale delle singole cose sequestrate con i delitti ipotizzati a carico dell'indagato nonchè con le conseguenziali finalità probatorie, liberando dal vincolo ciò che risulti staggito al di fuori dei limiti segnati da quelle finalità. (La Cassazione ha altresì affermato che l'art. 254 comma terzo, c.p.p., che in tema di corrispondenza dispone la immediata restituzione e non la utilizzabilità delle carte e dei documenti sequestrati che non rientrano tra la corrispondenza sequestrabile, esprime un principio generale che va al di là dell'oggetto di quel sequestro probatorio perchè manifesta l'attuazione del criterio di necessitato collegamento diretto o pertinenziale fra res ed illecito).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 205 del 23 febbraio 1993)
+                  
+
+- 
+
+Ratio: Il legislatore ha tratteggiato in tal senso la disciplina del sequestro penale al fine di distinguerne in maniera non equivoca la finalità probatoria, distinta dalle altre forme di imposizione di un vincolo di indisponibilità sulla cosa.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. 316-320), ora a finalità preventive (artt. 321-323).
+
+Per quanto concerne questa particolare tipologia di sequestro, il legislatore precisa la sequestrabilità presso gli uffici postali di lettere, pieghi, pacchi e di ogni altro oggetto presumibilmente spedito dall’imputato o a lui diretto (fatta eccezione per la corrispondenza tra imputato e difensore) o che comunque possa avere un collegamento con il reato.
+
+Dato che, come precisato dal comma 4 dell’articolo 253, al sequestro procede l’autorità giudiziaria o anche un ufficiale di polizia giudiziaria, ma solo se munito di apposita delega fornita dall’A.G., qualora al sequestro proceda un ufficiale, quest’ultimo deve consegnare la corrispondenza sequestrata all’autorità giudiziaria senza alterarle, aprirle o venire comunque a conoscenza del contenuto.
+
+Per contro, la corrispondenza che non rientra nella nozione di cosa sequestrabile ai sensi del primo comma deve essere restituita all’avente diritto e non può in nessun caso essere altrimenti utilizzata.
+

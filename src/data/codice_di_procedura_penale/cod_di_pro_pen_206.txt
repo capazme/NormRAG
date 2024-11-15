@@ -1,0 +1,31 @@
+
+==================================================
+
+===== Article 206 =====
+[Primary - Text]
+Art. 206
+Assunzione della testimonianza di agenti diplomatici
+
+1.  Se deve essere esaminato un agente diplomatico o l'incaricato di una missione diplomatica all'estero durante la sua permanenza fuori dal territorio dello Stato, la richiesta per l'esame è trasmessa, per mezzo del ministero di grazia e giustizia, all'autorità consolare del luogo. Si procede tuttavia nelle forme ordinarie nei casi previsti dall'articolo 205 comma 3.
+
+2.  Per ricevere le deposizioni di agenti diplomatici della Santa Sede accreditati presso lo Stato italiano ovvero di agenti diplomatici di uno stato estero accreditati presso lo Stato italiano o la Santa Sede si osservano le convenzioni e le consuetudini internazionali.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 206
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 206
+
+[Secondary - Brocardi Information]
+Ratio: Il legislatore ha qui predisposto una disciplina peculiare per il caso in cui l'ufficio di testimone venga assunto da agenti diplomatici, scelta legislativa giustificata dal ruolo assunto da tali soggetti all'interno dell'ordinamento.
+Spiegazione: 
+La testimonianza appartiene ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+La norma in esame disciplina la particolare ipotesi in cui la testimonianza debba essere resa da agenti diplomatici o da incaricati di una missione diplomatica all'estero.
+
+In tali ipotesi, se i soggetti di cui sopra si trovano al di fuori del territorio statale, il giudice deve trasmettere la relativa richiesta di rogatoria presso il consolato estero di riferimento, il tutto tramite il ministero della giustizia.
+
+Nel caso sia necessario eseguire un atto di ricognizione o confronto la testimonianza viene assunta nei luoghi e nelle forme ordinarie, in quanto alla continuità dell'esercizio delle funzioni diplomatiche vengono preferite le esigenze dell'accertamento penale.
+
+Tuttavia, se il giudice ritiene indispensabile la comparizione personale, si procede mediante ordinaria convocazione nelle ipotesi in cui si debba procedere a ricognizione o confronto o per altre necessità.
+

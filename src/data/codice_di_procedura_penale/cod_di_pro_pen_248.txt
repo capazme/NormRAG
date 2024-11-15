@@ -1,0 +1,87 @@
+
+==================================================
+
+===== Article 248 =====
+[Primary - Text]
+Art. 248
+Richiesta di consegna
+
+1.  Se attraverso la perquisizione si ricerca una cosa determinata, l'autorità giudiziaria può invitare a consegnarla. Se la cosa è presentata, non si procede alla perquisizione, salvo che si ritenga utile procedervi per la completezza delle indagini.
+
+2.  Per rintracciare le cose da sottoporre a sequestro o per accertare altre circostanze utili ai fini delle indagini, l'autorità giudiziaria o gli ufficiali di polizia giudiziaria da questa delegati possono esaminare  (( presso banche atti, documenti e corrispondenza nonché dati, informazioni e programmi informatici. ))  In caso di rifiuto, l'autorità giudiziaria procede a perquisizione.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo II - Perquisizioni>Articolo 248
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 248
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 20854/2005
+                                      Il cosiddetto «blocco» di cassette di sicurezza ad opera della banca, su invito del giudice o del P.M., benché non espressamente disciplinato dal legislatore, non deve ritenersi un atipico provvedimento di sequestro, qualora abbia solo finalità conoscitive e non ablative e sia finalizzato ad una verifica del contenuto in collaborazione della banca e del cliente, possessori delle chiavi. (Nella specie la Corte ha escluso che nella richiesta del P.M. fossero rinvenibili le caratteristiche proprie del cosidetto «blocco» delle cassette di sicurezza e ha qualificato il provvedimento quale vera e propria perquisizione seguita da un sequestro, in quanto vi era una esplicita finalità ablativa e, inoltre, mancava un ordine di esibizione, né vi era stata alcuna forma di collaborazione dell'interessato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 20854 del  3 giugno 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35087/2003
+                                      Non è impugnabile con richiesta di riesame l'ordine emesso dal P.M. ai sensi dell'art. 248, secondo comma, c.p.p. di esibizione presso banche di documentazione, con estrazione di copia e restituzione degli originali, in quanto l'acquisizione di documenti in copia non costituisce un'ipotesi di sequestro, essendo priva dell'effetto ablativo proprio di quest'ultimo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 35087 del  4 settembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13484/1999
+                                      Sia l'invito ad esibire previsto dall'art. 335 c.p.p. del 1930 per evitare la perquisizione personale, sia la richiesta di consegna prevista dall'art. 248 c.p.p. 1988 allo stesso scopo di evitare la perquisizione personale o locale, proprio nella misura in cui possono provocare un «sequestro consensuale» ed evitare un sequestro coattivo, devono esser preventivamente autorizzati, se rivolti contro un parlamentare. Nonostante la denominazione di richieste di esibizione e consegna o qualsiasi altra denominazione possibile, come quella usata in passato di «sequestro consensuale», si tratta, almeno ai fini della inviolabilità parlamentare di cui all'art. 68, comma 2 e 3, Cost., di perquisizioni domiciliari e sequestri che devono esser preventivamente autorizzati dalla Camera di appartenenza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 13484 del 24 novembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2911/1996
+                                      Il cosiddetto «blocco» di cassette di sicurezza ad opera della banca, su invito del giudice, benché non espressamente disciplinato dal legislatore, non deve ritenersi un atipico provvedimento di sequestro, quando abbia finalità solo conoscitive e non ablative e sia finalizzato ad una verifica del contenuto in collaborazione della banca e del cliente, possessori delle chiavi. (Nella specie la S.C. ha osservato che questa era la portata e la finalità del provvedimento del P.M. ex art. 248 c.p.p. e, comunque, di fatto nessun sequestro fu operato, così rigettando il ricorso con il quale l'imputato aveva dedotto violazione di legge ed erronea motivazione, in quanto il provvedimento del P.M. non si era limitato alla richiesta di documentazione bancaria, ma aveva disposto il blocco delle cassette di sicurezza, comportando sul piano sostanziale un vero e proprio sequestro).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2911 del  1 ottobre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3090/1995
+                                      Il decreto con il quale il pubblico ministero richiede ad una banca la consegna di documentazione relativa a libretti di portatore ed a rapporti bancari connessi nonché la disposta estrazione di copie autentiche da detta documentazione con restituzione degli originali, non possono considerarsi provvedimenti abnormi. Tale attività invero trova il suo presupposto normativo negli artt. 248, comma 2, 255, 258 c.p.p.; avverso la stessa d'altro canto la parte potrà far valere le proprie ragioni difensive nella fase di acquisizione dei documenti al processo rappresentando quei vizi comportanti eventuali nullità o inutilizzabilità delle prove.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3090 del 15 settembre 1995)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle perquisizioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+Per quanto concerne la perquisizione, il legislatore ha mostrato un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.). Per tali motivi la norma in commento si occupa di evitare, ove opportuno, un’invasione della sfera privata della persona sottoposta a perquisizione.
+
+Difatti, se il destinatario di una perquisizione locale o personale consegna spontaneamente la cosa determinata oggetto di ricerca da parte dell’autorità giudiziaria, non si procede più a perquisizione, salvo che non si ritenga utile procedervi comunque, per completezza investigativa.
+
+Si ricorda come la perquisizione locae sia atta a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso, mentre la perquisizione personale è destinata a reperire sui soggetti sospettati il corpo del reato o comunque altre cose pertinenti al reato, in modo da poter efficacemente esercitare l'azione penale.
+
+Inoltre, quando si debba procedere a sequestro (v. art. 253) oppure sia necessario accertare altre circostanze utili alle indagini, l’A.G. o gli ufficiali di P.G. delegati possono esaminare presso le banche atti, documenti, corrispondenza, informazioni e programmi informatici. Nel caso in cui la banca si rifiuti, si procede a perquisizione, tramite la consegna dell’apposito decreto motivato (in questo caso può procedere solo l’autorità giudiziaria).
+

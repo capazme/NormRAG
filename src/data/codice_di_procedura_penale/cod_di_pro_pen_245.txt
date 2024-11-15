@@ -1,0 +1,68 @@
+
+==================================================
+
+===== Article 245 =====
+[Primary - Text]
+Art. 245
+Ispezione personale
+
+1.  Prima di procedere all'ispezione personale l'interessato è avvertito della facoltà di farsi assistere da persona di fiducia, purché questa sia prontamente reperibile e idonea a norma dell'articolo 120.
+
+2.  L'ispezione è eseguita nel rispetto della dignità e, nei limiti del possibile, del pudore di chi vi è sottoposto.
+
+3.  L'ispezione può essere eseguita anche per mezzo di un medico.   
+In questo caso l'autorità giudiziaria può astenersi dall'assistere alle operazioni.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo I - Ispezioni>Articolo 245
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 245
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 6284/2005
+                                      In materia di ispezione personale, l'accertamento radiografico è una delle legittime modalità di esecuzione a cui può farsi ricorso coattivamente, purchè sia eseguito per mezzo di personale medico specialistico nel rispetto delle corrette metodologie tecniche, non rilevando che il controllo sia esteso così all'interno del corpo umano. (La Corte ha ritenuto legittimo l'accertamento radiografico disposto coattivamente da personale di polizia giudiziaria della Guardia di Finanza, previa autorizzazione del P.M., nel corso dei controlli previsti dall'art. 103 d.P.R. n. 309 del 1990).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 6284 del  2 dicembre 2005)
+                  
+
+- 
+
+- 
+Corte cost. n. 238/1996
+                                      È costituzionalmente illegittimo, per violazione dell'art. 13, secondo comma, Cost., l'art. 224, comma 2, cod. proc. pen., nella parte in cui consente che il giudice, nell'ambito delle operazioni peritali, disponga misure che comunque incidano sulla libertà personale dell'indagato o dell'imputato o di terzi, al di fuori di quelle specificamente previste nei "casi" e nei "modi" dalla legge (nella specie, esecuzione di prelievo ematico coattivo), in quanto - posto che il parametro evocato assoggetta ogni restrizione della libertà personale, tra cui espressamente la detenzione, l'ispezione e la perquisizione personale, alla duplice garanzia della riserva di legge (essendo tali misure coercitive possibili "nei soli casi e modi previsti dalla legge") e della riserva di giurisdizione (richiedendosi l'"atto motivato dell'autorità giudiziaria"), approntando così una tutela della libertà personale che è centrale nel disegno costituzionale - la disposizione censurata presenta assoluta genericità di formulazione e totale carenza di ogni specificazione dei casi e dei modi in presenza dei quali soltanto può ritenersi che sia legittimo procedere alla esecuzione coattiva di accertamenti peritali mediante l'adozione, a discrezione del giudice, di misure restrittive della libertà personale. Invero, con riferimento alla medesima norma, le ragioni relative alla giustizia penale, consistenti nell'esigenza di acquisizione della prova del reato, pur costituendo un valore primario sul quale si fonda ogni ordinamento ispirato al principio di legalità, rappresentano in realtà solo la finalità della misura restrittiva e non anche l'indicazione dei "casi" voluta dalla garanzia costituzionale.
+                                                        
+                    (Corte costituzionale,
+                                        sentenza n. 238 del  9 luglio 1996)
+                  
+
+- 
+
+- 
+Corte cost. n. 54/1986
+                                      L'ordinamento processuale va letto nel contesto dei principi fondamentali posti dalla Costituzione, alla cui luce il giudice penale non può disporre mezzi istruttori lesivi della vita, incolumità, dignità o intimità psichica (art. 2 Cost.) ovvero pericolosi per la salute del periziando (art. 32 Cost.). Entro tali limiti, peraltro, la perizia medico-legale è certamente uno dei "modi" legittimi mediante i quali, in base allo stesso art. 13, comma secondo, Cost., è consentito all'autorità giudiziaria, attuare, previa congrua motivazione, restrizioni della libertà personale, mentre le ragioni relative all'accertamento della verità in sede penale sicuramente rientrano fra i "casi previsti dalla legge". Né il prelievo ematico (di ordinaria amministrazione nella pratica medica e posto in questione nel caso di specie) lede o mette in pericolo alcuno degli anzidetti valori. Tanto meno può venire in causa il comma quarto dell'art. 13 Cost, giacché le violenze cui esso si riferisce sono quelle illecite, e tali non possono considerarsi le minime prestazioni personali imposte, all'imputato o a terzi, da un normale e legittimo mezzo istruttorio. (Infondatezza, in riferimento all'art. 13 Cost., commi secondo e quarto, della questione di legittimità costituzionale degli artt. 146, 314 e 317 cod.proc.pen. - concernenti poteri dispositivi e coercitivi del giudice penale nella scelta e nell'esecuzione dei mezzi di indagine peritale).
+                                                        
+                    (Corte costituzionale,
+                                        sentenza n. 54 del 24 marzo 1986)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle ispezioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+L’ispezione appartiene ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+Le ispezioni, unitamente alle perquisizioni (artt. 247 e ss.) rappresentano due tipici “atti a sorpresa” di cui dispone l’autorità giudiziaria, da cui si evince il preciso intento del legislatore di attribuire tale potere non solo al giudice, ma altresì al pubblico ministero.
+
+Ferma la distinzione tra l’inspicere, destinato ad accertare sulle persone, nei luoghi o nelle cose le tracce e gli altri effetti materiali del reato, tipico delle ispezioni ed il perquirere, diretto a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso (attività tipica delle perquisizioni), il legislatore ha mostrato in entrambi i casi disciplinati un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.).
+
+A tal proposito, la norma in esame prevede che l’ispezionando deve essere avvertito della facoltà di farsi assistere da persona di fiducia, purché prontamente reperibile ed idonea ai sensi dell’art. 120 (ovvero gli incapaci e le persone sottoposto a misure di prevenzione o di sicurezza detentiva).
+
+L’ispezione è eseguita nel rispetto della dignità e del pudore dell’interessato. Ovviamente è la stessa autorità giudiziaria che procede direttamente alle ispezioni, eccettuate le ipotesi in cui è presente un medico, nel qual caso l’autorità giudiziaria è dispensata dal dovere di presenziare.
+

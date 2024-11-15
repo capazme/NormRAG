@@ -1,0 +1,87 @@
+
+==================================================
+
+===== Article 207 =====
+[Primary - Text]
+Art. 207
+Testimoni sospettati di falsità o reticenzaTestimoni renitenti
+
+1.  Se nel corso dell'esame un testimone rende dichiarazioni contraddittorie, incomplete o contrastanti con le prove già acquisite, il presidente o il giudice glielo fa rilevare rinnovandogli, se del caso, l'avvertimento previsto dall'articolo 497 comma 2. Allo stesso avvertimento provvede se un testimone rifiuta di deporre fuori dei casi espressamente previsti dalla legge e, se il testimone persiste nel rifiuto, dispone l'immediata trasmissione degli atti al pubblico ministero perché proceda a norma di legge.
+
+2.  Con la decisione che definisce la fase processuale in cui il testimone ha prestato il suo ufficio, il giudice, se ravvisa indizi del reato previsto dall' articolo 372 del codice penale , ne informa il pubblico ministero trasmettendogli i relativi atti.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 207
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 207
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 23478/2011
+                                      La trasmissione degli atti al pubblico ministero da parte del giudice del dibattimento perchè proceda nei confronti del testimone sospettato di falsità o reticenza e del testimone renitente non costituisce una condizione di procedibilità dell'azione penale per il reato di falsa testimonianza. (Rigetta, App. Salerno, 17/06/2010).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 23478 del 19 aprile 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6914/2011
+                                      In tema di esame testimoniale non integra alcuna nullità, risolvendosi in una mera irregolarità, l'omesso avvertimento del giudice al teste sospettato di falsità o reticenza circa le responsabilità previste dalla legge penale. (Dichiara inammissibile, Giud.pace Mestre, 11 febbraio 2010).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6914 del 25 gennaio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26560/2008
+                                      Ai fini della configurabilità del reato di cui all'art. 372 c.p. non rileva l'omesso avvertimento al teste sospettato di falsità ai sensi dell'art. 207 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 26560 del  2 luglio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14972/2005
+                                      La sospensione del processo è un mezzo eccezionale cui il giudice deve fare ricorso solo quando la legge espressamente lo consenta e cioè quando la decisione dipende dalla risoluzione di una questione pregiudiziale costituzionale ovvero civile o amministrativa, ai sensi dell'art. 3 c.p.p., per cui fuori da tali casi il giudice è tenuto a risolvere ogni altra questione pregiudiziale, seppure con efficacia non vincolante. (Nella specie la Corte ha ritenuto abnorme il provvedimento con cui il giudice, disposta la trasmissione alla procura della Repubblica degli atti relativi alle dichiarazioni rese da alcuni testimoni, aveva contestualmente sospeso il dibattimento in attesa dell'esito del procedimento per falsa testimonianza).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 14972 del 21 aprile 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16661/1990
+                                      In tema di valutazione della testimonianza, il sistema introdotto dal nuovo codice di procedura penale, separa nettamente la valutazione della testimonianza ai fini della decisione del processo in cui è stata resa e la persecuzione penale del testimone che abbia deposto il falso, attribuendo al giudice del primo processo il solo compito di dare al pubblico ministero notizia del reato, quando ne ravvisi gli indizi in sede di valutazione complessiva di tutto il materiale raccolto. Ne consegue che la deposizione del teste falso resta parte integrante nel processo in cui è stata resa ed è prova in questo utilizzabile e valutabile in relazione all'altro materiale probatorio acquisito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 16661 del 19 dicembre 1990)
+                  
+
+- 
+
+Ratio: A differenza dell'impianto codicistico preesistente, il legislatore ha qui previsto di separare nettamente la valutazione della testimonianza, ai fini della decisione del processo in cui è stata resa, dalla persecuzione penale del testimone che abbia deposto il falso, così da evitare il rischio di una coartazione psicologica del testimone.
+Spiegazione: 
+Dato l'obbligo giuridico di rendere testimonianza e di non mentire, la norma in esame disciplina le ipotesi in cui il giudice ravvisi delle falsità o delle reticenze nella testimonianza. Si precisa che si esclude qualsiasi rapporto di pregiudizialità del relativo procedimento di accertamento delle falsità rispetto al procedimento principale e, in ogni caso, del divieto di arresto in udienza per il testimone sancito dall'articolo 476 comma 2.
+
+La testimonianza appartiene ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+Al giudice è imposto l'obbligo di informare il pubblico ministero, trasmettendo i relativi atti, ove ne ricorrano gli estremi, solamente con la decisione conclusiva della fase processuale in cui il testimone ha deposto, salva l'autonomia del pubblico ministero stesso di promuovere l'azione penale in qualsiasi momento, anche prima degli adempimenti del giudice di cui sopra. 
+
+L'avvertimento di cui al primo comma è chiaramente preordinato a non deviare il corso del procedimento ed ad accelerarne il corso. In caso contrario, qualora scattasse subito l'iscrizione della notizia di reato nell'apposito registro, si influenzerebbe negativamente il testimone, a scapito della genuinità relativa all'accertamento dei fatti posto in essere in quel momento.
+

@@ -1,0 +1,87 @@
+
+==================================================
+
+===== Article 232 =====
+[Primary - Text]
+Art. 232
+Liquidazione del compenso al perito
+
+1.  Il compenso al perito è liquidato con decreto del giudice che ha disposto la perizia, secondo le norme delle leggi speciali.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 232
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 232
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 18356/2009
+                                      L'affidamento di un incarico collegiale a periti o consulenti tecnici implica l'esercizio di un potere discrezionale nella liquidazione del compenso soltanto ove a costoro non siano richieste competenze tecniche diversificate, spettando inoltre all'autorità giudiziaria l'obbligo di fornire motivazioni adeguate della nomina plurima e la facoltà di aumentare il compenso in base all'impegno effettivamente richiesto al singolo professionista per l'espletamento dell'incarico. (Annulla con rinvio, Trib. Palmi, 7 Agosto 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 18356 del  1 aprile 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 128/2005
+                                      In tema di compensi spettanti ai periti o ai consulenti dell'Autorità giudiziaria, con riferimento all'ipotesi di perizia o consulenza in materia di bilanci di società, qualora l'incarico affidato consista nell'esame di più, distinti, bilanci, la norma di cui all'art. 4 del d.P.R. n.352 del 1988 - che stabilisce la misura e le modalità di calcolo dell'onorari - va applicata singolarmente per ogni esame compiuto su ciascun bilancio. (Nella fattispecie la Corte ha accolto il ricorso avverso il provvedimento con cui il P.M., pur in presenza di numerosi bilanci di diverse società, aveva liquidato il compenso del consulente per rapporto ai quattro incarichi conferiti e non al numero dei bilanci esaminati). (Annulla con rinvio, Trib. Napoli, 20 Agosto 2003).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 128 del  9 novembre 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21288/2005
+                                      Il ricorso previsto dall'art. 11 della legge 8 luglio 1980, n. 319 avverso il provvedimento di liquidazione dei compensi spettanti al consulente tecnico d'ufficio può essere proposto dal difensore che assiste la parte nel giudizio nel cui ambito la consulenza è stata disposta, senza necessità di una specifica procura: il mandato "ad litem", infatti, attribuisce al difensore la facoltà di proporre tutte le domande che siano comunque ricollegabili all'originario oggetto della causa, ivi compresa quella di verifica della correttezza della liquidazione, la quale è innegabilmente collegata alla domanda per la cui valutazione è stata disposta la consulenza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 21288 del  3 novembre 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7671/2004
+                                      In tema di consulenza tecnica disposta dal pubblico ministero, costituisce giudizio di fatto, non sindacabile dal giudice di legittimità, la valutazione se il compito affidato al consulente richieda competenze tecniche o scientifiche diverse da quelle giuridiche proprie dell'inquirente, o se piuttosto si tratti di una delega di attività investigative o valutative tipiche del pubblico ministero e della polizia giudiziaria, come tale non riconducibile alla nozione di consulenza tecnica. (Nella specie la Corte ha respinto il ricorso contro un provvedimento del tribunale che, valutando l'opposizione di alcuni imputati contro decreti di liquidazione dei compensi adottati dal pubblico ministero, aveva deliberato il parziale annullamento di questi ultimi, sul presupposto che si riferissero ad una attività di conduzione congiunta dell'indagine, come tale non remunerabile. In particolare, essendosi richiesta al consulente la creazione di una banca informatica dei dati d'indagine raccolti a proposito di contratti assicurativi e la individuazione di elementi di anomalia per una parte tra essi, il tribunale aveva ritenuto che tale seconda porzione dell'attività non costituisse l'oggetto di una consulenza tecnica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 7671 del 14 gennaio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5263/1997
+                                      In forza del principio di tassatività dei mezzi di impugnazione, contro l'ordinanza emessa dal tribunale a seguito del procedimento di impugnazione del decreto di liquidazione del compenso al perito, promosso ai sensi dell'art. 11, comma quinto, della legge n. 319 del 1980, non è esperibile ricorso per cassazione, ma solo incidente di esecuzione a norma degli artt. 665 ss. c.p.p. (Fattispecie relativa a liquidazione di compenso a perito per il quale la Corte di cassazione, in precedente procedimento, aveva ritenuto sussistente il motivo di ricusazione, dichiarando inefficaci gli atti da lui compiuti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5263 del 13 novembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4845/1997
+                                      Non è ricorribile per cassazione, in sede penale, il provvedimento con il quale il tribunale, in sede civile, ai sensi del combinato disposto dell'art. 11, commi quarto e quinto, della legge 8 luglio 1980 n. 319 e dell'art. 29 della legge 13 giugno 1942 n. 794, abbia deciso sul ricorso proposto avverso il decreto di liquidazione di compensi al perito, consulente tecnico, interprete o traduttore.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4845 del 10 settembre 1997)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare un pronto ed efficiente utilizzo di tale fondamentale mezzo di prova.

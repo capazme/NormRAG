@@ -1,0 +1,183 @@
+
+==================================================
+
+===== Article 228 =====
+[Primary - Text]
+Art. 228
+Attività del perito
+
+1.  Il perito procede alle operazioni necessarie per rispondere ai quesiti. A tal fine può essere autorizzato dal giudice a prendere visione degli atti, dei documenti e delle cose prodotti dalle parti dei quali la legge prevede l'acquisizione al fascicolo per il dibattimento.
+
+2.  Il perito può essere inoltre autorizzato ad assistere all'esame delle parti e all'assunzione di prove nonché a servirsi di ausiliari di sua fiducia per lo svolgimento di attività materiali non implicanti apprezzamenti e valutazioni.
+
+3.  Qualora, ai fini dello svolgimento dell'incarico, il perito richieda notizie all'imputato, alla persona offesa o ad altre persone, gli elementi in tal modo acquisiti possono essere utilizzati solo ai fini dell'accertamento peritale.
+
+4.  Quando le operazioni peritali si svolgono senza la presenza del giudice e sorgono questioni relative ai poteri del perito e ai limiti dell'incarico, la decisione è rimessa al giudice, senza che ciò importi sospensione delle operazioni stesse.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 228
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 228
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 21185/2016
+                                      Le informazioni fornite dall'imputato al perito sono inutilizzabili per fini diversi da quelli dell'accertamento peritale e tale inutilizzabilità, avendo natura patologica, opera anche con riferimento al giudizio abbreviato. (In motivazione la Corte ha precisato che nel caso, invece, di dichiarazioni della persona offesa o di altri testimoni al perito, l'inutilizzabilità ha natura fisiologica, per cui in questo secondo caso le informazioni possono essere legittimamente utilizzate nel rito abbreviato, ai fini di prova della responsabilità dell'imputato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 21185 del 23 maggio 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 43723/2013
+                                      Le dichiarazioni rese dal minore vittima di reati sessuali al consulente tecnico del P.M., officiato di un accertamento personologico, esauriscono la loro funzione nella definizione delle risposte ai quesiti circa la credibilità del minore e la sussistenza degli indici di patito abuso sessuale, ma non possono essere utilizzate, neppure nel giudizio abbreviato - stante il divieto espresso di cui all'art. 228 comma terzo cod. proc. pen. - come fonte di prova per la ricostruzione del fatto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 43723 del 24 ottobre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15157/2011
+                                      Non determina nullità o inutilizzabilità l'inosservanza dei criteri dettati dalla cosiddetta "Carta di Noto" nella conduzione dell'esame dei minori persone offese di reati di natura sessuale, e non è neanche, di per sé, ragione di inattendibilità delle dichiarazioni raccolte, pur quando l'esame sia condotto dal consulente o dal perito in sede di consulenza o perizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 15157 del 14 aprile 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2101/2009
+                                      L'inutilizzabilità delle notizie che il perito o il consulente riceva, in sede di espletamento di incarico, dall'imputato, dalla persona offesa o da altre persone, non ha natura patologica bensì fisiologica, sicché il contenuto della consulenza tecnica disposta dal P.M. può essere legittimamente utilizzato nel rito abbreviato, ai fini di prova della responsabilità dell'imputato, anche con riguardo a dette notizie. (Fattispecie di avvenuta utilizzazione di consulenza psicopedagogica disposta in procedimento per reato di violenza sessuale su minore contenente la descrizione, da parte della persona offesa, degli abusi subiti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2101 del 20 gennaio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 809/2009
+                                      In tema d'attività peritali, gli atti di cui il perito può prendere visione su autorizzazione del giudice sono non soltanto quelli già inseriti nel fascicolo per il dibattimento, ma anche quelli "dei quali la legge prevede l'acquisizione" al fascicolo medesimo, ossia gli atti suscettibili di farvi legittimamente ingresso nel corso del giudizio anche in un momento successivo al conferimento dell'incarico.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 809 del 13 gennaio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2001/2008
+                                      Gli elementi istruttori acquisiti dal consulente tecnico nominato dal pubblico ministero a norma dell'art. 360 c.p.p. sono utilizzabili unicamente per rispondere ai quesiti e non come prova, in quanto la disciplina prevista per l'attività istruttoria del perito dall'art. 228, comma terzo, c.p.p. si estende analogicamente alla medesima attività istruttoria del consulente tecnico per identità di ratio legis.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2001 del 15 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12647/2006
+                                      È da escludere che, ai fini della formulazione del giudizio di responsabilità nei confronti di soggetto imputato di reati sessuali in danno di minori, possano valere come testimonianze le dichiarazioni rese da detti minori al perito incaricato di vagliare il loro grado di maturità e di attendibilità e riportare, per quanto ritenuto di rilievo, nell'elaborato redatto dal medesimo perito, ostandovi il disposto di cui all'art. 228, comma 3, c.p.p. (oltre che, nel caso di specie, la loro mancata registrazione e verbalizzazione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 12647 del  1 febbraio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 31523/2004
+                                      Non comporta nullità della perizia, fermi restando eventuali profili di responsabilità formale del perito, il fatto che quest'ultimo, senza l'autorizzazione del giudice prevista dall'art. 228, comma secondo, c.p.p., si sia avvalso dell'opera di un ausiliario, quando questi si sia limitato alla mera effettuazione di calcoli matematici, non implicanti apprezzamenti e valutazioni (principio affermato, nella specie, con riguardo a calcoli matematici utilizzati per una perizia balistica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 31523 del 19 luglio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2050/2004
+                                      L'art. 228 comma terzo c.p.p., che consente al perito, ai fini dello svolgimento dell'incarico, di richiedere notizie all'imputato, alla persona offesa nonchè ad altri soggetti, è applicabile anche nel procedimento per la riparazione dell'errore giudiziario disciplinato dall'art. 646 c.p.p. (Fattispecie in cui il perito, dovendo accertare il valore dell'azienda ceduta dall'imputato, a causa della carcerazione ingiustamente sofferta, aveva assunto informazioni presso imprenditori del settore).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 2050 del 22 gennaio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35187/2002
+                                      Gli atti dei quali il perito può prendere cognizione non sono soltanto quelli già inseriti nel fascicolo per il dibattimento, ma anche quelli dei quali la legge prevede l'acquisizione a tale fascicolo e cioè anche quegli atti di cui non è esclusa, in astratto, la possibilità di inserimento in esso durante tutto il corso del giudizio, anche in un momento successivo al conferimento dell'incarico peritale, di ufficio, a richiesta di parte o a seguito di contestazioni. (Fattispecie concernente l'esecuzione di una perizia psichiatrica disposta nelle forme dell'incidente probatorio, in riferimento alla quale la Corte, premessa l'operatività delle regole stabilite per l'assunzione delle prove in dibattimento, stante il rinvio di cui all'art. 401, comma 5, c.p.p., ha ritenuto che legittimamente il perito avesse preso cognizione delle dichiarazioni rese dalle parti nel corso delle indagini preliminari, nonché del contenuto delle intercettazioni ambientali, in quanto si trattava di atti suscettibili di essere inseriti nel fascicolo per il dibattimento).
+                                          
+                      –
+                      
+                                                          Il perito, ai sensi dell'art. 228, comma 2, c.p.p., può avvalersi di «ausiliari di sua fiducia per lo svolgimento di attività materiali non implicanti apprezzamenti e valutazioni», senza che i detti ausiliari siano tenuti a prestare giuramento ma alla sola condizione che i dati da essi raccolti siano poi, dal perito stesso - assumendone egli l'esclusiva responsabilità - autonomamente elaborati e valutati (principio affermato, nella specie, trattandosi di perizia psichiatrica,con riguardo ai test fatti effettuare, previa loro scelta da parte del perito, ad uno psicologico di fiducia di quest'ultimo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 35187 del 21 ottobre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 513/1993
+                                      In considerazione della loro natura e funzione, alle analisi dei campioni prelevati dagli scarichi di insediamenti non è applicabile la disciplina processuale della perizia. In particolare (salvo l'avviso al titolare dello scarico per presenziare con l'assistenza di un consulente tecnico all'inizio delle operazioni) non è prescritta, a pena di nullità, la redazione di un verbale delle operazioni di analisi, secondo le modalità di documentazione stabilite per gli atti processuali dall'art. 134 ss., nuovo codice di procedura penale. Di conseguenza è sufficiente la certificazione, quale atto finale delle analisi, per attestarne sotto il profilo tecnico e giuridico la efficacia probatoria nel processo penale, senza che possano avere rilievo eventuali eccezioni ex post sulle metodiche utilizzate (compresa quella Trsa-Cnr, avente valore meramente orientativo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 513 del 22 gennaio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 512/1993
+                                      In tema di tutela delle acque dall'inquinamento, secondo quanto stabilito dalle sentenze nn. 248/1983 e 15/1986 della Corte costituzionale, il diritto di difesa con riferimento alle analisi dei campioni è limitato al preavviso della data dell'inizio delle operazioni e del luogo, onde consentire l'eventuale presenza di un consulente privato. Poiché l'accertamento non ha natura di perizia processuale, non è prevista la presenza del difensore e neppure la redazione di un verbale, secondo le modalità stabilite dal nuovo codice di procedura penale negli artt. 134, 135, 136, 137 ss., applicabili esclusivamente alla documentazione degli atti assunti nel corso del procedimento penale. Le modalità tecniche delle analisi sono lasciate alla discrezionalità dell'amministrazione, la quale è tenuta a certificare soltanto il prelievo, l'apertura dei campioni e l'esito delle operazioni. Il certificato di analisi può, pertanto, essere legittimamente inserito nel fascicolo del dibattimento ed essere utilizzato quale mezzo di prova.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 512 del 22 gennaio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7499/1991
+                                      In materia di inquinamento delle acque, l'utilizzo di un laboratorio specializzato per le analisi da parte del perito nominato dal giudice non comporta nullità della perizia, ove il perito sia stato autorizzato dal giudice, siano state osservate le garanzie di difesa ed il perito abbia fatto proprie le risultanze delle analisi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 7499 del 12 luglio 1991)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare un pronto ed efficiente utilizzo di tale fondamentale mezzo di prova.
+Spiegazione: 
+Si ha già avuto modo di vedere (art. 227 come elemento fondamentale della perizia sia la relazione finale, la quale prevede che il perito risponda immediatamente ai quesiti propostigli, comunque in forma orale, mediante parere raccolto nel verbale, salvo il potere del giudice di ordinare che la relazione stessa si svolga in forma scritta, se ritenuta indispensabile ad illustrare meglio il parere espresso dal perito.
+
+Orbene, per giungere ad una dettagliata relazione finale è necessario che il perito possa compiere determinate operazioni. La norma in esame prevede pertanto che il perito possa essere autorizzato dal giudice ad assistere all’esame delle parti ed all’assunzione di altre prove, mentre potrà prendere visione degli atti e delle cose prodotte solamente se acquisibili al fascicolo dibattimentale.
+
+Il legislatore consente inoltre che il perito possa raccogliere notizie dall’imputato, dall’offeso e da altre persone. Tali notizie potranno essere tuttavia utilizzate solo ai fini dell’accertamento peritale
+
+Da ultimo, nelle ipotesi in cui le operazioni peritali si svolgano senza la presenza del giudice e sorgano questioni relative ai poteri del perito ed ai limiti dell’incarico, la decisione deve essere rimessa al giudice, senza alcuna sospensione delle operazioni.
+

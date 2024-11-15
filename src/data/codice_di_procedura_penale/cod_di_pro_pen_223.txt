@@ -1,0 +1,95 @@
+
+==================================================
+
+===== Article 223 =====
+[Primary - Text]
+Art. 223
+Astensione e ricusazione del perito
+
+1.  Quando esiste un motivo di astensione, il perito ha l'obbligo di dichiararlo.
+
+2.  Il perito può essere ricusato dalle parti nei casi previsti dall'articolo 36 a eccezione di quello previsto dal comma 1 lettera h) del medesimo articolo.
+
+3.  La dichiarazione di astensione o di ricusazione può essere presentata fino a che non siano esaurite le formalità di conferimento dell'incarico e, quando si tratti di motivi sopravvenuti ovvero conosciuti successivamente, prima che il perito abbia dato il proprio parere.
+
+4.  Sulla dichiarazione di astensione o di ricusazione decide, con ordinanza, il giudice che ha disposto la perizia.
+
+5.  Si osservano, in quanto applicabili, le norme sulla ricusazione del giudice.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 223
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 223
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 7318/2010
+                                      La decisione sulla dichiarazione di ricusazione del perito richiede l'instaurazione della procedura camerale partecipata, prevista dall'art. 127 cod. proc. pen.. (Annulla con rinvio, Gip Trib. Pistoia, 13 maggio 2009).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 7318 del 19 gennaio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13007/2008
+                                      La decisione sulla dichiarazione di ricusazione del perito non richiede l'instaurazione della procedura camerale partecipata, prevista dall'art. 127 cod. proc. pen. solo per quella da assumere a seguito di ricusazione del giudice. (Dichiara inammissibile, Gip Trib. Verona, 24 giugno 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 13007 del 11 dicembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7287/2008
+                                      L'ordinanza con cui il giudice decide sulla richiesta di ricusazione del perito non è appellabile, ai sensi dell'art. 586 cod. proc. pen., ma esclusivamente ricorribile per cassazione. (In motivazione la Corte ha precisato che la possibilità di impugnare le ordinanze dibattimentali unitamente alla sentenza che definisce il grado di giudizio è condizionata alla mancata disciplina di un autonomo strumento di impugnazione delle medesime, che per le ordinanze in materia di ricusazione è invece espressamente previsto dalla legge processuale). (Rigetta, App. Firenze, 10 dicembre 2007).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 7287 del 18 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35239/2007
+                                      L'incompatibilità del perito - cui non si estende la disciplina prevista per il giudice, posto che il perito non concorre nella formazione del provvedimento giurisdizionale - se costituisce titolo per la ricusazione non determina tuttavia la nullità degli atti compiuti. (Dichiara inammissibile, Ass.App. Messina, 26 Settembre 2006).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 35239 del 13 luglio 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6714/2005
+                                      Ai fini della tempestività della ricusazione del perito, la relativa dichiarazione deve intervenire prima del parere espresso con il deposito della relazione peritale e non con l'esame del perito previsto dall'art. 511, comma terzo, c.p.p., in quanto occorre evitare che la dichiarazione di ricusazione possa essere influenzata dal parere espresso dal perito stesso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 6714 del 22 febbraio 2005)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare la più idonea competenza tecnica e scientifica dei periti, nonchè l'efficienza di tale fondamentale mezzo di prova.
+Spiegazione: 
+La norma in esame disciplina le ipotesi in cui il perito è tenuto a segnalare la sussistenza di un motivo di astensione.
+
+Da un lato vi sono casi in cui il perito non presenta quelle qualità morali e professionali richieste dalla natura dell’incarico, mentre dall’altro lato vi sono casi in cui il perito stesso risulta in una posizione di conflitto d’interesse con l’oggetto del procedimento, o comunque non può avere un giudizio imparziale circa l’oggetto della perizia disposta dal giudice.
+
+L’articolo richiama in sostanza l’elenco di cui all’articolo 36, eliminando solo espressamente quello di cui alla lettera h, ovvero l’obbligo di astensione per gravi ragioni di convenienza.
+
+Nei medesimi casi il perito può essere ricusato dalle parti, ma in ogni caso le relative dichiarazioni devono essere presentate fino a che non siano esaurite le formalità di conferimento dell’incarico o, se i motivi di astensione o ricusazione emergono successivamente, sino a che il perito abbia reso il suo parere.
+
+Ai sensi del comma 3, sulla dichiarazione di cui sopra decide il medesimo giudice che ha disposto la perizia.
+

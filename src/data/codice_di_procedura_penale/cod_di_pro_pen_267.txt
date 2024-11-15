@@ -1,0 +1,1079 @@
+
+==================================================
+
+===== Article 267 =====
+[Primary - Text]
+Art. 267
+Presupposti e forme del provvedimento
+
+1.  Il pubblico ministero richiede al giudice per le indagini preliminari l'autorizzazione a disporre le operazioni previste dall'articolo 266. L'autorizzazione è data con decreto motivato quando vi sono gravi indizi di reato e l'intercettazione è assolutamente indispensabile ai fini della prosecuzione delle indagini. Il decreto che autorizza l'intercettazione tra presenti mediante inserimento di captatore informatico su dispositivo elettronico portatile  ((espone con autonoma valutazione))  le specifiche ragioni che rendono necessaria  ((, in concreto,))  tale modalità per lo svolgimento delle indagini; nonché, se si procede per delitti diversi da quelli di cui all'articolo 51, commi 3-bis e 3-quater, e dai delitti dei pubblici ufficiali o degli incaricati di pubblico servizio contro la pubblica amministrazione per i quali è prevista la pena della reclusione non inferiore nel massimo a cinque anni, determinata a norma dell'articolo 4, i luoghi e il tempo, anche indirettamente determinati, in relazione ai quali è consentita l'attivazione del microfono. (253) (260) (263) (267) (270) (275)
+
+1-bis.  Nella valutazione dei gravi indizi di reato si applica l'articolo 203.
+
+2.  Nei casi di urgenza, quando vi è fondato motivo di ritenere che dal ritardo possa derivare grave pregiudizio alle indagini, il pubblico ministero dispone l'intercettazione con decreto motivato, che va comunicato immediatamente e comunque non oltre le ventiquattro ore al giudice indicato nel comma 1. Il giudice, entro quarantotto ore dal provvedimento, decide sulla convalida con decreto motivato.   
+Se il decreto del pubblico ministero non viene convalidato nel termine stabilito, l'intercettazione non può essere proseguita e i risultati di essa non possono essere utilizzati.
+
+2-bis.  Nei casi di cui al comma 2, il pubblico ministero può disporre, con decreto motivato, l'intercettazione tra presenti mediante inserimento di captatore informatico su dispositivo elettronico portatile soltanto nei procedimenti per i delitti di cui all'articolo 51, commi 3-bis e 3-quater e per i delitti dei pubblici ufficiali o degli incaricati di pubblico servizio contro la pubblica amministrazione per i quali è prevista la pena della reclusione non inferiore nel massimo a cinque anni, determinata a norma dell'articolo 4. A tal fine indica, oltre a quanto previsto dal comma 1, secondo periodo, le ragioni di urgenza che rendono impossibile attendere il provvedimento del giudice. Il decreto è trasmesso al giudice che decide sulla convalida nei termini, con le modalità e gli effetti indicati al comma 2. (253) (260) (263) (267)(270) (275)
+
+3.  Il decreto del pubblico ministero che dispone l'intercettazione indica le modalità e la durata delle operazioni. Tale durata non può superare i quindici giorni, ma può essere prorogata dal giudice con decreto motivato per periodi successivi di quindici giorni, qualora permangano i presupposti indicati nel comma 1.
+
+4.  Il pubblico ministero procede alle operazioni personalmente ovvero avvalendosi di un ufficiale di polizia giudiziaria. PERIODO SOPPRESSO DAL  D.L. 30 DICEMBRE 2019, N. 161 , CONVERTITO CON MODIFICAZIONI DALLA  L. 28 FEBBRAIO 2020, N. 7 . (253) (260) (263) (267) (270) (275)
+
+5.  In apposito registro riservato gestito, anche con modalità informatiche, e tenuto sotto la direzione e la sorveglianza del Procuratore della Repubblica, sono annotati, secondo un ordine cronologico, i decreti che dispongono, autorizzano, convalidano o prorogano le intercettazioni e, per ciascuna intercettazione, l'inizio e il termine delle operazioni. (270) (275)
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 267
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 267
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 31849/2020
+                                      In tema di intercettazioni mediante utilizzo di "captatore informatico", la previsione dell'art. 267, comma 1, cod. proc. pen., come modificato dall'art. 4 del d.lgs. 29 dicembre 2017, n. 216 - che impone di indicare nel decreto di autorizzazione le "ragioni che rendono necessaria tale modalità per lo svolgimento delle indagini" - si applica, a norma dell'art. 9, d.lgs. cit., come modificato, da ultimo, dal d.l. 30 aprile 2020, n. 28, convertito dalla legge 25 giugno 2020, n. 70, ai soli procedimenti iscritti dal 1 settembre 2020, con la conseguenza che i procedimenti in materia di criminalità organizzata iscritti anteriormente a tale data, per il principio "tempus regit actum", sono soggetti alla disciplina previgente che, secondo l'interpretazione fornita dalla sentenza delle Sezioni Unite, n. 26889 del 2016, non prevede uno specifico onere motivazionale. (Rigetta, TRIB. LIBERTA' LECCE, 20/03/2020).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 31849 del 28 settembre 2020)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2568/2020
+                                      I gravi "indizi di reato", presupposto per il ricorso alle intercettazioni di conversazioni o di comunicazioni (nel caso di specie a mezzo di virus informatico), attengono all'esistenza dell'illecito penale e non alla colpevolezza di un determinato soggetto, sicché per procedere legittimamente ad intercettazione non è necessario che tali indizi siano a carico di persona individuata o del soggetto le cui comunicazioni debbano essere captate a fine di indagine. (Rigetta, TRIB. LIBERTA' REGGIO CALABRIA, 31/03/2020).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2568 del 18 settembre 2020)
+                  
+
+- 
+
+- 
+Cass. pen. n. 48543/2018
+                                      La mancanza di motivazione dei decreti che autorizzano o prorogano le operazioni di intercettazioni telefoniche o tra presenti e di quelli che convalidano i decreti emessi in caso d'urgenza dal pubblico ministero, così come la motivazione meramente apparente, comporta l'inutilizzabilità dei risultati delle operazioni captative. (Nella fattispecie la Corte ha ritenuto apparente la motivazione dei decreti di convalida e di proroga contenuta in moduli prestampati – compilati a penna solo quanto al numero del procedimento e dei decreti, al nome del giudice, alla data del decreto da convalidare e della richiesta di proroga, al numero dell'utenza interessata e al nome del suo utilizzatore – e consistente in una formula di stile, utilizzabile per qualsiasi atto da convalidare o da prorogare, sostanzialmente ripetitiva della formula normativa, in quanto non espressiva dell'"iter" cognitivo e valutativo seguito dal giudice per la delibazione della richiesta).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 48543 del 24 ottobre 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 46953/2017
+                                      In tema di autorizzazione di intercettazioni ambientali, la valutazione dei gravi indizi di reato può fondarsi su relazioni di servizio redatte da un ausiliario di polizia giudiziaria aventi ad oggetto il contenuto di conversazioni a cui egli abbia partecipato, e quindi fatti da lui immediatamente percepiti, non ravvisandosi, in tal caso, la violazione del divieto di testimonianza "de relato".
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 46953 del 12 ottobre 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1407/2017
+                                      In tema di intercettazioni telefoniche, la motivazione dei decreti autorizzativi deve necessariamente dar conto delle ragioni che impongono l'intercettazione di una determinata utenza telefonica, facente capo ad una specifica persona, indicando il collegamento tra l'indagine in corso e la medesima persona, affinchè possa essere verificata, alla luce del complessivo contenuto informativo e argomentativo del provvedimento, la sua adeguateza rispetto alla funzione di garanzia prescritta dall'art. 15, comma secondo, Cost.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1407 del 12 gennaio 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42763/2015
+                                      In tema di presupposti per l'autorizzazione a disporre intercettazioni telefoniche, i gravi indizi richiesti dall'art. 267, comma primo cod.proc.pen., non attengono alla colpevolezza di un determinato soggetto ma alla esistenza di un reato; ne consegue che per sottoporre l'utenza di una persona ad intercettazione non è necessario che gli stessi riguardino anche la riferibilità a questa del reato. (Fattispecie in cui la Corte ha ritenuto utilizzabili intercettazioni telefoniche disposte nei confronti di indagato nei confronti del quale, al momento del provvedimento autorizzativo, non risultavano elementi indiziari ma solo dichiarazioni provenienti da fonte confidenziale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 42763 del 23 ottobre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14954/2015
+                                      In tema di intercettazione di conversazioni o comunicazioni, il presupposto della sussistenza dei gravi indizi di reato, non va inteso in senso probatorio (ossia come valutazione del fondamento dell'accusa), ma come vaglio di particolare serietà delle ipotesi delittuose configurate, che non devono risultare meramente ipotetiche.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 14954 del 13 aprile 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 39766/2014
+                                      In tema di autorizzazione all'effettuazione di intercettazioni telefoniche, le informazioni confidenziali acquisite dagli organi di polizia giudiziaria determinano l'inutilizzabilità delle intercettazioni, ai sensi del combinato disposto di cui agli artt. 267, comma 1-bis e 203, comma 1-bis, cod. proc. pen., soltanto quando esse abbiano costituito l'unico elemento oggetto di valutazione ai fini degli indizi di reità; il divieto di utilizzo della fonte confidenziale, tuttavia, non è esteso anche ai dati utili per individuare i soggetti da intercettare, sempre che risulti l'elemento obiettivo dell'esistenza del reato e sia indicato il collegamento tra l'indagine in corso e la persona da sottoporre a captazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 39766 del 25 settembre 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12458/2014
+                                      In tema di intercettazioni di conversazioni o comunicazioni, è legittima l'autorizzazione conferita dal Gip a fronte della sola richiesta di convalida del decreto, emesso in via d'urgenza, dal Pubblico Ministero, allorquando tale istanza, riferendosi ad una situazione non destinata ad esaurirsi nel ristretto contesto temporale oggetto del decreto d'urgenza, contiene implicitamente anche la richiesta di procedere alle captazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 12458 del 17 marzo 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8076/2014
+                                      I gravi "indizi di reato", presupposto per il ricorso alle intercettazioni di conversazioni o di comunicazioni, attengono all'esistenza dell'illecito penale e non alla colpevolezza di un determinato soggetto, sicché per procedere legittimamente ad intercettazione non è necessario che tali indizi siano a carico di persona individuata o del soggetto le cui comunicazioni debbano essere captate a fine di indagine.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 8076 del 20 febbraio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8739/2013
+                                      In tema di intercettazioni telefoniche, in assenza di autorizzazione della Camera di appartenenza, non può escludersi l'utilizzabilità nei confronti del terzo delle conversazioni captate sull'utenza nella sua disponibilità cui abbia preso parte casualmente un parlamentare, anche dopo che quest'ultimo sia stato identificato come interlocutore del soggetto intercettato, salvo che si accerti che le stesse erano finalizzate ad intercettare indirettamente il parlamentare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 8739 del 22 febbraio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1258/2013
+                                      Il ricorso alle fonti confidenziali acquisite dagli organi di polizia giudiziaria determina l'inutilizzabilità delle intercettazioni telefoniche qualora esse rappresentino l'unico elemento oggetto di valutazione ai fini degli indizi di reità, mentre il loro utilizzo è legittimo per avviare l'attività investigativa o per estenderne l'ambito alla ricerca di ulteriori elementi. (Fattispecie nella quale è stata confermata la gravità del quadro indiziario, relativo alla detenzione di sostanze stupefacenti, basato su investigazioni che avevano tratto lo spunto da informazioni confidenziali e corroborate dai risultati delle operazioni di polizia giudiziaria susseguenti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1258 del 10 gennaio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16289/2012
+                                      L'attività di intercettazione eseguita attraverso un programma emulatore - denominato "Daemon" - che crea periferiche virtuali, consentendo di accantonare i dati registrati in memoria e di differirne l'ascolto, al fine di prevenire il rilevamento del segnale audio da parte dei soggetti controllati e la sua neutralizzazione con apposita strumentazione di bonifica delle captazioni, non viola alcuna delle disposizioni esecutive delle operazioni di intercettazione, prescritte a pena di inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 16289 del  3 maggio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10399/2010
+                                      Sono inutilizzabili gli esiti di intercettazioni qualora le conversazioni risultino registrate mediante impianti diversi da quelli in dotazione dell'ufficio di Procura senza esser state precedute da un provvedimento autorizzativo che contenga un apprezzamento del Pubblico Ministero circa l'esistenza attuale ed effettiva delle condizioni di oggettiva insufficienza o inidoneità degli impianti della stessa Procura (Nel caso di specie è stata dichiarata l'inutilizzabilità di decreti del P.M. che avevano autorizzato l'uso degli impianti esterni con espressioni quali: "qualora gli impianti in dotazione agli uffici della Procura risultassero inidonei e/o insufficienti"; "nel caso di indisponibilità od impossibilità presso la sala ascolto della Procura"; "nell'eventualità che presso la sala di ascolto di questa Procura non vi fossero disponibilità di postazioni e/o idonee apparecchiature"; "nel caso di indisponibilità di linee ed apparecchiature").
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 10399 del 16 marzo 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1217/2009
+                                      L'omessa attestazione nel provvedimento dell'orario di deposito del decreto di intercettazione emesso d'urgenza dal pubblico ministero, nonchè la mancanza di analoga attestazione nel provvedimento di convalida del G.i.p., non impediscono l'utilizzazione dei risultati delle operazioni di intercettazione, non trattandosi di adempimenti prescritti dalla legge a pena d'inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1217 del 14 gennaio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 46056/2008
+                                      In tema di intercettazioni di conversazioni o comunicazioni, è legittima la motivazione "per relationem" dei decreti autorizzativi quando in essi il giudice faccia richiamo alle richieste del P.M. ed alle relazioni di servizio della polizia giudiziaria, ponendo così in evidenza, per il fatto d'averle prese in esame e fatte proprie, l'"iter" cognitivo e valutativo seguito per giustificare l'adozione del particolare mezzo di ricerca della prova. (Principio affermato, nella specie, relativamente ad intercettazioni disposte nell'ambito d'indagini sulla criminalità organizzata, per cui era richiesta la sola presenza di "sufficienti indizi di reato", ai sensi dell'art. 13 del D.L. n. 152 del 1991, conv. con modif. in L. n. 203 del 1991).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 46056 del 12 dicembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 45700/2008
+                                      In tema di intercettazioni di comunicazioni e conversazioni telefoniche, nella nozione di urgenza, come requisito di legittimità del decreto emesso dal P.M., rientrano, di norma, anche le "eccezionali ragioni di urgenza" richieste dalla legge per l'utilizzazione di impianti diversi da quelli in dotazione alla procura della Repubblica, con la conseguenza che la motivazione sul primo requisito dà al contempo conto anche della sussistenza del secondo, e che la convalida del decreto d'intercettazione preclude ogni questione circa i requisiti per il ricorso agli impianti esterni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 45700 del 10 dicembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37699/2008
+                                      In tema di intercettazioni di comunicazioni e conversazioni telefoniche, nella nozione di urgenza, quale requisito di legittimità del decreto del P.M., rientrano, di norma, anche le "eccezionali ragioni di urgenza" richieste per l'utilizzazione di impianti diversi da quelli in dotazione alla procura della Repubblica, sicchè la motivazione sul primo requisito dà conto anche della sussistenza del secondo, e la convalida del decreto d'intercettazione preclude ogni questione circa i requisiti per il ricorso agli impianti esterni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 37699 del  3 ottobre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35043/2007
+                                      In tema di inutilizzabilità dei risultati di intercettazioni telefoniche disposte in altri procedimenti ed acquisite al procedimento in corso è onere della parte produrre al giudice gli elementi dai quali si desume l'eccepita inutilizzabilità. (Nella specie la Corte ha ritenuto fosse onere del ricorrente, che lamentava la mancata acquisizione del decreto di autorizzazione delle intercettazioni provenienti da altro procedimento, esibirlo ai fini della verifica circa la dedotta illegittimità dell'atto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 35043 del 18 settembre 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26500/2007
+                                      In tema di intercettazioni di conversazioni o comunicazioni, la tardività del provvedimento giudiziale di convalida del decreto, con cui il pubblico ministero dispone nei casi di urgenza l'intercettazione, rende inutilizzabili soltanto i risultati delle operazioni già compiute e non anche i risultati delle operazioni intercettative successive.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 26500 del  9 luglio 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 33810/2007
+                                      La distruzione delle documentazione delle intercettazioni, i cui risultati non possono essere utilizzati a norma dell'art. 271, commi primo e secondo, c.p.p., non può essere disposta in esecuzione di una dichiarazione di inutilizzabilità intervenuta nel procedimento incidentale de libertate perché presuppone una statuizione di inutilizzabilità processualmente insuscettibile di modifiche, che faccia escludere la possibilità di utilizzazione futura nell'ambito del processo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 33810 del 26 aprile 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42178/2006
+                                      Presupposti della intercettazione sono la sua indispensabilità ai fini delle indagini e la sussistenza dei gravi indizi di reato. Tale secondo requisito va inteso non in senso probatorio (ossia come valutazione del fondamento dell'accusa), ma come vaglio di particolare serietà delle ipotesi delittuose configurate, che non devono risultare meramente ipotetiche, richiedendosi una ricognizione sommaria degli elementi dai quali sia dato desumere la probabilità dell'avvenuta consumazione di un reato e non un'esposizione analitica, né tanto meno l'evidenziazione di un esame critico degli stessi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 42178 del 21 dicembre 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 31221/2006
+                                      Il decreto di intercettazione di conversazioni o comunicazioni, emesso in via di urgenza dal pubblico ministero, non è affetto da nullità, e meno ancora può dirsi inesistente, se manca della sottoscrizione dell'ausiliario attestante il deposito presso la segreteria, sempre che risulti da altri elementi del pari fidefacenti, e quindi anche dalle formalità di ricezione presso l'ente gestore dei servizi di telefonia, il momento in cui esso ha assunto rilevanza esterna.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 31221 del 21 settembre 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1848/2006
+                                      I gravi «indizi di reato» (e non di reità) che, ai sensi dell'articolo 267 c.p.p., costituiscono presupposto per il ricorso alle intercettazioni di conversazioni o di comunicazioni, attengono all'esistenza dell'illecito penale e non alla colpevolezza di un determinato soggetto, sicchè per procedere legittimamente ad intercettazione non è necessario che tali indizi siano a carico di persona individuata o del soggetto le cui comunicazioni debbano essere captate a fine di indagine.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1848 del 18 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. civ. n. 32469/2005
+                                      I «casi di urgenza» che abilitano il pubblico ministero ad emettere il decreto di intercettazione di conversazione o comunicazioni a norma dell'art. 267, comma 2, c.p.p. comprendono, di norma, le «eccezionali ragioni di urgenza» che legittimano, ai sensi dell'art. 268, comma 3, c.p.p., l'esecuzione delle operazioni mediante impianti in dotazione della polizia giudiziaria, qualora siano insufficienti o inidonei quelli installati presso la procura della Repubblica. Ne consegue che, in primo luogo, la motivazione circa la sussistenza dell'urgenza ex art. 267, comma 2, vale anche ai fini di cui all'art. 268, comma 3, c.p.p., ove le ragioni addotte a sostegno della ritenuta necessità di attivare immediatamente le operazioni di intercettazione appaiono incompatibili sia con la normale procedura di richiesta dell'autorizzazione, come previsto in via ordinaria dall'art. 267, comma 1, c.p.p., sia con l'attesa del realizzarsi di una condizione di sufficienza o idoneità degli impianti installati presso la procura della Repubblica; in secondo luogo, ove il decreto emesso dal pubblico ministero sia convalidato dal giudice, non può più farsi questione circa la sussistenza o meno dei requisiti dell'urgenza tanto ai fini di cui all'art. 267, comma 2, quanto a quelli di cui all'art. 268, comma 3, c.p.p. (Mass. redaz.).
+                                                        
+                    (Cassazione civile,
+                                          Sez. VI,
+                                        sentenza n. 32469 del 25 agosto 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 31391/2005
+                                      In tema di inutilizzabilità, il fatto che questa sia rilevabile anche d'ufficio in ogni stato e grado del procedimento non significa che, qualora essa venga denunciata in sede di legittimità, la Corte di cassazione possa rilevarla senza che sia stato specificamente indicato l'atto che ne sarebbe affetto e che il medesimo sia contenuto nel fascicolo trasmesso alla detta Corte (ovvero ne sia possibile l'acquisizione). (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 31391 del 19 agosto 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21999/2005
+                                      Il vizio della motivazione del provvedimento del pubblico ministero che dispone l'esecuzione delle operazioni di intercettazioni telefoniche ed ambientali mediante apparati diversi da quelli esistenti presso l'ufficio della procura della Repubblica, non rientra fra quelli assoluti ed insanabili, ma tra quelli a regime intermedio, sicché non può essere dedotto per la prima volta in sede di legittimità ove esso non sia stato denunciato nei motivi di appello. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 21999 del 10 giugno 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10881/2005
+                                      In tema di presupposti sulla cui base può essere adottato il provvedimento autorizzatorio delle intercettazioni, benché l'articolo 267, comma 1, del c.p.p. individui, tra questi, quello dei «gravi indizi di reato» (o dei «sufficienti indizi», allorché si verta in ipotesi di reati di criminalità organizzata: articolo 13 del decreto legge 13 maggio 1991 n. 152, convertito dalla legge 12 luglio 1991 n. 203), è escluso che a quel presupposto possa essere attribuito un connotato di tipo «probatorio» in chiave di prognosi, seppure indiziaria, di colpevolezza, posto che ciò che è dirimente è l'esistenza (in chiave altamente probabilistica o, nel caso dei reati di criminalità organizzata, nel più ristretto ambito della sufficienza indiziaria) di un «fatto storico» integrante una determinata ipotesi di reato, il cui accertamento imponga l'adozione del mezzo di ricerca della prova, da circoscrivere di particolari garanzie in ragione della peculiare invasività del mezzo rispetto all'area dei valori presidiati dall'articolo della Costituzione. Da ciò deriva che il legislatore, mirando a prevenire qualsiasi uso non necessario di uno strumento tanto insidioso per la sfera della libertà e segretezza delle comunicazioni, espressamente prescrive soltanto un controllo penetrante circa l'esistenza delle esigenze investigative e la finalizzazione delle intercettazioni al relativo soddisfacimento; senza, quindi, alcun riferimento alla delibazione, nel merito, di una ipotesi accusatoria, che può ancora non avere trovato una sua consistenza. In una tale prospettiva, la motivazione del decreto non deve esprimere una valutazione sulla fondatezza dell'accusa, ma solo un vaglio di effettiva serietà del progetto investigativo, conseguendone che la principale funzione di garanzia della motivazione del decreto risiede nell'individuazione della specifica vicenda criminosa cui l'autorizzazione si riferisce, in modo da prevenire il rischio di autorizzazione in bianco.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 10881 del 18 marzo 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2563/2005
+                                      I «casi di urgenza» che, ai sensi dell'art. 267, comma 2, c.p.p., abilitano il pubblico ministero a disporre l'effettuazione di operazioni di intercettazione di comunicazione, comprendono, di norma, anche le «eccezionali ragioni di urgenza» che, secondo quanto previsto dall'art. 268, comma 3, c.p.p., legittimano l'utilizzazione di impianti diversi da quelli installati presso la procura della Repubblica, di tal che la motivazione circa il requisito dell'urgenza previsto dalla prima delle citate disposizioni normative assorbe quella richiesta dalla seconda. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2563 del 27 gennaio 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 45189/2004
+                                      Ai fini dell'utilizzabilità degli esiti di intercettazioni di conversazioni o comunicazioni in procedimento diverso da quello nel quale esse furono disposte, non occorre la produzione del relativo decreto autorizzativo, essendo sufficiente il deposito, presso l'Autorità giudiziaria competente per il «diverso» procedimento, dei verbali e delle registrazioni delle intercettazioni medesime.
+                                          
+                      –
+                      
+                                                          Allorché i risultati di intercettazioni di conversazioni o comunicazioni autorizzate con provvedimento motivato per relationem siano acquisiti in procedimento diverso da quello in cui furono disposte, la parte che ne eccepisce l'inutilizzabilità, per essere la relativa motivazione solo apparente, ha l'onere di produrre sia il decreto di autorizzazione sia il documento al quale esso rinvia, in modo da porre il giudice del procedimento ad quem in grado di verificare l'effettiva inesistenza, nel procedimento a quo, del controllo giurisdizionale prescritto dall'art. 15 Cost. (Nell'occasione la Corte ha ribadito la distinzione tra motivazione assente o apparente, alla quale consegue l'inutilizzabilità dei risultati delle intercettazioni, e il vizio di inadeguata o insufficiente motivazione, che non rileva ai fini della loro utilizzabilità).
+                                          
+                      –
+                      
+                                                          L'inutilizzabilità dei risultati di intercettazioni di conversazioni o comunicazioni per violazione degli artt. 267 e 268, commi primo e terzo, c.p.p., è rilevata dal giudice del procedimento diverso da quello nel quale furono autorizzate solo quando essa risulti dagli atti di tale procedimento, non essendo tenuto il giudice a ricercarne d'ufficio la prova. Grava, infatti, sulla parte interessata a farla valere l'onere di allegare e provare il fatto dal quale dipende l'eccepita inutilizzabilità, sulla base di copia degli atti rilevanti del procedimento originario che la parte stessa ha diritto di ottenere, a tal fine, in applicazione dell'art. 116 stesso codice. (In motivazione la Corte ha osservato che anche nel giudizio a quo poiché l'inutilizzabilità discende dalla violazione delle norme richiamate dall'art. 271, comma primo, c.p.p., e non dalla mera indisponibilità degli atti concernenti l'intercettazione e la sua legittimità, incombe alla parte l'onere di dedurne la sussistenza).
+                                          
+                      –
+                      
+                                                          Nel caso di acquisizione degli esiti dell'intercettazione di conversazioni o comunicazioni in procedimento diverso da quello nel quale siano state rilasciate le relative autorizzazioni, il controllo del giudice sulla legalità dell'ammissione e dell'esecuzione delle operazioni - di carattere meramente incidentale e, come tale, ininfluente nel procedimento a quo - riguarda esclusivamente la serietà e la specificità delle esigenze investigative, come individuate dal P.M. in relazione alla fattispecie criminosa ipotizzata, e non comporta alcuna valutazione di fondatezza, neanche sul piano indiziario, della ipotesi in questione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 45189 del 23 novembre 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1625/2003
+                                      In materia di intercettazioni telefoniche e ambientali disposte nell'ambito di procedimenti riguardanti delitti di criminalità organizzata, la motivazione del decreto autorizzativo del Gip in ordine al presupposto dei «sufficienti indizi di reato», previsto dall'art. 13 della L. 12 luglio 1991 n. 203 — che ha innovato sul punto l'originaria disciplina contenuta nell'art. 267 c.p.p. — deve contenere la sintetica illustrazione degli elementi essenziali di indagine, sì da consentire alle parti e al giudice del riesame di stabilire la ritualità del provvedimento adottato, e può legittimamente recepire, previo adeguato vaglio critico, le risultanze delle informative redatte dalla polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1625 del 15 gennaio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 40790/2002
+                                      Il decreto con cui il pubblico ministero dispone l'intercettazione di comunicazioni tra presenti non deve contenere l'indicazione dei soggetti che interverranno nella fase esecutiva dell'attività intercettativa, in quanto la legge non impone tale specificazione, ma richiede solo l'indicazione delle modalità e della durata delle operazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 40790 del  4 dicembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32667/2002
+                                      È legittima la motivazione per relationem dei provvedimenti adottati dal giudice in materia di intercettazione di comunicazioni quando l'atto al quale si fa riferimento sia a sua volta congruamente motivato, nonché conosciuto o conoscibile dall'interessato, e la motivazione del giudice sia, inoltre, tale da dimostrare che egli abbia preso cognizione delle ragioni esposte nell'atto anzidetto e le abbia meditate e ritenute coerenti alla propria decisione.
+                                          
+                      –
+                      
+                                                          In tema di intercettazione di comunicazione, mentre dà luogo ad inutilizzabilità dei relativi risultati la mancanza, nei provvedimenti autorizzatori, della prescritta motivazione (da intendersi non solo come mancanza fisico-testuale, ma anche come mera apparenza, riscontrabile quando la motivazione sia semplicemente ripetitiva della formula normativa e del tutto incongrua rispetto al provvedimento di cui deve fornire giustificazione), non comporta invece inutilizzabilità la presenza di una motivazione che sia soltanto difettosa, nel senso della incompletezza, insufficienza o non perfetta adeguatezza, ben potendo, in tal caso, il difetto essere emendato dal giudice cui la relative doglianza venga prospettata, sia esso il giudice del merito che deve utilizzare i risultati delle intercettazioni, sia quello dell'impugnazione, tanto di merito quanto di legittimità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 32667 del  1 ottobre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 30082/2002
+                                      È utilizzabile, anche senza che vi sia stato provvedimento dell'autorità giudiziaria, il contenuto di colloqui privati registrati su nastro magnetico da uno degli interlocutori, a nulla rilevando né che la registrazione sia stata da lui effettuata su richiesta della polizia giudiziaria, né che egli stesso agisca utilizzando materiale da questa fornito ovvero addirittura appartenga alla polizia giudiziaria, sempre che il partecipante si limiti solo a registrare la conversazione, senza utilizzare apparecchi mediante i quali terzi estranei e, in particolare, la polizia possano captarne il contenuto durante il suo svolgimento e procedere all'ascolto diretto, perché in tal caso sussisterebbe una vera e propria intromissione nella sfera di segretezza e libertà delle comunicazioni costituzionalmente presidiata e si realizzerebbe indirettamente una intercettazione ambientale senza la previa autorizzazione dell'autorità giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 30082 del 27 agosto 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42792/2001
+                                      In tema di intercettazione di comunicazioni o conversazioni, il decreto del Gip di proroga della durata delle operazioni non comporta, di per sé, il venir meno delle condizioni legittimanti il ricorso ad apparati diversi da quelli esistenti presso la procura della Repubblica, e pertanto non è necessaria, neanche nelle ipotesi in cui l'attività di captazione sia effettuata mediante impianti di pubblico servizio o in dotazione alla polizia giudiziaria, l'adozione, da parte del P.M., di un ulteriore provvedimento esecutivo delle operazioni medesime, che si limiterebbe solo a confermare quanto già precedentemente disposto in ordine alle modalità spazio-temporali dell'intercettazione e, in particolare, all'impiego di apparecchiature alternative.
+                                          
+                      –
+                      
+                                                          In tema di intercettazione di comunicazioni tra presenti, è legittima la motivazione per relationem del decreto del pubblico ministero che disponga lo svolgimento delle operazioni di captazione mediante impianti in dotazione della polizia giudiziaria, allorché: 1) il provvedimento a tal fine richiamato (nella specie il decreto autorizzativo del ricorso al mezzo di ricerca della prova emesso dal giudice per le indagini preliminari) contenga idonea giustificazione della sussistenza di eccezionali ragioni di urgenza e dell'insufficienza o inidoneità degli apparati installati presso l'ufficio di procura; 2) abbia natura di atto del medesimo procedimento; 3) sia, se non allegato o trascritto nel provvedimento da motivare, conosciuto dall'interessato ovvero a lui ostensibile quanto meno al momento - giudizio di riesame - in cui si rende attuale l'esercizio della facoltà di valutazione, di critica ed eventualmente di gravame, con conseguente controllo dell'organo dell'impugnazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 42792 del 28 novembre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 34400/2001
+                                      In tema di intercettazioni telefoniche ed ambientali, non è ammissibile l'eccezione di inutilizzabilità dei relativi esiti che si limiti alla mera denuncia del mancato inserimento del decreto di autorizzazione agli atti del dibattimento e della connessa impossibilità di verificarne l'esistenza e la congrua motivazione, atteso che il codice di rito non prevede la necessaria acquisizione al fascicolo di tale decreto, non figurando tale atto nell'elenco di cui all'art. 431 c.p.p., e che la difesa ha la possibilità di verificarne la regolarità nelle precedenti fasi del giudizio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 34400 del 21 settembre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29628/2001
+                                      In tema di intercettazioni di conversazioni telefoniche, il decreto di convalida emesso dal Gip a seguito del provvedimento urgente adottato dal P.M., deve essere trasmesso al tribunale del riesame al fine di consentire, anche al soggetto interessato, il controllo sulla legalità delle intercettazioni effettuate. La mancata trasmissione del detto provvedimento, ancorché la sua esistenza possa essere desunta indirettamente, determina l'inutilizzabilità dei risultati delle intercettazioni, senza che ciò dia anche luogo all'automatica inefficacia della misura cautelare in atto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 29628 del 24 luglio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 28293/2001
+                                      In tema di intercettazioni telefoniche, qualora il Gip provveda tardivamente alla convalida del decreto adottato in via d'urgenza da parte del P.M. ai sensi dell'art. 267, comma 2, c.p.p., la stessa convalida può configurarsi come «autorizzazione» per le successive operazioni di intercettazione, purché abbia i requisiti di forma e di sostanza previsti dal primo comma dell'art. 267 c.p.p., ferma restando l'inutilizzabilità delle intercettazioni eseguite prima che intervenisse la convalida.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 28293 del 12 luglio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26015/2001
+                                      In tema di intercettazioni di conversazioni o comunicazioni, all'eventuale mancata specificazione, nel decreto del P.M. emesso in via di urgenza, della durata delle operazioni a norma dell'art. 267, comma 3, c.p.p., sopperisce l'indicazione legislativa del termine massimo di quindici giorni ivi previsto, sicché non si determina l'inutilizzabilità dei relativi risultati, che l'art. 271 stesso codice ricollega alla violazione dell'art. 267, da ritenere configurabile solo nel caso in cui sia stato superato quel termine massimo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 26015 del 25 giugno 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6015/2001
+                                      Sono utilizzabili i risultati delle intercettazioni disposte con decreto di urgenza del P.M., una volta che ne sia intervenuta la convalida da parte del Gip, poiché questa preclude qualunque discussione sulla sussistenza del requisito dell'urgenza, rimessa, peraltro, alla discrezionale valutazione dell'organo procedente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6015 del 25 giugno 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19675/2001
+                                      In tema di intercettazione telefonica, la modifica del numero telefonico dell'utenza originariamente sottoposta ad intercettazione non rende illegittime ed inutilizzabili le intercettazioni effettuate dopo tale modifica, giacché il decreto di autorizzazione riguarda un numero identificativo della stessa utenza e solo l'intercettazione eseguita su una linea telefonica diversa rispetto a quella autorizzata rende inutilizzabile l'esito delle intercettazioni. (Fattispecie in cui l'utenza telefonica, alla quale era stato modificato il numero, ha continuato ad essere in uso delle stesse persone).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 19675 del 15 maggio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 17832/2001
+                                      È legittimo e non abbisognevole di convalida il provvedimento con il quale il pubblico ministero, perdurando la validità del decreto con il quale il giudice abbia ritualmente autorizzato l'intercettazione di comunicazioni effettuate da taluno mediante un apparecchio telefonico mobile, disponga la prosecuzione delle operazioni su apparecchio contrassegnato da un numero di scheda telefonica diverso da quello originariamente indicato nel summenzionato decreto ma comunque sempre in uso al medesimo oggetto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 17832 del  3 maggio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7671/2001
+                                      Il provvedimento autorizzativo all'effettuazione di intercettazioni ambientali, mediante collocazione di microspie, non necessita di apposita motivazione a sostegno della deroga al disposto di cui all'art. 268, comma 3, c.p.p. (in base al quale, di regola, le operazioni di intercettazione debbono essere eseguite esclusivamente per mezzo degli impianti installati nelle procure della Repubblica), atteso che, normalmente, le comunicazioni tra presenti non possono essere intercettate se non mediante apparecchiature da portare in prossimità del luogo in cui esse si svolgono. (Nella specie la S.C. ha anche messo in rilievo come le conversazioni da intercettare fossero quelle che si presumeva potessero svolgersi all'interno di autoveicoli in movimento).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7671 del 23 febbraio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 17/2000
+                                      La mancanza di motivazione dei decreti che autorizzano o prorogano le operazioni di intercettazioni telefoniche o tra presenti, di quelli che convalidano i decreti emessi in caso d'urgenza dal pubblico ministero, nonché di questi ultimi, comporta l'inutilizzabilità dei risultati delle operazioni captative. Nell'occasione, la S.C. ha avuto modo di precisare che si ha mancanza della motivazione non solo quando l'apparato giustificativo manchi in senso fisico-testuale, ma anche quando la motivazione sia apparente, semplicemente ripetitiva della formula normativa, del tutto incongrua rispetto al provvedimento che dovrebbe giustificare; mentre si ha difetto della motivazione - emendabile dal giudice cui la doglianza venga prospettata, sia esso il giudice del merito che deve utilizzare i risultati delle intercettazioni, sia esso quello dell'impugnazione nella fase di merito o in quella di legittimità - allorché quest'ultima sia incompleta, insufficiente, non perfettamente adeguata, affetta da vizi che non negano, né compromettono la giustificazione, ma la rendono non puntuale.
+                                          
+                      –
+                      
+                                                          La motivazione per relationem di un provvedimento giudiziale è da considerare legittima quando: 1) faccia riferimento, recettizio o di semplice rinvio, a un legittimo atto del procedimento, la cui motivazione risulti congrua rispetto all'esigenza di giustificazione propria del provvedimento di destinazione; 2) fornisca la dimostrazione che il giudice ha preso cognizione del contenuto sostanziale delle ragioni del provvedimento di riferimento e le abbia meditate e ritenute coerenti con la sua decisione; 3) l'atto di riferimento, quando non venga allegato o trascritto nel provvedimento da motivare, sia conosciuto dall'interessato o almeno ostensibile, quanto meno al momento in cui si renda attuale l'esercizio della facoltà di valutazione, di critica ed, eventualmente, di gravame e, conseguentemente, di controllo dell'organo della valutazione o dell'impugnazione. (Fattispecie concernente provvedimenti di autorizzazione all'intercettazione di conversazioni e di proroga delle originarie autorizzazioni, in relazione ai quali la S.C. ha affermato che, ai fini dell'assolvimento dell'obbligo di motivazione, è sufficiente che dalla lettura del provvedimento si possa dedurre l'iter cognitivo e valutativo seguito dal giudice e se ne possano conoscere i risultati, che devono essere conformi alle prescrizioni di legge con la precisazione ulteriore, per i provvedimenti di proroga, che essi possono scontare un minore impegno motivazionale quanto ai presupposti, se accertati come ancora sussistenti, ma devono ugualmente dar conto della ragione di persistenza dell'esigenza captativa).
+                                          
+                      –
+                      
+                                                          Poiché il ricorso a intercettazioni telefoniche nel corso di indagini relative a delitti di criminalità organizzata è consentito in presenza di sufficienti indizi di reato (e non di colpevolezza) e quando le stesse risultino «necessarie» (e non «indispensabili») per il proseguimento delle indagini, in ipotesi di associazione per delinquere finalizzata allo spaccio di sostanze stupefacenti sono da ritenere idonee a integrare il requisito della sufficienza degli indizi di reato le informazioni legittimamente acquisite dagli organi di polizia giudiziaria, riferite al P.M. e da questo poste a fondamento della richiesta di autorizzazione alle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 17 del 21 settembre 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8860/2000
+                                      La normativa in materia di intercettazioni di conversazioni o comunicazioni, nel richiedere come presupposto per il ricorso a questo mezzo di ricerca della prova l'esistenza di «gravi indizi di reato», non postula affatto che questi ultimi siano a carico esclusivo dei soggetti le cui conversazioni o comunicazioni debbono essere, a fine di indagine, intercettate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 8860 del  8 agosto 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 795/2000
+                                      In caso di provvedimento applicativo di misura cautelare personale basato sul risultato di intercettazioni telefoniche o ambientali, avverso il quale sia stata esperita la procedura di riesame conclusasi con la conferma di detto provvedimento, non è deducibile per la prima volta, in sede di ricorso per cassazione proposto avverso la decisione del Tribunale del riesame, l'inutilizzabilità delle suddette intercettazioni, quando si voglia farla derivare da un asserito difetto di motivazione del decreto di autorizzazione, precedentemente mai denunciato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 795 del 29 marzo 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1106/2000
+                                      Il giudice per le indagini preliminari ben può utilizzare e porre a base dell'ordinanza di adozione della misura della custodia cautelare in carcere le intercettazioni telefoniche anche se contenute in «brogliacci» ovvero se riportate in forma riassuntiva, pur se non trascritte, purché siano state rispettate le norme processuali in ordine alle autorizzazioni e alle modalità d'esecuzione delle intercettazioni, essendo la sanzione di inutilizzabilità, prevista dall'art. 271 c.p.p., da considerare riservata alle ipotesi tassativamente indicate, riguardanti l'osservanza delle disposizioni previste degli artt. 267 e 268, primo e terzo comma: tra esse, quindi, non rientra quella della mancata trascrizione nella fase delle indagini preliminari, trascrizione che deve, invece, sussistere nella fase dibattimentale, ai sensi dell'art. 268, settimo comma.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1106 del 27 marzo 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 776/2000
+                                      In tema di motivazione di decreti autorizzativi di attività di intercettazione, non essendo necessaria un'analitica esposizione degli elementi dai quali è dato desumere la probabilità della avvenuta consumazione di un reato, è consentito che detta motivazione (che ben può richiamare atti contenuti nella richiesta del P.M. o che siano comunque nella disponibilità delle parti) si esaurisca nella sommaria esposizione di tali elementi. Peraltro, un eventuale difetto di motivazione, potendo essere sanato dall'integrazione, effettuata secondo le regole generali, dal giudice dell'impugnazione cautelare, non dà luogo a nullità né ad inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 776 del  9 marzo 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 287/2000
+                                      Non si verifica l'inutilizzabilità di intercettazioni telefoniche internazionali per violazione dell'art. 267 c.p.p. in relazione all'art. 271 dello stesso codice se la sottoposizione a intercettazione non riguardi un'utenza straniera, bensì un'utenza sita in territorio italiano dalla quale vengano fatte telefonate all'estero, così da non rendersi necessaria alcuna rogatoria internazionale a norma degli artt. 727 ss. c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 287 del  7 marzo 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3541/1999
+                                      In materia di intercettazione di comunicazioni, nessuna norma dispone, tanto meno a pena di nullità (o di inutilizzabilità), che le operazioni debbano avere inizio nel giorno prefissato dal P.M. Quel che importa è - per intuitive ragioni di necessario contenimento temporale della invasione della sfera privata - che sia rispettato l'arco di tempo, normalmente espresso in giorni, entro il quale le operazioni si debbono svolgere.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3541 del  2 dicembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2780/1999
+                                      In tema di intercettazioni, l'obbligo di motivazione del provvedimento di autorizzazione o proroga non può ritenersi correttamente adempiuto dal giudice attraverso il semplice riferimento alla richiesta del P.M.; tuttavia, in presenza di una richiesta, proveniente dall'organo di accusa, che appaia esaustiva ed ampiamente argomentata, non incorre nel vizio di motivazione il provvedimento del giudice che ne recepisce il contenuto, facendo emergere che esso è stato criticamente valutato ed assimilato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2780 del 13 ottobre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4057/1999
+                                      In tema di decreti autorizzativi di intercettazioni (telefoniche od ambientali) la motivazione può essere la minima necessaria a chiarire le ragioni del provvedimento, in ordine alla indispensabilità del mezzo probatorio richiesto, ai fini della prosecuzione delle indagini, ed alla sussistenza dei gravi indizi di reato. Tuttavia, il giudice non deve limitarsi ad espressioni che costituiscano perifrasi del contenuto delle norme che disciplinano l'assunzione del mezzo probatorio, né deve limitarsi a recepire le richieste degli organi investigativi se non a seguito di autonoma valutazione. Inoltre, nel caso di ripetitività di decreti autorizzativi che abbiano come presupposto la sussistenza di gravi indizi di un reato, il giudice può richiamare per relationem la motivazione di altro proprio precedente decreto, emesso per lo stesso reato e nello stesso procedimento, trattandosi di situazioni concrete già valutate e di argomentazioni già esposte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4057 del  6 ottobre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9428/1999
+                                      I gravi indizi che, ai sensi dell'art. 267, comma 1, c.p.p. costituiscono presupposto per il ricorso alle intercettazioni, attengono all'esistenza del reato e non alla colpevolezza di un determinato soggetto; per procedere ad intercettazione non è pertanto necessario che i detti indizi siano a carico dei soggetti le cui comunicazioni debbano essere, a fine di indagine, intercettate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 9428 del 22 luglio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8645/1999
+                                      I decreti di proroga delle intercettazioni telefoniche non abbisognano di alcuna motivazione in quanto traggono la propria legittimità dal provvedimento originario cui implicitamente rinviano per ogni necessaria indicazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 8645 del  7 luglio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2505/1999
+                                      In tema di decreto di autorizzazione delle intercettazioni telefoniche è legittima la motivazione per relationem, costituita dal richiamo alle considerazioni ed alle argomentazioni svolte dal pubblico ministero nella richiesta con rinvio alle note investigative alla stessa allegate. È però necessario che il decreto sia formulato in modo che possa evincersi che il giudice ha esaminato gli atti, facendo proprie le considerazioni e le argomentazioni sviluppate nella richiesta e nella documentazione allegata, e che, al momento del deposito di cui all'art. 268, comma 4, e 6, c.p.p., tutti i soggetti interessati siano stati posti in grado di prendere effettiva cognizione degli atti richiamati.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2505 del 17 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3323/1999
+                                      La proroga tardiva dell'autorizzazione ad intercettare conversazioni non può valere a legittimare ex post la mancanza di autorizzazione e a consentire l'utilizzazione delle intercettazioni svoltesi medio tempore, ma ha soltanto efficacia per il futuro, alla stregua di nuova autorizzazione. (Fattispecie concernente l'emissione di provvedimento coercitivo basato su indizi ricavati anche dal contenuto di intercettazioni svoltesi in periodo di carenza di autorizzazione; in relazione ad essa, la S.C. ha annullato l'ordinanza impugnata con rinvio al giudice di merito per la valutazione di persistenza, in relazione al residuo materiale di indagine, della gravità indiziaria).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3323 del 15 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5992/1999
+                                      In tema di intercettazioni le eccezionali ragioni d'urgenza, che facultano il pubblico ministero a disporre il compimento delle operazioni con impianti diversi da quelli installati nella procura della Repubblica e risultati insufficienti o inidonei, non sono assimilabili all'urgenza di cui all'art. 267 comma 2 c.p.p. — quando vi è fondato motivo di ritenere che dal ritardo possa derivare grave pregiudizio alle indagini — di guisa che, in mancanza di motivazione, trova applicazione il divieto di utilizzazione dei risultati delle intercettazioni ai sensi dell'art. 271 comma 1 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 5992 del 12 maggio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2507/1999
+                                      Il difetto (ed a maggior ragione l'insufficienza) di motivazione del decreto di autorizzazione all'effettuazione di intercettazioni telefoniche non è deducibile per la prima volta in sede di ricorso per cassazione proposto avverso l'ordinanza del tribunale del riesame confermativa della misura disposta sulla base dell'esito delle suddette intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2507 del 12 maggio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6242/1999
+                                      L'inutilizzabilità dei risultati di intercettazione di comunicazioni o conversazioni per assenza del decreto motivato, rilevabile d'ufficio in ogni fase e grado del procedimento, ha luogo solo nel caso di mancanza di decreto autorizzativo, cui va equiparata la totale assenza della prescritta motivazione, e non già quando questa esista e ne sia in questione soltanto la completezza e l'adeguatezza logica, nel qual caso non si ha inutilizzabilità delle risultanze, ma se mai invalidità dell'atto autorizzativo, che deve essere espressamente dedotta nel procedimento di riesame e non può essere denunciata per prima volta in sede di legittimità, nella quale non è consentito l'esame di una questione di nullità non rilevabile d'ufficio e rimasta estranea alla cognizione del giudice di merito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6242 del 12 aprile 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2321/1999
+                                      In tema di intercettazione di telefonate dirette ad un'utenza all'estero la particolarità tecnica del sistema allo scopo utilizzabile — quello del cosiddetto «istradamento», comportante la necessità dell'intercettazione di tutte le telefonate ad utenze con numeri aventi le prime cifre identiche — fa sì che il provvedimento autorizzativo venga necessariamente ed implicitamente ad investire tutte le utenze (ovviamente non individuate e non individuabili) «strumentalmente» intercettate. Di conseguenza, seppure «strumentali» e finalizzate ad intercettare l'utenza estera «mirata», tali intercettazioni debbono ritenersi formalmente «assistite» e legittimate dall'autorizzazione giudiziale, con la conseguenziale piena utilizzabilità dei relativi risultati.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 2321 del 23 febbraio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 163/1999
+                                      Anche quando si proceda per reati di criminalità organizzata, i decreti con i quali il giudice per le indagini preliminari autorizzi l'effettuazione di intercettazioni di comunicazioni ovvero convalidi i provvedimenti d'urgenza adottati in materia dal pubblico ministero devono contenere adeguate, ancorché succinta motivazione, non potendosi ritenere sufficiente il mero riferimento alle informative di polizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 163 del 11 febbraio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5581/1999
+                                      In caso di provvedimento applicativo di misura cautelare personale basato sul risultato di intercettazioni telefoniche, avverso il quale sia stata esperita procedura di riesame conclusasi con la conferma di detto provvedimento, non è deducibile per la prima volta, in sede di ricorso per cassazione avverso la decisione del tribunale del riesame, l'inutilizzabilità delle suddette intercettazioni quando si pretenda far derivare tale inutilizzabilità da un difetto di motivazione del decreto di autorizzazione precedentemente mai denunciato. (Nella specie il difetto di motivazione sarebbe consistito nel fatto che si sarebbe trattato di motivazione per relationem).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5581 del 15 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3642/1998
+                                      In materia di divieto di utilizzazione delle intercettazioni di conversazioni o comunicazioni, occorre distinguere tra la possibile violazione di norme che rendono di per sè stesse illegittime le intercettazioni, come mezzo di indagine (nella ipotesi che siano state disposte senza autorizzazione ovvero fuori dei casi previsti dalla legge), dalle violazioni delle altre disposizioni di cui all'art. 267 c.p.p. (omessa registrazione delle comunicazioni intercettate, mancata redazione del verbale ovvero nei casi in cui le operazioni stesse non siano state eseguite mediante gli impianti tassativamente previsti). E diverse sono le conseguenze nelle due ipotesi: le violazioni del primo tipo rilevano anche in ordine all'esistenza dei gravi indizi di colpevolezza a sostegno di una misura cautelare, mentre le violazioni del secondo tipo sono sanzionate con la loro inutilizzabilità e rilevano solamente in tema di prova ai fini del giudizio. (Nella fattispecie, non mancava l'autorizzazione ad eseguire le intercettazioni telefoniche, ma non era stato materialmente allegato uno dei decreti autorizzativi, il cui rilascio comunque poteva ricavarsi dai decreti di proroga anteriori e successivi).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 3642 del 29 ottobre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2300/1998
+                                      In tema di intercettazioni telefoniche o ambientali gli elementi indizianti traibili (e tratti) dal verbale delle operazioni portante uno spezzone di conversazione non registrata per difettoso funzionamento delle apparecchiature di memorizzazione, ma annotata dagli agenti di P.G. che l'avevano ascoltata, non possono essere utilizzati né in giudizio né nel procedimento de libertate, compresa l'ordinanza impositiva della cautela e la decisione di riesame sulla stessa, in quanto - come si desume dall'art. 267 comma 1 c.p.p. - solo la materializzazione su un nastro magnetico può costituire la prova di quanto detto tra le parti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 2300 del 19 ottobre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3117/1998
+                                      L'inutilizzabilità dei risultati delle intercettazioni telefoniche, dichiarata nell'ambito di un procedimento de libertate sul presupposto che, non essendo stati trasmessi i relativi decreti autorizzativi, il Gip prima e, successivamente, il tribunale del riesame non avevano potuto esercitare il potere-dovere di verificare la legittimità delle intercettazioni al fine di valutare la sussistenza dei gravi indizi di colpevolezza, opera soltanto in detto procedimento, e non in altri. Ne consegue che è legittima, nell'ambito dello stesso procedimento, ma in diverso e autonomo procedimento de libertate, l'applicazione di misura cautelare personale ad opera di altro giudice, sulla base della piena cognizione dei decreti di autorizzazione, allegati agli atti, delle dette intercettazioni telefoniche, dalle quali emergano gravi indizi di colpevolezza. (Nella specie il ricorrente aveva lamentato che il giudice di merito avesse posto a base del provvedimento cautelare le stesse intercettazioni telefoniche dichiarate inutilizzabili dalle sezioni unite con sentenza 20 novembre 1996, n. 21).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3117 del 28 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3209/1998
+                                      La mancanza di una formale dichiarazione di latitanza non è causa di inutilizzabilità dei risultati delle intercettazioni autorizzate ed eseguite (nella specie per la cattura di una persona sottrattasi volontariamente all'esecuzione di una grave pena). Ed invero, la norma di cui all'art. 271 c.p.p. prevede che i risultati delle intercettazioni non possono essere utilizzati qualora le stesse siano state eseguite fuori dei casi consentiti dalla legge o qualora non siano state osservate le disposizioni degli artt. 267 e 268, commi primo e terzo, stesso codice, e la mancanza di un formale provvedimento dichiarativo della latitanza non si può far rientrare in nessuna delle predette ipotesi, al più potendo integrare un caso di irregolarità privo di conseguenze sulla validità del decreto di autorizzazione delle intercettazioni e sulla possibilità di utilizzazione dei risultati di esse.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3209 del 16 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8759/1998
+                                      La registrazione di una conversazione con persona di ciò ignara, che renda dichiarazioni autoindizianti, ad opera dell'interlocutore, anche su previo accordo con la polizia giudiziaria, può essere effettuata senza necessità di autorizzazione del Gip ed è utilizzabile come prova documentale nel processo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 8759 del 27 luglio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2383/1998
+                                      Non costituisce causa di inutilizzabilità, ai fini cautelari, dei risultati di intercettazioni telefoniche, la mancata trasmissione, da parte del pubblico ministero al giudice, con la richiesta di applicazione della misura cautelare, anche dei decreti di autorizzazione previsti dall'art. 267 c.p.p., quando tali decreti, a suo tempo regolarmente emessi, siano poi stati acquisiti dallo stesso giudice (nella specie dopo l'emissione dell'ordinanza custodiale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2383 del  5 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11/1998
+                                      In materia di intercettazioni telefoniche, l'inutilizzabilità va riferita solo alla violazione delle norme degli artt. 267 e 268, commi primo e terzo, c.p.p., mentre le eventuali illegittimità formali (come quelle relative a violazione delle altre previsioni del citato art. 268 o alla mancata motivazione del decreto autorizzativo) ne determinano, semmai, l'invalidità. (Fattispecie relativa a censura di asserita inutilizzabilità delle intercettazioni dovuta ad aspetti motivazionali dei relativi provvedimenti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 11 del  2 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1592/1998
+                                      In tema di proroga delle intercettazioni di comunicazioni o conversazioni telefoniche di cui all'art. 267, comma 3, c.p.p., il provvedimento del Gip, implicando una valutazione della necessità di comprimere per un ulteriore termine la sfera di riservatezza delle comunicazioni private, incide esclusivamente sulla durata dell'intercettazione, ferma restando, in difetto di esplicita modifica, ogni altra modalità precedentemente fissata. Pertanto, intervenuto il decreto di proroga del Gip non è richiesto alcun altro provvedimento dispositivo dell'intercettazione da parte del P.M., non previsto dalla legge e, di norma, sfornito di utilità, non influendo né sulla durata delle operazioni né sulle loro modalità, sempreché queste ultime siano rimaste invariate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1592 del  1 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1495/1998
+                                      È legittimo il provvedimento del Gip di autorizzazione ad eseguire intercettazioni telefoniche che sia motivato per relationem rispetto alle richieste del P.M. o alle informazioni di polizia, purché il giudice non si limiti a un mero rinvio, ma, nel richiamarsi agli argomenti esposti dagli organi investigativi, faccia comunque emergere che essi sono stati criticamente valutati e recepiti. La motivazione dei provvedimenti di proroga dell'autorizzazione, invece, può anche essere ispirata a criteri di minore specificità, per cui può risolversi anche nel dare atto della constatata plausibilità delle ragioni esposte nella richiesta del P.M., dato che di un provvedimento reso al di fuori di una contrapposizione dialettica di posizioni contrastanti, l'adeguatezza della motivazione non può che essere valutata in relazione alla fondatezza della tesi della parte istante. In nessun caso, peraltro, i decreti di proroga possono essere motivati con il semplice richiamo ai preesistenti provvedimenti autorizzativi. (Fattispecie, nella quale la S.C. ha ritenuto corretta la motivazione del giudice di merito che, dato atto dell'esistenza di precedenti decreti autorizzativi delle intercettazioni stesse, aveva osservato, per alcuni, che il protrarsi delle autorizzazioni appariva indispensabile per la prosecuzione delle indagini e, per altri, aveva fatto riferimento, richiamandolo, al contenuto dei rapporti di polizia giudiziaria o alla richiesta del P.M.).
+                                          
+                      –
+                      
+                                                          In tema di intercettazione di comunicazioni telefoniche, mentre il primo provvedimento autorizzativo deve contenere una motivazione che non si limiti ad un mero rinvio alle richieste del pubblico ministero o alle informazioni della polizia giudiziaria, ma faccia comunque emergere che esse sono state criticamente valutate e recepite, i successivi provvedimenti di proroga ben possono essere motivati anche per relationem, con riferimento alle richieste degli organi investigativi, in cui siano indicate le ragioni giustificative della proroga, rimanendo peraltro escluso che sia invece sufficiente un semplice riferimento ai preesistenti provvedimenti autorizzativi, del tutto inidoneo, come tale, ad esplicitare le ragioni anzidette. In tale ultima ipotesi, tuttavia, la nullità del provvedimento, con conseguente inutilizzabilità dei risultati delle intercettazioni, non si trasmette ai decreti successivi, quando questi, pur richiamandosi al precedente, siano conformi alla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1495 del  4 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 788/1998
+                                      La mancanza di trasmissione al Gip dei decreti autorizzativi delle intercettazioni telefoniche (esistenti e regolari) costituisce una irregolarità che va eccepita immediatamente, con richiesta di riesame, per consentire alla difesa di verificare la legittimità delle intercettazioni. Peraltro, quando l'acquisizione della prova è avvenuta regolarmente, essendo stati emessi i decreti tempestivamente, non si produce alcuna lesione dei diritti di difesa e va pertanto esclusa la possibilità del giudice di rilevarne di ufficio l'inutilizzabilità, essendo tale potere esercitabile solo in presenza di una inutilizzabilità effettiva per essere stati i mezzi di prova acquisiti illecitamente, con violazione delle norme poste a tutela dei diritti della difesa e della par condicio tra le parti del processo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 788 del  6 aprile 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 22/1998
+                                      Non è viziato da mancanza di motivazione il decreto di autorizzazione all'effettuazione di intercettazioni di comunicazioni emesso dal giudice per le indagini preliminari ai sensi dell'art. 267, comma 1, c.p.p. per il solo fatto che la motivazione sia stata interamente recepita (nella specie, mediante fotocopiatura), dalla richiesta del pubblico ministero, giacché anche in tal modo il giudice ha comunque mostrato di aver espresso una propria autonoma valutazione in ordine alla sussistenza delle condizioni legittimanti l'adozione del provvedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 22 del  4 aprile 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3133/1998
+                                      In tema di intercettazioni di conversazioni e comunicazioni, l'art. 13 della legge 12 luglio 1991 n. 203 - che ha apportato modifiche all'art. 267 c.p.p. ampliando la possibilità di intercettazioni per reati particolarmente insidiosi e pericolosi - non ha soppresso, riguardo ad essi, la facoltà, conferita in generale dallo stesso art. 267 c.p.p. al P.M., di intervenire con decreto in via di urgenza; semmai, non formulando specifiche previsioni in proposito, ha implicitamente mantenuto i poteri del P.M. medesimo nei limiti della disciplina codicistica, consentendo soltanto al giudice di valutare con minor rigore i presupposti dell'intercettazione. L'art. 267, comma 2, c.p.p. prevede l'inutilizzabilità dei risultati dell'intercettazione così disposta soltanto in mancanza di tempestiva convalida, atto, quest'ultimo, che costituisce non già sanatoria, ma necessaria integrazione del precedente decreto del P.M.; ed invero è irrilevante la fase anteriore all'inizio effettivo delle operazioni, durante la quale non si è ancora verificata la lesione della libertà e segretezza delle comunicazioni, fase per la quale non può avere effetto la sanzione processuale apprestata dal legislatore (vale a dire la inutilizzabilità) che investe non la validità di atti ma i risultati dell'attività compiuta: ciò che rileva è il tempestivo esercizio dei poteri valutativi del giudice in ordine al bilanciamento dei confliggenti interessi di rilevanza costituzionale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3133 del 12 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5062/1998
+                                      Non può essere dedotta per la prima volta in cassazione l'inutilizzabilità delle intercettazioni telefoniche o ambientali, rispetto alle quali non siano state espresse censure o riserve con la richiesta di riesame, qualora sia dedotto in modo del tutto generico, non già che le stesse siano state eseguite fuori dei casi consentiti dalla legge o senza l'osservanza delle disposizioni previste dagli artt. 267 e 268, commi 1 e 3, c.p.p. (e dunque in mancanza di decreto autorizzativo motivato), ma che le medesime siano state eseguite in presenza di un decreto «viziato» per essere la sua motivazione insufficiente. (Fattispecie nella quale il ricorrente aveva per la prima volta dedotto in cassazione la non adeguatezza dei decreti di autorizzazione e proroga delle intercettazioni, assumendo genericamente che si trattava di motivazione per relationem).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 5062 del 13 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4714/1997
+                                      In tema di intercettazioni di conversazioni telefoniche, il decreto di convalida emesso dal Gip a seguito di provvedimento urgente adottato dal P.M. assorbe integralmente il provvedimento originario e sana ogni eventuale difetto di motivazione di questo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 4714 del 18 dicembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2873/1997
+                                      In tema di intercettazioni ambientali, l'ufficio del sindaco non può essere considerato luogo di privata dimora, trattandosi di un elemento della struttura municipale e quindi di carattere pubblico, nel quale è consentito l'accesso ad estranei e che non è destinato allo svolgimento di atti della vita privata.
+                                          
+                      –
+                      
+                                                          In tema di intercettazioni di conversazioni o comunicazioni, la motivazione dei decreti autorizzativi delle operazioni in ordine alla sussistenza di gravi indizi di reato ben può esaurirsi, stante la loro natura di decreto, nell'esposizione sommaria degli elementi dai quali è dato desumere la probabilità dell'avvenuta consumazione di un reato, non essendo necessaria un'esposizione analitica di tali elementi e tanto meno l'evidenziazione di un esame critico di essi. (In applicazione di tale principio la Corte ha ritenuto corretta la motivazione del decreto autorizzativo delle intercettazioni consistente nel richiamo alle dichiarazioni di persone informate sui fatti ed ai rapporti di polizia).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2873 del 10 ottobre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5655/1997
+                                      In tema di intercettazioni telefoniche, la durata delle operazioni di intercettazione, entro i limiti previsti dalla legge, è rimessa esclusivamente al pubblico ministero, come espressamente previsto dall'art. 267, comma terzo, c.p.p., secondo cui il decreto del pubblico ministero che dispone l'intercettazione indica le modalità e la durata delle operazioni. Al giudice per le indagini preliminari non compete invece determinare nel provvedimento autorizzativo tale durata, fatta eccezione del caso di proroga del termine di durata, in relazione al quale il legislatore ha ragionevolmente devoluto al giudice la valutazione della necessità di comprimere, oltre il termine ordinario, la sfera di riservatezza delle comunicazioni private. Pertanto, nel caso in cui il giudice, nel provvedimento di convalida del decreto emesso in via di urgenza dal pubblico ministero, abbia illegittimamente ridotto il termine di durata indicato nel decreto, tale erronea indicazione deve ritenersi come non apposta, con la conseguenza che le intercettazioni effettuate per tutto il periodo determinato nel decreto del pubblico ministero sono pienamente utilizzabili. (Fattispecie in cui il P.M., vertendosi in tema di indagini attinenti a delitti di criminalità organizzata, aveva in via di urgenza emesso il decreto che disponeva le intercettazioni fissando la durata massima di quaranta giorni, a norma dell'art. 13 D.L. 13 maggio 1991, n. 152, mentre il Gip, nel convalidare tale decreto, aveva rideterminato in quindici giorni la durata delle operazioni).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5655 del 13 giugno 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8832/1996
+                                      La normativa in materia di intercettazioni, nel richiedere come presupposto per il ricorso a questo mezzo di ricerca della prova, l'esistenza di «gravi indizi di reato», non postula affatto che questi ultimi siano a carico esclusivo dei soggetti le cui comunicazioni debbano essere, a fine di indagine, intercettate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 8832 del 30 settembre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6365/1996
+                                      Al giudice per le indagini preliminari non compete fissare la durata delle intercettazioni di conversazioni o comunicazioni; l'erroneità di tale fissazione, tuttavia, non è sanzionata né sotto il profilo della nullità né sotto quello dell'inutilizzabilità, tassativamente limitata, quest'ultima, ai casi espressamente previsti dall'art. 271 c.p.p.; ne consegue che il limite alle operazioni di intercettazione fissato dal giudice deve ritenersi tamquam non esset, e che ad esso si sostituisce il termine massimo predeterminato per legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6365 del 25 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3023/1996
+                                      La registrazione di una conversazione — sia telefonica, sia tra persone presenti — da parte di uno degli interlocutori, non necessita dell'autorizzazione del Gip ai sensi dell'art. 267 c.p.p. In tale ipotesi, infatti, viene meno l'esigenza di tutela della riservatezza ed ogni interlocutore diventa lecitamente un potenziale testimone, che compie attività di memorizzazione, mediante apposito strumento, di notizie che apprende dall'altro. (Fattispecie in tema di custodia cautelare in ordine al delitto ex art. 416 bis c.p., relativa alla registrazione di un colloquio fra un boss mafioso ed un ufficiale di P.G., da questi effettuata).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3023 del 18 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8925/1995
+                                      In tema di intercettazioni telefoniche, premesso che queste sono sempre da considerare come uno strumento di indagine di carattere eccezionale, in quanto incidente sul diritto, costituzionalmente garantito, di libertà e di segretezza delle comunicazioni (art. 15 Cost.), va poi ricordato che, anche quando trattasi di intercettazioni finalizzate ad indagini relative a delitti di criminalità organizzata, deve essere adeguatamente motivata la ritenuta sussistenza delle condizioni atte a legittimarle, quali indicate, in parziale deroga all'art. 267 c.p.p., dall'art. 13, comma 1, del D.L. 13 maggio 1991 n. 152, conv. con modif. in L. 12 luglio 1991 n. 203; condizioni costituite dalla accertata preesistenza di «sufficienti indizi» di reato e dalla parimenti accertata «necessità» — da non confondere con la mera utilità — del ricorso allo strumento investigativo in questione ai fini della proficua conclusione delle indagini stesse. Detta motivazione, poi, non può consistere in mere citazioni o parafrasi apodittiche delle norme summenzionate né, tanto meno, limitarsi ad un generico richiamo ai contenuti, più o meno analitici, delle richieste inoltrate dagli investigatori, essendo invece onere del P.M., prima (in casi di urgenza) e del Gip dopo, in sede di convalida, esprimere una propria valutazione sulla presenza delle condizioni previste dalla legge; valutazione che, per le finalità di garanzia processuale alle quali è predisposta, non può certamente esaurirsi in una passiva e acritica ricezione delle indicazioni espresse da coloro che sono preposti alla materiale esecuzione delle indagini.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 8925 del  3 agosto 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5415/1995
+                                      Il limite di durata apposto dall'art. 267, comma terzo, c.p.p., alle operazioni di intercettazione telefonica riguarda, non soltanto quelle direttamente disposte dal P.M., senza previa autorizzazione e salvo convalida, ma anche quelle autorizzate in via ordinaria dal Gip. Con la conseguenza che, salvo proroga, le intercettazioni, eseguite dopo la scadenza di detto termine sono inutilizzabili ai sensi degli artt. 171 e 267 dello stesso codice e che tale inutilizzabilità è rilevabile anche d'ufficio in ogni stato e grado del procedimento ex art. 196 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5415 del 11 maggio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3784/1995
+                                      L'onere della motivazione del decreto di proroga delle intercettazioni telefoniche, poiché la proroga deve avere ad oggetto la persistente attualità delle condizioni di legittimità del provvedimento genetico del nesso di ricerca della prova, presenta aspetti di minore specificità e bene può risolversi nel dare atto della constatata plausibilità delle ragioni esposte, dato che di un provvedimento, reso al di fuori di una contrapposizione dialettica di posizioni contrastanti, l'adeguatezza della motivazione non può che essere valutata in relazione alla fondatezza della tesi della parte istante.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3784 del  7 aprile 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2533/1995
+                                      Poiché la sanzione di inutilizzabilità degli esiti dell'intercettazione di conversazioni o comunicazioni disposta in via d'urgenza con decreto del P.M. è prevista dall'art. 267 c.p.p. solo nel caso di mancata convalida da parte del giudice per le indagini preliminari, intervenuta tale convalida resta sanato ogni vizio formale del provvedimento del P.M., ivi compresa la mancanza del requisito dell'urgenza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2533 del 15 marzo 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9370/1994
+                                      In tema di intercettazioni di conversazioni o comunicazioni, l'indicazione delle modalità delle operazioni da parte del P.M., di cui all'art. 267, comma 3, c.p.p., è da ritenersi soddisfatta mediante il riferimento all'impiego di attrezzature da predisporre per quello specifico scopo, senza che occorra individuare le caratteristiche tecniche od indicare la precisa ubicazione del luogo di ascolto, da tenere, del resto, comprensibilmente riservata a tutela della sicurezza di terzi.
+                                          
+                      –
+                      
+                                                          Qualora il Gip, anziché emettere nuovo ed autonomo decreto di autorizzazione delle operazioni previste dall'art. 266 c.p.p. si limiti ad autorizzare la semplice proroga delle operazioni già intraprese, il decreto di proroga che deve essere motivato al pari di quello originario, non costituisce altro che un nuovo provvedimento autorizzativo per periodo pari a quello iniziale e denominarlo decreto di autorizzazione, e non già decreto di proroga della precedente autorizzazione, non vale a mutarne la natura né ad accrescere le garanzie dell'indagato. (Nella fattispecie, le intercettazioni erano state inizialmente disposte dal P.M. a norma del codice previgente ed alla scadenza dell'originario decreto di autorizzazione era stata emessa dal Gip autorizzazione di proroga).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 9370 del 31 agosto 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4831/1994
+                                      Poiché, a norma dell'art. 267, comma 3, c.p.p., il decreto del P.M., che dispone la intercettazione deve indicare le modalità e la durata delle operazioni, con il termine modalità il legislatore non ha inteso riferirsi alle operazioni tecnico manuali ma alla scelta del tipo tra quelli previsti dalla norma regolatrice, alla individuazione del soggetto passivo e dell'ambiente ove il procedimento dovrà svolgersi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4831 del 28 aprile 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4273/1994
+                                      In materia di intercettazioni telefoniche, la modificazione dell'art. 267 c.p.p. (D.L. 13 maggio 1991 n. 152, convertito in L. 12 luglio 1991 n. 203), in tema di indagini relative a delitti di criminalità organizzata, disciplina l'autorizzazione ad eseguire intercettazioni telefoniche allorché le stesse appaiono «necessarie» (non «indispensabili») in presenza di «sufficienti» (e non gravi) indizi di reato; le informazioni confidenziali fornite dagli organi di polizia al P.M. possono essere utilizzate legittimamente quali «sufficienti indizi di reato» (e non già «di colpevolezza. . .») ai fini dell'autorizzazione alle intercettazioni telefoniche, i cui esiti potranno invece, a determinate condizioni, essere utilizzati ai fini probatori. E per quanto attiene alla motivazione dei provvedimenti autorizzativi deve ritenersi sufficiente il riferimento alle specifiche informative della polizia, espressamente richiamate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4273 del 13 aprile 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5928/1993
+                                      In tema di intercettazioni telefoniche, la durata dell'operazione è rimessa al pubblico ministero richiedente, come espressamente previsto nel terzo comma dell'art. 267 c.p.p. nel quale si riservano alla parte «le modalità e la durata delle operazioni», salva possibilità di proroga del termine da autorizzarsi dal giudice, prevedendosi questa volta, con riferimento peraltro esclusivamente a questa specifica autorizzazione, che il relativo decreto contenga l'indicazione dell'ulteriore periodo di protrazione di possibilità della ricerca della prova attraverso l'intercettazione. (Nella specie, relativa ad inammissibilità di ricorso, l'imputato aveva dedotto che il Gip omise nel provvedimento autorizzativo qualsiasi riferimento alla durata dell'operazione, pur avendo il richiedente indicato che questa avrebbe dovuto protrarsi per quaranta giorni, e tale omissione avrebbe determinato la nullità del decreto di autorizzazione e, conseguentemente, l'inutilizzabilità dei risultati di questa, non potendo valere che nelle proroghe successivamente accordate il termine fosse stato specificamente concesso in conformità alle richieste dello stesso P.M.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5928 del 11 giugno 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1868/1993
+                                      Il termine di durata delle intercettazioni decorre dal giorno di inizio delle operazioni e non dalla data del decreto. Invero, nelle norme che si occupano delle intercettazioni di conversazioni o comunicazioni, quando si vuole fissare la «durata» delle intercettazioni, si fa sempre espresso riferimento alle «operazioni» relative, il che induce a ritenere che il termine iniziale della durata debba coincidere con il giorno di inizio effettivo delle «operazioni» e non già con la data del provvedimento di autorizzazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 1868 del 21 maggio 1993)
+                  
+
+- 
+
+Ratio: La ratio di tale disposizione si coglie nell'esigenza di garantire il principio costituzionalmente garantito della libertà e della segretezza delle comunicazioni (art. 15), le cui limitazioni sono dunque ammissibili solo se poste in essere nel rispetto delle garanzie stabilite ex lege.
+Spiegazione: 
+Le intercettazioni appartengono ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+L’ambito delle intercettazioni si presenta assai delicato, in quanto involve la libertà e la segretezza delle comunicazioni, definite inviolabili dall’articolo 15 della Costituzione.
+
+Oltre ai limiti oggettivi di cui all’articolo 266, al norma in commento definisce ulteriori limiti richiesti dal legislatore per poter disporre le intercettazioni.
+
+Di regola, l’intercettazione può essere disposta dal pubblico ministero solo a seguito di autorizzazione del giudice per le indagini preliminari, che provvede con decreto motivato, solo quando vi siano gravi indizi di reato e sia assolutamente indispensabile per la prosecuzione delle indagini. Per quanto concerne le intercettazioni tramite captatore informatico, il legislatore ha previsto un particolare onere motivazionale, consistente nello spiegare perché tale modalità di ricerca della prova sia necessaria per lo svolgimento delle indagini. Inoltre, quando si procede per delitti diversi da quelli elencato all’articolo 52, commi 3 bis e 3 ter, i luoghi ed il tempo per i quali è consentita l’attivazione del microfono (e quindi essenzialmente per l’abitazione altrui, altri luoghi di privata dimora o le pertinenze).
+
+In generale, per la valutazione dei gravi indizi di reato destinati a perimetrare l’area di ammissibilità delle intercettazioni tutte, va applicato l’articolo 203, ai sensi del quale è fatto divieto al giudice di obbligare gli esponenti delle forze dell’ordine a rivelare i nomi dei loro informatori, ma soprattutto, se esaminati come testimoni, le informazioni fornite non possono essere utilizzate, in nessuna fase processuale.
+
+La regola sussidiaria stabilisce invece che, nei casi di urgenza e quando dal ritardo delle operazioni possa derivare un grave pregiudizio per le indagini, le intercettazioni possono essere disposte dal pubblico ministero con decreto motivato (con le precisazioni motivazionali di cui ai commi precedenti) che va immediatamente o comunque non oltre le 24 ore comunicato al giudice per le indagini preliminari a pena di inammissibilità. Il giudice valuta circa la sussistenza dei presupposti di cui alla norma in oggetto ed all’articolo 266 e provvede tramite convalida in caso di valutazione positiva, entro 48 ore dal provvedimento (non dalla ricezione di esso quindi). Se non vengono rispettate le tempistiche di entrambe le fasi, i risultati delle intercettazioni non possono essere utilizzati, né esse possono proseguire. Il comma 2 bis prevede inoltre una disciplina speciale in riferimento all’utilizzo dei captatori informatici, in coerenza sistematica con le altre disposizioni in materia.
+
+Le intercettazioni durano al massimo quindici giorni, ma sono di volta in volta prorogabili, senza limiti di tempo, purché permangano i requisiti sin d’ora analizzati.
+

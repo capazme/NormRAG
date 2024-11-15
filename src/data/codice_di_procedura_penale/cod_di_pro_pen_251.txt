@@ -1,0 +1,54 @@
+
+==================================================
+
+===== Article 251 =====
+[Primary - Text]
+Art. 251
+Perquisizioni nel domicilio. Limiti temporali
+
+1.  La perquisizione in un'abitazione o nei luoghi chiusi adiacenti a essa non può essere iniziata prima delle ore sette e dopo le ore venti.
+
+2.  Tuttavia nei casi urgenti l'autorità giudiziaria può disporre per iscritto che la perquisizione sia eseguita fuori dei suddetti limiti temporali.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo II - Perquisizioni>Articolo 251
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 251
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 3513/1997
+                                      In tema di mezzi di ricerca della prova, una volta che sia stata legittimamente disposta dal giudice ovvero dal pubblico ministero la perquisizione locale, la riservatezza dell'indagato subisce una compressione che include necessariamente, anche in assenza di espressa indicazione nel provvedimento del magistrato, il sacrificio derivante dalla documentazione fotografica delle operazioni esecutive e dei luoghi in cui esse si sono svolte; l'esecuzione della perquisizione, infatti, implica e comprende per definizione l'attività di ispezione e di documentazione, e la fotografia, mezzo tecnico idoneo a fissare ed a prolungare la visione, altro non è che una modalità in cui può atteggiarsi la doverosa descrizione dei luoghi perquisiti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 3513 del 22 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1557/1991
+                                      Nessun rilievo preclusivo in tema di sequestro svolgono l'accertata illegittimità della perquisizione, o la revoca di un precedente sequestro, ove vengano acquisite prove aventi caratteristica di realtà (res delicti), sia perchè perquisizione e sequestro hanno differenti presupposti e differente funzione giuridica, ancorchè eventualmente convergenti sul piano dei risultati, sia perchè, al di fuori di prove che regole sostanziali o processuali escludano in modo assoluto, tutte le altre sono coattivamente acquisibili, ed eventuali irregolarità nell'acquisizione, a parte censure di carattere disciplinare o penale, non impediscono che, in attesa della successiva emissione di valido sequestro, sulla cosa si realizzi quanto meno uno stato di «fermo reale» analogo a quello che l'art. 354 c.p.p. riconosce nei poteri degli agenti di polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1557 del 22 maggio 1991)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle perquisizioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+Le perquisizioni, unitamente alle ispezioni (artt. 244 e ss.) rappresentano due tipici “atti a sorpresa” di cui dispone l’autorità giudiziaria, da cui si evince il preciso intento del legislatore di attribuire tale potere non solo al giudice, ma altresì al pubblico ministero.
+
+Nel rispetto del principio costituzionale della privata dimora (art. 14) sono previsti precisi limiti temporali che possono essere disattesi nei casi urgenti e con un provvedimento di esecuzione contenuto anche in un atto separato dal decreto che dispone la perquisizione.
+
+Ferma la distinzione tra l’inspicere, destinato ad accertare sulle persone, nei luoghi o nelle cose le tracce e gli altri effetti materiali del reato, tipico delle ispezioni ed il perquirere, diretto a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso (attività tipica delle perquisizioni), il legislatore ha mostrato in entrambi i casi disciplinati un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.).
+
+Per tali motivi, la perquisizione in una abitazione o nei luoghi chiusi adiacenti deve essere eseguita tra le sette e le ore venti. Ovviamente in caso di urgenza è salva la facoltà di procedere a perquisizione anche al di fuori degli orari consentiti, purché la sussistenza dell’urgenza sia fatta per iscritto (l’obbligo di motivazione non è espressamente previsto).
+

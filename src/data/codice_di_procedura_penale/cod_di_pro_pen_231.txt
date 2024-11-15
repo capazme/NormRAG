@@ -1,0 +1,62 @@
+
+==================================================
+
+===== Article 231 =====
+[Primary - Text]
+Art. 231
+Sostituzione del perito
+
+1.  Il perito può essere sostituito se non fornisce il proprio parere nel termine fissato o se la richiesta di proroga non è accolta ovvero se svolge negligentemente l'incarico affidatogli.
+
+2.  Il giudice, sentito il perito, provvede con ordinanza alla sua sostituzione, salvo che il ritardo o l'inadempimento sia dipeso da cause a lui non imputabili. Copia dell'ordinanza è trasmessa all'ordine o al collegio cui appartiene il perito.
+
+3.  Il perito sostituito, dopo essere stato citato a comparire per discolparsi, può essere condannato dal giudice al pagamento a favore della cassa delle ammende di una somma da lire trecentomila a lire tre milioni.
+
+4.  Il perito è altresì sostituito quando è accolta la dichiarazione di astensione o di ricusazione.
+
+5.  Il perito sostituito deve mettere immediatamente a disposizione del giudice la documentazione e i risultati delle operazioni peritali già compiute.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 231
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 231
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 31404/2010
+                                      Rientra nei poteri del giudice, pur dopo avere dato corso alla procedura di sostituzione del perito, confermare l'incarico al perito in precedenza nominato, per non disperdere il patrimonio di conoscenze acquisito, avendo ritenuto valide le giustificazioni rese quanto al ritardo nel deposito della relazione peritale (nella specie, dovuto a gravi motivi di salute). (La Corte ha anche osservato che la relazione depositata prima dell'audizione del perito e della successiva conferma dell'incarico non è inutilizzabile, poiché l'operatività della sostituzione dipende dall'ascolto delle eventuali giustificazioni del perito, e comunque la prova non è costituita dalla relazione peritale, bensì dalle dichiarazioni rese dal perito in sede di esame dibattimentale). (Dichiara inammissibile, App. Firenze, 05/05/2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 31404 del 30 aprile 2010)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare un pronto ed efficiente utilizzo di tale fondamentale mezzo di prova.
+Spiegazione: 
+Il perito può essere sostituito in tre ipotesi:
+
+
+
+		se non fornisce il proprio pare entro il termine prefissato o se la richiesta di proroga del termine non viene accolta dal giudice (v. art. 227);
+
+
+
+
+		se svolge negligentemente il proprio incarico;
+
+
+
+
+		se viene accolta la dichiarazione di astensione o di ricusazione (v. art. 223).
+
+
+Il giudice deve comunque, prima di emettere un provvedimento in tal senso, sentire il perito sulla questione, e provvede con ordinanza alla sua sostituzione, salvo che il ritardo io l’inadempimento sia dipeso da cause a lui non imputabili.
+
+Per eventuali determinazioni in merito ad illeciti disciplinari, copia dell’ordinanza è trasmessa all’ordine professionale di appartenenza. Inoltre, il perito può essere condannato al pagamento di una ammenda in favore della cassa delle ammende.
+

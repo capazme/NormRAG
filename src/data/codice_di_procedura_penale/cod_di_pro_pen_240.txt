@@ -1,0 +1,119 @@
+
+==================================================
+
+===== Article 240 =====
+[Primary - Text]
+Art. 240
+Titolo non trovato
+
+1.  I documenti che contengono dichiarazioni anonime non possono essere acquisiti né in alcun modo utilizzati, salvo che costituiscano corpo del reato o provengano comunque dall'imputato.
+
+2.  Il pubblico ministero dispone l'immediata secretazione e la custodia in luogo protetto dei documenti, dei supporti e degli atti concernenti dati e contenuti di conversazioni o comunicazioni, relativi a traffico telefonico e telematico, illegalmente formati o acquisiti. Allo stesso modo provvede per i documenti formati attraverso la raccolta illegale di informazioni. Di essi è vietato effettuare copia in qualunque forma e in qualunque fase del procedimento ed il loro contenuto non può essere utilizzato.
+
+3.  Il pubblico ministero, acquisiti i documenti, i supporti e gli atti di cui al comma 2, entro quarantotto ore, chiede al giudice per le indagini preliminari di disporne la distruzione.
+
+4.  Il giudice per le indagini preliminari entro le successive quarantotto ore fissa l'udienza da tenersi entro dieci giorni, ai sensi dell'articolo 127, dando avviso a tutte le parti interessate, che potranno nominare un difensore di fiducia, almeno tre giorni prima della data dell'udienza.  ((167))
+
+5.  Sentite le parti comparse, il giudice per le indagini preliminari legge il provvedimento in udienza e, nel caso ritenga sussistenti i presupposti di cui al comma 2, dispone la distruzione dei documenti, dei supporti e degli atti di cui al medesimo comma 2 e vi dà esecuzione subito dopo alla presenza del pubblico ministero e dei difensori delle parti.  ((167))
+
+6.  Delle operazioni di distruzione è redatto apposito verbale, nel quale si dà atto dell'avvenuta intercettazione o detenzione o acquisizione illecita dei documenti, dei supporti e degli atti di cui al comma 2 nonché delle modalità e dei mezzi usati oltre che dei soggetti interessati, senza alcun riferimento al contenuto degli stessi documenti, supporti e atti.  ((167))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 240
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 240
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 29433/2013
+                                      Al solo pubblico ministero è riconosciuta la competenza esclusiva di chiedere al gip, ai sensi dei commi secondo e ss. dell'art. 240 c.p.p., la distruzione della documentazione formata attraverso la raccolta illegale di informazioni o attraverso intercettazioni illegali, trattandosi di competenza accessoria all'attività di raccolta delle prove. (In applicazione di tale principio è stata ritenuta inammissibile la richiesta di un indagato di procedere alla distruzione di documentazione contenente le informazioni bancarie di migliaia di correntisti, formata abusivamente da un ex dipendente infedele).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 29433 del 10 luglio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 838/2004
+                                      In tema di confisca facoltativa, il principio di cui all'art. 240, comma primo, c.p.p. — per il quale il giudice può ordinare la confisca delle cose che servirono a commettere il reato — non deve essere inteso nel senso dell'intrinseca pericolosità dell'oggetto da confiscare, nel qual caso opera la confisca obbligatoria (art. 240, comma secondo, c.p.p.), bensì nel senso che tale oggetto, ove lasciato nella disponibilità del condannato, potrebbe costituire per quest'ultimo un incentivo a commettere ulteriori reati ed è con riguardo a quest'ultimo aspetto che il giudice deve fornire adeguata motivazione. (In applicazione di tale principio la S.C. ha ritenuto corretta la motivazione del giudice di merito in ordine alla confisca di un'autovettura necessaria per la consumazione del delitto di rapina in danno di coppie, appartate in luoghi isolati e lontani dal centro abitato, in modo da agire contro persone indifese ed alla mercè degli aggressori ed allontanarsi precipitosamente una volta realizzati gli illeciti scopi, garantendosi così l'impunità).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 838 del 14 gennaio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44868/2003
+                                      L'assoluta inutilizzabilità dei documenti anonimi, sancita dall'art. 240 c.p.p., si riferisce ai documenti rappresentativi di dichiarazioni, sicché la norma non trova applicazione in relazione ai documenti fotografici.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 44868 del 21 novembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4739/2002
+                                      In tema di contrabbando, le cose che servirono per la commissione del reato o che ne costituiscono l'oggetto, il profitto o il prodotto sono soggette a confisca anche nel caso che il reato venga dichiarato estinto per prescrizione, derogando la disciplina fissata dall'art. 301, comma 1, del D.P.R. 23 gennaio 1973, n. 43 a quella generale contenuta nell'art. 240 c.p. (Nell'affermare tale principio la Corte ha precisato che la confisca disciplinare dal citato art. 301 deve essere disposta anche nei casi di proscioglimento per cause che non riguardano la materialità del fatto e non interrompono il rapporto tra le cose e la circostanza della loro introduzione illegale nel territorio dello Stato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 4739 del  7 febbraio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1872/1999
+                                      Una dichiarazione accusatoria dal contenuto frammentario, perché documentata in un verbale coperto da vari omissis, e anonima in ordine alla identità della persona che l'ha resa, può essere valutata quale fonte di prova, agli effetti della applicazione di una misura cautelare, soltanto nella ipotesi in cui le omissioni, sia relative alla identità del dichiarante che al relativo contenuto, siano state giustificate da obiettive e dichiarate esigenze di cautela processuale, tali da poter essere positivamente valutate dal giudice che deve controllarne la valenza processuale, e che il contenuto residuo della dichiarazione possa essere proficuamente utilizzato per un giudizio da parte del giudice in ordine alla sua credibilità oggettiva. In mancanza di tali caratteristiche, la dichiarazione è equiparabile ad un documento anonimo, la cui utilizzazione processuale è espressamente vietata dall'art. 240 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1872 del 10 maggio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2450/1997
+                                      È nullo il decreto di perquisizione e sequestro emanato in seguito a denuncia anonima e, quindi, utilizzato come mezzo di acquisizione di una notizia di reato e non come mezzo di ricerca della prova. Infatti, la denuncia confidenziale o anonima — non inseribile negli atti ed inutilizzabile — non può qualificarsi notizia di reato idonea a dare inizio alle indagini preliminari: se tale notizia è specifica e verosimile, il Pubblico Ministero può disporre accertamenti per verificare la sua fondatezza, ma queste investigazioni — volte allo scopo di acquisire elementi di prova utilizzabili — si pongono fuori delle indagini preliminari in quanto sfornite di pregressa notitia criminis, sicché l'accusa non può procedere a perquisizioni, sequestri, intercettazioni telefoniche, trattandosi di atti che implicano e presuppongono l'esistenza di indizi di reità. (Nella specie la S.C. ha osservato che la circostanza che la perquisizione abbia avuto esito positivo — perché conclusasi con il reperimento di documenti utili alle successive indagini — è evento irrilevante a neutralizzare l'originaria illegittimità; inoltre, in conseguenza dello stretto rapporto funzionale tra l'atto di ricerca della prova — perquisizione — e la sua materiale apprensione — sequestro — l'illegittimità del primo si estende al secondo provvedimento).
+                                          
+                      –
+                      
+                                                          Le denunce anonime o le notizie confidenziali possono dar luogo all'effettuazione di attività investigativa, ma non possono legittimare l'adozione di provvedimenti incidenti sui diritti della persona, fra i quali anche perquisizioni, sequestri o intercettazioni telefoniche.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2450 del 26 settembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2087/1994
+                                      Se delle denunce anonime non può essere fatto alcun uso processuale e probatorio, ai sensi dell'art. 333, comma 3, c.p.p., gli elementi che tali denunce contengono possono stimolare l'attività di indagine nella fase processuale volta ad espletare quella iniziativa di acquisizione di notitiae criminis e di preliminare verifica conoscitiva di elementi a tal fine utili che il vigente codice di rito riferisce al pubblico ministero e alla polizia giudiziaria. (Fattispecie in tema di sequestro probatorio eseguito nel corso delle indagini sulla base di una denuncia anonima).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2087 del 16 agosto 1994)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente e garantire una netta distinzione netta tra acquisizione ed utilizzazione.
+Spiegazione: 
+Mentre l’articolo precedente (239) disciplina il riconoscimento dei documenti, stabilendo semplicemente che, qualora occorra verificare la provenienza di un documento, quest’ultimo deve essere sottoposto per riconoscimento alle parti private o ai testimoni, la norma in esame tratta dei documenti anonimi. Viene qui confermata la tradizionale regola che esclude l’utilizzabilità delle dichiarazioni anonime, a meno che le dichiarazioni stesse costituiscano corpo del reato o provengano comunque dall’imputato.
+
+A tale previsione si affianca la particolare disciplina relativa alla sorte dei documenti, dei supporti e degli atti concernenti dati e contenuto di conversazioni o comunicazioni relative a traffico telefonico e telematico illegalmente acquisito, nonché dei documenti formati attraverso la raccolta illegale di informazioni. Tali documenti devono essere secretati dal pubblico ministero e custoditi in luogo protetto, ed il loro contenuto non può essere utilizzato, salva la loro utilizzabilità come notizia di reato. Riecheggia in tale norma il principio del “frutto dell’albero avvelenato” di matrice anglosassone.
+
+Nel termine di quarantotto ore il pubblico ministero deve chiedere al giudice la distruzione, ed il giudice deve allo scopo fissare apposita udienza camerale in contraddittorio tra le parti, al termine del quale, ove vi siano i presupposti di cui sopra, deve esserne disposta la distruzione. Di tali operazioni di distruzione deve essere redatto verbale, nel quale dovrà darsi atto anche dell’avvenuta intercettazione, detenzione o acquisizione illecita, nonché dei mezzi e dei soggetti interessati, ma senza alcun riferimento al contenuto dei materiali stessi.
+

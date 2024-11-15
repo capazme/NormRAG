@@ -1,0 +1,355 @@
+
+==================================================
+
+===== Article 220 =====
+[Primary - Text]
+Art. 220
+Oggetto della perizia
+
+1.  La perizia è ammessa quando occorre svolgere indagini o    
+acquisire dati o valutazioni che richiedono specifiche competenze    
+tecniche, scientifiche o artistiche.
+
+2.  Salvo quanto previsto ai fini dell'esecuzione della pena o della misura di sicurezza, non sono ammesse perizie per stabilire l'abitualità o la professionalità nel reato, la tendenza a delinquere, il carattere e la personalità dell'imputato e in genere le qualità psichiche indipendenti da cause patologiche.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 220
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 220
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 49884/2018
+                                      In tema di prova scientifica, la perizia rappresenta un indispensabile strumento euristico nei casi in cui l'accertamento dei termini di fatto della vicenda oggetto del giudizio imponga l'utilizzo di saperi extragiuridici e, in particolare, qualora si registrino difformi opinioni, espresse dai diversi consulenti tecnici di parte intervenuti nel processo, di talché al giudice è chiesto di effettuare una valutazione ponderata che involge la stessa validità dei diversi metodi scientifici in campo, della quale è chiamato a dar conto in motivazione, fornendo una razionale giustificazione dell'apprezzamento compiuto e delle ragioni per le quali ha opinato per la maggiore affidabilità di una determinata scuola di pensiero rispetto ad un'altra. (Fattispecie in tema di responsabilità sanitaria).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 49884 del  2 novembre 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29848/2018
+                                      In tema di istruzione dibattimentale, nel caso in cui sia stata disposta dal giudice una perizia psicologica al fine di valutare l'idoneità fisica e mentale del teste a deporre, non vi è alcun obbligo per il perito di far presenziare alle operazioni peritali i consulenti di parte, né è prevista alcuna sanzione dalla legge processuale per la loro mancata presenza. (In motivazione la Corte, nell'enunciare il predetto principio, ha precisato che il perito ha solo l'obbligo di verbalizzare le eventuali osservazioni e proposte dei consulenti e che il principio del contraddittorio sulla prova è pienamente garantito attraverso l'esame e il contro esame dibattimentale del perito e la possibilità per la difesa di richiedere l'esame del proprio consulente, depositando la relazione dello stesso).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 29848 del  3 luglio 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24082/2017
+                                      In tema di valutazione della perizia psichiatrica, sviluppandosi l' "iter" diagnostico dei periti attraverso due operazioni successive, connesse ed interdipendenti in relazione al risultato finale, cioè la percezione dei dati storici e il successivo giudizio diagnostico fondato sulla prima, il giudice deve discostarsi dalle conclusioni raggiunte quando queste si basano su dati fattuali dimostratisi erronei che, viziando il percorso logico dei periti, rende inattendibili le loro conclusioni. (Fattispecie in cui la Corte ha annullato la decisione della Corte di assise di appello che, senza mettere in discussione la correttezza del dato fattuale accertato in sede peritale, riguardante l'esistenza di un disturbo della personalità dell'imputato riconducibile al novero delle infermità mentali rilevanti ex art. 89 cod. pen., ha disatteso, in assenza di un adeguato supporto scientifico, il giudizio diagnostico successivo, avente ad oggetto l'esistenza di una relazione causale dello stato viziato di mente con il delitto di omicidio commesso dall'imputato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 24082 del 15 maggio 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 18975/2017
+                                      In tema di prova, l'accertamento peritale grafologico è di per sé fortemente condizionato dalla valutazione soggettiva di chi lo conduce, piuttosto che da leggi scientifiche universali, con la conseguenza che legittimamente il giudice, il quale aderisca ad una delle valutazioni tecniche emerse in sede istruttoria, disattendendo le altre, assolve all'onere di motivare le ragioni del suo convincimento mediante l'integrazione della prospettiva tecnico-scientifica, proveniente dall'indagine più propriamente grafologica, con quella logico-indiziaria, relativa al contesto circostanziale di ipotetica redazione dell'atto stesso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 18975 del 20 aprile 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44627/2015
+                                      In tema di valutazione dei risultati della perizia sulla capacità a testimoniare dei minori, effettuata con la metodica "step wise interview", il giudice ha l'onere di verificare soltanto la validità scientifica dei criteri e del procedimento utilizzati dal perito o dal consulente tecnico, con la conseguenza che, stimati questi come validi, gli esiti non potranno essere disattesi sulla base della generica contestazione di una parte circa l'esistenza di una diversa metodologia che avrebbe permesso di conseguire risultati diversi, ove questa non sia adeguatamente supportata da argomenti o elaborati scientifici.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 44627 del  6 novembre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37244/2014
+                                      n tema di perizia sulla capacità d'intendere e di volere, l'inosservanza da parte del perito delle linee di condotta fissate dalla Carta di Noto per l'espletamento della stessa, non comporta la nullità o la inutilizzabilità della perizia medesima, trattandosi di indicazioni prive di valore nominativo. (Fattispecie in cui il ricorrente si era doluto dell'omessa videoregistrazione ed audioregistrazione dei colloqui svolti dal perito con l'imputata, attività il cui compimento è espressamente prescritto all'"esperto" dall'art. 4 della Carta di Noto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 37244 del  8 settembre 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 40611/2012
+                                      Nel valutare i risultati di una perizia o di una consulenza tecnica, il giudice deve verificare la validità scientifica dei criteri e dei metodi di indagine utilizzati, allorché essi si presentino come nuovi e sperimentali e perciò non sottoposti al vaglio di una pluralità di casi ed al confronto critico tra gli esperti del settore, sì da non potersi considerare ancora acquisiti al patrimonio della comunità scientifica. (In applicazione del principio, la S.C. ha ritenuto immune da censure la motivazione con la quale il giudice di merito aveva effettuato la verifica della nuova metodologia automatica di identificazione vocale denominata "speaker recognition system" utilizzata nell'ambito di una consulenza del P.M.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 40611 del 17 ottobre 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37402/2006
+                                      Il divieto di perizie sul carattere, sulla personalità e sulle qualità psichiche (indipendenti da cause patologiche) dell'imputato posto dall'art. 220, comma secondo, c.p.p. non si estende anche alla persona offesa-teste, la cui deposizione, proprio perché essa può essere assunta da sola come fonte di prova, deve essere sottoposta a una rigorosa indagine positiva sulla credibilità anche soggettiva, che deve essere verificata pure sotto il profilo della capacità di testimoniare ai sensi del secondo comma dell'art. 196 stesso codice: la verifica della «idoneità mentale» è rivolta ad accertare se la persona offesa sia stata nelle condizioni di rendersi conto dei comportamenti tenuti in pregiudizio della sua persona e del suo patrimonio e sia in grado poi di riferire in modo veritiero siffatti comportamenti. (La Corte ha rilevato che compete al giudice il vaglio critico sugli elementi acquisiti e la valutazione circa la opportunità e/o necessità di un accertamento peritale che, senza demandare al perito la verifica dell'attendibilità del testimone, apporti specifiche competenze tecnico-scientifiche).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 37402 del 13 novembre 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12839/2003
+                                      In virtù del principio della libertà della prova e del libero convincimento del giudice, la prova di autenticità o falsità di un documento può essere desunta da elementi diversi dalla consulenza grafica, allorché l'esame diretto della firma addebitata all'imputato, raffrontata con altre sottoscrizioni che gli sono certamente riferibili, convincano il giudice motivatamente che si tratta di documento attribuibile allo stesso imputato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 12839 del 19 marzo 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8076/2000
+                                      Allorché le conclusioni degli esperti che hanno ricevuto incarico di eseguire perizia psichiatrica sull'imputato (nella specie, in differenti gradi del giudizio) siano insanabilmente divergenti, il controllo di legittimità sulla motivazione del provvedimento concernente la capacità di intendere e di volere deve necessariamente riguardare i criteri che hanno determinato la scelta tra le opposte tesi scientifiche: il che equivale a verificare se il giudice del merito abbia dato congrua ragione della scelta e si sia soffermato sulle tesi che ha creduto di non dovere seguire e se, nell'effettuare tale operazione, abbia tenuto costantemente presenti le altre risultanze processuali e abbia con queste confrontato le tesi recepite.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 8076 del 24 maggio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10363/1999
+                                      In tema di falsità, allo scopo di accertare la sussistenza dell'elemento oggettivo, non può ritenersi sempre indispensabile l'espletamento della perizia grafica, la quale, per altro, ha valore solo di indizio. Invero, per il principio della libertà della prova e del libero convincimento del giudice, la certezza della falsità del titolo può anche essere desunta da altri elementi. (Fattispecie nella quale il giudice di merito ha ritenuto superflua l'indagine peritale, ricavando la prova della falsità del documento e della responsabilità dell'imputato dal disconoscimento della firma di traenza da parte di colui che appariva come l'emittente, dalla genuinità della intestazione del titolo a favore dell'imputato e dalla autenticità della girata da costui apposta, dalla consegna del titolo a persona creditrice dell'imputato. La cassazione, rilevando che, in sede di ricorso, l'imputato, lamentando il mancato esperimento della perizia grafologica, aveva semplicemente tentato di rielaborare il fatto attraverso una non consentita rilettura degli atti, ha rigettato il gravame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 10363 del  1 settembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9047/1999
+                                      In tema di istruzione dibattimentale, quando sia necessario svolgere indagini od acquisire dati o valutazioni che richiedono specifiche competenze, il giudice può ritenere superflua la perizia quando pensi di poter giungere alle medesime conclusioni di certezza sulla base di altre e diverse prove; non gli è viceversa consentito di rinunciare all'apporto del perito per avvalersi direttamente di proprie, personali, specifiche competenze scientifiche, tecniche ed artistiche. Invero, in tal modo non sarebbe consentito alla parte di intervenire a mezzo dei suoi consulenti tecnici e quindi, da un lato, di incidere sull'iter di acquisizione della prova, dall'altro, di esaminare e contrastare, prima della decisione, la prova eventualmente a lui sfavorevole. (Fattispecie in cui il giudice di merito, dopo avere acquisito una consulenza tecnica grafologica, disposta in un giudizio civile e prodotta dall'imputato, ne ha disatteso il contenuto sulla base di una complessa operazione valutativa, esposta in motivazione, avente le caratteristiche di una vera e propria perizia).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 9047 del 15 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2959/1999
+                                      La richiesta di ritrascrizione delle intercettazioni ambientali, prospettando un problema di reiterazione del mezzo istruttorio, solleva una questione di merito, la cui valutazione compete esclusivamente al giudice territoriale e non può essere esaminata dal giudice di legittimità se la motivazione sia, sul punto, esente da vizi logici e giuridici. (Nella specie era stata richiesta una perizia per la ritrascrizione delle intercettazioni, in quanto le captazioni risultavano vaghe e generiche a causa di disturbi fonici e della incomprensibilità di diverse parole).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2959 del  5 marzo 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11235/1997
+                                      In tema di valutazione delle risultanze peritali il giudice di merito può fare legittimamente propria, allorché gli sia richiesto dalla natura della questione, l'una piuttosto che l'altra tesi scientifica, purché dia congrua ragione della scelta e dimostri di essersi soffermato sulla tesi o sulle tesi che ha creduto di non dover seguire.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 11235 del  9 dicembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2751/1997
+                                      Il giudice, nel valutare i risultati di una perizia o di una consulenza tecnica, ha l'onere di verificare la validità scientifica dei criteri e dei metodi di indagine utilizzati allorché essi si presentino come nuovi e sperimentali, e perciò non sottoposti al vaglio di una pluralità di casi ed al confronto critico tra gli esperti del settore, sì da non potersi considerare ancora acquisiti al patrimonio della comunità scientifica. (In applicazione di tale principio la Corte ha annullato per vizio della motivazione l'ordinanza del tribunale del riesame la quale aveva ritenuto elemento non sufficiente ad integrare i gravi indizi di colpevolezza necessari per l'emissione della misura cautelare l'esito di una consulenza tecnica — eseguita con metodo computerizzato — di identificazione dei volti travisati degli autori di una rapina, ripresi da una telecamera a circuito chiuso, osservando semplicemente che detta consulenza si basava «su mere ipotesi scientifiche non ancora sufficientemente verificate e controllate», senza però effettuare un'approfondita verifica della validità della nuova metodologia).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2751 del 11 agosto 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3799/1997
+                                      In caso di istanza di revoca o sostituzione della custodia cautelare in cercere proposta dall'imputato o dall'indagato e fondata sulle sue gravi condizioni di salute, se il giudice non ritiene di accogliere la stessa sulla base degli atti, anche a prescindere da una delibazione circa il suo livello di fondatezza, devono necessariamente essere disposti gli accertamenti medici del caso ai sensi degli artt. 220 e seguenti c.p.p., così da assicurare forme adeguate di partecipazione difensiva, con l'ausilio di un consulente tecnico.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3799 del 28 gennaio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9472/1996
+                                      Qualora il giudice di merito pervenga, con adeguata motivazione, a far proprie le conclusioni di due perizie d'ufficio che siano giunte ad identico risultato attraverso diverse metodologie di indagine scientifica, non gli incombe l'ulteriore onere motivazionale di risolvere le eventuali difformità dell'argomentare dei periti, le quali risultano ininfluenti ai fini della decisione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 9472 del  7 novembre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1379/1996
+                                      Qualora il giudice, non ritenendo di accogliere in base agli atti la richiesta di revoca o di sostituzione della misura della custodia cautelare in carcere, fondata sull'incompatibilità delle condizioni di salute dell'indagato con lo stato di detenzione, disponga gli accertamenti medici del caso e nomini un perito ai sensi dell'art. 220 e seguenti c.p.p., devono essere rispettate tutte le formalità previste per la perizia, ivi compresi gli avvisi per l'accertamento peritale in modo da garantire il contraddittorio tra le parti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1379 del  7 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3412/1996
+                                      L'art. 221, comma 1, c.p.p. si limita a dettare la disciplina sulla «nomina del perito», senza minimamente prevedere limitazione alcuna al potere del giudice di disporre, nel caso lo ritenga necessario, una nuova perizia. L'ultima parte del predetto comma non subordina affatto la possibilità di nuova perizia alla previa declaratoria di nullità della precedente, ma soltanto ha voluto evitare, se possibile, che il nuovo incarico peritale sia affidato alla stessa persona che ha già compiuto un atto poi dichiarato nullo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3412 del  5 aprile 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 794/1996
+                                      Il divieto di perizie sul carattere, sulla personalità e sulle qualità psichiche (indipendenti da cause patologiche) dell'imputato — posto dall'art. 220, comma 2, c.p.p. — non si estende anche alla persona offesa-teste, la cui deposizione — proprio perché essa può essere assunta da sola come fonte di prova — deve essere sottoposta ad una rigorosa indagine positiva sulla credibilità accompagnata da un controllo sulla credibilità soggettiva, deve essere verificata anche ai sensi del comma 2 dell'art. 196 stesso codice (capacità di testimoniare): la verifica della «idoneità mentale» è rivolta ad accertare se la persona offesa sia stata nelle condizioni di rendersi conto dei comportamenti tenuti in pregiudizio della sua persona e del suo patrimonio e possa poi riferire in modo veritiero siffatti comportamenti. Ciò non significa che sia possibile demandare ad un perito la verifica dell'attendibilità del testimone, ma non esclude che il giudice possa ritenere utile un apporto di specifiche competenze tecnico-scientifiche: al giudicante spetta pur sempre l'ultima parola attraverso il vaglio critico delle nozioni acquisite alle quali non inserisce alcuna deterministica valenza ai fini decisionali.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 794 del 27 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9841/1995
+                                      Deve ritenersi legittima l'utilizzazione della testimonianza resa da un dipendente della «Sip» anche se nel corso della stessa si sia reso necessario procedere all'esame di quanto graficamente emergente da un tabulato di telefonate: trattasi invero di operazioni di semplice lettura, come tale non implicante alcune conoscenze particolari di natura scientifica, sicché riferire sul contenuto del tabulato è normale oggetto di testimonianza e non necessita di nomina di perito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 9841 del 25 settembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1856/1995
+                                      La perizia, acquisita in un processo ancora in corso, non può essere considerata «prova» ma solamente «mezzo di prova» soggetto a valutazione per divenire tale: conseguentemente essa non può, allo stato, essere utilizzata, in conformità al dettato della lett. c) dell'art. 630 c.p.p. quale «prova nuova» atta all'instaurazione del giudizio di revisione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1856 del  2 maggio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4860/1994
+                                      L'accertamento peritale ha la sua ragione d'essere nella necessità di apportare al giudice gli elementi indispensabili per la valutazione dell'elemento probatorio, sicché è consentito al decidente, nell'ambito del suo potere di controllo e supervisione, di pervenire ad un convincimento che, pur non trovando precisa aderenza al delimitato campo dell'indagine tecnica, trovi comunque giustificazione nella medesima e ne rappresenti il logico sviluppo. (Siffatto principio è stato affermato con riferimento a fattispecie nella quale due perizie su filmati di due diverse rapine, riprese a circuito chiuso in istituti bancari in tempi diversi, avevano concluso separatamente con un giudizio di probabilità sulla identificazione dell'imputato con uno dei rapinatori: i giudici di merito, confrontando le due perizie ed il materiale utilizzato, avevano concluso, a loro volta, per l'identità del rapinatore in entrambi i casi, traendo ulteriore elemento di prova a carico dell'imputato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4860 del 29 aprile 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8416/1993
+                                      Nel valutare i risultati di una perizia, il giudice deve verificare la stessa validità scientifica dei criteri e dei metodi di indagine utilizzati dal perito, allorché essi si presentino come nuovi e sperimentali e perciò non sottoposti al vaglio di una pluralità di casi ed al confronto critico tra gli esperti del settore, sì da non potersi considerare ancora acquisiti al patrimonio della comunità scientifica. Quando, invece, la perizia si fonda su cognizioni di comune dominio degli esperti e su tecniche d'indagine ormai consolidate, il giudice deve verificare unicamente la corretta applicazione delle suddette cognizioni e tecniche. (Fattispecie relativa a perizia fonica, nella quale essendo stata fatta per la prima volta applicazione di un metodo di ricerca definito «parametrico», dotato di un'elevatissima capacità di identificazione della voce, il giudice non ha operato la verifica circa la validità del nuovo approccio metodologico).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 8416 del  3 settembre 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1895/1993
+                                      L'infermità psichica dell'imputato non può essere desunta da malattia precedentemente diagnosticata, né dall'indagine peritale espletata nel corso di altro procedimento, ma deve formare oggetto di accertamento in relazione al fatto addebitato ed al tempo in cui esso è stato commesso, a condizione che sia specificamente allegata. (La Suprema Corte ha disatteso la doglianza concernente la mancata esecuzione d'una perizia psichiatrica, rilevando che l'infermità non era stata dedotta coi motivi d'appello e non aveva formato oggetto di allegazione nel giudizio di primo grado da parte del difensore, che aveva così contravvenuto al relativo onere).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1895 del 26 febbraio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11564/1992
+                                      Ai fini dell'accertamento della esatta natura di una sostanza ritenuta stupefacente, non è necessario l'espletamento della perizia: la necessità non deriva né dalla legge né dalla esperienza, ben potendosi pervenire a tale accertamento, anche, per la parte che attiene alla qualità e quantità della sostanza ritenuta drogante, in base a dichiarazioni testimoniali o confessorie, al risultato degli accertamenti di polizia o di una pluralità di indizi, gravi, specifici e concordanti, ai pareri di consulenti tecnici delle parti che abbiano esaminato il corpo del reato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 11564 del  4 dicembre 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3392/1992
+                                      L'ordinamento processuale non prevede alcun dovere di procedere a perizia o ad accertamento tecnico per stabilire la qualità e quantità del principio attivo di una sostanza drogante. Infatti, da un lato, il giudice può attingere tale conoscenza dalle diverse fonti di prova offerte dalle parti o acquisite eccezionalmente di ufficio, liberamente, entro i limiti di una motivazione logica e puntuale; dall'altro lato, le parti, in un sistema ispirato al principio del diritto alla prova a cui corrisponde il rischio della mancata prova, hanno il diritto di fare esaminare la sostanza sequestrata da propri consulenti e di chiedere una perizia nell'incidente probatorio o nel dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3392 del 29 ottobre 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7385/1992
+                                      L'intervento e l'assistenza alle operazioni peritali, anche per mezzo di un consulente tecnico di parte, è un diritto riservato all'imputato sottoposto a perizia, e non già a coimputati interessati non tanto all'accertamento della capacità di intendere e di volere del primo, quanto all'attendibilità dello stesso, accertamento che non può essere fatto oggetto di indagine peritale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7385 del 24 giugno 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2783/1992
+                                      L'istanza di perizia psichiatrica avanzata dalla difesa dell'imputato non preclude la domanda di giudizio abbreviato che, con la sua richiesta di definizione del processo allo stato degli atti, implica tacita rinuncia ad essa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2783 del 16 marzo 1992)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare la più idonea competenza tecnica e scientifica dei periti, nonchè l'efficienza di tale fondamentale mezzo di prova.
+Spiegazione: 
+La perizia appartiene anch’essa ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+Ai sensi della norma in esame, la perizia è ritenuta ammissibile nelle ipotesi in cui sia necessario svolgere indagini, ovvero acquisire dati o valutazioni che richiedano specifiche competenze tecniche, scientifiche ed artistiche. Tra le varie ipotesi applicative, pare opportuno indicare quella di cui all’art. 45 comma 5 D.P.R. 285/1990, il quale stabilisce che, se nel corso di una autopsia non ordinata dall’autorità giudiziaria emerga il sospetto che la morte sia dovuta a reato, il medico deve sospendere le operazioni e darne immediata comunicazione all’autorità giudiziaria.
+
+Altra ipotesi è prevista quando, per reati contro la personalità dei minori o contro la libertà sessuale, l’imputato deve essere sottoposto con le forma della perizia ad accertamenti per l’individuazione di patologie sessualmente trasmissibili.
+
+Ai sensi del secondo comma, vengono confermate le tradizionali esclusioni circa l’ammissibilità della perizia nei confronti di determinati soggetti. Difatti, salvo quanto disposto in sede di esecuzione della pene o della misura di sicurezza (rispettivamente artt. 678 co. 2 e 679 co.1, sono vietate le perizie concernenti il carattere e la personalità dell’imputato, la pericolosità sociale e, in genere, circa le sue qualità psichiche indipendenti da cause patologiche.
+
+Nel giudizio di cognizione non è possibile ricorrere ad un'indagine peritale riguardante le qualità psichiche dell'imputato indipendenti da cause patologiche, essendo solamente ammesso, nei casi in cui siano presenti disturbi psicologici della persona idonei a incidere sulla capacità di intendere e di volere, procedere a perizia per accertare l'esistenza e la rilevanza di questi, diversamente da quanto invece è previsto in sede di esecuzione della pena (art. 678) e della misura di sicurezza (art. 679).
+

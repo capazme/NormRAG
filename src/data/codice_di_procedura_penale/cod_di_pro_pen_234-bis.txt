@@ -1,0 +1,19 @@
+
+==================================================
+
+===== Article 234-bis =====
+[Primary - Text]
+Unknown formatting structure
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 234 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 234-bis
+
+[Secondary - Brocardi Information]
+Spiegazione: 
+La scelta legislativa si è occupata di tenere distinto l’ambito dei documenti da quello degli atti. I primi, che interessano il capo IV, sono formati fuori dall’ambito processuale, e devono essere acquisiti al processo per poter assumere rilevanza probatoria, mentre i secondi sono formati all’interno del procedimento.
+
+La norma in esame permette l’acquisizione di documenti e dati informatici conservati all’estero, anche di natura privata. In questo caso è però necessario il consenso del legittimo titolare.
+

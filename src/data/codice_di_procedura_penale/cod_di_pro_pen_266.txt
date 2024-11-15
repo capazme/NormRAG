@@ -1,0 +1,870 @@
+
+==================================================
+
+===== Article 266 =====
+[Primary - Text]
+Art. 266
+Limiti di ammissibilità
+
+1.  L'intercettazione di conversazioni o comunicazioni telefoniche e di altre forme di telecomunicazione è consentita nei procedimenti relativi ai seguenti reati:    
+ 
+ a) delitti non colposi per i quali è prevista la pena dell'ergastolo o della reclusione superiore nel massimo a cinque anni determinata a norma dell'articolo 4;    
+ 
+ b) delitti contro la pubblica amministrazione per i quali è prevista la pena della reclusione non inferiore nel massimo a cinque anni determinata a norma dell'articolo 4;    
+ 
+ c) delitti concernenti sostanze stupefacenti o psicotrope;    
+ 
+ d) delitti concernenti le armi e le sostanze esplosive;    
+ 
+ e) delitti di contrabbando;    
+ 
+ f) reati di ingiuria, minaccia, usura, abusiva attività finanziaria abuso di informazioni privilegiate, manipolazioni del mercato molestia o disturbo alle persone col mezzo del telefono.    
+ 
+ f-bis) delitti previsti dall' articolo 600-ter, terzo comma, del codice penale , anche se relativi al materiale pornografico di cui all'articolo 600-quater.1 del medesimo codice, nonché dall'art. 609-undecies;    
+ 
+ f-ter) delitti previsti dagli  articoli 444 ,  473 ,  474 ,  515 ,  516 ,  517-quater  e  633, secondo comma, del codice penale ;    
+ 
+ f-quater) delitto previsto dall' articolo 612-bis del codice penale .    
+ 
+ f-quinquies) delitti commessi avvalendosi delle condizioni previste dall' articolo 416-bis del codice penale  ovvero al fine di agevolare l'attività delle associazioni previste dallo stesso articolo. (270) ((275))
+
+2.  Negli stessi casi è consentita l'intercettazione di comunicazioni tra presenti , che può essere eseguita anche mediante l'inserimento di un captatore informatico su un dispositivo elettronico portatile. Tuttavia, qualora queste avvengano nei luoghi indicati dall' articolo 614 del codice penale , l'intercettazione è consentita solo se vi è fondato motivo di ritenere che ivi si stia svolgendo l'attività criminosa. (253) (260) (263) (267)  ((275))
+
+2-bis.  L'intercettazione di comunicazioni tra presenti mediante inserimento di captatore informatico su dispositivo elettronico portatile è sempre consentita nei procedimenti per i delitti di cui all'articolo 51, commi 3-bis e 3-quater, e, previa indicazione delle ragioni che ne giustificano l'utilizzo anche nei luoghi indicati dall' articolo 614 del codice penale , per i delitti dei pubblici ufficiali o degli incaricati di pubblico servizio contro la pubblica amministrazione per i quali è prevista la pena della reclusione non inferiore nel massimo a cinque anni, determinata a norma dell'articolo 4. (253) (260) (263) (267) (270)  ((275))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 266
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 266
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 35010/2020
+                                      In tema di intercettazioni ambientali a mezzo di captatore informatico ("trojan"), il riferimento al luogo di svolgimento dell'intercettazione tra presenti non costituisce presupposto di autorizzabilità, necessario ai fini del rispetto dell'art. 8 CEDU secondo l'interpretazione della giurisprudenza della Corte EDU, essendo, in via alternativa, consentito far ricorso all'indicazione del destinatario di essa ed in considerazione altresì della natura dinamica ed "itinerante" della captazione, che prescinde dal riferimento ai luoghi. (Rigetta, TRIB. LIBERTA' LECCE, 20/03/2020).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 35010 del 30 settembre 2020)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2568/2020
+                                      I gravi "indizi di reato", presupposto per il ricorso alle intercettazioni di conversazioni o di comunicazioni (nel caso di specie a mezzo di virus informatico), attengono all'esistenza dell'illecito penale e non alla colpevolezza di un determinato soggetto, sicché per procedere legittimamente ad intercettazione non è necessario che tali indizi siano a carico di persona individuata o del soggetto le cui comunicazioni debbano essere captate a fine di indagine. (Rigetta, TRIB. LIBERTA' REGGIO CALABRIA, 31/03/2020).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2568 del 18 settembre 2020)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29362/2020
+                                      L'intercettazione ambientale a mezzo "captatore informatico" installato in Italia su telefono collegato ad un gestore nazionale, non richiede l'attivazione di una rogatoria internazionale per il solo fatto che le conversazioni siano eseguite in parte all'estero, e temporaneamente registrate tramite wifi locale, a causa dello spostamento dell'apparecchio sul quale è inoculato il " malware", atteso che la captazione ha avuto origine e si è comunque realizzata in Italia, attraverso le centrali di ricezione presso la procura della Repubblica. (Rigetta, TRIB. LIBERTA' REGGIO CALABRIA, 07/11/2019).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 29362 del 22 luglio 2020)
+                  
+
+- 
+
+- 
+Cass. pen. n. 36361/2019
+                                      In tema di reati edilizi, ai sensi dell'art. 24, comma 4, d.P.R. 6 giugno 2001, n. 380, ai fini dell'agibilità dell'immobile, la segnalazione certificata dell'ultimazione dei lavori può riguardare anche solo una parte di una più complessa edificazione autorizzata, sia che si tratti di plurimi edifici da costruire, sia che si tratti di una articolata costruzione ovvero di un unico immobile comprensivo di più unità immobiliari, ma non le opere parzialmente realizzate prive di finiture. (Dichiara inammissibile, CORTE APPELLO MILANO, 28/05/2018).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 36361 del 29 marzo 2019)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15071/2019
+                                      I programmi informatici denominati "spy-software" che, se installati in modo occulto su un telefono cellulare, un "tablet" o un PC, consentono di captare tutto il traffico dei dati in arrivo o in partenza dal dispositivo, rientrano tra gli "apparati, strumenti, parti di apparati o di strumenti" diretti all'intercettazione o all'impedimento di comunicazioni o conversazioni telegrafiche o telefoniche tra altre persone, di cui all'art. 617-bis, comma primo, cod. pen., in quanto tale norma delinea una categoria aperta, suscettibile di essere implementata per effetto delle innovazioni tecnologiche che, nel tempo, consentono di realizzare gli scopi vietati dalla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 15071 del 18 marzo 2019)
+                  
+
+- 
+
+- 
+Cass. pen. n. 53375/2017
+                                      La registrazione di colloqui tra gli indagati effettuata dalla polizia giudiziaria mediante l'impiego di un telefono cellulare non costituisce una intercettazione ambientale, ma una forma di memorizzazione su supporto informatico di un fatto storico direttamente percepito dal teste, utilizzabile in dibattimento come documento a supporto della memoria degli operanti. (Rigetta, Trib. lib. Roma, 08/05/2017).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 53375 del  5 ottobre 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 39403/2017
+                                      In tema di intercettazioni ambientali, le operazioni di collocazione e disinstallazione del materiale tecnico necessario per eseguire le captazioni costituiscono atti materiali rimessi alla contingente valutazione della polizia giudiziaria, non essendo compito del pubblico ministero indicare le modalità dell'intrusione negli ambiti e luoghi privati ove verrà svolta l'intercettazione. (In motivazione, la Corte ha precisato che l'omessa documentazione delle operazioni svolte dalla polizia giudiziaria non dà luogo ad alcuna nullità od inutilizzabilità dei risultati delle intercettazioni ambientali). (Rigetta, App. Palermo, 29/06/2016).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 39403 del 23 giugno 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19200/2017
+                                      Nel caso di intercettazione telefonica "a cornetta sollevata", la registrazione dei colloqui fra presenti, casualmente ascoltati nel corso di un'intercettazione telefonica ritualmente autorizzata, anche prima dell'inizio della conversazione, è utilizzabile, non solo per l'applicazione di una misura cautelare, ma anche ai fini del giudizio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 19200 del 21 aprile 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15573/2017
+                                      Ai fini dell'utilizzabilità delle intercettazioni di comunicazioni tra presenti mediante l'installazione di un "captatore informatico", consentite nei soli procedimenti di criminalità organizzata, è ammissibile, da parte del tribunale del riesame, la riqualificazione come reato appartenente a tale categoria del fatto esposto nella richiesta di autorizzazione del pubblico ministero e nel provvedimento emesso dal G.i.p., in quanto ciò che conta è che il fatto, sebbene sussunto sotto altre figure di reato, sia qualificabile come delitto di criminalità organizzata.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 15573 del 29 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26889/2016
+                                      In tema di intercettazioni di conversazioni o comunicazioni, ai fini dell'applicazione della disciplina derogatoria delle norme codicistiche prevista dall'art. 13 del D.L. n. 152 del 1991, convertito dalla legge n. 203 del 1991, per procedimenti relativi a delitti di criminalità organizzata devono intendersi quelli elencati nell'art. 51, commi 3-bis e 3-quater, cod. proc. pen. nonché quelli comunque facenti capo ad un'associazione per delinquere, con esclusione del mero concorso di persone nel reato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 26889 del  1 luglio 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7634/2015
+                                      In tema d'intercettazioni telefoniche, il ricorso alla procedura dell'istradamento, e cioè il convogliamento delle chiamate in partenza dall'estero in un nodo situato in Italia (e a maggior ragione di quelle in partenza dall'Italia verso l'estero, delle quali è certo che vengono convogliate a mezzo di gestore sito nel territorio nazionale) non comporta la violazione delle norme sulle rogatorie internazionali, in quanto in tal modo tutta l'attività d'intercettazione, ricezione e registrazione delle telefonate viene interamente compiuta nel territorio italiano, mentre è necessario il ricorso all'assistenza giudiziaria all'estero unicamente per gli interventi da compiersi all'estero per l'intercettazione di conversazioni captate solo da un gestore straniero.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 7634 del 19 febbraio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37212/2014
+                                      Ai fini dell'acquisizione dei tabulati relativi al traffico telefonico, l'obbligo di motivazione del provvedimento acquisitivo, stante il modesto livello di intrusione nella sfera di riservatezza delle persone, è soddisfatto anche con espressioni sintetiche, nelle quali si sottolinei la necessità dell'investigazione, in relazione al proseguimento delle indagini ovvero all'individuazione dei soggetti coinvolti nel reato, o si richiamino, con espressione indicativa della loro condivisione da parte dell'autorità giudiziaria, le ragioni esposte da quella di polizia. (Fattispecie, nella quale la Corte ha ritenuto sufficientemente motivato il provvedimento acquisitivo con richiamo alla assoluta necessità dell'acquisizione ai fini del proseguimento delle indagini).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 37212 del  5 settembre 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32697/2014
+                                      In tema di intercettazioni, la conversazione o comunicazione intercettata costituisce corpo del reato unitamente al supporto che la contiene, in quanto tale utilizzabile nel processo penale, solo allorché essa stessa integri ed esaurisca la condotta criminosa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 32697 del 23 luglio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5073/2014
+                                      Qualora gli elementi a carico di un soggetto siano costituiti dalle dichiarazioni tra terzi, captate nel corso di operazioni di intercettazione, il giudice è chiamato ad un rigoroso apprezzamento delle risultanze processuali potenzialmente idonee ad invalidare il rilievo accusatorio delle dichiarazioni stesse. (Nella specie, relativa a traffico di stupefacenti, la Corte d'appello aveva identificato nel ricorrente il soggetto evocato da uno dei partecipanti alla conversazione, senza peraltro confutare le risultanze, di natura dichiarativa e documentale, che escludevano qualsiasi contatto o rapporto tra il ricorrente e il soggetto intercettato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5073 del 31 gennaio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 28602/2013
+                                      In tema di intercettazioni la nozione di "delitti di criminalità organizzata" di cui all'art. 12, d.l. n. 152 del 1991 (conv. in l. 203 del 1991), ricomprende nel suo ambito applicativo attività criminose diverse, purché realizzate da una pluralità di soggetti i quali, per la commissione del reato, abbiano costituito un apposito apparato organizzativo talchè sono ad essa riconducibili non solo i reati di criminalità mafiosa e assimilati, ma tutte le fattispecie criminose di tipo associativo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 28602 del  3 luglio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24219/2013
+                                      La rilevazione del numero di una utenza contattata, conservato nella memoria di un apparecchio di telefonia mobile, è una operazione non assimilabile all'acquisizione dei dati di traffico conservati presso il gestore dei servizi telefonici e non necessita, quindi, del decreto di autorizzazione dell'autorità giudiziaria, potendo conseguire ad una mera attività di ispezione del telefono da parte della polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 24219 del  4 giugno 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21644/2013
+                                      È manifestamente infondata la questione di legittimità costituzionale dell'art. 266, comma secondo, c.p.p., sollevata in relazione all'art. 14 della Costituzione, che statuisce il principio dell'inviolabilità del domicilio, perché la collocazione di microspie all'interno di un luogo di privata dimora costituisce una delle naturali modalità di attuazione delle intercettazioni, costituenti mezzo di ricerca della prova funzionale al soddisfacimento dell'interesse pubblico all'accertamento di gravi delitti, tutelato dal principio dell'obbligatorietà dell'azione penale (art. 112 della Costituzione), con il quale il principio di inviolabilità del domicilio deve necessariamente coordinarsi, subendo la necessaria compressione, al pari di quanto previsto dall'art. 15 della Costituzione in tema di libertà e segretezza della corrispondenza e di ogni altra forma di comunicazione. (In motivazione, la S.C. ha osservato altresì che la previa autorizzazione a disporre le operazioni di intercettazione rende superflua l'indicazione da parte del giudice delle modalità da seguire nell'espletamento dell'attività materiale e tecnica da parte della polizia giudiziaria, e che la registrazione delle conversazioni intercettate offre la prova delle operazioni compiute nel luogo e nei tempi indicati dal giudice stesso e dal P.M.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 21644 del 21 maggio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8365/2013
+                                      In tema di intercettazioni ambientali, l'abitacolo di un autoveicolo non può essere considerato luogo di privata dimora, sì che, in tal caso, non può trovare applicazione il disposto di cui all'art. 266, comma secondo, cod. proc. pen.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 8365 del 20 febbraio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6339/2013
+                                      Non è riconducibile alla nozione di intercettazione la registrazione fonografica di un colloquio svoltosi tra presenti o mediante strumenti di trasmissione, operata, sebbene clandestinamente, da un soggetto che ne sia partecipe o, comunque, sia ammesso ad assistervi, costituendo, invece, una forma di memorizzazione fonica di un fatto storico, della quale l'autore può disporre legittimamente, anche a fini di prova. (La Corte ha specificato che tale principio non viene meno per la circostanza che l'autore della registrazione abbia previamente denunciato fatti di cui sia vittima, né può ritenersi che per ciò solo le successive registrazioni realizzate dal denunciante con il proprio cellulare fossero state concordate con la polizia giudiziaria).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6339 del  8 febbraio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 22276/2012
+                                      I risultati delle intercettazioni telefoniche disposte per un reato rientrante tra quelli indicati nell'art. 266 c.p.p. sono utilizzabili anche relativamente ad altri reati per i quali si procede nel medesimo procedimento, pur se per essi le intercettazioni non sarebbero state consentite. (Fattispecie in cui è stata ritenuta utilizzabile l'intercettazione, disposta per associazione a delinquere e corruzione, anche per il delitto di rivelazione di segreto di ufficio).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 22276 del  8 giugno 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16289/2012
+                                      L'attività di intercettazione eseguita attraverso un programma emulatore - denominato "Daemon" - che crea periferiche virtuali, consentendo di accantonare i dati registrati in memoria e di differirne l'ascolto, al fine di prevenire il rilevamento del segnale audio da parte dei soggetti controllati e la sua neutralizzazione con apposita strumentazione di bonifica delle captazioni, non viola alcuna delle disposizioni esecutive delle operazioni di intercettazione, prescritte a pena di inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 16289 del  3 maggio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11189/2012
+                                      In sede di legittimità è possibile prospettare una interpretazione del significato di una intercettazione diversa da quella proposta dal giudice di merito solo in presenza del travisamento della prova, ovvero nel caso in cui il giudice di merito ne abbia indicato il contenuto in modo difforme da quello reale, e la difformità risulti decisiva ed incontestabile.
+                                          
+                      –
+                      
+                                                          In tema di intercettazioni telefoniche, è irrilevante che la richiesta di autorizzazione del P.M., nonostante l'urgenza prospettata, sia stata accolta dal G.i.p. con ritardo, e che a ciò abbia fatto seguito altro ritardo nell'adozione del decreto esecutivo, ovvero nella materiale esecuzione del provvedimento da parte della Polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 11189 del 22 marzo 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5956/2012
+                                      Sono utilizzabili i risultati delle intercettazioni di comunicazioni tra presenti anche quando nel corso dell'esecuzione intervenga una variazione dei luoghi in cui deve svolgersi la captazione, purché rientrante nella specificità dell'ambiente oggetto dell'intercettazione autorizzata. (Nella specie la captazione ambientale era stata trasferita dalla vettura oggetto di autorizzazione ad altra vettura successivamente acquistata dall'indagato sottoposto ad intercettazione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 5956 del 15 febbraio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4243/2012
+                                      Nel giudizio abbreviato è utilizzabile la trascrizione/traduzione di intercettazioni di conversazioni (nella specie, "ambientali") depositata successivamente all'ammissione, ma prima del giudizio, poiché la prova processualmente utilizzabile è costituita dai nastri registrati, non già dalla loro trascrizione, che costituisce operazione puramente rappresentativa in forma grafica del contenuto della prova già acquisita attraverso la registrazione fonica; d'altro canto, anche l'attività di traduzione non presenta carattere additivo o manipolativo rispetto alla fonte probatoria originaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4243 del  1 febbraio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1707/2012
+                                      Sono utilizzabili i risultati delle videoregistrazioni effettuate nel corso delle indagini all'interno di un bar e di una cornetteria, atteso che gli stessi non possono considerarsi luoghi di privata dimora.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1707 del 17 gennaio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13979/2009
+                                      Ai fini dell'ammissibilità dell'intercettazione di comunicazioni tra presenti, l'abitacolo di una autovettura non può essere considerato luogo di privata dimora.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 13979 del 31 marzo 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 36359/2008
+                                      Condizione necessaria per l'utilizzabilità delle intercettazioni è che l'attività di registrazione che, sulla base delle tecnologie attualmente in uso, consiste nella immissione dei dati captati in una memoria informatica centralizzata avvenga nei locali della Procura della Repubblica mediante l'utilizzo di impianti ivi esistenti, mentre non rileva che negli stessi locali vengano successivamente svolte anche le ulteriori attività di ascolto, verbalizzazione ed eventuale riproduzione dei dati così registrati, che possono dunque essere eseguite «in remoto » presso gli uffici della polizia giudiziaria. (In motivazione la Corte ha precisato, con riguardo all'attività di riproduzione e cioè di trasferimento su supporti informatici di quanto registrato mediante gli impianti presenti nell'ufficio giudiziario, che trattasi di operazione estranea alla nozione di «registrazione » la cui «remotizzazione » non pregiudica le garanzie della difesa, alla quale è sempre consentito l'accesso alle registrazioni originali ).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 36359 del 23 settembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35003/2008
+                                      Ai fini dell'accertamento sulla sussistenza del dolo o della colpa grave rilevanti nel giudizio di riparazione per l'ingiusta detenzione, sono utilizzabili le intercettazioni "ambientali" riportate nell'ordinanza coercitiva, ma successivamente non utilizzate in dibattimento, non essendo state sottoposte a perizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 35003 del  9 settembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32851/2008
+                                      Ai fini dell'ammissibilità ed utilizzabilità delle intercettazioni tra presenti di cui all'art. 266, comma secondo, c.p.p., la cella e gli ambienti penitenziari non sono luoghi di privata dimora, non essendo nel «possesso » dei detenuti, ai quali non compete alcuno ius excludendi alios tali ambienti, infatti, si trovano nella piena e completa disponibilità dell'amministrazione penitenziaria, che ne può farne uso in ogni momento per qualsiasi esigenza d'istituto.
+                                          
+                      –
+                      
+                                                          In tema di intercettazioni ambientali, l'abitacolo di un'autovettura non può essere considerato luogo di privata dimora, essendo sfornito dei conforti minimi necessari per potervi risiedere stabilmente per un apprezzabile lasso di tempo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 32851 del  6 maggio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8588/2008
+                                      L'intercettazione di comunicazioni tra presenti eseguita a bordo di una autovettura attraverso una microspia installata nel territorio nazionale, dove si svolge altresì l'attività di captazione, non richiede l'attivazione di una rogatoria per il solo fatto che il suddetto veicolo si sposti anche in territorio straniero ed ivi si svolgano alcune delle conversazioni intercettate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 8588 del 27 febbraio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4111/2008
+                                      In tema di intercettazioni di conversazioni o comunicazioni, non determina l'inutilizzabilità delle intercettazioni la circostanza che il verbale delle operazioni eseguite venga redatto in un luogo diverso da quello in cui viene effettuata la registrazione, né la predetta sanzione processuale può essere estesa all'inosservanza delle prescrizioni di cui all'art. 89 att. c.p.p., tra cui non è compresa l'identificazione del luogo di redazione del verbale con quello in cui le registrazioni sono state materialmente eseguite.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 4111 del 28 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15077/2007
+                                      In tema di intercettazioni telefoniche, l'omesso deposito del cosiddetto brogliaccio (documento consistente nella sintesi delle conversazioni intercettate eseguita dalla polizia giudiziaria che procede all'operazione) non è sanzionato da alcuna nullità, o inutilizzabilità delle intercettazioni medesime. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 15077 del 13 aprile 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37372/2006
+                                      In tema di autorizzazione all'intercettazione di comunicazioni telefoniche disposte ai sensi dell'art. 13 del D.L. 13 maggio 1991 n. 152, conv. con L. 12 luglio 1991 n. 203, l'emissione del decreto da parte di G.i.p. incompetente è priva di effetti sulla validità del provvedimento stesso poiché vale il principio generale, previsto dall'art. 26 comma primo c.p.p., per cui l'inosservanza delle norme sulla competenza non produce l'inefficacia delle prove già acquisite.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 37372 del 10 novembre 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26795/2006
+                                      A differenza delle riprese visive in luoghi pubblici, le videoregistrazioni di comportamenti non comunicativi in ambito domiciliare, siccome acquisite in violazione dell'art. 14 Cost., sono illegittime e processualmente inutilizzabili, né esse possono essere a tal fine qualificate come prova atipica ex art. 189 c.p.p., perché tale categoria presuppone comunque la formazione lecita della prova come necessaria condizione della sua ammissibilità.
+                                          
+                      –
+                      
+                                                          Le video registrazioni di comportamenti non comunicativi in luoghi (nella specie, i privé di un locale pubblico) che, pur non costituendo domicilio, sono utilizzati per attività che si vogliono mantenere riservate, rientrano nella categoria delle prove atipiche e sono suscettibili di utilizzazione probatoria sempre che siano eseguite sulla base di un provvedimento motivato dell'autorità giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 26795 del 28 luglio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10772/2004
+                                      Non è manifestamente infondata, con riferimento agli artt. 3, 24 e 112 della Costituzione, la questione di legittimità costituzionale degli artt. 6, commi 2 e ss., e 7, della legge 30 giugno 2003, n. 140 in base ai quali il contenuto di conversazioni e comunicazioni intercettate nel corso di procedimenti riguardanti terze persone ed alle quali abbia preso parte (anche - deve intendersi - per interposta persona) un membro del Parlamento (c.d. intercettazioni “indirette” da ritenersi, come tali, escluse dall'ambito della tutela apprestata dall'art. 68, comma terzo, della Costituzione), è colpito da inutilizzabilità in mancanza di autorizzazione da parte della Camera cui il parlamentare appartiene.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        ordinanza n. 10772 del  9 marzo 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 36747/2003
+                                      La registrazione fonografica di una conversazione o di una comunicazione ad opera di uno degli interlocutori, anche se operatore di polizia giudiziaria, e all'insaputa dell'altro (o degli altri) non costituisce intercettazione, difettandone il requisito fondamentale, vale a dire la terzietà del captante, che dall'esterno s'intromette in ambito privato non violabile.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 36747 del 24 settembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16590/2003
+                                      Nell'ipotesi in cui si proceda ad intercettazione di conversazioni tra presenti ad opera della polizia giudiziaria è sempre necessaria l'autorizzazione del giudice anche se uno degli interlocutori ne è consapevole, in quanto la sua rinuncia alla riservatezza non rende lecita l'intercettazione ad opera di un terzo che è rimasto estraneo al colloquio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 16590 del  8 aprile 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6962/2003
+                                      Il servizio di osservazione realizzato dalla polizia giudiziaria per mezzo di una telecamera installata all'interno di un bagno di un locale pubblico non configura una forma di intercettazione tra presenti ai sensi dell'art. 266 comma 2 c.p.p., in quanto il luogo in questione, caratterizzato da una frequenza assolutamente temporanea degli avventori e condizionata unicamente alla soddisfazione di un bisogno personale, non può essere assimilato ai luoghi di privata dimora di cui all'art. 614 c.p., che presuppongono una relazione con un minimo grado di stabilità con le persone che li frequentano. (Vedi C. Cost. 13 febbraio 2002 n. 135).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6962 del 12 febbraio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16130/2002
+                                      La localizzazione tramite sistema satellitare (così detto GPS) degli spostamenti di un soggetto nei confronti del quale sono in corso indagini, benché comporti un controllo non poco invasivo a carico del soggetto medesimo, non è in alcun modo assimilabile alla attività di intercettazione, prevista dagli artt. 266 c.p.p. e non necessita quindi di alcuna autorizzazione preventiva da parte del giudice per le indagini preliminari.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 16130 del  2 maggio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7724/2002
+                                      L'attività posta in essere dall'agente di polizia giudiziaria il quale, subito dopo l'arresto dell'indagato, risponda alle telefonate che pervengono all'apparecchio cellulare di quest'ultimo, non è qualificabile come «intercettazione» e non è, quindi, soggetta alla disciplina di cui agli artt. 266 e seguenti c.p.p., giacché la presenza dell'indagato, comportando la piena consapevolezza, da parte sua, dell'interferenza in atto, esclude che la medesima presenti l'indispensabile requisito della insidiosità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 7724 del 27 febbraio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 33474/2001
+                                      In tema di riesame di misura cautelare disposta dal giudice incompetente (art. 27 c.p.p.), non determina la inutilizzabilità degli esiti delle intercettazioni telefoniche la circostanza che non siano stati di nuovo trasmessi al tribunale del riesame investito a seguito di rinnovazione della misura da parte del giudice competente i relativi decreti autorizzativi, qualora risulti che gli stessi erano stati ritualmente inviati al tribunale precedentemente investito del riesame avverso la misura originariamente disposta dal giudice incompetente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 33474 del 10 settembre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29628/2001
+                                      In tema di intercettazioni di conversazioni telefoniche, il decreto di convalida emesso dal Gip a seguito del provvedimento urgente adottato dal P.M., deve essere trasmesso al tribunale del riesame al fine di consentire, anche al soggetto interessato, il controllo sulla legalità delle intercettazioni effettuate. La mancata trasmissione del detto provvedimento, ancorché la sua esistenza possa essere desunta indirettamente, determina l'inutilizzabilità dei risultati delle intercettazioni, senza che ciò dia anche luogo all'automatica inefficacia della misura cautelare in atto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 29628 del 24 luglio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 17/2000
+                                      In tema di intercettazione, captazione e registrazione di colloqui telefonici o tra presenti, ovvero di flussi di comunicazioni informatici o telematici, una volta concluso il subprocedimento di ascolto, selezione e acquisizione delle conversazioni e dei flussi con l'esecuzione delle conseguenti operazioni di trascrizione o di stampa, secondo le regole dettate dall'art. 268 c.p.p., non è consentito, salvo eccezionali ipotesi che, per quanto riguarda il giudizio di appello, sono regolate dall'art. 603 stesso codice, chiedere un nuovo ascolto delle conversazioni o una nuova presa di cognizione dei flussi informatici.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 17 del 21 settembre 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8458/2000
+                                      Ai fini dell'acquisizione dei tabulati contenenti i dati esterni identificativi delle comunicazioni telefoniche conservati in archivi informatici del gestore del servizio, è sufficiente il decreto motivato dell'autorità giudiziaria, non essendo necessaria, per il diverso livello di intrusione nella sfera di riservatezza che ne deriva, l'osservanza delle disposizioni relative alla intercettazione di conversazioni o comunicazioni di cui all'art. 266 ss. c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 8458 del 21 luglio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16/2000
+                                      Per l'acquisizione dei dati esterni relativi al traffico telefonico - concernenti gli autori, il tempo, il luogo, il volume e la durata della comunicazione, fatta esclusione del contenuto di questa - archiviati dall'ente gestore del servizio di telefonia, è sufficiente, in considerazione della limitata invasività dell'atto, e sulla base dello schema delineato nell'art. 256 c.p.p., eterointegrato dall'art. 15, secondo comma, Cost., il decreto del pubblico ministero con il quale si dia conto delle ragioni che fanno prevalere sul diritto alla privacy l'interesse pubblico di perseguire i reati. E invero, anche se manca la previsione di un immediato controllo giurisdizionale di detto decreto motivato, tuttavia il recupero di tale controllo, che attiene a un mezzo di ricerca della prova, avviene attraverso la rilevabilità, anche di ufficio, dell'eventuale relativa inutilizzabilità, in ogni stato e grado del procedimento, così nelle indagini preliminari nel contesto incidentale relativo all'applicazione di una misura cautelare, come nell'udienza preliminare, ovvero nel dibattimento o nel giudizio di impugnazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 16 del 30 giugno 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3732/2000
+                                      Anche in relazione ad intercettazioni cosiddette “ambientali” è necessario il decreto motivato del P.M. che autorizzi, in sede di esecuzione delle operazioni, l'uso di apparecchiature esterne a quelle in dotazione agli uffici giudiziari, in quanto il secondo comma dell'art. 266 c.p.p. fa esplicito riferimento alle “comunicazioni tra presenti”, assimilandole, in tutto e per tutto, a quelle telefoniche e alle altre forme di telecomunicazioni, sicché non v'è ragione per ritenere che il successivo art. 268, dettando regole per l'esecuzione delle operazioni, senza distinzioni di sorta, abbia escluso dalla rigorosa disciplina imposta le comunicazioni di un certo tipo, aprendo un vulnus del tutto ingiustificato nella tutela del diritto garantito dall'art. 15 della Costituzione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3732 del 26 giugno 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6/2000
+                                      Ai fini dell'acquisizione dei tabulati contenenti i dati esterni identificativi delle comunicazioni telefoniche conservati in archivi informatici dal gestore del servizio è sufficiente il decreto motivato dell'autorita giudiziaria, non essendo necessaria, per il diverso livello di intrusione nella sfera di riservatezza che ne deriva, l'osservanza delle disposizioni relative all'intercettazione di conversazioni o comunicazioni di cui agli articoli 266 e seguenti cos. proc. pen. (Nell'affermare tale principio la Corte ha altresì precisato che il controllo giurisdizionale sul provvedimento acquisitivo, che attiene ad un mezzo di ricerca della prova, si attua mediante la rilevabilità anche d'ufficio, in ogni stato e grado del procedimento, dell'eventuale inutilizzabilità, essendo l'art. 191 c.p.p. applicabile anche alle c.d. prove “incostituzionali” perchè assunte con modalità lesive dei diritti fondamentali).
+                                          
+                      –
+                      
+                                                          In tema di intercettazione di conversazioni o comunicazioni, la durata delle operazioni deve calcolarsi, ai fini del controllo del rispetto del termine per il quale è intervenuta l'autorizzazione del giudice, dal momento di inizio effettivo delle intercettazioni. (In applicazione di tale principio la Corte ha ritenuto utilizzabili gli esiti di intercettazioni telefoniche — durate trentasette giorni — le quali, autorizzate dal giudice per quaranta giorni, avevano avuto effettiva esecuzione oltre un mese dopo la data fissata per il loro inizio dal decreto del pubblico ministero che le aveva disposte).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 6 del  8 maggio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 776/2000
+                                      In tema di motivazione di decreti autorizzativi di attività di intercettazione, non essendo necessaria un'analitica esposizione degli elementi dai quali è dato desumere la probabilità della avvenuta consumazione di un reato, è consentito che detta motivazione (che ben può richiamare atti contenuti nella richiesta del P.M. o che siano comunque nella disponibilità delle parti) si esaurisca nella sommaria esposizione di tali elementi. Peraltro, un eventuale difetto di motivazione, potendo essere sanato dall'integrazione, effettuata secondo le regole generali, dal giudice dell'impugnazione cautelare, non dà luogo a nullità né ad inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 776 del  9 marzo 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3541/1999
+                                      L'intercettazione di comunicazioni tra presenti richiede l'indicazione dell'ambiente nel quale l'operazione deve avvenire solo quando si tratti di abitazioni o luoghi privati, secondo l'indicazione di cui all'art. 614 del codice penale. In tal senso i locali di uno stabilimento carcerario o, più ancora, la sala colloqui non sono luoghi di privata dimora.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3541 del  2 dicembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4561/1999
+                                      Mentre nelle intercettazioni di conversazioni o comunicazioni effettuate mediante l'uso del telefono, nonché di altre forme di telecomunicazione ovvero di sistemi informatici o telematici presuppongono l'esistenza di una specifica apparecchiatura o di un particolare sistema da sottoporre a intercettazione, sicché, per ciascuna operazione di intercettazione, i relativi dati di identificazione devono essere precisati in maniera particolare nei rispettivi decreti autorizzativi, le intercettazioni delle comunicazioni tra presenti, di cui al secondo comma dell'art. 266 c.p.p., per la loro intrinseca natura, non presuppongono, perché siano realizzate, la mediazione di mezzi tecnici, come tali provvisti necessariamente di dati identificativi, sicché la variazione non dello specifico ambiente per il quale è stata autorizzata l'intercettazione, ma soltanto della diversità del mezzo che lo connota, pur sempre rientrante nella specificità dell'ambiente oggetto dell'intercettazione autorizzata, non è ostativa all'utilizzazione del contenuto delle intercettazioni eseguite sull'uno o sull'altro mezzo di svolgimento delle conversazioni tra presenti. (Fattispecie relativa a intercettazione ambientale autorizzata per una autovettura nella disponibilità dell'indagato ed eseguita su diversa autovettura, sempre nella sua disponibilità).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4561 del 27 luglio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6302/1999
+                                      Le registrazioni di conversazione tra persone presenti da parte di uno degli interlocutori non necessitano all'autorizzazione del Gip ai sensi dell'art. 267 c.p.p. in quanto non rientrano nel concetto di «intercettazioni» telefoniche in senso tecnico, ma si risolvono sostanzialmente in una particolare forma di documentazione, che non è sottoposta alle limitazioni e alle formalità proprie delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6302 del 19 maggio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2486/1999
+                                      In tema di intercettazioni di conversazioni, la disciplina degli artt. 266 e ss. c.p.p. è posta a tutela del diritto costituzionalmente garantito al rispetto della vita privata da intromissioni estranee ed in particolare è diretta ad evitare che terzi soggetti possano, attraverso appositi strumenti, captare conversazioni che si svolgono tra altre persone ed in tal modo venirne a conoscenza. Ne consegue che quando la registrazione venga operata senza intervento di estranei, per effetto di apparecchio a disposizione proprio di uno dei presenti, la garanzia prevista dalle menzionate norme non opera: in tal caso invero non può parlarsi di «intercettazione» in senso tecnico. (Fattispecie relativa alla registrazione di frasi ingiuriose rivolte ad un malato, e captate dal registratore posto nella stanza per ragioni terapeutiche).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2486 del 25 febbraio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3458/1999
+                                      Deve ritenersi assoggettata alla disciplina delle intercettazioni di comunicazioni tra presenti anche l'ipotesi in cui una persona, nell'ambito di una attività collaborativa con le forze di polizia, celi un microfono collegato via radio alla unità centrale, in tal modo consentendo alle Forze di polizia l'ascolto diretto dei colloqui. Anche attraverso tale modalità, infatti, si determina una grave ingerenza nella vita privata dei soggetti interessati, non eliminata e nemmeno attenuata dalla circostanza, meramente accidentale, che uno di essi sia consenziente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3458 del 13 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4401/1998
+                                      L'art. 266 c.p.p., autorizzando l'intercettazione di conversazioni o comunicazioni telefoniche nel corso di indagini relative a determinati reati, consente il controllo sia delle telefonate in arrivo su utenze italiane, sia delle telefonate che partono dall'Italia verso utenze straniere. Né il ricorso alla procedura del c.d. istradamento — convogliamento delle chiamate partenti da una certa zona all'estero in un «nodo» posto in Italia — comporta la violazione delle norme sulle rogatorie internazionali, in quanto in tal modo tutta l'attività di intercettazione, ricezione e registrazione delle telefonate, viene compiuta completamente sul territorio italiano.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 4401 del 21 ottobre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21/1998
+                                      Poiché la stampa dei tabulati concernenti il flusso informatico relativo ai dati esterni al contenuto delle comunicazioni telefoniche costituisce la documentazione, in forma intelligibile, del flusso medesimo, la relativa acquisizione soggiace alla stessa disciplina delle garanzie di segretezza e libertà delle comunicazioni a mezzo di sistemi informatici di cui alla L. 23 dicembre 1993, n. 547 (che ha introdotto l'art. 266 bis e modificato l'art. 268 c.p.p.,), sicché il divieto di utilizzazione previsto dall'art. 271 c.p.p. è riferibile anche all'acquisizione dei tabulati predetti tutte le volte che avvenga in violazione dell'art. 267, cioé in assenza del prescritto decreto motivato. (In motivazione la Corte ha precisato che la legittima acquisizione dei tabulati in parola può essere disposta nel corso delle indagini preliminari dal pubblico ministero e dal giudice che procede — art. 267 c.p.p. — o dal giudice del dibattimento o di appello, rispettivamente ai sensi degli artt. 507 e 603 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 21 del 24 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 982/1998
+                                      Nel caso di intercettazione telefonica «a cornetta sollevata», la registrazione dei colloqui fra presenti non dipende da un'indebita violazione della privacy ma dal comportamento degli interlocutori, i quali, lasciando il ricevitore alzato, fanno sì che la loro conversazione - altrimenti percettibile solo tramite un'intercettazione ambientale - viaggi liberamente lungo la rete telefonica, rimanendo «scoperta» dal punto di vista della segretezza. Pertanto, il casuale ascolto di tale conversazione nel corso di un'intercettazione telefonica ritualmente autorizzata è utilizzabile ai fini dell'applicazione di una misura cautelare, non rientrando nella sfera di operatività degli artt. 15 Cost. e 266-271 c.p.p., che non sono applicabili nella specie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 982 del 16 luglio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1831/1998
+                                      Ai fini della individuazione delle condizioni e dei limiti di ammissibilità delle intercettazioni di comunicazioni tra presenti, rientrano nel concetto di privata dimora tutti quei luoghi che, oltre all'abitazione, assolvano alla funzione di proteggere la vita privata e che siano perciò destinati al riposo, all'alimentazione, alle occupazioni professionali e all'attività di svago, tra cui va ricompreso l'abitacolo di una autovettura adibita, di regola, ai trasferimenti da e per il luogo di lavoro e di svago. È pertanto legittima l'intercettazione di colloqui tra presenti che si svolgono all'interno di un'autovettura quando esista il fondato sospetto, da intendersi come prognosi da formulare con giudizio ex ante all'atto della emanazione del provvedimento di autorizzazione, giacché in tal caso l'interesse all'inviolabilità del domicilio trova il limite della tutela di interessi generali, anch'essi costituzionalmente garantiti, ravvisabili nell'esigenza di esercitare l'azione penale che, ex art. 112 Cost., è obbligatoria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 1831 del 10 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3133/1998
+                                      In tema di intercettazioni di conversazioni e comunicazioni, la mancata attuazione, nelle forme prescritte, del preventivo controllo dell'autorità giudiziaria circa l'ammissibilità e le modalità dell'intercettazione, coinvolgendo il diritto, di rango costituzionale, alla riservatezza delle comunicazioni che riguarda non il solo indagato, ma una pluralità non preventivamente determinabile di soggetti, realizza automaticamente una situazione di radicale illegittimità sanzionata, ai sensi dell'art. 271 c.p.p., non solo dalla inutilizzabilità dei risultati, ma dalla fisica eliminazione del materiale ricavato, che il giudice deve disporre d'ufficio in ogni stadio processuale. Ne consegue che non è ammissibile un uso, anche parziale o limitato alla sola fase delle indagini, di un materiale di cui è addirittura prescritta la distruzione. Tale disciplina, dettata per l'ascolto di comunicazioni telefoniche o realizzate con altri mezzi di telecomunicazione, è estesa alle conversazioni «tra presenti» - cosiddette intercettazioni ambientali - (con l'ulteriore limite, quando avvengano in luogo di privata dimora, della fondata previsione che ivi sia in atto l'attività criminosa) nonché alle comunicazioni per via informatica o telematica (artt. 266, comma 2 e 266 bis c.p.p.): in dette ipotesi, tuttavia, lo svolgimento delle operazioni sarà necessariamente condizionato dalle particolari tecnologie che consentono di captare il flusso delle comunicazioni in questione, restando quindi, allo stato, di per sè esclusa la possibilità di impiegare i posti di ascolto presso le procure della Repubblica.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3133 del 12 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3104/1998
+                                      Autorizzata la intercettazione delle conversazioni telefoniche è irrilevante l'oggetto delle registrazioni, purché realizzate con lo specifico mezzo in relazione al quale è stato concesso l'atto autorizzatorio nel rispetto dei presupposti di legge, per cui deve escludersi la inutilizzabilità del contenuto di conversazioni tra presenti, in luogo di quelle tra persone lontane, intercettate in modo anomalo o fortuito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 3104 del 11 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2103/1998
+                                      Ai fini dell'ammissibilità ed utilizzabilità delle intercettazioni tra presenti di cui all'ultimo comma dell'art. 266 c.p.p., la cella di un carcere non può essere considerata luogo di privata dimora, dovendosi intendere come tale quello adibito all'esercizio di attività che ognuno ha il diritto di svolgere liberamente e legittimamente senza turbativa da parte di estranei; deve cioè trattarsi di luoghi che assolvano attualmente e concretamente la funzione di proteggere la vita privata di coloro che li posseggono, i quali sono titolari dello ius excludendi alios al fine di tutelare il diritto alla riservatezza nello svolgimento delle manifestazioni della vita privata della persona che l'art. 14 della Costituzione garantisce, proclamando l'inviolabilità del domicilio. Alla stregua di tali principi è di intuitiva evidenza che la cella non è un luogo di privata dimora non essendo nel «possesso» dei detenuti ai quali non compete alcuno ius excludendi alios per essere, invece, nel possesso e nella completa disponibilità dell'amministrazione penitenziaria, che ne può disporre ad ogni ora del giorno e della notte per qualsiasi necessità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2103 del 19 febbraio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4533/1998
+                                      Ai fini dei presupposti legittimanti le intercettazioni fra presenti in luogo di privata dimora, la condizione contemplata dall'art. 266, comma secondo, c.p.p., consistente nel fondato motivo di ritenere che in uno di detti luoghi si stia svolgendo l'attività criminosa, non può dirsi insoddisfatta per il fatto che tale presunta attività risulti essere ulteriore rispetto ai fatti criminosi già emersi a seguito delle indagini pregresse, non essendo siffatta limitazione prevista né espressamente né implicitamente dalla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4533 del 17 febbraio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4397/1998
+                                      In tema di intercettazioni tra presenti, la collocazione di microspie all'interno di un luogo di privata dimora, costituendo una naturale modalità attuativa di tale mezzo di ricerca della prova, deve ritenersi ammessa dalla legge (in particolare, dall'art. 266, comma secondo, c.p.p.), e, essendo funzionale al soddisfacimento dell'interesse pubblico all'accertamento di gravi delitti, non viola l'art. 14 Cost., precetto che deve essere coordinato, al pari di quello di cui all'art. 15 Cost., con il predetto interesse pubblico, tutelato dall'art. 112 Cost.
+                                          
+                      –
+                      
+                                                          La finalità dell'intercettazione c.d. «ambientale» prevista (con disposizione innovativa rispetto alla disciplina contenuta nel codice di rito previgente) dall'art. 266, comma 2 c.p.p. può essere solo quella di captare le «comunicazioni», cioè gli scambi di messaggi che, in qualsiasi modo (anche gestuale) hanno luogo tra persone presenti, con esclusione, quindi, di ogni altro comportamento o situazione che non abbia la detta finalità di scambio. Ne consegue che i risultati di intercettazioni ambientali effettuate con videocamera sono utilizzabili solo nella parte in cui attengono a dati oggetto di comunicazione nel senso sopra indicato, dovendosi invece escludere l'utilizzabilità di tutto quanto il resto che sia caduto nella percezione visiva del mezzo adoperato e non abbia natura di messaggio intenzionalmente trasmesso da un soggetto ad un altro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4397 del 21 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3901/1997
+                                      In tema di applicazione del disposto del secondo comma dell'art. 266 c.p.p. — secondo il quale l'intercettazione di comunicazione tra presenti, quando avvenga nei luoghi indicati nell'art. 614 c.p., «è consentito solo se vi è fondato motivo di ritenere che ivi si stia svolgendo l'attività criminosa» — il concetto di privata dimora è più ampio di quello di casa di abitazione e comprende ogni luogo che venga adoperato, anche in modo contingente, per lo svolgimento di attività privata di qualsiasi specie: dunque, luogo adibito ad attività che ogni avente diritto ha facoltà di svolgere liberamente e legittimamente, senza turbative da parte di estranei che si ha il diritto di escludere. Alla stregua di tale definizione è evidente che la sala colloqui di un istituto di detenzione, quale pertinenza di questo, ne segue la condizione di luogo (lato sensu) pubblico, sotto il diretto ed immediato controllo dell'autorità carceraria che su essa esercita la vigilanza e cui soltanto compete lo ius excludendi, mentre al singolo detenuto residua soltanto la facoltà, autorizzata, di ricevere determinate visite. Ne consegue che deve escludersi che l'intercettazione ambientale in detta sala colloqui possa essere consentita solo nel caso in cui si abbia fondato motivo di ritenere che in essa si stia svolgendo l'attività criminosa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3901 del 28 aprile 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5301/1996
+                                      In tema di intercettazioni telefoniche, la interpretazione del linguaggio e del contenuto delle conversazioni costituisce questione di fatto, rimessa alla valutazione del giudice di merito, e si sottrae alla valutazione del sindacato di legittimità se tale valutazione è motivata in conformità ai criteri della logica e delle massime di esperienza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5301 del  4 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1904/1996
+                                      In tema di applicazione del disposto del secondo comma dell'art. 266 c.p.p. — secondo il quale l'intercettazione di comunicazioni tra presenti, quando avvenga nei luoghi indicati nell'art. 614 c.p., «è consentita solo se vi è fondato motivo di ritenere che ivi si stia svolgendo l'attività criminosa» — il concetto di privata dimora è più ampio di quello di casa di abitazione, comprendendo ogni luogo che viene adoperato, anche in modo transitorio e contingente, per lo svolgimento di attività privata come quella di studio, commercio, lavoro, tempo libero ecc. Ma tale concetto non può essere esteso al punto tale da comprendervi anche l'abitacolo di un autoveicolo. Infatti l'abitacolo di un autoveicolo non può considerarsi privata dimora, in quanto sfornito dei conforti minimi necessari per potervi risiedere in modo stabile per un apprezzabile lasso di tempo; né tantomeno tale abitacolo può considerarsi appartenenza di privata dimora, in quanto non collegato in un rapporto funzionale di accessorietà o di servizio con la stessa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1904 del 17 febbraio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12591/1995
+                                      Le intercettazioni di conversazioni che l'utente sotto controllo, sollevata la cornetta dell'apparecchio telefonico domestico, e prima di comporre il numero del destinatario, abbia occasionalmente con persone presenti, non rientrano nel genus di cui all'art. 614, secondo comma c.p. Pertanto, esse non abbisognano di particolare autorizzazione, non potendo essere considerate alla stregua delle intercettazioni ambientali operate nei luoghi la cui riservatezza esige maggiore tutela. (Fattispecie nella quale è stato ritenuto che l'autorizzazione data per l'intercettazione delle conversazioni telefoniche, rende legittima anche la captazione di quelle del genere sopraindicato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 12591 del 28 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12412/1995
+                                      L'adozione del nuovo rito per un procedimento che avrebbe dovuto proseguire, secondo l'art. 242 att. nuovo c.p.p., con quello precedentemente in vigore, non comporta nullità, stante il principio di tassatività delle nullità stesse, sancito da entrambi i codici. Peraltro, ove siano state acquisite prove non previste dall'ordinamento processuale abrogato, esse sono inutilizzabili ai fini della decisione. (Fattispecie in cui la sentenza era basata sui risultati delle intercettazioni ambientali, introdotte dal nuovo codice di procedura).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 12412 del 15 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2533/1995
+                                      L'intercettazione di conversazioni effettuate via etere per mezzo di un apparecchio ricetrasmittente privo di concessione non sono soggette ad autorizzazione alcuna da parte dell'autorità giudiziaria, perché relative a comunicazioni non costituzionalmente garantite in quanto effettuate con mezzo illegale, il cui uso costituisce reato, ed in quanto prive del requisito della riservatezza, in quanto liberamente captabili da chiunque, nel raggio di irradiazione, si avvalga di un apparecchio ricevente sintonizzato sulla stessa lunghezza d'onda.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2533 del 15 marzo 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2164/1995
+                                      Il divieto di utilizzabilità a fini probatori delle registrazioni di conversazioni non debitamente autorizzate è posto a tutela del diritto, costituzionalmente garantito, al rispetto della vita privata da intromissioni estranee; l'esercizio di tale diritto postula, tuttavia, che l'accesso ai mezzi di comunicazione e l'uso degli stessi avvengano alle condizioni e con le modalità non vietate dalla legge: conseguentemente non è illegittima ed è perciò utilizzabile anche se effettuata senza l'autorizzazione del giudice, l'intercettazione di conversazioni svoltesi mediante apparecchi rice-trasmittenti non consentiti, il cui uso è penalmente sanzionato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2164 del  2 marzo 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1367/1995
+                                      L'art. 266, comma 2, c.p.p., nel richiedere, come condizione atta a legittimare le intercettazioni ambientali in luoghi di privata dimora, che vi sia «fondato motivo di ritenere che ivi si stia svolgendo l'attività criminosa», non postula affatto che detta attività risulti, poi, essere stata effettivamente sussistente, essendo invece da considerare sufficiente, sulla base del testuale dettato normativo (oltre che della evidente ratio legis), che dell'attività in questione potesse, con giudizio ex ante, ragionevolmente ritenersi la sussistenza all'atto dell'emanazione del provvedimento di autorizzazione all'effettuazione delle operazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1367 del 10 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1079/1995
+                                      La possibile audizione nel corso dell'intercettazione telefonica di frasi pronunciate da persona che si trova nei pressi di chi parla al telefono non trasforma in intercettazione di comunicazioni tra presenti l'operazione in corso che rimane caratterizzata da interferenze attuate esclusivamente sulla rete telefonica e non comporta l'utilizzo di quei diversi dispositivi, per i quali il legislatore ha previsto la disciplina più rigorosa dettata dall'art. 266 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1079 del  1 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4141/1992
+                                      In tema di applicazione del disposto del secondo comma dell'art. 266 c.p.p. — secondo il quale l'intercettazione di comunicazioni tra presenti, quando avvenga nei luoghi indicati dall'art. 614 c.p., «è consentita solo se vi è fondato motivo di ritenere che ivi si stia svolgendo l'attività criminosa» — per luogo di privata dimora deve intendersi quello adibito ad esercizio di attività che ognuno ha il diritto di svolgere liberamente e legittimamente, senza turbativa da parte di estranei e tale è anche il luogo di esercizio di attività commerciale (nella specie trattavasi di un'agenzia di trasporti). (Nell'affermare il principio di cui in massima, la Cassazione ha anche rilevato che il principio dell'inviolabilità del domicilio — art. 14 Cost. — va correlato con la facoltà attribuita — art. 15 Cost. — alla legge ordinaria di prevedere e regolare intromissioni nel privato anche con la limitazione di ogni forma di comunicazione per atto motivato dell'autorità giudiziaria; limitazione conseguente al privilegio che compete all'interesse pubblico la cui attuazione è demandata al P.M. dalla Costituzione-art. 112).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4141 del  2 dicembre 1992)
+                  
+
+- 
+
+Ratio: La ratio di tale disposizione si coglie nell'esigenza di garantire il principio costituzionalmente garantito della libertà e della segretezza delle comunicazioni (art. 15), le cui limitazioni sono dunque ammissibili solo se poste in essere nel rispetto delle garanzie stabilite ex lege.
+Spiegazione: 
+Le intercettazioni appartengono ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+L’ambito delle intercettazioni si presenta assai delicato, in quanto involve la libertà e la segretezza delle comunicazioni, definite inviolabili dall’articolo 15 della Costituzione.
+
+La norma in commento si occupa innanzitutto di definire i limiti oggettivi per l’ammissibilità dell’intercettazione di conversazioni, con riferimento all’elenco dei reati per cui si procede, da ritenersi tassativo e non suscettibile quindi di interpretazione estensiva, ivi compresi i colloqui tra presenti, anche nei luoghi di domicilio, ovvero di comunicazioni di qualsiasi specie (e dunque non solo comunicazioni telefoniche o telegrafiche, ma anche, ad esempio, di tutte le comunicazioni di cui all’articolo 623 bis c.p.). Nello specifico, per effetto dell’introduzione dell’articolo 266 bis viene ammessa anche l’intercettazione del flusso di comunicazioni relativo a sistemi informatici o telematici.
+
+Ad ogni modo, l’intercettazione è ammissibile solo quando vi siano gravi indizi di reato e sia assolutamente indispensabile per la prosecuzione delle indagini, come stabilito dall’articolo 267.
+
+Ai sensi del comma 2 del presente articolo, l’intercettazione di comunicazioni tra presenti può essere eseguita solo qualora si proceda per i reati elencati, anche mediante una “cimice” inserita in un dispositivo elettronico portatile (pc).
+
+Tuttavia, quando l’intercettazione ambientale sia effettuata in uno dei luoghi di cui all’articolo 614 c.p. (abitazione altrui, altro luogo di privata dimora o nelle appartenenze di essi), l’intercettazione è consentita solo se vi è fondato motivo di ritenere che ivi si stia svolgendo l’attività criminosa. Sempre consentita senza limiti è invece l’intercettazione ambientale, qualora si proceda per i gravi reati di cui all’articolo 51 commi 3 bis e 3 quater.
+

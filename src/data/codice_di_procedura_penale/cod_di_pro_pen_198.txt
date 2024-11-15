@@ -1,0 +1,52 @@
+
+==================================================
+
+===== Article 198 =====
+[Primary - Text]
+Art. 198
+Obblighi del testimone
+
+1.  Il testimone ha l'obbligo di presentarsi al giudice e di attenersi alle prescrizioni date dal medesimo per le esigenze processuali e di rispondere secondo verità alle domande che gli sono rivolte.
+
+2.  Il testimone non può essere obbligato a deporre su fatti dai quali potrebbe emergere una sua responsabilità penale.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 198
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 198
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 21784/2010
+                                      L'inosservanza del divieto per il testimone di assistere all'esame delle parti e degli altri testimoni non determina alcuna nullità o inutilizzabilità della testimonianza assunta, potendo semmai influire sulla valutazione di attendibilità di quest'ultima da parte del giudice. (Rigetta, App. Bologna, 29 maggio 2006).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 21784 del 10 marzo 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41169/2008
+                                      Le dichiarazioni dell'imputato di reato collegato, pur se assunte irritualmente con forma della testimonianza e con la pronuncia della formula di cui all'art. 497, comma secondo, c.p.p., possono essere utilizzate dal giudice a fini probatori, sempre che non sia stata violata alcuna garanzia sostanziale, e segnatamente quella sancita dall'art. 198, comma secondo, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 41169 del  4 novembre 2008)
+                  
+
+- 
+
+Ratio: Al fine di garantire una valida testimonianza, il legislatore ha ancorato l'ufficio del testimone ha a una serie di doveri processuali, nonchè a precise garanzie.
+Spiegazione: 
+La norma in oggetto delinea i doveri processuali cui è tenuto il testimone. Difatti, dopo aver descritto i tradizionali obblighi propri dell'ufficio testimoniale, ovvero di presentarsi al giudice, di attenersi alle prescrizioni da lui impartite e di rispondere con verità, la norma inserisce la classica garanzia contro il rischio di self-incrimination, stabilendosi che il medesimo teste non può essere obbligato a deporre su fatti dai quali potrebbe emergere una sua responsabilità.
+
+La ratio sta dunque nel temperare il superiore interesse ordinamentale di perseguire l'accertamento della verità con quello atto a tutelare le persone coinvolte a vario titolo nel procedimento penale, al fine di impedire che i testimoni siano obbligati a dichiarare l'esistenza di fatti controproducenti.
+
+Il teste è avvisato dell'obbligo di dire la verità sia all'inizio della deposizione, sia quando il giudice sospetti che la deposizione sia falsa o reticente ed in caso, all'esito del dibattimento, il giudice provvederà a denunciare il teste falso al P.M., trasmettendogli i relativi atti ex art. 207 comma secondo.
+

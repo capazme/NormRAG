@@ -1,0 +1,74 @@
+
+==================================================
+
+===== Article 254-bis =====
+[Primary - Text]
+Art. 254-bis
+Titolo non trovato
+
+1.  L'autorità giudiziaria, quando dispone il sequestro, presso i fornitori di servizi informatici, telematici o di telecomunicazioni, dei dati da questi detenuti, compresi quelli di traffico o di ubicazione, può stabilire, per esigenze legate alla regolare fornitura dei medesimi servizi, che la loro acquisizione avvenga mediante copia di essi su adeguato supporto, con una procedura che assicuri la conformità dei dati acquisiti a quelli originali e la loro immodificabilità. In questo caso è, comunque, ordinato al fornitore dei servizi di conservare e proteggere adeguatamente i dati originali.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 254 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 254-bis
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 40963/2017
+                                      È ammissibile il ricorso per cassazione avverso l'ordinanza del tribunale del riesame di conferma del sequestro probatorio di un computer o di un supporto informatico, nel caso in cui ne risulti la restituzione previa estrazione di copia dei dati ivi contenuti, sempre che sia dedotto l'interesse, concreto e attuale, alla esclusiva disponibilità dei dati.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 40963 del  7 settembre 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11905/2016
+                                      L'estrazione di dati archiviati in un supposto informatico (nella specie: floppy disk) non costituisce accertamento tecnico irripetibile anche dopo l'entrata in vigore della legge 18 marzo 2008, n. 48, che ha introdotto unicamente l'obbligo per la polizia giudiziaria di rispettare determinati protocolli di comportamento, senza prevedere alcuna sanzione processuale in caso di mancata loro adozione, potendone derivare, invece, eventualmente, effetti sull'attendibilità della prova rappresentata dall'accertamento eseguito. (In motivazione, la S.C. ha precisato che è fatta salva la necessità di verificare in concreto la sussistenza di eventuali alterazioni dei dati originali e la corrispondenza ad essi di quelli estratti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 11905 del 21 marzo 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 31022/2015
+                                      In tema di sequestro preventivo, l'autorità giudiziaria, ove ricorrano i presupposti del "fumus commissi delicti" e del "periculum in mora", può disporre, nel rispetto del principio di proporzionalità, il sequestro preventivo di un intero sito web o di una singola pagina telematica, imponendo al fornitore dei servizi internet, anche in via d'urgenza, di oscurare una risorsa elettronica o di impedirne l'accesso agli utenti ai sensi degli artt. 14, 15 e 16 del d.l.vo 9 aprile 2003, n. 70, in quanto la equiparazione dei dati informatici alle cose in senso giuridico consente di inibire la disponibilità delle informazioni in rete e di impedire la protrazione delle conseguenze dannose del reato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 31022 del 17 luglio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29061/2015
+                                      L'estrazione di dati archiviati in un computer non costituisce accertamento tecnico irripetibile anche dopo l'entrata in vigore della legge 18 marzo 2008, n. 48, che ha introdotto unicamente l'obbligo di adottare modalità acquisitive idonee a garantire la conformità dei dati informatici acquisiti a quelli originali; ne deriva che la mancata adozione di tali modalità non comporta l'inutilizzabilità dei risultati probatori acquisiti, ma la necessità di valutare, in concreto, la sussistenza di eventuali alterazioni dei dati originali e la corrispondenza ad essi di quelli estratti. (In motivazione, la Suprema Corte ha chiarito che i dati di carattere informatico rientrano in ogni caso nel novero delle prove documentali).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 29061 del  8 luglio 2015)
+                  
+
+- 
+
+Ratio: La norma in esame è stata introdotta al fine specifico di introdurre una particolare disciplina di garanzia in materia si sequestro presso i fornitori di servizi informatici, telematici o di telecomunicazioni.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora a finalità preventive (artt. 321-323).
+
+La norma in esame prevede una particolare disciplina di garanzia in relazione al sequestro presso i fornitori di servizi informatici, telematici o di telecomunicazioni di dati dai medesimi detenuti.
+
+La dottrina ritiene che tale norma deve essere interpretata nel senso che non conferisce un potere all'autorità giudiziaria, bensì si limita a regolare le modalità di esercizio di quel potere già attribuito ex art. 254, in relazione però a dati che si caratterizzano per l'elevata delicatezza e modificabilità.
+
+In tali casi l’autorità giudiziaria può stabilire che, per esigenze legate alla regolare fornitura dei servizi, l’acquisizione del materiale rilevante avvenga mediante copia di esso su adeguato supporto, attraverso una procedura che assicuri la conformità dei dati acquisiti a quelli originali e la loro immodificabilità.
+

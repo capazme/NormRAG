@@ -1,0 +1,32 @@
+
+==================================================
+
+===== Article 268-quater =====
+[Primary - Text]
+Art. 268-quater
+
+ARTICOLO ABROGATO DAL
+D.L. 30 DICEMBRE 2019, N. 161
+, CONVERTITO CON MODIFICAZIONI DALLA
+L. 28 FEBBRAIO 2020, N. 7
+(270)
+((275))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 268 quater
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 268-quater
+
+[Secondary - Brocardi Information]
+Spiegazione: 
+Si è visto all’articolo precedente (268 ter), che quando non è necessaria l’adozione di una misura cautelare, il pubblico ministero presenta al giudice la richiesta di acquisizione dell’elenco delle intercettazioni informatiche e/o telematiche rilevanti ai fini della prova, e avvisa i difensori delle parti.
+
+Entro cinque giorni dalla presentazione delle richieste, il giudice dispone eventualmente tramite ordinanza l’acquisizione delle intercettazioni indicate dalle parti, salvo che siano manifestamente irrilevanti ed in tal caso ne ordina lo stralcio.
+
+L’ordinanza di cui sopra può essere emessa all'esito dell’udienza fissata per il quinto giorno successivo alla scadenza del termine indicato al comma 1, dandone però tempestivo avviso al pubblico ministero e ai difensori. Ciò significa in sostanza che la decisione può essere procrastinata al più tardi fino a dice giorni dopo la ricezione delle richieste relative alle intercettazioni.
+
+Per quanto concerne il segreto, con l’ordinanza di cui sopra viene meno il segreto sugli atti e i verbali delle conversazioni e comunicazioni oggetto di acquisizione. Essi sono inseriti nel fascicolo del pubblico ministero. A tal fine il giudice ordina la trascrizione sommaria, a cura del pubblico ministero, del contenuto delle comunicazioni o conversazioni acquisite su richiesta dei difensori, se nel verbale delle operazioni di cui all’articolo 268, comma 2, sono indicate soltanto la data, l’ora e il dispositivo su cui la registrazione è intervenuta.
+
+Gli atti e i verbali relativi a comunicazioni e conversazioni non acquisite sono immediatamente restituiti al pubblico ministero per la conservazione nell'archivio riservato presso l’ufficio del pubblico ministero.
+

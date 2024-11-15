@@ -1,0 +1,186 @@
+
+==================================================
+
+===== Article 233 =====
+[Primary - Text]
+Art. 233
+Consulenza tecnica fuori dei casi di perizia
+
+1.  Quando non è stata disposta perizia, ciascuna parte può nominare, in numero non superiore a due, propri consulenti tecnici.   
+Questi possono esporre al giudice il proprio parere, anche presentando memorie a norma dell'articolo 121.
+
+((1-bis. Il giudice, a richiesta del difensore, può autorizzare il consulente tecnico di una parte privata ad esaminare le cose sequestrate nel luogo in cui esse si trovano, ad intervenire alle ispezioni, ovvero ad esaminare l'oggetto delle ispezioni alle quali il consulente non è intervenuto. Prima dell'esercizio dell'azione penale l'autorizzazione è disposta dal pubblico ministero a richiesta del difensore. Contro il decreto che respinge la richiesta il difensore può proporre opposizione al giudice, che provvede nelle forme di cui all'articolo 127))
+
+((1-ter. L'autorità giudiziaria impartisce le prescrizioni necessarie per la conservazione dello stato originario delle cose e dei luoghi e per il rispetto delle persone))
+
+2.  Qualora, successivamente alla nomina del consulente tecnico, sia disposta perizia, ai consulenti tecnici già nominati sono riconosciuti i diritti e le facoltà previsti dall'articolo 230, salvo il limite previsto dall'articolo 225 comma 1.
+
+3.  Si applica la disposizione dell'articolo 225 comma 3.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 233
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 233
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 35702/2009
+                                      Dà luogo ad una nullità di ordine generale, da ritenersi sanata se non dedotta immediatamente dopo la pronuncia della relativa ordinanza, il diniego di autorizzazione alla parte di farsi assistere dal consulente nel corso dell'esame testimoniale in dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 35702 del  9 giugno 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 25992/2009
+                                      La violazione del diritto dell'imputato di farsi assistere dal proprio consulente nel corso dell'incidente probatorio integra una nullità generale a regime intermedio che, in quanto verificatasi alla presenza della parte, è da ritenersi sanata se non eccepita prima del compimento dell'atto, ovvero, se ciò non sia possibile, immediatamente dopo. (Rigetta, App. Milano, 22 Ottobre 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 25992 del 13 maggio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16683/2009
+                                      L'utilizzabilità in fase di indagine preliminare dei risultati degli accertamenti tecnici compiuti dalla polizia giudiziaria con il ricorso alla collaborazione di ausiliari non richiede che costoro siano individuati con l'osservanza delle forme e delle modalità previste per la nomina del consulente tecnico del pubblico ministero. (Rigetta, Trib. Teramo, 26 Giugno 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 16683 del  5 marzo 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3932/2008
+                                      Il divieto di controllo auditivo dei colloqui dei detenuti con i congiunti ed altri visitatori è finalizzato a garantire la riservatezza del contenuto di detti colloqui, sì che è consentita la registrazione fonetica dei timbri e delle qualità delle voci degli interlocutori, nei termini strettamente funzionali al solo riconoscimento delle voci stesse. (In applicazione di tale principio la Corte ha ritenuto utilizzabile consulenza fonica del P.M. con cui si era effettuata la comparazione tra la voce risultante da comunicazioni telefoniche oggetto d'intercettazione e la voce dell'imputato registrata durante i suddetti colloqui). (Rigetta, Trib. lib. Napoli, 13 Maggio 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3932 del 28 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2101/2008
+                                      L'inutilizzabilità delle notizie che il perito o il consulente riceva, in sede di espletamento di incarico, dall'imputato, dalla persona offesa o da altre persone, non ha natura patologica bensì fisiologica, sicché il contenuto della consulenza tecnica disposta dal P.M. può essere legittimamente utilizzato nel rito abbreviato, ai fini di prova della responsabilità dell'imputato, anche con riguardo a dette notizie. (Fattispecie di avvenuta utilizzazione di consulenza psicopedagogica disposta in procedimento per reato di violenza sessuale su minore contenente la descrizione, da parte della persona offesa, degli abusi subiti). (Rigetta, App. Salerno, 16 Novembre 2007).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2101 del 11 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8377/2008
+                                      In tema di istruzione dibattimentale, le dichiarazioni rese dai consulenti tecnici di parte, indipendentemente dallo svolgimento del proprio incarico in ambito peritale ovvero extraperitale, hanno il medesimo valore probatorio di quelle testimoniali, in quanto l'art. 501, comma primo, cod. proc. pen. riconosce sostanziale qualità di testimone ai consulenti tecnici ammessi su richiesta di parte. (Rigetta, App. Milano, 4 Dicembre 2006)
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 8377 del 17 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 33810/2007
+                                      Il consulente tecnico nominato dal pubblico ministero non è incompatibile con l'ufficio di testimone, perchè non assume la qualità di ausiliario del pubblico ministero. (Rigetta in parte, App. Milano, 2 Marzo 2005).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 33810 del 26 aprile 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 34947/2006
+                                      In tema di formazione, acquisizione e utilizzazione della prova, non sussiste alcun ostacolo normativo all'espletamento di un confronto, in sede dibattimentale, tra periti e consulenti, dato che l'art. 211 cod. proc. pen. non limita questo mezzo di prova a categorie di soggetti predeterminati e l'art. 501, comma primo, stesso codice assimila la posizione dei periti e dei consulenti a quella dei testimoni. (Rigetta, Ass.App. Palermo, 7 ottobre 2005).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 34947 del 24 maggio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12647/2006
+                                      Le dichiarazioni rese da minori vittime di reati sessuali al consulente tecnico del pubblico ministero sono utilizzabili solo ai fini delle conclusioni dell'incarico di consulenza - volta a verificare la credibilità dei testi in vista dell'esame protetto -, ma non possono essere utilizzate dal giudice quali dichiarazioni testimoniali ai fini della ricostruzione del fatto, giusto il divieto di cui all'art. 228, comma terzo cod.proc.pen. e il disposto degli artt. 392 comma 1-bis e 398 comma 5-bis cod.proc.pen. (Annulla con rinvio, App. Torino, 10 Giugno 2003).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 12647 del  1 febbraio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2211/2005
+                                      In tema di perizia e consulenza tecnica, la scelta dell'esperto tra soggetti non iscritti nell''Albo dei consulenti del giudice non produce alcuna nullità della nomina, né tantomeno incide sulla relazione da questi prodotta, o sulla attendibilità della stessa. (Rigetta, App. Trieste, 18 Maggio 2005).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2211 del 23 novembre 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7671/2004
+                                      In tema di consulenza tecnica disposta dal pubblico ministero, costituisce giudizio di fatto, non sindacabile dal giudice di legittimità, la valutazione se il compito affidato al consulente richieda competenze tecniche o scientifiche diverse da quelle giuridiche proprie dell'inquirente, o se piuttosto si tratti di una delega di attività investigative o valutative tipiche del pubblico ministero e della polizia giudiziaria, come tale non riconducibile alla nozione di consulenza tecnica. (Nella specie la Corte ha respinto il ricorso contro un provvedimento del tribunale che, valutando l'opposizione di alcuni imputati contro decreti di liquidazione dei compensi adottati dal pubblico ministero, aveva deliberato il parziale annullamento di questi ultimi, sul presupposto che si riferissero ad una attività di conduzione congiunta dell'indagine, come tale non remunerabile. In particolare, essendosi richiesta al consulente la creazione di una banca informatica dei dati d'indagine raccolti a proposito di contratti assicurativi e la individuazione di elementi di anomalia per una parte tra essi, il tribunale aveva ritenuto che tale seconda porzione dell'attività non costituisse l'oggetto di una consulenza tecnica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 7671 del 14 gennaio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6506/1998
+                                      Il potere delle parti di nominare propri consulenti tecnici e la facoltà di questi ultimi di esporre il proprio parere al giudice, anche mediante memorie, soggiacciono alle disposizioni generali in materia di prove ed in particolare all'art. 190 c.p.p. sul diritto alla prova. Ne consegue che anche la consulenza, non essendone prevista la ammissibilità di ufficio, è ammessa solo a richiesta di parte. È pertanto evidente che se una parte, pubblica o privata, non ritiene di avvalersi della facoltà, prevista dall'art. 233 c.p.p., di presentare al giudice i propri consulenti o di esibire i pareri da essi redatti, l'altra parte non può pretendere di far acquisire di ufficio dal giudice i detti pareri, invocando le norme degli artt. 234 ss. relative alla acquisizione dei documenti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6506 del  3 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 177/1992
+                                      Nell'ipotesi di trasformazione del giudizio direttissimo in abbreviato, il secondo comma dell'art. 452 c.p.p. prevede, nel particolare caso dell'impossibilità della decisione allo stato degli atti, la possibilità di assumere nuovi elementi probatori. In tale ambito di assunzione può certamente farsi rientrare l'attività di «consulenza tecnica fuori dei casi di perizia» in cui ciascuna delle parti — al di fuori delle complesse formalità di cui agli artt. 220 e segg. c.p.p. — può offrire al giudice un adeguato parere tecnico attraverso un consulente all'uopo nominato. (Nella specie la S.C. ha ritenuto che, poiché il pubblico ministero si era indotto a richiedere l'assunzione — non di perizia — bensì della menzionata consulenza tecnica, e dato che tale incombente poteva essere esperito anche nel corso del giudizio abbreviato «atipico» di cui trattasi, l'opposizione della pubblica accusa alla introduzione di siffatto rito rimaneva priva di giustificazione, sicché la pena irrogata doveva essere diminuita di un terzo ai sensi dell'art. 442, comma secondo, c.p.p. e a tanto essa S.C. provvedeva).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 177 del 10 gennaio 1992)
+                  
+
+- 
+
+Ratio: La norma realizza un importante presupposto per l'attuazione del diritto alla prova riguardo a materie che, per loro natura, potrebbero anche dare luogo a perizia.
+Spiegazione: 
+Ai sensi dell’art. 225 la perizia può essere disposta dal giudice sia su apposita istanza di parte, sia d’ufficio, con ordinanza motivata, che enuclei la sommaria enunciazione dei fatti, la nomina del perito e l’indicazione del giorno, dell’ora e del luogo in cui dovrà essere svolta la perizia.
+
+Ai sensi della norma in commento, una volta disposta la perizia, le parti private ed il pubblico ministero hanno la facoltà di nominare propri consulenti tecnici in numero non superiore, per ciascuna parte, a quello dei periti, e questo al fine di permettere un contraddittorio paritario tra i vari soggetti del procedimento penale.
+
+Invece, qualora il giudice non abbia disposto alcuna perizia, ciò non impedisce alle parti di nominare propri consulenti tecnici. Essi non possono essere più di due per parte, e possono esporre al giudice il proprio parere, anche presentando memorie. Qualora la perizia non venisse disposta il consulente tecnico può di sua iniziativa svolgere indagini e accertamenti consentitigli dall'oggettiva disponibilità di persone, cose o luoghi, col risultato di fornire all parte gli apporti tecnici necessari per gli ulteriori sviluppi processuali, considerando poi che lo stesso può essere sottoposto ad esame nel corso del dibattimento proprio per consentire l'acquisizione probatoria degli esiti delle sue indagini e delle sue valutazioni ex art. 501.
+
+Al fine di consentire alla parti di svolgere apposite indagini tramite i propri consulenti, il giudice, su richiesta del difensore, può autorizzare il consulente tecnico di una parte privata ad esaminare le cose sequestrate nel luogo in cui esse si trovano, ad intervenire alle ispezioni e ad esaminare l'oggetto delle ispezioni alle quali il consulente non è intervenuto. Prima dell'esercizio dell'azione penale l'autorizzazione è invece disposta dal pubblico ministero a richiesta del difensore. Contro il decreto che respinge la richiesta il difensore può proporre opposizione al giudice, che provvede nelle forme di cui all'articolo 
+
+L’autorità giudiziaria deve ovviamente garantire la conservazione dello stato dei luoghi e delle cose oggetto di consulenza tecnica, e pertanto può impartire le prescrizioni necessarie.
+
+Come per le ipotesi di incompatibilità del perito, anche il consulente tecnico non deve trovarsi in una delle situazioni di cui all’articolo 222 comma 1, lett. a, b, c, d.
+

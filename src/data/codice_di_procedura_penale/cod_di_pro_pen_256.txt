@@ -1,0 +1,90 @@
+
+==================================================
+
+===== Article 256 =====
+[Primary - Text]
+Art. 256
+Dovere di esibizione e segreti
+
+1.  Le persone indicate negli articoli 200 e 201 devono consegnare immediatamente all'autorità giudiziaria, che ne faccia richiesta, gli atti e i documenti, anche in originale se così è ordinato,  (( nonché i dati, le informazioni e i programmi informatici, anche mediante copia di essi su adeguato supporto, ))  e ogni altra cosa esistente presso di esse per ragioni del loro ufficio, incarico, ministero, professione o arte, salvo che dichiarino per iscritto che si tratti di segreto di Stato ovvero di segreto inerente al loro ufficio o professione.
+
+2.  Quando la dichiarazione concerne un segreto di ufficio o professionale, l'autorità giudiziaria, se ha motivo di dubitare della fondatezza di essa e ritiene di non potere procedere senza acquisire gli atti, i documenti o le cose indicati nel comma 1, provvede agli accertamenti necessari. Se la dichiarazione risulta infondata, l'autorità giudiziaria dispone il sequestro.
+
+3.  Quando la dichiarazione concerne un segreto di Stato, l'autorità giudiziaria ne informa il Presidente del Consiglio dei Ministri, chiedendo che ne sia data conferma. Qualora il segreto sia confermato e la prova sia essenziale per la definizione del processo, il giudice dichiara non doversi procedere per l'esistenza di un segreto di Stato.
+
+4.  Qualora, entro sessanta giorni dalla notificazione della richiesta, il Presidente del Consiglio dei Ministri non dia conferma del segreto, l'autorità giudiziaria dispone il sequestro.
+
+5.  Si applica la disposizione dell'articolo 204.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 256
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 256
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 31735/2014
+                                      Il rispetto del principio di proporzionalità tra il segreto professionale riconosciuto al giornalista professionista a tutela della libertà di informazione, e quella di assicurare l'accertamento dei fatti oggetto di indagine penale, impone che l'ordine di esibizione rivolto al giornalista ai sensi dell'art. 256 cod. proc. pen., e l'eventuale successivo provvedimento di sequestro probatorio siano specificamente motivati anche quanto alla specifica individuazione della "res" da sottoporre a vincolo ed all'assoluta necessità di apprendere la stessa ai fini dell'accertamento della notizia di reato. (Fattispecie relativa ad un procedimento contro ignoti per il reato di cui all'art. 326 cod. pen. in relazione alla divulgazione della notizia di riunioni tenutesi presso la D.N.A., in cui la Corte ha ritenuto illegittimo il sequestro di "computer", "pen drive", DVD, lettore MP3 ecc. in uso ad un giornalista e, invece, legittimo il sequestro dei documenti intestati "D.N.A.", anch'essi detenuti dal medesimo professionista).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 31735 del 18 luglio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 144/1997
+                                      In assenza di formale opposizione del segreto d'ufficio o professionale alla richiesta di esibizione di documentazione ai sensi dell'art. 256 comma primo c.p.p., nulla impedisce all'autorità giudiziaria procedente di emanare un normale decreto di sequestro della documentazione in questione sulla base della norma generale di cui all'art. 253, comma primo c.p.p. e non dell'art. 256, comma secondo stesso codice, la cui operatività è espressamente fondata nel presupposto cui vi sia stata una formale opposizione del segreto, della cui fondatezza l'autorità giudiziaria procedente abbia motivo di dubitare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 144 del 23 aprile 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1692/1994
+                                      L'obbligo di esibizione di cui all'art. 256 c.p.p. ed il sequestro conseguente alla mancata esibizione non costituiscono fattispecie equivalenti per cui l'istanza di riesame, prevista dall'art. 257 c.p.p. per il sequestro, anche in virtù del principio di tassatività dei mezzi di impugnazione, non è consentita per il decreto di esibizione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1692 del  1 settembre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2941/1994
+                                      Il decreto contenente l'ordine di esibizione di atti e documenti, previsto dall'art. 256 c.p.p., pur assimilabile per il suo effetto acquisitivo, al provvedimento di sequestro, si differenzia da questo per la mancanza di carattere autoritativo. Contro suddetto decreto non può essere, quindi, proposta istanza di riesame, in ragione del principio della tassatività dei mezzi di impugnazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2941 del 29 luglio 1994)
+                  
+
+- 
+
+Ratio: Il legislatore ha tratteggiato in tal senso la disciplina del sequestro penale al fine di distinguerne in maniera non equivoca la finalità probatoria, distinta dalle altre forme di imposizione di un vincolo di indisponibilità sulla cosa.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora a finalità preventive (artt. 321-323).
+
+La norma in commento disciplina i rapporti tra il dovere di esibizione ed il segreto. I titolari dell’eventuale segreto professionale e del segreto d’ufficio, allorchè venga loro richiesta la consegna di atti, documenti, dati e programmi informatici e di ogni altra cosa di cui abbiano la disponibilità per ragioni di ufficio, ministero, incarico o professione, devono adempiere alla richiesta, a meno che non possano opporre per iscritto il segreto di Stato, il segreto professionale o il segreto d’ufficio.
+
+In simili ipotesi, ove l’autorità giudiziaria ponga qualche dubbio circa la fondatezza della suindicata dichiarazione, potrà disporre i necessari accertamenti, a conclusione dei quali, nel caso di accertata infondatezza, dovrà essere disposto il sequestro.
+
+Per quanto concerne più da vicino l’opposizione del segreto di Stato, la norma in esame stabilisce che l’autorità giudiziaria debba informare il Presidente del Consiglio dei Ministri, chiedendo che dia conferma o meno della fondatezza del segreto.
+
+Se il segreto viene confermato e la prova sia da ritenersi essenziale per la definizione del processo, il giudice dichiara non doversi procedere per l’esistenza del segreto di Stato, altrimenti il processo prosegue normalmente con l’acquisizione dell’elemento probatorio.
+
+Il comma 4 disciplina una forma di silenzio-diniego, prevedendo che se entro 60 giorni il Presidente del Consiglio non risponde, l’autorità giudiziaria procede con il sequestro e la relativa acquisizione ed utilizzazione dell’elemento probatorio.
+
+Nessun tipo di segreto è opponibile quando si procede per i reati elencati all’articolo 204.
+
+Ad ogni modo, la norma in esame nulla dice a riguardo del segreto giornalistico, caso in cui si ritiene che il sequestro dovrà essere ordinato anche prescindendo dalla fondatezza o meno della relativa dichiarazione di opposizione el segreto, allorchè le notizie fornite dalla fonte fiduciaria risultando indispensabili ai fini della prova del reato e la loro veridicità possa essere accertata solo attraverso l'identificazione di tale fonte.
+

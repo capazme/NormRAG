@@ -1,0 +1,122 @@
+
+==================================================
+
+===== Article 203 =====
+[Primary - Text]
+Art. 203
+Informatori della polizia giudiziariae dei servizi di sicurezza
+
+1.  Il giudice non può obbligare gli ufficiali e gli agenti di polizia giudiziaria nonché il personale dipendente dai servizi >per   
+le informazioni e la sicurezza militare o democratica a rivelare i nomi dei loro informatori. Se questi non sono esaminati >come   
+testimoni, le informazioni da essi fornite non possono essere acquisite né utilizzate.
+
+(( 1-bis. L'inutilizzabilità opera anche nelle fasi diverse dal dibattimento, se gli informatori non sono stati interrogati ne assunti a sommarie informazioni ))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 203
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 203
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 33027/2011
+                                      In tema di intercettazioni di comunicazioni tra presenti, il divieto di utilizzazione delle fonti confidenziali non trova applicazione in relazione all'acquisizione degli elementi necessari per individuare i siti ove allocare gli apparati tecnici necessari per la esecuzione delle operazioni. (Rigetta in parte, App. Palermo, 22/04/2010).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 33027 del 13 luglio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29666/2011
+                                      Le informazioni acquisite in via confidenziale dalla polizia giudiziaria non possono integrare gli indizi di reato posti alla base del provvedimento di autorizzazione delle operazioni di intercettazione. (Annulla in parte con rinvio, Trib. lib. Palermo, 01/02/2011).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 29666 del 31 maggio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 39380/2010
+                                      Le intercettazioni di conversazioni o comunicazioni disposte per la ricerca di latitanti possono essere autorizzate anche sulla base di informazioni anonime, prescindendo dai presupposti per l'applicazione dell'art. 203 cod. proc. pen., e possono essere utilizzate anche in procedimenti diversi, non operando in tal caso i divieti di utilizzazione posti dall'art. 271 cod. proc. pen.. (Rigetta, App. Catanzaro, 01 ottobre 2009).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 39380 del  7 ottobre 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 108/2008
+                                      In tema di autorizzazione alle operazioni di intercettazione, il divieto di utilizzazione di informazioni confidenziali è espressamente limitato alla valutazione dei gravi indizi di reato e non opera qualora la fonte anonima si limiti a riferire agli inquirenti il numero dell'utenza utilizzata dall'indagato già autonomamente attinto da gravi indizi di reità per il reato oggetto del procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 108 del  4 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 27891/2004
+                                      In tema di autorizzazioni all'effettuazione di intercettazioni telefoniche la disposizione di cui all'art. 7 della legge n. 63 del 2001 (relativa alla inutilizzabilità degli elementi da cui desumere i gravi indizi di reato allorché essi provengano da informatori non interrogati o assunti a sommarie informazioni) non opera — per il principio tempus regit actum — per le intercettazioni eseguite prima dell'entrata in vigore della normativa citata: essa ha invero effetto dal momento dell'assunzione della prova e non dal momento della sua valutazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 27891 del 21 giugno 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9532/2002
+                                      Ai fini della valutazione dei sufficienti indizi per l'autorizzazione all'intercettazione di conversazioni o comunicazioni telefoniche nell'ambito di un procedimento per delitti di criminalità organizzata, il divieto di utilizzazione delle notizie confidenziali riferite da ufficiali o agenti di polizia giudiziaria, qualora gli informatori non siano stati interrogati o assunti a sommarie informazioni durante le indagini preliminari come previsto dal comma 1 bis dell'art. 203, c.p.p. (introdotto dall'art. 7 della legge 1 marzo 2001, n. 63), espressamente richiamato dall'art. 13, comma 1, D.L. 13 maggio 1991, n. 152, convertito dalla legge 12 luglio 1991, n. 203 (come modificato dall'art. 23 della legge 1 marzo 2001, n. 63), non si applica ai procedimenti in cui l'intercettazione sia già stata disposta al momento dell'entrata in vigore della nuova disciplina, dovendosi ritenere che in base al principio tempus regit actum, ribadito dall'art. 26 della legge citata, il discrimine per l'applicazione della normativa processuale sopravvenuta è rappresentato dal momento dell'assunzione della prova, non della sua valutazione, poiché in quel momento si produce l'effetto di introdurre nel processo un elemento di prova utilizzabile ai fini della decisione, come si evince dal coordinamento degli artt. 526 e 191 c.p.p. (La Corte, che in applicazione di tale principio ha ritenuto utilizzabili le intercettazioni disposte, prima dell'entrata in vigore della legge 1 marzo 2001, n. 63, sulla base di notizie confidenziali acquisite dalla polizia giudiziaria, ha escluso che l'applicazione retroattiva della nuova disciplina possa desumersi dall'art. 26 della legge citata, disposizione transitoria che è diretta ad assicurare la tutela delle esigenze di economia processuale e dell'affidamento dei destinatari delle norme abrogate e che, peraltro, ai commi 3 e 5, esclude espressamente la retroattività delle disposizioni attinenti al regime di utilizzabilità degli atti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 9532 del  8 marzo 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 705/1999
+                                      È illegittima l'utilizzazione (nella specie ai fini dell'emissione di provvedimento coercitivo) di dichiarazioni rese da confidente rifiutatosi di essere sentito ai sensi dell'art. 362 c.p.p., che siano state acquisite sub specie di intercettazione ambientale ritualmente richiesta dal P.M. e autorizzata dal giudice per le indagini preliminari, a nulla rilevando che il dichiarante sia identificato al termine dell'audizione e che le sue generalità vengano registrate, quantunque tenute segrete; e ciò in quanto, risultando tali dichiarazioni sostanzialmente anonime, è preclusa la possibilità di qualificarle come sommarie informazioni assunte da persona informata dei fatti, per le quali la disciplina applicabile è quella prevista per l'acquisizione della testimonianza. (Nella specie l'intercettazione ambientale era stata eseguita nella segreteria dell'ufficio del P.M.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 705 del 27 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3952/1993
+                                      Le informazioni assunte da un confidente della polizia giudiziaria e da questa riferite all'autorità giudiziaria dopo la morte del medesimo (nella specie assassinato) possono essere legittimamente utilizzate all'interno della fase delle indagini preliminari e per l'applicazione delle misure cautelari, siccome informazioni assunte da persona in grado di riferire sui fatti oggetto di indagine. (Con riferimento alla fattispecie concreta, la Cassazione ha altresì evidenziato la necessità di particolare cautela nella valutazione di tali informazioni attesa la virtuale posizione di coindagato del confidente deceduto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3952 del 13 gennaio 1993)
+                  
+
+- 
+
+Ratio: Tale deroga all'obbligo della deposizione trova la propria ratio nell'esistenza e tutela del c.d. segreto d'ufficio.
+Spiegazione: 
+Per quanto concerne il segreto d'ufficio, si è già avuto modo di vedere (art. 201), come esso ricopra varie categorie di soggetti tenuti a non rivelare i segreti appresi nell'esercizio delle proprie professioni (si ricorda infatti che l'art. 326 c.p. punisce l'indebita rivelazione del segreto d'ufficio).
+
+La norma fa riferimento ai pubblici ufficiali, ai pubblici impiegati ed agli incaricati di pubblico servizio. Va precisato che qui, a differenza della rivelazione di segreto professionale di cui all'articolo 200, ai soggetti suindicati non spetta la facoltà, bensì l'obbligo di astenersi dal deporre.
+
+Un limite a tale obbligo è però previsto nelle ipotesi in cui i soggetti elencati hanno l'obbligo di riferire all'autorità giudiziaria le notizie conosciute per ragione del proprio ministero, ufficio o professione.
+
+Un aspetto particolare di tale disciplina si rinviene nella presente norma, in cui si riconosce agli ufficiali, agli agenti di polizia giudiziaria ed agli appartenenti ai servizi di sicurezza di non rivelare i nomi dei propri informatori, senza alcuna possibilità per il giudice di obbligarli a fornire le relative indicazioni, fermo in ogni caso il correlativo divieto di acquisire ed utilizzare processualmente le informazioni provenienti da tali fonti segrete. Tale divieto vale anche nella fase del dibattimento, da ritenersi operante anche nelle fasi diverse da quella del dibattimento, comprese quindi quelle delle indagini preliminari o dell'udienza preliminare.
+

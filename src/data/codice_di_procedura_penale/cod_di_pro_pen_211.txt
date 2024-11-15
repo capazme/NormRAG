@@ -1,0 +1,63 @@
+
+==================================================
+
+===== Article 211 =====
+[Primary - Text]
+Art. 211
+Presupposti del confronto
+
+1.  Il confronto è ammesso esclusivamente fra persone già esaminate o interrogate, quando vi è disaccordo fra esse su fatti e circostanze importanti.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo III - Confronti>Articolo 211
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 211
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 40290/2013
+                                      Il confronto non costituisce adempimento di cui sia imposta obbligatoriamente l'effettuazione da parte di alcuna norma processuale, in quanto, a fronte di contrastanti versioni fornite dai dichiaranti, spetta al giudice apprezzare, secondo il proprio libero convincimento, il grado di attendibilità dell'una piuttosto che dell'altra dichiarazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 40290 del 27 settembre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2650/2012
+                                      Il giudice non può ammettere il confronto qualora l'imputato, limitandosi a rendere dichiarazioni spontanee, si è rifiutato di sottoporsi ad esame, in quanto tale rifiuto si estende anche al confronto, che in sostanza altro non è che la prosecuzione di un atto di esame.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2650 del 23 gennaio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6282/1997
+                                      Il giudice non può ammettere il confronto tra due soggetti se gli stessi non siano stati già esaminati in quella fase processuale, essendo l'esame delle parti o dei testimoni il primo sistema per eliminare i contrasti tra gli stessi. Inoltre, se il soggetto si è legittimamente rifiutato di sottoporsi all'esame, non può essere disposto il confronto del medesimo con altro soggetto, poiché il rifiuto di essere esaminato si estende al confronto, proprio perché questo mezzo di prova è in sostanza la prosecuzione di un atto di esame o di interrogatorio già svoltosi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6282 del 26 giugno 1997)
+                  
+
+- 
+
+Ratio: Viene qui disciplinato il confronto, la cui definizione in tali termini si giustifica alla luce della volontà legislativa di definire un mezzo di prova da utilizzare prevalentemente in sede di indagini preliminari.
+Spiegazione: 
+Il confronto appartiene ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+Per quanto concerne il mezzo di prova in esame, esso è ammesso solo tra persone già esaminate o interrogate, nel caso di dichiarazioni contrastanti su fatti e circostanze importanti. Trattasi di un mezzo di prova che trova soprattutto impiego nel corso delle indagini preliminari (difatti, non per caso, il relativo potere di disporlo ricade tra le funzioni del pubblico ministero ex art. 364).
+
+Anche in dibattimento non se ne disconosce ovviamente l’utilità, e può condurre ad ottimi risultati, lasciando ai soggetti un dialogo più o meno aperto, al fine di svelare il più possibile come si siano realmente verificati i fatti.
+
+In pratica, una volta introdotto l'argomento dal giudice o dalle parti, i soggetti chiamati a confrontarsi sono più o meno liberi di svolgere a loro piacimento la discussione, interrogandosi a vicenda ed introducendo a loro volta gli argomenti. Il giudice può chiaramente intervenire, ad esempio per sedare gli animi o per veicolare gli argomenti di confronto, ma solitamente si preferisce lasciare un certo margine di libertà, onde far emergere spontaneamente gli elementi probatori.
+

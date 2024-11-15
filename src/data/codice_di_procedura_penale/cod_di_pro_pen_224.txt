@@ -1,0 +1,91 @@
+
+==================================================
+
+===== Article 224 =====
+[Primary - Text]
+Art. 224
+Provvedimenti del giudice
+
+1.  Il giudice dispone anche di ufficio la perizia con ordinanza motivata, contenente la nomina del perito, la sommaria enunciazione dell'oggetto delle indagini, l'indicazione del giorno, dell'ora e del luogo fissati per la comparizione del perito.
+
+2.  Il giudice dispone la citazione del perito e dà gli opportuni provvedimenti per la comparizione delle persone sottoposte all'esame del perito. Adotta tutti gli altri provvedimenti che si rendono necessari per l'esecuzione delle operazioni peritali.  ((75))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 224
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 224
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 5441/2018
+                                      In tema di perizia grafica, sono utilizzabili a fini di comparazione anche le scritture espressamente disconosciute dall'imputato ovvero non autenticate, oltre a quelle non sottoposte allo stesso ai fini del riconoscimento, a condizione che siano a lui comunque attribuibili in base al prudente apprezzamento del giudice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 5441 del  6 febbraio 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10958/1999
+                                      Per effetto della sentenza della Corte cost. n. 238 del 1996, non è più consentito al giudice disporre misure — non rispondenti a tipologie previamente individuate dalla legge, con specificazione dei casi e dei modi di attuazione — aventi incidenza sulla libertà personale dell'indagato, dell'imputato o di terzi, allo scopo di assicurare, anche contro la volontà della persona sottoposta all'accertamento, l'esecuzione di indagini peritali ritenute necessarie ai fini processuali. (Tale limitazione, peraltro, in quanto correlata con la tutela della libertà personale, non riguarda in alcun modo l'impiego di materiali che, in precedenza legittimamente prelevati, non fanno più fisicamente parte della «persona» e non richiedono alcun intervento manipolatorio su di essa, o comunque limitativo della sfera di libertà del soggetto. (Fattispecie nella quale era stato utilizzato in sede di consulenza tecnica un campione di sangue in precedenza prelevato al soggetto a fini diagnostici).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 10958 del 25 settembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1472/1999
+                                      Qualora l'imputato sia stato sottoposto coattivamente a prelievo di sangue da sottoporre a perizia ematologica, il risultato della prova così conseguita, contrastando con quanto affermato dalla sent. n. 238 del 1996 della Corte cost. - che ha dichiarato l'incostituzionalità dell'art. 224 c.p.p. nella parte in cui consente al giudice di disporre misure aventi incidenza sulla libertà personale dell'imputato senza che siano previsti dalla legge i casi e i modi per l'espletamento di tale attività - è inutilizzabile, e ciò anche qualora il prelievo sia stato effettuato in epoca antecedente alla predetta sentenza, posto che i divieti di utilizzazione probatoria operano fino al momento della decisione e non solo nel momento di acquisizione della prova, in tal modo dovendosi applicare, relativamente a tale materia, il principio tempus regit actum. Peraltro, il rifiuto ingiustificato dell'imputato di sottoporsi spontaneamente al prelievo, non essendo motivato da ragioni inerenti all'invasione della propria sfera corporale e quindi alla violazione della libertà personale, ma da argomenti pretestuosi, può essere valutato dal giudice come elemento di convincimento. (Nella specie, come riscontro individualizzante a chiamata di correo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1472 del  4 febbraio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1556/1997
+                                      Non è consentito al giudice disporre nei confronti dell'imputato l'esecuzione coattiva d'una perizia ematologico-genetica. Infatti la Corte costituzionale, con sentenza n. 238 del 1996, ha dichiarato illegittimo l'art. 224 comma secondo c.p.p. nella parte in cui consente al giudice, ai fini dell'espletamento d'una perizia, di disporre misure aventi incidenza sulla libertà personale dell'indagato, dell'imputato o di terzi senza prevedere quali siano quelle esperibili e senza elencare i casi ed i modi in cui siano adottabili, sicché «fino a quando il legislatore non sarà intervenuto ad individuare i tipi di misure restrittive della libertà personale che possono dal giudice essere disposte allo scopo di consentire (anche contro la volontà della persona assoggettata all'esame) l'espletamento della perizia ritenuta necessaria ai fini processuali, nonché a precisare i casi e i modi in cui le stesse possono essere adottate, nessun provvedimento di tal genere potrà essere disposto». (Nella specie, relativa ad annullamento senza rinvio di ordinanza del tribunale per i minori che aveva disposto l'esecuzione della perizia, la Suprema Corte ha altresì ritenuto l'ammissibilità dei ricorso — contrariamente all'assunto del P.G. che ne aveva ritenuto l'inammissibilità per il principio di tassatività dei mezzi d'impugnazione — ex art. 568 comma secondo c.p.p., trattandosi di provvedimento con il quale il giudice decide sulla libertà personale, il cui pregiudizio si connetterebbe, per l'appunto, alla effettuazione della disposta perizia ematologico-genetica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1556 del  4 aprile 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2443/1996
+                                      Il decreto del tribunale che disponga l'accompagnamento coattivo dell'imputato per essere sottoposto a perizia psichiatrica in dibattimento incide sulla libertà personale; ne consegue che avverso tale provvedimento, non essendo previsto alcun mezzo di impugnazione, è ammissibile il ricorso per cassazione ai sensi dell'art. 111, comma secondo, della Costituzione.
+                                          
+                      –
+                      
+                                                          Il potere di ordinare l'accompagnamento coattivo dell'imputato per essere sottoposto a perizia psichiatrica nel dibattimento rientra tra quelli attribuiti al giudice dal codice di rito. A norma dell'art. 224 comma secondo, il giudice dispone la citazione del perito e la comparizione delle persone sottoposte al suo esame, ed adotta tutti gli altri provvedimenti che si rendono necessari per l'esecuzione delle operazioni peritali; in questa ottica, conseguentemente, deve essere letto il primo comma dell'art. 132 c.p.p. che attribuisce al giudice il potere di ordinare l'accompagnamento coattivo dell'imputato, ma solo se la misura è prevista specificamente dalla legge. La norma va poi collegata all'art. 490 c.p.p. il quale prevede che l'accompagnamento coattivo possa essere disposto quando occorra assicurare la presenza dell'imputato per una prova diversa dall'esame: e tale è indubbiamente la perizia, finalizzata ad acquisire dati che richiedono specifiche competenze tecniche, e disciplinata tra i mezzi di prova.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2443 del 24 settembre 1996)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare la più idonea competenza tecnica e scientifica dei periti, nonchè l'efficienza di tale fondamentale mezzo di prova.
+Spiegazione: 
+La norma in commento disciplina semplicemente i provvedimenti del giudice in merito all’esecuzione della perizia.
+
+La perizia può essere disposta dal giudice sia su apposita istanza di parte, sia d’ufficio, con ordinanza motivata, che enuclei la sommaria enunciazione dei fatti, la nomina del perito e l’indicazione del giorno, dell’ora e del luogo in cui dovrà essere svolta la perizia.
+
+Dato che spesso la perizia coinvolge le persone a vario titolo implicate nel procedimento penale, il giudice deve disporre gli opportuni provvedimenti (convocazioni, modalità di espletamento della perizia, giorno, luogo ed ora) perché la perizia possa svolgersi in maniera efficace.
+
+A tale ultimo proposito, vale la regola costituzionale secondo la quale è fatto divieto all'autorità giudiziaria di disporre limitazioni alla libertà personale, se non nei casi previsti dalla legge e quando ciò sia reso comunque indispensabile. Per far sì che le operazioni peritale possano svolgersi, il giudice può disporre l'accompagnamento coattivo.
+

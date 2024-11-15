@@ -1,0 +1,59 @@
+
+==================================================
+
+===== Article 242 =====
+[Primary - Text]
+Art. 242
+Traduzione di documenti. Trascrizione di registrazioni
+
+1.  Quando è acquisito un documento redatto in lingua diversa da quella italiana, il giudice ne dispone la traduzione a norma dell'articolo 143 se ciò è necessario alla sua comprensione.
+
+2.  Quando è acquisita una registrazione, il giudice ne dispone, se necessario, la trascrizione a norma dell'articolo 268, comma 7. (253) (260) (263) (267) (270)  ((275))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 242
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 242
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 44418/2008
+                                      L'obbligo di usare la lingua italiana si riferisce agli atti da compiere nel procedimento e non ai documenti, già formati, che vengano acquisiti, a meno che la loro utilizzazione possa pregiudicare i diritti dell'imputato e sempre che quest'ultimo abbia eccepito il concreto pregiudizio derivante dalla mancata traduzione. (Fattispecie in cui è stata rigettata l'eccezione di nullità della sentenza per l'omessa traduzione in lingua italiana di documenti utilizzati ai fini della decisione e provenienti dall'autorità amministrativa francese).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 44418 del 29 ottobre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38413/2003
+                                      Non sussiste incompatibilità tra l'ufficio di perito, quando l'incarico abbia ad oggetto la trascrizione di conversazioni intercettate, e quello di interprete chiamato a tradurre le conversazioni svolte in una lingua diversa da quella italiana. (In motivazione la Corte ha osservato che la traduzione non è eseguita riguardo al testo trascritto, bensì con riferimento alla comunicazione registrata, e che sarebbe irrazionale la separazione di attività utilmente condotte in modo unitario e dalla stessa persona).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 38413 del  9 ottobre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4343/1995
+                                      In tema di misure cautelari, legittimamente il giudice trae elementi indiziari dalle risultanze del verbale redatto in forma riassuntiva quando l'esame sia stato registrato mediante apparecchiatura audiomagnetica e non sia stata ancora disposta la trascrizione nelle forme previste dal codice di rito (art. 242, comma 2, con riferimento all'art. 268, comma 7, c.p.p.). In tale ipotesi, la fonte di prova è costituita e rappresentata dal processo verbale. Tuttavia, ove sia stata effettuata una trascrizione informale e questa sia stata posta a disposizione della difesa, nessun vizio può essere ravvisato, essendo sempre possibile estrarre copia della registrazione audiomagnetica e procedere, nell'emergenza della verifica, sulla misura cautelare, alla trascrizione di quanto memorizzato. (La corte ha anche osservato che il verbale redatto in forma riassuntiva, in ipotesi di esame del comparente, con l'uso di apparecchiature di registrazione audiovideomagnetiche, va assimilato al verbale di cui all'art. 268, comma 1, c.p.p. in materia di intercettazioni telefoniche, alla trascrizione delle quali non è necessario procedere quando l'applicazione della misura cautelare trovi fondamento in tale mezzo di ricerca di prova, essendo sufficiente il riferimento al predetto verbale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4343 del 22 agosto 1995)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente e garantire una netta distinzione netta tra acquisizione ed utilizzazione.
+Spiegazione: 
+Il legislatore non ha previsto il dovere di tradurre tutti i documenti acquisiti in un procedimento penale ove vi sia coinvolto a vario titolo uno straniero che non parli correttamente ed adeguatamente la lingua italiana, ma solo quando ciò sia necessario per la sua comprensione. Lo stesso vale quando si tratti di file audio, nel qual caso il giudice ne dispone, sempre se necessario, la trascrizione.
+

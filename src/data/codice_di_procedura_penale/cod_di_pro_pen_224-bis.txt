@@ -1,0 +1,82 @@
+
+==================================================
+
+===== Article 224-bis =====
+[Primary - Text]
+Art. 224-bis
+Titolo non trovato
+
+1.  Quando si procede per delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione superiore nel massimo a tre anni  ((, per i delitti di cui agli  articoli 589-bis  e  590-bis del codice penale ))  e negli altri casi espressamente previsti dalla legge, se per l'esecuzione della perizia è necessario compiere atti idonei ad incidere sulla libertà personale, quali il prelievo di capelli, di peli o di mucosa del cavo orale su persone viventi ai fini della determinazione del profilo del DNA o accertamenti medici, e non vi è il consenso della persona da sottoporre all'esame del perito, il giudice, anche d'ufficio, ne dispone con ordinanza motivata l'esecuzione coattiva, se essa risulta assolutamente indispensabile per la prova dei fatti.
+
+2.  Oltre a quanto disposto dall'articolo 224, l'ordinanza di cui al comma 1 contiene, a pena di nullità:    
+ 
+ a) le generalità della persona da sottoporre all'esame e quanto altro valga ad identificarla;    
+ 
+ b) l'indicazione del reato per cui si procede, con la descrizione sommaria del fatto;    
+ 
+ c) l'indicazione specifica del prelievo o dell'accertamento da effettuare e delle ragioni che lo rendono assolutamente indispensabile per la prova dei fatti;    
+ 
+ d) l'avviso della facoltà di farsi assistere da un difensore o da persona di fiducia;    
+ 
+ e) l'avviso che, in caso di mancata comparizione non dovuta a legittimo impedimento, potrà essere ordinato l'accompagnamento coattivo ai sensi del comma 6;    
+ 
+ f) l'indicazione del luogo, del giorno e dell'ora stabiliti per il compimento dell'atto e delle modalità di compimento.
+
+3.  L'ordinanza di cui al comma I è notificata all'interessato, all'imputato e al suo difensore nonché alla persona offesa almeno tre giorni prima di quello stabilito per l'esecuzione delle operazioni peritali.
+
+4.  Non possono in alcun caso essere disposte operazioni che contrastano con espressi divieti posti dalla legge o che possono mettere in pericolo la vita, l'integrità fisica o la salute della persona o del nascituro, ovvero che, secondo la scienza medica, possono provocare sofferenze di non lieve entità.
+
+5.  Le operazioni peritali sono comunque eseguite nel rispetto della dignità e del pudore di chi vi è sottoposto. In ogni caso, a parità di risultato, sono prescelte le tecniche meno invasive.
+
+6.  Qualora la persona invitata a presentarsi per i fini di cui al comma I non compare senza addurre un legittimo impedimento, il giudice può disporre che sia accompagnata, anche coattivamente, nel luogo, nel giorno e nell'ora stabiliti. Se, pur comparendo, rifiuta di prestare il proprio consenso agli accertamenti, il giudice dispone che siano eseguiti coattivamente. L'uso di mezzi di coercizione fisica è consentito per il solo tempo strettamente necessario all'esecuzione del prelievo o dell'accertamento. Si applicano le disposizioni dell'articolo 132, comma 2.
+
+7.  L'atto è nullo se la persona sottoposta al prelievo o agli accertamenti non è assistita dal difensore nominato .
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 224 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 224-bis
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 51086/2016
+                                      Il prelievo di saliva, avvenuto all'insaputa dell'imputato, su mozziconi di sigaretta ed un "cotton fioc" da costui utilizzati, può essere effettuato ai sensi dell'art. 348 cod. proc. pen., in quanto l'attività non determina alcuna incidenza sulla sfera della libertà personale dell'interessato, riguardando materiale biologico fisicamente separato dalla persona.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 51086 del 30 novembre 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 48907/2013
+                                      In tema di raccolta di materiale biologico, non è necessario ricorrere alla procedura prevista dall'art. 224 bis cod. proc. pen. se il campione biologico sia stato acquisito in altro modo, con le necessarie garanzie sulla provenienza dello stesso e senza alcun intervento coattivo sulla persona. (Fattispecie nella quale la Corte ha ritenuto legittimo il prelievo di tracce biologiche da un mozzicone di sigaretta maneggiata e fumata dall'indagato, acquisito dalla polizia giudiziaria dopo che l'indagato medesimo l'aveva abbandonato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 48907 del  5 dicembre 2013)
+                  
+
+- 
+
+Ratio: La disposizione in esame è stata inserita al fine di colmare il vuoto normativo conseguente alla dichiarazione di incostituzionalità del comma secondo dell'art. 224 in quanto da questo poteva desumersi la possibilità per il giudice di disporre eventuali prelievi coattivi di sangue o di altri tessuti o materiali organici, utili per una perizia.
+Spiegazione: 
+In seguito alla pronuncia della Corte Costituzionale n. 238/1996, la quale aveva sancito l’illegittimità costituzionale dell’articolo 224, nella parte in cui permetteva al giudice di poter disporre operazioni peritali che incidano sulla libertà personale dell’imputato o di terzi, al di fuori di quelle specificamente disciplinate dalla legge, il legislatore ha ritenuto opportuno introdurre la norma in commento, al fine di ovviare al vuoto normativo che si era creato.
+
+La presente norma disciplina dunque i provvedimenti del giudice nel caso di perizie che richiedono il compimento di atti idonei ad incidere sulla libertà personale. Nello specifico, si prevede che quando si debba procedere per reati di una certa gravità (delitti non colposi, consumati o tentati, per i quali la legge stabilisce la pena dell’ergastolo o della reclusione nel massimo a tre anni, per i delitti concernenti omicidi o lesioni stradali, nonché negli altri casi previsti dalla legge), qualora per l’esecuzione di una perizia sia necessario compiere atti idonei ad incidere sulla libertà personale, quali ad esempio prelievo di capelli, di peli o di mucosa del cavo orale, oppure altri accertamenti medici, e manchi il consenso della persona interessata, il giudice può disporre ex officio l’esecuzione coattiva, con ordinanza, se essa risulti assolutamente indispensabile per la prova dei fatti.
+
+L’ordinanza in parola deve contenere, oltre alle generalità della persona da sottoporre all’esame peritale, l’indicazione delle ragioni che la rendono assolutamente indispensabili dal punto di vista probatorio, insieme all’avviso circa la facoltà di farsi assistere da un difensore o, comunque, da persona di fiducia.
+
+Per quanto concerne le modalità di svolgimento, la norma prevede che la perizia non potrà comunque contrastare con espressi divieti di legge, né potrà mettere in pericolo la vita, l’integrità fisica o la salute della persona o del nascituro, e nemmeno provocare sofferenze di non lieve entità, secondo la scienza medica, salvo in ogni caso il necessario rispetto della dignità e del pudore di chi vi è sottoposto.
+
+Se la persona da sottoporre a prelievo di campioni biologici o ad accertamenti medici è minore, incapace ovvero interdetta per infermità di mente, il consenso è prestato dal genitore o dal tutore, i quali possono presenziare alle operazioni. Se il genitore o il tutore mancano o non sono reperibili, ovvero si trovano in conflitto di interessi con la persona da sottoporre a prelievo di campioni biologici o ad accertamenti medici, il consenso è prestato da un curatore speciale nominato dal giudice, il quale può presenziare alle operazioni.
+
+Ai sensi del comma 6, qualora la persona da sottoporre a perizia non si presenti senza addurre un legittimo impedimento, il giudice può disporre l’accompagnamento coattivo, mediante l’uso dei necessari mezzi di coercizione fisica, da impiegarsi in misura proporzionata allo scopo, e comunque per il solo tempo strettamente necessario all’esecuzione del prelievo o dell’accertamento.
+
+In ogni caso, l’atto è nullo quando la persona che vi è sottoposta non è assistita dal difensore nominato.
+

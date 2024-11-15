@@ -1,0 +1,585 @@
+
+==================================================
+
+===== Article 270 =====
+[Primary - Text]
+Art. 270
+Utilizzazione in altri procedimenti
+
+1.  I risultati delle intercettazioni non possono essere utilizzati in procedimenti diversi da quelli nei quali sono stati disposti, salvo che risultino rilevanti e indispensabili per l'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza  ((...)) . (270) (275)  ((303))
+
+1-bis.  Fermo restando quanto previsto dal comma 1, i risultati delle intercettazioni tra presenti operate con captatore informatico su dispositivo elettronico portatile possono essere utilizzati anche per la prova di reati diversi da quelli per i quali è stato emesso il decreto di autorizzazione qualora risultino indispensabili per l'accertamento dei delitti indicati dall'articolo 266, comma 2-bis. (270) (275)
+
+2.  Ai fini della utilizzazione prevista dal comma 1, i verbali e le registrazioni delle intercettazioni sono depositati presso l'autorità competente per il diverso procedimento. Si applicano le disposizioni dell'articolo 268, commi 6, 7 e 8. (253) (260) (263) (267) (270) (275)
+
+3.  Il pubblico ministero e i difensori delle parti hanno altresì facoltà di esaminare i verbali e le registrazioni in precedenza depositati nel procedimento in cui le intercettazioni furono autorizzate.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 270
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 270
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 14948/2018
+                                      In tema di intercettazioni telefoniche effettuate in un altro procedimento, nel caso in cui il giudizio immediato venga riunito al giudizio ordinario, l'art. 270 cod. proc. pen., nel richiamare il rispetto delle disposizioni dell'art. 268, commi 6, 7 ed 8, cod. proc. pen. non esige la rinnovazione delle operazioni di trascrizione, i cui risultati possono essere legittimamente utilizzati anche nei confronti degli imputati tratti a giudizio immediato (essendo garantite le prerogative della difesa al momento del deposito degli atti concernenti le intercettazioni).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 14948 del  4 aprile 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 17759/2017
+                                      Il divieto di utilizzazione dei risultati delle intercettazioni telefoniche in procedimenti diversi da quelli nei quali sono state disposte, attiene solo alla valutazione di tali risultati come elementi di prova, ma non preclude la possibilità di dedurre dagli stessi notizie di nuovi reati, quale punto di partenza di nuove indagini. (In applicazione del principio, la S.C. ha ritenuto legittima l'acquisizione delle intercettazioni quale "notitia criminis" nel procedimento diverso, ai soli fini dell'accertamento della capacità di stare in giudizio dell'imputato che si era sempre sottratto al colloquio clinico psichiatrico ed aveva fraudolentemente simulato ed enfatizzato disturbi psichici con l'obiettivo di paralizzare la celebrazione del giudizio).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 17759 del  7 aprile 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41317/2015
+                                      In tema di intercettazioni, qualora il mezzo di ricerca della prova sia legittimamente autorizzato all'interno di un determinato procedimento concernente uno dei reati di cui all'art. 266 cod. proc. pen., i suoi esiti sono utilizzabili anche per gli altri reati di cui dall'attività di captazione emergano gli estremi e, quindi, la conoscenza, mentre, nel caso in cui si tratti di reati oggetto di un procedimento diverso "ab origine", l'utilizzazione è subordinata alla sussistenza dei parametri indicati espressamente dall'art. 270 cod. proc. pen., e, cioè, all'indispensabilità e all'obbligatorietà dell'arresto in flagranza. (In applicazione del principio, la Corte ha ritenuto che correttamente la sentenza impugnata avesse utilizzato le conversazioni telefoniche, intercettate nell'ambito di un procedimento aperto per un episodio di concussione, ai fini della prova di un altro fatto concussivo commesso da uno solo degli imputati, in un altro periodo temporale, in un altro luogo e in danno di altri soggetti, ma la cui notizia era stata acquisita proprio per effetto dell'attività di intercettazione in questione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 41317 del 14 ottobre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19730/2015
+                                      In tema di intercettazione di conversazioni, ai fini del divieto di utilizzazione previsto dall'art. 270, comma primo, c.p.p., la nozione sostanziale di "diverso procedimento" va desunta dal dato dell'alterità o non uguaglianza del procedimento instaurato non nell'ambito del medesimo filone investigativo, ma in relazione ad una notizia di reato, che deriva da un fatto storicamente diverso da quello oggetto di indagine nell'ambito di altro, differente, anche se connesso, procedimento. (In applicazione di tale principio la Corte ha annullato con rinvio l'ordinanza del Tribunale del riesame, che aveva ritenuto l'inutilizzabilità delle intercettazioni sul presupposto della diversità dei procedimenti, concernenti fattispecie criminose poste in essere da gruppi organizzati in parte composti dalle medesime persone ed oggetto del medesimo filone investigativo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 19730 del 13 maggio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12536/2015
+                                      In tema di intercettazione di conversazioni, al fine di valutare la esistenza della condizione richiesta dall'art. 270, comma primo, cod. proc. pen. per la deroga al divieto di utilizzazione in altri procedimenti, non è necessario che dalla conversazione intercettata emerga immediatamente l'esatta qualificazione giuridica del delitto "diverso" per il quale è obbligatorio l'arresto in flagranza, in quanto le informazioni raccolte tramite le attività di captazione legittimamente disposte in un determinato procedimento sono utilizzabili come "fonti" da cui eventualmente desumere la successiva "notitia criminis".
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 12536 del 25 marzo 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3253/2014
+                                      In tema di intercettazioni di conversazioni, ai fini del divieto di utilizzazione previsto dall'art. 270, comma primo, cod. proc. pen., occorre far riferimento ad una nozione sostanziale di "diverso procedimento", secondo cui la "diversità" va collegata al dato della alterità o non uguaglianza del procedimento, instaurato, non nell'ambito del medesimo filone investigativo, ma in relazione ad una notizia di reato, che deriva da un fatto storicamente diverso da quello oggetto di indagine nell'ambito di altro, differente, anche se connesso, procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 3253 del 23 gennaio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 27278/2013
+                                      In tema di intercettazioni, qualora sia stata disposta l'utilizzazione di impianti esterni e il prosieguo delle operazioni con impianti interni, non sussiste alcun obbligo di avvisare i difensori circa il mutamento degli strumenti captativi, attesa la natura di atti di indagini "a sorpresa" delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 27278 del 21 giugno 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16289/2012
+                                      L'attività di intercettazione eseguita attraverso un programma emulatore - denominato "Daemon" - che crea periferiche virtuali, consentendo di accantonare i dati registrati in memoria e di differirne l'ascolto, al fine di prevenire il rilevamento del segnale audio da parte dei soggetti controllati e la sua neutralizzazione con apposita strumentazione di bonifica delle captazioni, non viola alcuna delle disposizioni esecutive delle operazioni di intercettazione, prescritte a pena di inutilizzabilità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 16289 del  3 maggio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13166/2012
+                                      In tema di intercettazioni telefoniche, le conversazioni, intese come segni espressivi di comunicazione fra soggetti, possono costituire corpo del reato - e come tali essere utilizzate anche al di fuori dei limiti di cui all'art. 270 c.p.p. - solo se le espressioni linguistiche impiegate siano di per sé lesive di un precetto penale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 13166 del  5 aprile 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9185/2012
+                                      I risultati delle intercettazioni disposte per agevolare le ricerche di latitanti possono essere utilizzati a fini probatori, stante l'espresso rinvio operato dall'art. 295, comma terzo, all'art. 270 cod. proc. pen., rinvio che ha un senso solo se riferito al comma primo di tale articolo, relativo all'utilizzabilità probatoria in altri procedimenti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 9185 del  8 marzo 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10166/2011
+                                      In tema di limiti di utilizzazione di intercettazioni telefoniche in altri procedimenti, qualora le registrazioni non rappresentino una conversazione su circostanze relative al fatto reato per cui siano state disposte, ma una comunicazione che integra essa stessa una condotta criminosa, la loro acquisizione è soggetta alle regole stabilite dall'art. 270 c.p.p. e non va inquadrata nelle norme che regolano l'uso processuale del corpo di reato, giacché la registrazione costituisce in ogni caso un mezzo di documentazione della comunicazione e non è definibile cosa sulla quale o mediante la quale il reato è stato commesso. (In applicazione del principio di cui in massima la S.C. ha escluso che nel procedimento concernente concorso nel reato di falso - commesso mediante comunicazione telefonica su una utenza soggetta, per altre ragioni ed in diverso procedimento, ad intercettazione - la registrazione potesse in ogni caso essere utilizzata come corpo di reato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 10166 del 14 marzo 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 50072/2009
+                                      Qualora, essendo stata autorizzata dal giudice l’effettuazione di intercettazioni di comunicazioni in relazione ad una ipotesi di reato che, ai sensi dell’art. 266 c.p.p., consentiva il ricorso a tale mezzo di ricerca della prova, detta ipotesi sia stata poi sostituita da altra che non lo avrebbe consentito, ciò non comporta l’inutilizzabilità dei risultati acquisiti, salvo che la originaria configurabilità della prima di dette ipotesi risulti, “ora per allora”, dovuta ad errore del giudice; errore la cui eventuale sussistenza, peraltro, può riconoscersi soltanto quando esso appaia evidente ed incontrovertibile, sulla base degli elementi investigativi portati a suo tempo a conoscenza del giudice e tenendo anche conto della inevitabile fluidità delle ipotesi criminose in un momento normalmente posto alle prime battute dell’attività investigativa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 50072 del 31 dicembre 2009)
+                  
+
+- 
+
+- 
+Cass. civ. n. 12717/2009
+                                      Al fine di riscontrare il presupposto dei “gravi elementi di fondatezza dell'azione disciplinare” per l'adozione della misura cautelare del trasferimento d'ufficio, nel corso di un procedimento disciplinare per addebiti punibili con una sanzione diversa dall'ammonimento, ben possono essere utilizzate le risultanze di intercettazioni di telefonate ricevute dal magistrato e legittimamente disposte ed effettuate nel corso di un procedimento penale a carico dell'autore ed interlocutore della chiamata telefonica, indagato per un reato che consente l'intercettazione stessa; del pari sono utilizzabili le risultanze di intercettazioni di telefonate fatte dal magistrato, ove in ipotesi sia egli stesso indagato per un reato che consenta tali intercettazioni.
+                                                        
+                    (Cassazione civile,
+                                          Sez. Unite,
+                                        sentenza n. 12717 del 29 maggio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44365/2008
+                                      In tema di intercettazioni telefoniche, alle eventuali oggettive difficoltà della parte interessata nella produzione degli elementi attestanti l'inutilizzabilità dei risultati delle intercettazioni disposte in altro procedimento, dovute alla ristrettezza dei termini pre la richiesta di riesame, può porsi rimedio con l'attivazione dei poteri officiosi, oppure con l'accoglimento della richiesta di un congruo termine per dare modo alla cancelleria del giudice "ad quem" di provvedere sulla tempestiva richiesta di rilascio di copie di atti, e con la ulteriore possibilità di dedurre, anche dopo la delibazione giudiziale, nullità comunque insorte in precedenza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 44365 del 27 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35003/2008
+                                      Ai fini dell'accertamento sulla sussistenza del dolo o della colpa grave rilevanti nel giudizio di riparazione per l'ingiusta detenzione, sono utilizzabili le intercettazioni "ambientali" riportate nell'ordinanza coercitiva, ma successivamente non utilizzate in dibattimento, non essendo state sottoposte a perizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 35003 del  9 settembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5141/2008
+                                      In tema di intercettazioni telefoniche da utilizzare in altri procedimenti, qualora la comunicazione intercettata costituisca essa stessa una condotta delittuosa, la sua acquisizione deve essere inquadrata nelle norme che regolano l'uso processuale del corpo di reato e non si applicano, pertanto, le limitazioni probatorie di cui all'art. 270 c.p.p. (Fattispecie nella quale l'intercettazione riguardava la comunicazione con cui l'imputato, appartenente all'Arma dei Carabinieri, aveva avvertito il latitante di un'imminente operazione volta proprio alla sua cattura).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5141 del  1 febbraio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 348/2008
+                                      In tema di intercettazioni di conversazioni, ai fini del divieto di utilizzazione previsto dall'art. 270, comma primo, c.p.p., il concetto di «diverso procedimento» non equivale a diverso reato e in esso non rientrano le indagini strettamente connesse e collegate sotto il profilo oggettivo, probatorio e finalistico al reato alla cui definizione il mezzo di ricerca della prova viene predisposto, sicché la diversità del procedimento assume un carattere soltanto sostanziale, non collegabile al dato puramente formale del numero di iscrizione nel registro delle notizie di reato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 348 del  8 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2809/2006
+                                      In tema di intercettazioni disposte in procedimenti diversi, l'utilizzazione dei risultati intercettativi è consentita quando sono indispensabili non solo all'accertamento del fatto reato, ma anche con riferimento all'intera imputazione, compresi i fatti relativi alla punibilità, alla determinazione della pena, alla qualificazione del reato in rapporto alle circostanze attenuanti o aggravanti, ed anche quando l'indispensabilità è in funzione di riscontro di dichiarazioni accusatorie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2809 del 24 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 31402/2005
+                                      Ai fini dell'applicabilità della disciplina dettata dall'art. 270 c.p.p. per l'utilizzazione dei risultati di intercettazioni disposte nell'ambito di procedimenti diversi, debbono ritenersi tali solo quelli in cui le indagini non siano tra loro connesse o collegate sotto il profilo oggettivo, probatorio e finalistico. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 31402 del 19 agosto 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4942/2004
+                                      Nel procedimento a carico di taluno per reato non compreso tra quelli per i quali, ai sensi dell'art. 266 c.p.p., può farsi luogo ad intercettazioni di comunicazioni, non è consentita l'utilizzazione dei risultati di intercettazioni effettuate in altro procedimento instaurato a carico di altri soggetti, per quanto il reato anzidetto sia connesso a quelli addebitati a costoro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4942 del  6 febbraio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44518/2003
+                                      Ai fini dell'utilizzabilità dei risultati di intercettazioni legittimamente eseguite in altro procedimento ai sensi dell'art. 270 c.p.p. non è richiesto il deposito delle registrazioni (bobine) di esse, come pure dei verbali e dei decreti di autorizzazione, atteso che tali inosservanze non rientrano fra quelle indicate, con carattere di tassatività, dall'art. 271 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 44518 del 20 novembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35389/2003
+                                      L'art. 270, primo comma, c.p.p. consente la utilizzazione dei risultati delle intercettazioni in altro procedimento a condizione che i verbali e le registrazioni siano depositati presso l'ufficio ad quem, a nulla rilevando che non siano stati acquisiti anche la richiesta del pubblico ministero e perfino lo stesso decreto autorizzativo. Ciò non esclude, peraltro, che la parte interessata possa ottenere copia anche di tali atti, a norma dell'art. 116 c.p.p., ove ritenga di verificarne la regolarità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 35389 del 10 settembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 30996/2002
+                                      Il mancato deposito, contestualmente all'avviso di conclusione delle indagini preliminari, degli atti relativi alle intercettazioni telefoniche non determina l'inutilizzabilità delle stesse, allorché si tratti di intercettazioni disposte in un procedimento diverso, poiché le limitazioni temporali di cui agli artt. 415 bis e 416 c.p.p. sono operative solo con riguardo alle indagini espletate nell'ambito dello stesso procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 30996 del  6 settembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 28861/2002
+                                      In caso di utilizzazione delle intercettazioni telefoniche in un procedimento diverso da quello in cui furono disposte, la sanzione dell'inutilizzabilità delle informazioni risultanti dalle intercettazioni, prevista dall'art. 270, comma 2 c.p.p., per l'omesso deposito dei verbali e delle trascrizioni, si estende al mezzo da cui le stesse sono tratte. Ne consegue che, potendo i risultati dell'intercettazione essere vincolati, oltre che con la lettura della trascrizione o l'ascolto dei nastri, anche attraverso la testimonianza avente ad oggetto il tenore della conversazione captata, quest'ultima è affetta dalla sanzione dell'inutilizzabilità laddove sia rappresentativa di informazioni inutilizzabili.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 28861 del 26 luglio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20224/2002
+                                      In tema di utilizzazione dei risultati di intercettazioni, telefoniche o ambientali, in procedimento diverso da quello nel quale esse furono disposte, il controllo — demandato al giudice del procedimento diverso che li utilizzi — sia in ordine alla necessità di eseguire le intercettazioni nel procedimento di origine, sia ai fini dell'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza di reato, dà luogo a un giudizio di fatto che è censurabile in cassazione solo per mancanza o manifesta illogicità della motivazione. (Nella specie è stato ritenuto inammissibile il motivo di ricorso con il quale si era lamentata la mancata, specifica indicazione degli estremi degli atti che avevano autorizzato l'intercettazione nel diverso procedimento, sul rilievo che è sufficiente la menzione, ad opera del giudice procedente, della provenienza dell'elemento utilizzato da quel procedimento, nel quale soltanto possono essere proposte censure sulla legittimità del mezzo di prova, indipendentemente dalla circostanza che l'interessato vi risulti, o non, indagato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 20224 del 23 maggio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16130/2002
+                                      La localizzazione tramite sistema satellitare (così detto GPS) degli spostamenti di un soggetto nei confronti del quale sono in corso indagini, benché comporti un controllo non poco invasivo a carico del soggetto medesimo, non è in alcun modo assimilabile alla attività di intercettazione, prevista dagli artt. 266 c.p.p. e non necessita quindi di alcuna autorizzazione preventiva da parte del giudice per le indagini preliminari.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 16130 del  2 maggio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 33187/2001
+                                      In tema di limiti di utilizzazione di intercettazioni telefoniche in altri procedimenti, anche quando le registrazioni non rappresentano una conversazione su circostanze relative al fatto-reato per cui siano state disposte, ma una comunicazione che integra essa stessa condotta criminosa, la loro acquisizione è soggetta alle disposizioni stabilite dall'art. 270 c.p.p. e non va inquadrata nelle norme che regolano l'uso processuale del corpo di reato, giacché la registrazione costituisce in ogni caso un mezzo di documentazione della comunicazione e non è definibile cosa sulla quale o mediante la quale il reato è stato omesso. (In applicazione di tale principio la Corte ha escluso che nel procedimento relativo al reato di segreto d'ufficio commesso mediante una comunicazione telefonica su una utenza soggetta per altre ragioni ed in diverso procedimento ad intercettazione, la registrazione potesse in ogni caso essere utilizzata come corpo di reato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 33187 del  4 settembre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 27656/2001
+                                      Le dichiarazioni - captate nel corso di attività di intercettazione regolarmente autorizzata - con le quali un soggetto si accusa della commissione di reati hanno integrale valenza probatoria. (In motivazione la Corte ha chiarito che dette dichiarazioni non possono avere rilievo probatorio inferiore rispetto alla chiamata in correità che, pur bisognevole di altri elementi che ne confermino la attendibilità, è qualificata dal legislatore quale prova piena).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 27656 del  9 luglio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8440/2001
+                                      Gli adempimenti di cui all'art. 270 c.p.p. sono da ritenere essenziali ai fini della utilizzabilità dei risultati di intercettazioni effettuate in altri procedimenti solo quando tali risultati debbano essere acquisiti dall'accusa, nel corso delle indagini preliminari, o su richiesta dell'accusa, nel corso della fase dibattimentale; non anche quando l'acquisizione sia invece disposta su richiesta dell'indagato o imputato, atteso che, apparendo scontata, in tale ipotesi, la conoscenza e la favorevole valutazione, ai fini difensivi, dei dati emergenti dalle intercettazioni, gli adempimenti in questione risulterebbero non solo superflui ma, siccome dipendenti dalla volontà della controparte, ingiustificatamente ostativi rispetto ai fini perseguiti. Ciò vale anche con riguardo alle parti private diverse da quella richiedente, quando all'iniziativa di quest'ultima esse, esplicitamente o implicitamente, abbiano prestato adesione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 8440 del 28 febbraio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2539/2000
+                                      L'inutilizzabilità delle intercettazioni telefoniche od ambientali va riferita alle sole violazioni delle condizioni richieste dagli artt. 267 e 268, commi 1 e 3, c.p.p., mentre le eventuali illegittimità formali, come quelle relative a violazione delle altre previsioni del citato art. 268 od alla mancata motivazione del decreto autorizzativo, determinano, semmai, l'invalidità del mezzo istruttorio, giacché la categoria dell'inutilizzabilità inerisce alle prove vietate per la loro intrinseca illegittimità oggettiva ovvero per effetto di una manifesta illegittimità del procedimento acquisitivo, che le ponga al di fuori del sistema processuale. Ne consegue che il vizio della motivazione del provvedimento del pubblico ministero che dispone l'esecuzione delle operazioni di intercettazione (nella specie telefoniche ed ambientali) mediante apparati diversi da quelli esistenti presso l'ufficio della procura della Repubblica rileva sotto il profilo della nullità delle intercettazioni, quale effetto del vizio del decreto autorizzativo, e non della loro inutilizzabilità, sicché la relativa denuncia soggiace ai limiti di deducibilità di cui all'art. 182 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2539 del 25 maggio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 790/2000
+                                      Deve escludersi che possa dar luogo a inutilizzabilità dei risultati di intercettazioni in processo diverso da quello in cui le intercettazioni stesse sono state disposte il mancato deposito, in violazione dell'art. 270, comma 2, c.p.p., dei verbali e delle registrazioni, come pure quello dei decreti di autorizzazione (ove si ritenga che anche a tali decreti debba estendersi l'obbligo previsto dalla suddetta disposizione normativa), atteso che tali inosservanze non rientrano fra quelle indicate, con carattere di tassatività, dall'art. 271 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 790 del 22 gennaio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14595/1999
+                                      In tema di intercettazioni telefoniche eseguite in altri procedimenti, la nozione di «diverso procedimento», nel quale, a norma dell'art. 270, primo comma, c.p.p., è vietata l'utilizzazione dei risultati di intercettazioni di conversazioni e comunicazioni, non può equivale a quella di «diverso reato» ed in essa non rientrano, pertanto, le indagini strettamente connesse e collegate sotto il profilo oggettivo, probatorio e finalistico al reato con riferimento al quale il mezzo di ricerca della prova è stato disposto. Ed invero, l'inutilizzabilità dei risultati illegittimamente acquisiti non consente nessuna differenza nel regime sanzionatorio in relazione alla utilizzazione delle intercettazioni nello stesso procedimento nel quale sono state disposte, ovvero in altro procedimento: in entrambi i casi il divieto di utilizzazione dei risultati delle intercettazioni deve intendersi sussistente soltanto quando esse siano state eseguite fuori dei casi consentiti dalla legge e qualora non siano state osservate le disposizioni previste dagli artt. 267 e 268, commi 1 e 3 c.p.p., come testualmente recita l'art. 271, primo comma, c.p.p. e non anche nel caso in cui non siano state osservate le disposizioni di cui all'art. 268, commi 6, 7 e 8 dello stesso codice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 14595 del 23 dicembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 718/1999
+                                      Nel giudizio di prevenzione non è applicabile la norma dettata dall'art. 270, comma primo, c.p.p., che limita, nel giudizio penale, la utilizzabilità dei risultati delle intercettazioni telefoniche disposte in altro procedimento. Infatti, nel giudizio di prevenzione vige la opposta regola della piena utilizzabilità di qualsiasi documento indiziario, anche tratto da procedimenti penali in corso, purché certo e idoneo, per il suo valore sintomatico, a giustificare il convincimento del giudice in ordine alla pericolosità sociale del soggetto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 718 del 29 aprile 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6242/1999
+                                      In tema di intercettazione di conversazioni o comunicazioni, la diversità del procedimento che di regola impedisce l'utilizzazione dei relativi risultati, assume, per gli effetti che ne derivano sul piano della prova, rilievo di carattere sostanziale e non può, quindi, ricollegarsi a un dato di ordine meramente formale, come il numero di iscrizione nel registro delle notizie di reato, né può essere intesa come equivalente a quella di “diverso reato”. Ne consegue che in essa non rientrano le indagini strettamente connesse e collegate sotto il profilo oggettivo, probatorio e finalistico al reato in ordine al quale il mezzo di ricerca della prova è stato disposto. (Fattispecie relativa a misura cautelare della custodia in carcere per partecipazione ad associazione per delinquere di stampo mafioso disposta sulla base dei risultati — acquisiti attraverso un'informativa di polizia — di un'intercettazione ambientale autorizzata in altro procedimento, a carico di ignoti, per omicidio volontario).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6242 del 12 aprile 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3117/1998
+                                      L'inutilizzabilità dei risultati delle intercettazioni telefoniche, dichiarata nell'ambito di un procedimento de libertate sul presupposto che, non essendo stati trasmessi i relativi decreti autorizzativi, il Gip prima e, successivamente, il tribunale del riesame non avevano potuto esercitare il potere-dovere di verificare la legittimità delle intercettazioni al fine di valutare la sussistenza dei gravi indizi di colpevolezza, opera soltanto in detto procedimento, e non in altri. Ne consegue che è legittima, nell'ambito dello stesso procedimento, ma in diverso e autonomo procedimento de libertate, l'applicazione di misura cautelare personale ad opera di altro giudice, sulla base della piena cognizione dei decreti di autorizzazione, allegati agli atti, delle dette intercettazioni telefoniche, dalle quali emergano gravi indizi di colpevolezza. (Nella specie il ricorrente aveva lamentato che il giudice di merito avesse posto a base del provvedimento cautelare le stesse intercettazioni telefoniche dichiarate inutilizzabili dalle sezioni unite con sentenza 20 novembre 1996, n. 21).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3117 del 28 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1208/1998
+                                      In materia di prove il concetto di diverso procedimento nel quale, ai sensi dell'art. 270, primo comma, c.p.p., è vietata la utilizzazione dei risultati di intercettazioni o comunicazioni non equivale a quello di diverso reato, ed in esso non rientrano, quindi, le indagini strettamente connesse e collegate, sotto il profilo oggettivo, probatorio e finalistico, al reato in ordine al quale il mezzo di ricerca della prova è stato disposto. La diversità del procedimento di cui si parla deve assumere rilievo di carattere sostanziale e non può essere ricollegata a dati meramente formali, quale la materiale distinzione degli incartamenti relativi a due procedimenti o il loro diverso numero di iscrizione nel registro delle notizie di reato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1208 del 15 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1495/1998
+                                      In tema di utilizzabilità della prova, il fatto che l'inutilizzabilità sia stata dichiarata nel corso del procedimento incidentale de libertate svoltosi durante le indagini preliminari, anche se con il vaglio della Corte di cassazione, non ha alcun effetto preclusivo sulla sua utilizzazione in sede di giudizio, dal momento che il problema dell'utilizzabilità delle prove si pone esclusivamente con riferimento al dibattimento, e ogni valutazione compiuta in proposito in tema di procedimento cautelare non può vincolare il giudice del dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1495 del  4 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4408/1998
+                                      In tema di diritto transitorio, l'individuazione dei requisiti e dei presupposti legittimanti i mezzi di ricerca della prova e l'utilizzazione dei relativi elementi è regolata dal principio tempus regit actum e, quindi, dalla regola della immediata operatività delle norme processuali. Tuttavia il fenomeno della successione delle leggi processuali si atteggia in modo particolare qualora siano ontologicamente separati i due momenti di formazione dell'atto e di formale acquisizione dei risultati della ricerca probatoria, come nell'ipotesi di utilizzazione delle intercettazioni telefoniche in procedimento diverso da quello in cui sono state disposte, qualora tali procedimenti siano stati rispettivamente istruiti secondo le norme del previgente e del nuovo codice di rito. Poiché l'utilizzazione è subordinata, da una parte, alla legalità dell'intercettazione, nel momento genetico, e, dall'altra, a precise condizioni di assunzione nel diverso processo, i due requisiti, di legalità del mezzo e di legittimità dell'acquisizione, vanno individuati nelle leggi vigenti nei rispettivi momenti, pur se diversamente disciplinati. (Conseguentemente è stato ritenuto che dovesse aversi riguardo agli artt. 226 bis e seg. del c.p.p. del 1930 quanto alla legalità delle intercettazioni e agli artt. 270 e 271 del nuovo codice di rito per valutare l'utilizzabilità in altro procedimento, pur consistendo tale condizione nell'obbligatorietà dell'arresto in flagranza a differenza di quella dell'obbligatorietà del mandato di cattura prevista dal vecchio codice).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 4408 del 15 aprile 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3133/1998
+                                      I limiti imposti dall'art. 270 c.p.p., circa l'utilizzabilità dei risultati di intercettazioni in procedimenti diversi da quelli nei quali sono state disposte, riguardano l'utilizzabilità come elementi di prova, ma non precludono la possibilità di dedurre, dalle intercettazioni disposte in altro procedimento, notizie di nuovi reati quale punto di partenza per le relative indagini ed acquisizioni probatorie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3133 del 12 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1972/1997
+                                      In tema di intercettazioni di conversazioni, ai fini del divieto di utilizzazione previsto dall'art. 270, comma primo, c.p.p., nel concetto di «diverso procedimento» non rientrano le indagini strettamente connesse e collegate sotto il profilo oggettivo, probatorio e finalistico al reato alla cui definizione il mezzo di ricerca della prova viene predisposto, né tale nozione equivale a quella di «diverso reato», sicché la diversità del procedimento deve essere intesa in senso sostanziale, non collegabile al dato puramente formale del numero di iscrizione nel registro delle notizie di reato, ma riferibile al contenuto della medesima notizia, vale a dire al fatto reato in relazione al quale sono in corso le indagini necessarie per l'esercizio dell'azione penale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1972 del 20 novembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2502/1996
+                                      Non rientra nel divieto di cui all'art. 270 c.p.p. l'utilizzazione, quale notizia di un diverso illecito penale e come punto di partenza per le relative indagini ed acquisizioni probatorie, delle intercettazioni di conversazioni o comunicazioni disposte in altro procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2502 del  4 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5363/1996
+                                      La norma di cui all'art. 270 comma 1 c.p.p. sull'utilizzazione dei risultati delle intercettazioni telefoniche in altri procedimenti non può interpretarsi riduttivamente nel senso che tale utilizzazione sia possibile solo quando i risultati in questione siano indispensabili all'accertamento del fatto-reato altrimenti non dimostrabile con diversa rilevante prova di accusa. Deve invece ritenersi che «l'indispensabilità dell'accertamento» vada riferita a tutta l'imputazione, compresi i fatti relativi alla punibilità, alla determinazione della pena ed alla qualificazione del reato medesimo in rapporto alle circostanze attenuanti o aggravanti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5363 del 28 maggio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1626/1996
+                                      Il concetto del «diverso procedimento» nel quale, ai sensi del primo comma dell'art. 270 c.p.p., è vietata l'utilizzazione dei risultati delle intercettazioni di conversazioni o comunicazioni (salvo che risultino indispensabili per l'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza), non equivale a quello di «diverso grado» ed in esso non rientrano pertanto, le indagini strettamente connesse e collegate sotto il profilo oggettivo, probatorio e finalistico al reato in ordine al quale il mezzo di ricerca della prova è stato disposto. (Nella specie la Corte ha ritenuto utilizzabili quali prove del reato di corruzione aggravata per atti contrari ai doveri di ufficio gli esiti delle intercettazioni disposte per individuare compiutamente i componenti di un'associazione per delinquere ed accertarne le specifiche responsabilità).
+                                          
+                      –
+                      
+                                                          La «diversità» del procedimento che, ai sensi del primo comma dell'art. 270 c.p.p., impedisce l'utilizzazione dei risultati delle intercettazioni di conversazioni o comunicazioni (salvo che risultino indispensabili per l'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza), assume, per gli effetti che ne derivano sul piano della prova rilievo di carattere sostanziale e non può quindi ricollegarsi a un dato di ordine meramente formale quale il numero di iscrizione, nell'apposito registro della notizia di reato; la distinzione, pertanto, va riferita al contenuto di quest'ultima, vale a dire al fatto-reato in relazione al quale il pubblico ministero e la polizia giudiziaria svolgono le indagini necessarie per le determinazioni inerenti all'esercizio dell'azione penale con la conseguenza che ove il pubblico ministero, opportunamente autorizzato alla riapertura delle indagini provveda ad una nuova iscrizione ai sensi degli artt. 414, secondo comma, e 335 c.p.p., non si instaura un procedimento diverso e possono legittimamente essere utilizzati i risultati delle indagini già svolte, compresi gli esiti delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1626 del 10 febbraio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1662/1995
+                                      Il divieto, posto dall'art. 270, comma 1, c.p.p., di utilizzare i risultati delle intercettazioni in procedimenti diversi da quelli nei quali tali intercettazioni sono state disposte, (salvo il caso della loro indispensabilità per l'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza), opera anche con riguardo alla fase delle indagini preliminari, non sussistendo alcun appiglio normativo sulla base del quale possa disattendersi il principio di ordine generale sancito dall'art. 191, comma 2, c.p.p., secondo il quale «l'inutilizzabilità è rilevabile, anche d'ufficio, in ogni stato e grado del procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1662 del  4 luglio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2135/1994
+                                      Ai sensi dell'art. 270, comma 1, c.p.p. che vieta l'utilizzazione dei risultati delle intercettazioni in procedimenti diversi da quelli nei quali sono state disposte, nel concetto di procedimento diverso non rientrano le indagini strettamente connesse e collegate sotto il profilo oggettivo, probatorio e finalistico al reato alla cui definizione il mezzo di ricerca della prova venne predisposto. (Affermando siffatto principio la Cassazione ha ritenuto le utilizzabilità, ai fini dell'emissione di provvedimento cautelare personale per reato di favoreggiamento, delle intercettazioni predisposte in relazione a reati di concussione e corruzione; ha rilevato al proposito che il favoreggiamento ed i reati presupposti costituivano oggetto di indagini nel medesimo procedimento stante la necessaria connessione del primo con gli altri).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2135 del 21 settembre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1977/1994
+                                      In tema di rinnovazione delle trascrizioni delle intercettazioni telefoniche, l'avvenuta presa di conoscenza da parte del tribunale del fascicolo del P.M., finalizzata ad una più adeguata valutazione della necessità e indipensabilità dell'atto nullo, pur essendo irregolare, non risulta sanzionabile, essendo l'inutizzabilità delle prove previste soltanto con riferimento ai «divieti stabiliti dalla legge» (art. 191 c.p.p.), divieti che mancano per l'ipotesi in esame.
+                                          
+                      –
+                      
+                                                          In tema di rinnovazione delle trascrizioni delle intercettazioni telefoniche, la ritenuta «necessità» di procedere alla rinnovazione dell'atto nullo (art. 185, comma 2, c.p.p.) e la ritenuta «indispensabilità» dei risultati delle intercettazioni acquisite in procedimento diverso (art. 270 c.p.p.), costituiscono valutazioni di fatto di competenza del giudice di merito, non sindacabile in sede di legittimità, se non nei limiti di cui all'art. 606, comma 1, lett. e), c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1977 del 17 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8670/1993
+                                      Le limitazioni probatorie, in tema di intercettazioni telefoniche da utilizzare in altri procedimenti, non valgono allorquando la bobina della registrazione viene ad essere essa stessa corpo di reato. (Nella specie, erano state disposte intercettazioni telefoniche nell'ambito di un procedimento per omicidio, e si era poi proceduto a parte per il reato di favoreggiamento costituito da una telefonata — registrata nel corso di quelle intercettazioni — con la quale la titolare dell'utenza sotto controllo veniva avvertita che all'indomani sarebbe stata effettuata una perquisizione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 8670 del 23 settembre 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3129/1992
+                                      Il divieto di utilizzazione dei risultati delle intercettazioni in altro procedimento, di cui all'art. 270 c.p.p., va inteso nel senso che non possono siffatti elementi valere come prova in diverso processo. Nessuna preclusione esiste, invece, circa l'utilizzazione di tali intercettazioni quale notizia di illecito penale valida per l'inizio di un diverso procedimento e per l'espletamento di accertamenti volti ad acquisire nuovi elementi di prova.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3129 del 10 ottobre 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 603/1992
+                                      Ai fini dell'utilizzazione dei risultati delle intercettazioni in procedimenti diversi da quelli nei quali sono state disposte, il presupposto della indispensabilità per l'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza, richiesto dall'art. 270 del nuovo codice di procedura penale, implica una valutazione affidata all'esclusiva competenza del giudice di merito, che in sede di cassazione può essere contestata solo sotto il profilo della manifesta illogicità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 603 del 11 maggio 1992)
+                  
+
+- 
+
+Ratio: La ratio di tale disposizione si coglie nell'esigenza di garantire il principio costituzionalmente garantito della libertà e della segretezza delle comunicazioni (art. 15), le cui limitazioni sono dunque ammissibili solo se poste in essere nel rispetto delle garanzie stabilite ex lege.
+Spiegazione: 
+Oltre alla possibilità, fatta salva, di desumere eventuali notizie di reato anche da intercettazioni provenienti da altri procedimenti, la norma in commento si occupa di disciplinare il profilo della utilizzabilità probatoria delle intercettazioni in procedimenti diversi da quelli rispetto ai quali siano state autorizzate.
+
+Nello specifico, vista l’ampia tutela garantistica fornita dall’articolo 15 Cost., le intercettazioni relativi a procedimenti diversi sono utilizzabili solamente quando risultino indispensabili per l’accertamento di delitti per i quali è previsto l’arresto in flagranza ex art. 380.
+
+In tali ipotesi, al fine di colmare il vulnus difensivo arrecato all’imputato, il legislatore si è preoccupato di stabilire che tale sacrificio vada compensato con l’instaurazione di un adeguato contraddittorio, attraverso le forme di cui all’articolo 268 commi 6, 7 ed 8.
+
+Inoltre, il pubblico ministero ed i difensori delle parti hanno la facoltà di accedere ai verbali ed alle registrazioni in precedenza depositate nel procedimento da cui derivano le intercettazioni da utilizzare.
+
+Da ultimo, si specifica che i risultati delle intercettazioni ambientali mediante captatore informatico seguono la medesima disciplina.
+

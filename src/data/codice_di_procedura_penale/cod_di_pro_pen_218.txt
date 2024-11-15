@@ -1,0 +1,58 @@
+
+==================================================
+
+===== Article 218 =====
+[Primary - Text]
+Art. 218
+Presupposti dell'esperimento giudiziale
+
+1.  L'esperimento giudiziale è ammesso quando occorre accertare se un fatto sia o possa essere avvenuto in un determinato modo.
+
+2.  L'esperimento consiste nella riproduzione, per quanto è possibile, della situazione in cui il fatto si afferma o si ritiene essere avvenuto e nella ripetizione delle modalità di svolgimento del fatto stesso.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo V - Esperimenti giudiziali>Articolo 218
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 218
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 20066/2010
+                                      L'esperimento giudiziale ha la funzione di verificare in concreto un'ipotesi esplicativa sullo sviluppo di un accadimento, ed a controllare il contesto, onde evitare il pericolo di fattori di confondimento. (Fattispecie nella quale la Corte ha ritenuto che non costituisse esperimento giudiziale un'attività investigativa compiuta dalla polizia giudiziaria senza instaurazione del contraddittorio, e consistita nel mero confronto tra le parti mancanti dell'autovettura dell'imputato ed i frammenti rinvenuti sul luogo dell'incidente, che ne aveva evidenziato la sovrapponibilità).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 20066 del 26 maggio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2380/1995
+                                      Condizione imprescindibile per la utile effettuazione dell'esperimento giudiziale previsto dall'art. 218 c.p.p. è che sia possibile la ricostruzione del fatto in termini di sostanziale identità rispetto a quelli emergenti dai dati di riferimento. (Nella specie, in applicazione di tale principio, la Corte ha ritenuto legittimo il rifiuto, da parte del giudice di merito, di dar luogo ad un esperimento giudiziale volto ad accertare se un teste, alla guida di un autoveicolo, avesse avuto o meno la possibilità di notare quanto da lui poi era stato riferito all'autorità inquirente, attesa la oggettiva ed insuperabile incertezza in ordine al dato costituito dalla velocità di marcia del veicolo suddetto).
+                                          
+                      –
+                      
+                                                          L'esperimento giudiziale di cui all'art. 218 c.p.p. può essere disposto solo quando sia possibile riprodurre il fatto, oggetto della prova, nelle condizioni in cui si afferma o si ritiene essere avvenuto; l'impossibilità di una sua ricostruzione in termini di sostanziale identità rispetto ai dati di riferimento, infatti, rende del tutto inutile, se non addirittura fuorviante ai fini del giudizio, la verifica attuata mediante controllo sperimentale, con la conseguenza che non può disporsi un'operazione di cui già preventivamente si conosca l'inutilizzabilità del risultato come mezzo di prova.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2380 del  9 marzo 1995)
+                  
+
+- 
+
+Ratio: La disposizione in esame trova il proprio fondamento nell'esigenza di garantire una maggiore specificazione in ordine alle forme da osservare per fare luogo alla relativa procedura.
+Spiegazione: 
+L’esperimento giudiziale appartiene ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+Nello specifico, il mezzo di prova in questione serve essenzialmente ad accertare se un fatto sia avvenuto o meno in un determinato modo, mediante la riproduzione della situazione e/p la ripetizione delle modalità relative al suo presumibile svolgimento. In tal modo il giudice e le parti potranno assistere direttamente ad una plausibile riproduzione circa il modo in cui si siano effettivamente svolti i fatti, in modo da poter analizzare i vari passaggi della condotta, le cause che hanno determinato o hanno contribuito a determinare l'evento. Non si esclude che l'esperimento giudiziale possa essere altresì utilizzato per dimostrare come sarebbero andati i fatti se il soggetto agente avesse agito in maniera opportuna, come accade nei reati omissivi, in cui il giudizio c.d. controfattuale si rovescia.
+
+Trattasi di un mezzo di prova di tipo dinamico che, essendo destinato ad una riproduzione artificiale di una esperienza dinamica, può essere disposto solo quando sia possibile riprodurre il fatto oggetto della prova nelle condizioni in cui si afferma o si ritiene essere avvenuto.
+
+L’attenzione del legislatore si è focalizzata principalmente sulle forme da osservare nello svolgimento dell’esperimento giudiziale, come risulta dall’articolo 219.
+

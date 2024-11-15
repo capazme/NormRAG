@@ -1,0 +1,111 @@
+
+==================================================
+
+===== Article 230 =====
+[Primary - Text]
+Art. 230
+Attività dei consulenti tecnici
+
+1.  I consulenti tecnici possono assistere al conferimento dell'incarico al perito e presentare al giudice richieste, osservazioni e riserve, delle quali è fatta menzione nel verbale.
+
+2.  Essi possono partecipare alle operazioni peritali, proponendo al perito specifiche indagini e formulando osservazioni e riserve, delle quali deve darsi atto nella relazione.
+
+3.  Se sono nominati dopo l'esaurimento delle operazioni peritali, i consulenti tecnici possono esaminare le relazioni e richiedere al giudice di essere autorizzati a esaminare la persona, la cosa e il luogo oggetto della perizia.
+
+4.  La nomina dei consulenti tecnici e lo svolgimento della loro attività non può ritardare l'esecuzione della perizia e il compimento delle altre attività processuali.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 230
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 230
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 54492/2017
+                                      In tema di perizia, il giudice, dopo l'esame del perito, è tenuto ad integrare il contraddittorio con l'esame del consulente tecnico dell'imputato qualora questi abbia assunto iniziative di sollecitazione e di contestazione rispetto all'attività peritale ed ai relativi esiti. (Fattispecie in cui la Corte ha annullato con rinvio la sentenza d'appello, confermativa di quella del giudice dell'udienza preliminare che, dopo aver accolto la richiesta di rito abbreviato condizionato all'acquisizione di una relazione di consulenza tecnica sulla capacità di intendere e di volere dell'imputato, aveva disposto integrazione probatoria mediante perizia psichiatrica, all'esito della quale non aveva consentito l'esame del consulente, nonostante che il medesimo avesse mosso obiezioni alla metodologia peritale ed alle conclusioni del perito).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 54492 del  4 dicembre 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35187/2002
+                                      Il perito non ha l'obbligo di documentare l'attività da lui svolta, essendo egli soltanto tenuto, ai sensi dell'art. 230, comma 2, c.p.p., a dare atto, nella «relazione» delle eventuali osservazioni e riserve formulate dai consulenti di parte. (Nella specie, in applicazione di tale principio, trattandosi di perizia psichiatrica, la Corte ha escluso che il perito avesse l'obbligo di conservare la documentazione afferente i colloqui da lui avuti con il periziando, specificando che questi ultimi non possono essere paragonati né all'esame delle parti né alla richiesta di notizie previsti, rispettivamente, dal secondo e dal terzo comma dell'art. 228 c.p.p., in quanto diretti ad accertare non il reale svolgimento dei fatti, ma soltanto il modo in cui il fatto oggetto dell'imputazione è stato percepito dal periziando e le ragioni del suo agire).
+                                          
+                      –
+                      
+                                                          La possibilità di partecipazione dei consulenti di parte delle operazioni peritali, prevista dall'art. 230, comma 2, c.p.p., non implica che essi possano esaminare direttamente «la persona, la cosa ed il luogo oggetto della perizia», salvo che nel caso previsto dal successivo comma 3, e cioè qualora siano stati nominati dopo l'esaurimento delle suddette operazioni. (Nella specie, in applicazione di tale principio, la Corte ha respinto l'eccezione di nullità di una perizia psichiatrica nel corso del cui espletamento ai consulenti di parte non era stato consentito il contatto diretto con il periziando, ma soltanto l'assistenza a distanza mediante uso di strumenti tecnici che permettano di sentire le domande e le risposte come pure di formulare osservazioni e richieste).
+                                          
+                      –
+                      
+                                                          Non è data ai consulenti tecnici la facoltà di controesame dei periti, giacché l'art. 501, comma 1, c.p.p., in tema di esame dei periti e dei consulenti tecnici, rinvia alle disposizioni sull'esame dei testimoni in quanto applicabili e queste ultime non prevedono alcuna forma di controesame dei testi tra di loro (e il consulente è equiparato al testimone), ma soltanto la possibilità che essi siano posti a confronto e che siano loro rivolte domande dal pubblico ministero, nonché dai difensori delle parti.
+                                          
+                      –
+                      
+                                                          Non sussiste nullità della perizia psichiatrica per il denegato assenso alla diretta partecipazione del consulente tecnico al colloquio con la persona oggetto dell'indagine, in quanto l'art. 230, comma 2, c.p.p. autorizza il consulente stesso a partecipare alle operazioni peritali, proponendo al perito specifiche indagini e formulando osservazioni e riserve, delle quali deve darsi atto nella relazione, ma non ad esaminare direttamente la persona, la cosa e il luogo oggetto della perizia. (Fattispecie nella quale, non ricorrendo l'ipotesi di nomina del consulente dopo l'esaurimento delle operazioni peritali prevista dall'art. 230, comma 3, c.p.p., era stata assicurata la partecipazione ad esse del consulente mediante l'impiego di apparecchiature che consentivano di ascoltare domande e risposte e di formulare osservazioni e richieste).
+                                          
+                      –
+                      
+                                                          Non sussiste nullità della perizia psichiatrica qualora il perito abbia distrutto la videoregistrazione del relativo colloquio, dovendosi escludere l'esistenza di un suo obbligo di documentazione dell'attività svolta, sia perché manca qualsiasi disposizione esplicita in tal senso, sia perché l'art. 230 c.p.p., mentre impone al giudice di fare menzione, nel verbale, delle richieste, delle osservazioni e delle riserve presentate dal consulente tecnico, esige dal perito soltanto che egli dia atto nella sua relazione di analoghe richieste a lui rivolte. (Nell'affermare tale principio, la Corte ha anche sottolineato che la mancanza di un dovere di documentazione dell'attività svolta dal perito è resa evidente dalla considerazione che costui deve fornire le risposte ai quesiti nel corso dell'udienza, alla quale partecipano tutte le parti interessate con i loro consulenti tecnici e che, anche quando è stata autorizzata, per la difficoltà di illustrare soltanto oralmente il parere, la presentazione di relazione scritta, questa può essere letta solo dopo l'esame in contraddittorio del perito, con la conseguenza che eventuali irregolarità o inesattezze in essa contenute possono essere immediatamente contestate).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 35187 del 21 ottobre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7252/1999
+                                      Poiché le norme contenute nell'art. 230 c.p.p. non esauriscono l'ambito di operatività consentito al consulente di parte, questi legittimamente può svolgere, al di fuori delle vere e proprie operazioni peritali, degli accertamenti e riferirne mediante memoria scritta al giudice, al quale spetta il compito di riconoscere, o non, all'attività svolta dal consulente valore probatorio. Ed invero, al fine di esercitare il diritto alla prova di cui all'art. 190 c.p.p., le parti possono svolgere attività integrativa di indagine, così come previsto dall'art. 38 att. c.p.p., sicché i pareri espressi dai consulenti di parte a mezzo di relazione scritta, ritualmente formulata e acquisita agli atti del processo, possono ben essere utilizzati ai fini della decisione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7252 del  8 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11867/1995
+                                      L'art. 230 c.p.p. stabilisce, nei primi due commi, l'ambito di operatività del consulente tecnico nel senso che la sua attività può esplicarsi sia nel momento del conferimento dell'incarico al perito, presentando al giudice richieste, osservazioni e riserve, sia nel corso delle operazioni peritali, proponendo al perito specifiche indagini e formulando osservazioni e riserve, delle quali deve darsi atto nella relazione. Inoltre tale articolo, al comma 4, pone dei limiti temporali alla facoltà di intervento del consulente tecnico proprio al fine di evitare che la sua attività possa ritardare lo svolgimento della perizia. Ne consegue che, qualora il consulente tecnico non abbia esplicato alcuna forma di intervento nel momento del conferimento dell'incarico al perito o nel corso delle operazioni peritali, non ricorre alcun obbligo da parte del giudice di esaminarlo dopo che si sia concluso l'esame del perito di ufficio nel corso di una perizia disposta in dibattimento con le forme previste dalla seconda parte del comma 1 dell'art. 508 c.p.p. (In motivazione, la Suprema Corte ha chiarito che tale interpretazione dell'art. 230 c.p.p. non trova ostacolo nella disposizione dell'art. 152 att. c.p.p., sicuramente applicabile nel caso che la perizia sia disposta in dibattimento ai sensi dell'art. 508, comma 1, prima parte, del codice, essendo necessario assicurare il contraddittorio in dibattimento mediante la facoltà, riconosciuta al consulente, di formulare osservazioni e sollecitare indagini nel corso dello stesso dibattimento o nel corso delle operazioni peritali, qualora sia necessario rinviare il dibattimento per procedere ad accertamenti e indagini di natura tecnica; al contrario, nel caso che il dibattimento venga rinviato ai sensi della seconda parte dello stesso articolo, l'esame del consulente tecnico in dibattimento deve ritenersi escluso, qualora lo stesso non abbia svolto forma di intervento nella fase del conferimento dell'incarico o nel corso delle operazioni peritali, in quanto tale esame trova un limite nel disposto dell'art. 230 c.p.p.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 11867 del  4 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3352/1995
+                                      In tema di perizia, la discrezionale presenza dei consulenti delle parti, consentita in virtù del disposto di cui al comma 2 dell'art. 226 c.p.p., pone le parti stesse in condizione di un immediato dialogo tecnico col perito, sicché è del tutto conseguenziale che nell'ambito della stessa perizia i quesiti possono essere ampliati anche con carattere di novità, per ragioni di economia processuale non disgiunta dall'opportunità dell'immediatezza in direzione di più puntuale ed efficace esito dell'accertamento in più completa visione di assieme. Tale principio si desume normativamente dal combinato disposto degli artt. 501, comma 1, e 498, comma 3, c.p.p.: osservandosi per l'esame del perito, in quanto applicabili, le disposizioni sull'esame dei testimoni ed essendo previsto che colui che ne ha chiesto l'audizione possa «proporre nuove domande», ne deriva la possibilità di proporre, per analogia, «quesiti nuovi» in corso di perizia, una volta salvaguardato il contraddittorio anche tecnico, garantito dal comma 2 dell'art. 226 c.p.p. alle parti che a tanto vogliono far ricorso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3352 del 28 marzo 1995)
+                  
+
+- 
+
+Ratio: Nel pieno rispetto del contraddittorio tra le parti, la disposizione in esame è diretta ad assicurare un pronto ed efficiente utilizzo di tale fondamentale mezzo di prova.
+Spiegazione: 
+Ai sensi dell’art. 225, una volta disposta la perizia, le parti private ed il pubblico ministero hanno la facoltà di nominare propri consulenti tecnici in numero non superiore, per ciascuna parte, a quello dei periti, e questo al fine di permettere un contraddittorio paritario tra i vari soggetti del procedimento penale.
+
+Il legislatore ha infatti ritenuto opportuno evitare che le valutazioni del giudice si fondino solamente sulle deduzioni e sulla relazione del perito nominato dal giudice stesso.
+
+I consulenti tecnici possono assister al conferimento dell’incarico al perito e presentare al giudice richieste, osservazioni e riserve, da inserirsi nel verbale.
+
+Inoltre, al fine di instaurare un contraddittorio preliminare, i consulenti tecnici possono proporre al perito specifiche indagini e formulare osservazioni e riserve al perito stesso.
+
+Se nominati dalle parti solo successivamente all’esaurimento delle operazioni peritali, possono essere autorizzati dal giudice a compiere esami sull’oggetto di prova, e possono invece autonomamente esaminare le relazioni peritali.
+
+Da ultimo, nell’ipotesi in cui la perizia non venga disposta, si ritiene che il consulente tecnico possa svolgere indagini di sua iniziativa.
+

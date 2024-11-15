@@ -1,0 +1,149 @@
+
+==================================================
+
+===== Article 263 =====
+[Primary - Text]
+Art. 263
+Procedimento per la restituzione delle cose sequestrate
+
+1.  La restituzione delle cose sequestrate è disposta dal giudice con ordinanza se non vi è dubbio sulla loro appartenenza.
+
+2.  Quando le cose sono state sequestrate presso un terzo, la restituzione non può essere ordinata a favore di altri senza che il terzo sia sentito in camera di consiglio con le forme previste dall'articolo 127.
+
+3.  In caso di controversia sulla proprietà delle cose sequestrate, il giudice ne rimette la risoluzione al giudice civile del luogo competente in primo grado, mantenendo nel frattempo il sequestro.
+
+((
+
+4.  Nel corso delle indagini preliminari, sulla restituzione delle cose sequestrate il pubblico ministero provvede con decreto motivato.
+
+))
+
+5.  Contro il decreto del pubblico ministero che dispone la restituzione  ((o respinge la relativa richiesta)) , gli interessati possono proporre opposizione sulla quale il giudice provvede a norma dell'articolo 127.
+
+6.  Dopo la sentenza non più soggetta a impugnazione, provvede il giudice dell'esecuzione.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 263
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 263
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 10542/2017
+                                      In tema di patteggiamento, la sentenza con cui il giudice non dispone nè la confisca nè la restituzione del bene sottoposto a sequestro probatorio non può essere impugnata con ricorso per cassazione, dovendo, invece, l'interessato rivolgersi al giudice dell'esecuzione ai sensi dell'art.263, comma sesto, cod.proc.pen. (In motivazione, la Corte ha precisato che il ricorso per cassazione è ammissibile esclusivamente avverso l'ordinanza con la quale, ai sensi dell'art.667, comma quarto, cod. proc. pen., è rigettata l'opposizione al diniego di restituzione pronunciata dal giudice dell'esecuzione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 10542 del  3 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5353/2015
+                                      È illegittima la decisione con cui il Gup rigetti, senza motivare sul punto, l'opposizione avverso il provvedimento di diniego di restituzione delle cose sequestrate, con cui l'interessato deduca la sopravvenuta inefficacia del sequestro, operato dalla polizia giudiziaria, in conseguenza della mancata convalida del P.M., in quanto l'opposizione a tal fine è ritualmente proposta ex art. 263, comma quinto, cod. proc. pen., non essendo, invece, ammissibile il riesame.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 5353 del  4 febbraio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10618/2014
+                                      È legittimo il sequestro probatorio di supporti informatici disposto per svolgere accertamenti sui dati in essi contenuti, pur se la legge 18 marzo 2008, n. 48, nel modificare le disposizioni del codice di procedura penale, ha previsto la possibilità di estrarre copia degli stessi con modalità idonee a garantire la conformità dei dati acquisiti a quelli originali, in quanto questa disciplina non impedisce di imporre un vincolo su tali "cose", ma si limita a consentire la presentazione di una successiva richiesta di restituzione a norma dell'art. 263 c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 10618 del  5 marzo 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26914/2013
+                                      In relazione alla richiesta di restituzione di cose sequestrate, il giudice penale deve rimettere gli atti al giudice civile e mantenere il sequestro solo se è già pendente tra le parti una causa civile avente ad oggetto la controversia sulla proprietà dei beni se, invece, non vi è alcun procedimento in sede civile, il giudice penale può direttamente restituire le cose al soggetto al quale le stesse risultino legittimamente appartenere alla stregua degli elementi fattuali fino ad allora accertati.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 26914 del 20 giugno 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9857/2009
+                                      Il ricorso per cassazione contro l'ordinanza emessa dal G.i.p. a norma dell'art. 263, comma quinto, c.p.p., è deciso in camera di consiglio con le forme del rito non partecipato di cui all'art. 611 c.p.p.
+                                          
+                      –
+                      
+                                                          L'ordinanza del G.i.p., che a norma dell'art. 263, comma quinto, c.p.p., provvede sull'opposizione degli interessati avverso il decreto del P.M. di rigetto della richiesta di restituzione delle "cose" in sequestro o di rilascio di copie autentiche di documenti, è ricorribile per cassazione per tutti i motivi indicati dall'art. 606, comma primo, c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 9857 del  4 marzo 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7946/2008
+                                      È ammissibile il ricorso per cassazione avverso l'ordinanza con la quale, ai sensi dell'art. 263, comma quinto, c.p.p., il giudice per le indagini preliminari decide sull'opposizione proposta dall'interessato avverso il decreto di rigetto, da parte del pubblico ministero, della richiesta di restituzione di cose sequestrate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 7946 del 20 febbraio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 25161/2002
+                                      La competenza a deliberare sulla richiesta di anticipazione o liquidazione finale del compenso presentata dal custode di cose sequestrate nell'ambito di procedimento penale appartiene nella fase successiva alla sentenza irrevocabile al giudice dell'esecuzione, nella fase delle indagini preliminari al P.M. il quale provvede con decreto motivato, nel corso del giudizio di cognizione al giudice che ha la disponibilità del procedimento il quale provvede de plano, osservandosi, in tutti i casi, le forme stabilite per il procedimento di esecuzione a norma dell'art. 666 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 25161 del  2 luglio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1980/2000
+                                      L'ordinanza con la quale il giudice del dibattimento dispone la restituzione all'avente diritto di un bene sottoposto a sequestro probatorio può essere impugnata, a mente dell'art. 586 c.p.p., non autonomamente, ma solo unitamente alla sentenza che definisce il relativo grado di giudizio, dovendosi escludere la sua ricorribilità in Cassazione, in applicazione della disciplina camerale di cui all'art. 127 c.p.p., in quanto l'art. 263 c.p.p., che regola la procedura per la restituzione delle cose in sequestro, rinvia a detta disciplina soltanto con riferimento alla fase delle indagini preliminari e non a quella del giudizio, dove il contraddittorio fra le parti si è già instaurato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1980 del  4 luglio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3018/1993
+                                      Contro il provvedimento che, a norma dell'art. 262, secondo comma, c.p.p. abbia disposto il mantenimento del sequestro a garanzia del pagamento delle spese di giustizia, è ammesso, oltre al riesame, ricorso diretto per cassazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3018 del 26 marzo 1993)
+                  
+
+- 
+
+Ratio: La norma in esame trova il suo fondamento nell'esigenza di sottoporre la procedura di restituzione delle cose sequestrate ad una precisa disciplina in grado di risolvere eventuali dubbi sull'appartenenza delle stesse.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora a finalità preventive (artt. 321-323).
+
+Per quanto concerne le vicende estintive del sequestro, la collocazione sistematica della presente norma evidenzia come la restituzione delle cose sequestrate dipenda dal venir meno di esigenze probatorie che avevano in precedenza determinato il provvedimento.
+
+La norma in esame disciplina il procedimento per la restituzione delle cose sottoposte a sequestro penale, stabilendo che il relativo provvedimento può essere pronunciato de plano qualora non sia via dubbio alcuno circa la provenienza delle cose.
+
+Per contro, nell’ipotesi in cui sia necessario accertarne la provenienza, la causa va rimessa al giudice civile, fermo restando il vincolo del sequestro.
+
+Per quanto riguarda la competenza, si prevede che nel corso delle indagini preliminari debba provvedere il pubblico ministero con decreto motivato. Avverso tale decreto è tuttavia possibile proporre opposizione, sulla quale deciderà il giudice per le indagini preliminari ai sensi dell’articolo 127.
+

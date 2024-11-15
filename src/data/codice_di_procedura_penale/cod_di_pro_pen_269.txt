@@ -1,0 +1,116 @@
+
+==================================================
+
+===== Article 269 =====
+[Primary - Text]
+Art. 269
+Conservazione della documentazione
+
+1.  I verbali e le registrazioni, e ogni altro atto ad esse relativo, sono conservati integralmente in apposito archivio gestito e tenuto sotto la direzione e la sorveglianza del Procuratore della Repubblica dell'ufficio che ha richiesto ed eseguito le intercettazioni. Non sono coperti da segreto solo i verbali e le registrazioni delle comunicazioni e conversazioni acquisite al fascicolo di cui all'articolo 373, comma 5, o comunque utilizzati nel corso delle indagini preliminari. Al giudice per le indagini preliminari e ai difensori delle parti, successivamente al deposito effettuato ai sensi degli articoli 268 e 415-bis o nel caso previsto dall'articolo 454, comma 2-bis, per l'esercizio dei loro diritti e facoltà è consentito l'accesso all'archivio e l'ascolto delle conversazioni o comunicazioni registrate. (270) ((275))
+
+1-bis.  COMMA ABROGATO DAL  D.L. 30 DICEMBRE 2019, N. 161 , CONVERTITO CON MODIFICAZIONI DALLA  L. 28 FEBBRAIO 2020, N. 7 .(270) ((275))
+
+2.  Salvo quanto previsto dall'articolo 271 comma 3, le registrazioni sono conservate fino alla sentenza non più soggetta a impugnazione. Tuttavia gli interessati, quando la documentazione non è necessaria per il procedimento, possono chiederne la distruzione, a tutela della riservatezza, al giudice che ha autorizzato o convalidato l'intercettazione. Il giudice decide in camera di consiglio a norma dell'articolo 127. (270) ((275))
+
+3.  La distruzione, nei casi in cui è prevista, viene eseguita sotto controllo del giudice. Dell'operazione è redatto verbale.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 269
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 269
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 48595/2016
+                                      Il pubblico ministero è legittimato, a norma dell'art. 269, comma secondo, cod. proc. pen., a richiedere la distruzione della documentazione relativa ad intercettazioni telefoniche non necessarie per il procedimento. (Annulla senza rinvio, G.i.p. Trib. Lecce, 19/11/2015).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 48595 del 20 ottobre 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8953/2015
+                                      La distruzione della documentazione delle intercettazioni, i cui risultati non possono essere utilizzati a norma dell'art. 271, commi primo e secondo, cod. proc. pen., non può essere disposta in esecuzione di una dichiarazione di inutilizzabilità intervenuta nel procedimento incidentale "de libertate", perché presuppone una statuizione di inutilizzabilità processualmente insuscettibile di modifiche, che faccia escludere la possibilità di utilizzazione futura di quelle conversazioni nell'ambito del processo. (Dichiara inammissibile, Gip Trib. Palermo, 14/04/2015).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 8953 del 25 novembre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24832/2013
+                                      È abnorme il provvedimento con cui il giudice per le indagini preliminari, richiesto dall'indagato di provvedere alla distruzione della documentazione relativa alle intercettazioni telefoniche e ambientali ritenute inutili, rigetti "de plano" l'istanza omettendo di fissare la prescritta udienza camerale. (Fattispecie nella quale la S.C. ha ritenuto necessario il contraddittorio per contemperare il diritto del richiedente a tutelare la sua riservatezza con l'interesse pubblico alla conservazione degli atti del procedimento, in ragione del fatto che, essendo solo archiviato, esso è sempre suscettibile di riapertura).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 24832 del  6 giugno 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1759/1997
+                                      In materia di distruzione delle registrazioni delle conversazioni telefoniche intercettate e ritenute irrilevanti ai fini del procedimento, richiesta dall'interessato a tutela della propria riservatezza, è necessario, prima di decidere sull'istanza, che sia esaurita la procedura prevista dall'art. 268 c.p.p. Il solo deposito degli atti e la conseguente possibilità da parte degli indagati di prenderne visione e di ascoltare il testo delle telefonate non è sufficiente per poter procedere immediatamente all'esame della richiesta.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1759 del 28 luglio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1015/1994
+                                      Sulla richiesta formulata per la cancellazione di nastri relativi ad intercettazioni telefoniche - ai sensi dell'art. 269 c.p.p. - il Gip non può decidere de plano ma deve fissare l'udienza camerale a norma del citato articolo; nel caso di decisione adottata dal giudice direttamente senza l'osservanza della procedura camerale prevista dall'art. 127 c.p.p., trattasi di provvedimento che - pur se irritualmente incluso in un provvedimento complesso (comprendente, ad esempio, anche l'archiviazione) - non può essere definito «abnorme» (tale essendo solo un provvedimento che debba considerarsi completamente avulso dall'ordinamento giuridico), ma è ricorribile per cassazione ai sensi degli artt. 269 secondo comma e 127 nn. 1, 3, 5, 7 c.p.p
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1015 del 23 settembre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 378/1994
+                                      È abnorme il provvedimento con cui il giudice per le indagini preliminari, richiesto dal pubblico ministero della procedura camerale per la distruzione di registrazioni telefoniche ritenuti inutili, rifiuta l'adempimento, adducendo che non ricorrono i presupposti di cui all'art. 269, secondo comma, c.p.p. È evidente, infatti, l'anomalia di una siffatta pronuncia, mediante la quale il giudice, rifiutando la prevista procedura camerale, pretende sottrarsi ad ogni controllo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 378 del 23 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1364/1993
+                                      La competenza a provvedere sulla richiesta di distruzione, ai sensi degli artt. 269, terzo comma e 271, terzo comma, c.p.p., di verbali e registrazioni di comunicazioni intercettate appartiene al giudice che procede all'atto in cui la richiesta stessa viene formulata, indipendentemente dalla circostanza che egli abbia o meno la materiale disponibilità degli atti. (Nella specie, in applicazione di detto principio, la Corte, risolvendo un conflitto tra giudice del dibattimento e giudice delle indagini preliminari, ha affermato la competenza di quest'ultimo, giacché la richiesta, sulla quale non era stato provveduto, era stata avanzata nel corso dell'udienza preliminare, cui aveva fatto seguito l'emanazione del decreto di rinvio a giudizio).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1364 del 19 maggio 1993)
+                  
+
+- 
+
+Ratio: La ratio di tale disposizione si coglie nell'esigenza di garantire il principio costituzionalmente garantito della libertà e della segretezza delle comunicazioni (art. 15), le cui limitazioni sono dunque ammissibili solo se poste in essere nel rispetto delle garanzie stabilite ex lege.
+Spiegazione: 
+La norma in commento, in un’ottica garantistica di tutela della libertà delle comunicazioni ex art. [[n15]] Cost., disciplina la conservazione delle intercettazioni effettuate. Le comunicazioni intercettate vanno infatti registrate e delle relative operazioni deve essere redatto verbale in cui è trascritto, anche sommariamente, il contenuto delle intercettazioni.
+
+I verbali e le registrazioni devono essere conservati in un apposito archivio presso l’ufficio del pubblico ministero che ha richiesto in precedenza le intercettazioni, e sono coperti dal segreto (v. anche disciplina dell’art. 256). Tuttavia, al fine di consentire il diritto di difesa al difensore dell’imputato, nonché l’adempimento dei propri obblighi procedurali ed autorizzativi al giudice per le indagini preliminari è in ogni caso consentito l’accesso all’archivio suddetto e l’ascolto delle intercettazioni.
+Parimenti, in nessun caso è coperto da segreto il contenuto del fascicolo del pubblico ministero di cui all’art. 373 co. 5.
+
+Ai sensi del comma 2, le registrazioni sono conservate fino alla sentenza irrevocabile, eccezion fatta per le intercettazioni acquisite illegittimamente o fuori dei casi consentiti, che possono essere distrutte in ogni stato e fase del processo (salvo che costituiscano corpo del reato).
+
+Gli interessati possono comunque, nonostante quanto previsto dall’articolo 272, sollecitare il giudice al fine di disporre la distruzione delle registrazioni non acquisite, per motivi legati alla tutela della riservatezza. Il giudice decide in camera di consiglio nelle modalità di cui all’articolo 127.
+
+In ogni caso la distruzione è eseguita sotto il controllo del giudice e dell’operazione viene redatto verbale.
+

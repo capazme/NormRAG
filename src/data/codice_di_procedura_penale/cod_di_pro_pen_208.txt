@@ -1,0 +1,39 @@
+
+==================================================
+
+===== Article 208 =====
+[Primary - Text]
+Art. 208
+Richiesta dell'esame
+
+1.  Nel dibattimento, l'imputato, la parte civile che non debba essere esaminata come testimone, il responsabile civile e la persona civilmente obbligata per la pena pecuniaria sono esaminati se ne fanno richiesta o vi consentono.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo II - Esame delle parti>Articolo 208
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 208
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 40317/2006
+                                      Anche in assenza di una rinuncia del P.M. all'espletamento dell'esame dell'imputato, ritualmente ammesso e fissato, è legittima la revoca dell'ordinanza di ammissione, allorché l'imputato stesso non sia comparso all'udienza stabilita per l'incombente, adducendo un impedimento ritenuto non legittimo dal giudice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 40317 del 10 novembre 2006)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui voluto disciplinare un mezzo di prova, sebbene di natura eventuale, direttamente subordinato alla volontà delle parti stesse.
+Spiegazione: 
+Per quanto concerne l’esame delle parti private, destinato a prendere il posto della figura dell’intervento in sede dibattimentale ex art. 503 e, in determinate ipotesi, anche dell’intervento in sede di incidente probatorio (artt. 392 e ss.), va sin d’ora precisato che trattasi di un vero e proprio mezzo di prova, anche se di natura meramente eventuale, dato che la sua esperibilità è condizionata alla volontà delle parti stesse. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+Ai sensi della norma in commento, le parti (ad esclusione quindi del testimone, obbligato a deporre) sono sottoposte all’esame soltanto quando ne facciano richiesta oppure consentano alla richiesta fatta dall’altra parte (eccettuata l’ipotesi della parte civile, la quale può altresì essere chiamata a deporre come testimone).
+
+Va precisato in primo luogo che la parte, una volta che abbia acconsentito all’esame, perde la possibilità di esercitare senza alcun pregiudizio la strategia del silenzio e, in secondo luogo, che per quanto concerne l’imputato la scelta di rifiutare l’esame non è in realtà del tutto libera, dato che egli, ex art. 210, può essere chiamato a testimoniare nel caso in cui abbia reso dichiarazioni sul fatto altrui, tranne quando abbia assunto la figura di “testimone assistito” ai sensi dell’articolo 197 bis.
+

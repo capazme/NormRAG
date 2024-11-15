@@ -1,0 +1,928 @@
+
+==================================================
+
+===== Article 268 =====
+[Primary - Text]
+Art. 268
+Esecuzione delle operazioni
+
+1.  Le comunicazioni intercettate sono registrate e delle operazioni è redatto verbale.
+
+2.  Nel verbale è trascritto, anche sommariamente, soltanto il contenuto delle comunicazioni intercettate rilevante ai fini delle indagini, anche a favore della persona sottoposta ad indagine. Il contenuto non rilevante ai fini delle indagini non è trascritto neppure sommariamente e nessuna menzione ne viene riportata nei verbali e nelle annotazioni della polizia giudiziaria, nei quali è apposta l'espressa dicitura: 'La conversazione omessa non è utile alle indaginì.
+
+2-bis.  Il pubblico ministero dà indicazioni e vigila affinchè i verbali siano redatti in conformità a quanto previsto dal comma 2 e negli stessi non siano riportate espressioni lesive della reputazione delle persone o quelle che riguardano fatti e circostanze afferenti alla vita privata degli interlocutori,  ((nonché quelle che consentono di identificare soggetti diversi dalle parti))  salvo che risultino rilevanti ai fini delle indagini.(270) (275)
+
+2-ter.  COMMA ABROGATO DAL  D.L. 30 DICEMBRE 2019, N. 161 , CONVERTITO CON MODIFICAZIONI DALLA  L. 28 FEBBRAIO 2020, N. 7 .(270) (275)
+
+3.  Le operazioni possono essere compiute esclusivamente per mezzo degli impianti installati nella procura della Repubblica. Tuttavia, quando tali impianti risultano insufficienti o inidonei ed esistono eccezionali ragioni di urgenza, il pubblico ministero può disporre, con provvedimento motivato, il compimento delle operazioni mediante impianti di pubblico servizio o in dotazione alla polizia giudiziaria.
+
+3-bis.  Quando si procede a intercettazione di comunicazioni informatiche o telematiche, il pubblico ministero può disporre che le operazioni siano compiute anche mediante impianti appartenenti a privati. Per le operazioni di avvio e di cessazione delle registrazioni con captatore informatico su dispositivo elettronico portatile, riguardanti comunicazioni e conversazioni tra presenti, l'ufficiale di polizia giudiziaria può avvalersi di persone idonee di cui all'articolo 348, comma 4. (253) (260) (263) (270) (275)
+
+4.  I verbali e le registrazioni sono immediatamente trasmessi al pubblico ministero per la conservazione nell'archivio di cui all'articolo 269, comma 1. Entro cinque giorni dalla conclusione delle operazioni, essi sono depositati presso l'archivio di cui all'articolo 269, comma 1, insieme ai decreti che hanno disposto, autorizzato, convalidato o prorogato l'intercettazione, rimanendovi per il tempo fissato dal pubblico ministero, salvo che il giudice non riconosca necessaria una proroga. (270) (275)
+
+5.  Se dal deposito può derivare un grave pregiudizio per le indagini, il giudice autorizza il pubblico ministero a ritardarlo non oltre la chiusura delle indagini preliminari. (270) (275)
+
+6.  Ai difensori delle parti è immediatamente dato avviso che, entro il termine fissato a norma dei commi 4 e 5, per via telematica hanno facoltà di esaminare gli atti e ascoltare le registrazioni ovvero di prendere cognizione dei flussi di comunicazioni informatiche o telematiche. Scaduto il termine, il giudice dispone l'acquisizione delle conversazioni o dei flussi di comunicazioni informatiche o telematiche indicati dalle parti, che non appaiano irrilevanti, procedendo anche di ufficio allo stralcio delle registrazioni e dei verbali di cui è vietata l'utilizzazione e di quelli che riguardano categorie particolari di dati personali  ((o soggetti diversi dalle parti)) , sempre che non ne sia dimostrata la rilevanza. Il pubblico ministero e i difensori hanno diritto di partecipare allo stralcio e sono avvisati almeno ventiquattro ore prima. (270) (275)
+
+7.  Il giudice, anche nel corso delle attività di formazione del fascicolo per il dibattimento ai sensi dell'articolo 431, dispone la trascrizione integrale delle registrazioni ovvero la stampa in forma intellegibile delle informazioni contenute nei flussi di comunicazioni informatiche o telematiche da acquisire, osservando le forme, i modi e le garanzie previsti per l'espletamento delle perizie. Le trascrizioni o le stampe sono inserite nel fascicolo per il dibattimento. Il giudice, con il consenso delle parti, può disporre l'utilizzazione delle trascrizioni delle registrazioni ovvero delle informazioni contenute nei flussi di comunicazioni informatiche o telematiche effettuate dalla polizia giudiziaria nel corso delle indagini. In caso di contestazioni si applicano le disposizioni di cui al primo periodo. (270) (275)
+
+8.  I difensori possono estrarre copia delle trascrizioni e fare eseguire la trasposizione della registrazione su idoneo supporto. In caso di intercettazione di flussi di comunicazioni informatiche o telematiche i difensori possono richiedere copia su idoneo supporto dei flussi intercettati, ovvero copia della stampa prevista dal comma 7. (270) (275)    
+ (163)
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 268
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 268
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 50021/2018
+                                      Il mancato rilascio della copia in formato forense, cd. "bit a bit" o per immagini, dei file audio delle intercettazioni, richiesta per permettere di evidenziare manipolazioni o interventi sui testi con alterazione delle tracce originali, non comporta l'inutilizzabilità dei risultati delle intercettazioni in assenza di una specifica disposizione di legge che preveda siffatta sanzione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 50021 del  6 novembre 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 30994/2018
+                                      In tema di intercettazione di comunicazioni o conversazioni, la sussistenza delle eccezionali ragioni di urgenza, richieste dall'art. 268, comma 3, cod. proc. pen., per l'esecuzione delle operazioni mediante l'impiego di apparecchiature diverse da quelle installate presso gli uffici della procura può desumersi anche implicitamente dal riferimento all'attività criminosa in corso indicata non solo nel provvedimento del pubblico ministero, ma anche complessivamente ricavabile dagli atti del procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 30994 del  9 luglio 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14948/2018
+                                      In tema di intercettazioni telefoniche, è utilizzabile la trascrizione delle captazioni anche nel caso di mancato preventivo esame dibattimentale della persona che vi ha provveduto su incarico del giudice, poiché il trascrittore di colloqui intercettati non è assimilabile ad un perito, il cui esame è condizionato ai sensi dell'art. 511 cod. proc. pen. alla lettura della relazione, il che implica una attività valutativa che non ricorre nella mera trascrizione delle registrazioni (In motivazione la Corte ha specificato che tuttavia il trascrittore può essere sentito a chiarimenti circa le modalità impiegate e i criteri seguiti nella sua attività).
+                                          
+                      –
+                      
+                                                          In tema di intercettazioni di conversazioni telefoniche o ambientali, la perizia trascrittiva disposta ex art. 268, comma 7, cod. proc. pen. ed espletata successivamente all'udienza fissata per la formazione del fascicolo per il dibattimento ex art. 431 cod. proc. pen. può essere legittimamente depositata nel corso del dibattimento, mediante inserimento nel relativo fascicolo, con conseguente piena utilizzabilità della stessa, senza alcuna violazione del contradditorio attesa la possibilità per il difensore ex art. 491, comma 2, cod. proc. pen. di dedurre, anche tardivamente, le questioni sull'inserimento della perizia nel fascicolo per il dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 14948 del  4 aprile 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11060/2018
+                                      L'omessa indicazione, nel verbale di esecuzione delle intercettazioni, delle generalità dell'interprete di lingua straniera che abbia proceduto all'ascolto, traduzione e trascrizione delle conversazioni, non è causa di inutilizzabilità di tali operazioni, sanzione prevista solo per i casi tassativamente indicati dall'art. 271 cod. proc. pen., né di nullità delle stesse, avuto riguardo al principio di tassatività stabilito dall'art. 177 cod. proc. pen.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 11060 del 13 marzo 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44006/2017
+                                      Il diritto del difensore dell'indagato di ascoltare le registrazioni di conversazioni o comunicazioni intercettate non comporta il diritto di accedere al "server" della Procura nella cui memoria sono conservate le tracce audio originali, in quanto tale accesso non è previsto dall'art. 268, comma 6, cod. proc. pen. e l'ascolto delle tracce originali può essere garantito attraverso opportuni sistemi tecnici, quale la duplicazione, eseguibile anche "in remoto" dalla polizia giudiziaria, dei file estratti dai supporti informatici su cui vengono riprodotte tali tracce; da ciò consegue che il mancato accesso al server dell'ufficio inquirente, ovvero agli originali dei file audio, non determina una condizione di inutilizzabilità patologica delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 44006 del 25 settembre 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6846/2015
+                                      In materia di intercettazioni, l'art. 268, comma terzo cod.proc.pen., richiede che le operazioni si svolgano sotto il diretto controllo degli inquirenti, ma non vieta l'utilizzazione di impianti e mezzi appartenenti a privati, nè il ricorso all'eventuale ausilio tecnico ad opera di soggetti esterni che siano richiesti di intervenire per fronteggiare esigenze legate al corretto funzionamento delle apparecchiature noleggiate e che si trovano ad agire, in tale evenienza, come "longa manus" o ausiliari del Pubblico ministero o della polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6846 del 17 febbraio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3137/2015
+                                      In materia di intercettazioni, l'art. 268, comma terzo cod.proc.pen., richiede che le operazioni si svolgano sotto il diretto controllo degli inquirenti, ma non vieta l'utilizzazione di impianti e mezzi appartenenti a privati, nè il ricorso all'eventuale ausilio tecnico ad opera di soggetti esterni che siano richiesti di intervenire per fronteggiare esigenze legate al corretto funzionamento delle apparecchiature noleggiate e che si trovano ad agire, in tale evenienza, come "longa manus" o ausiliari del Pubblico ministero o della polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3137 del 22 gennaio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 25806/2014
+                                      n tema di intercettazioni telefoniche, il contenuto delle conversazioni intercettate può essere provato anche mediante deposizione testimoniale, non essendo necessaria la trascrizione delle registrazioni nelle forme della perizia, atteso che la prova è costituita dalla bobina o dalla cassetta, che l'art. 271, comma primo, c.p.p. non richiama la previsione dell'art. 268, comma settimo, c.p.p. tra le disposizioni la cui inosservanza determina l'inutilizzabilità e che la mancata trascrizione non è espressamente prevista né come causa di nullità, né è riconducibile alle ipotesi di nullità di ordine generale tipizzate dall'art. 178 c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 25806 del 16 giugno 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8430/2014
+                                      In tema di intercettazioni telefoniche, le eccezionali ragioni di urgenza, richieste dall'art. 268, comma terzo, cod. proc. pen. per l'esecuzione delle operazioni mediante utilizzo di impianti diversi da quelli in dotazione alla Procura della Repubblica, devono essere valutate con riferimento alla situazione esistente al momento dell'adozione del provvedimento con cui il P.M. dispone il compimento delle attività di captazione mediante impiego di apparecchiature esterne.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 8430 del 21 febbraio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41362/2013
+                                      Il diritto del difensore di ascoltare le registrazioni di conversazioni o comunicazioni intercettate e di estrarre copia dei file audio, dopo il deposito effettuato ai sensi del quarto comma dell'art. 268 cod. proc. pen., non è suscettibile di limitazione né è subordinato ad autorizzazione, per cui ogni compressione di tale diritto dà luogo alla nullità di ordine generale a regime intermedio prevista dall'art. 178, lett. c), cod. proc. pen. (In applicazione del principio, la Corte ha annullato con rinvio la sentenza impugnata che in un procedimento celebrato con rito abbreviato, aveva utilizzato ai fini della decisione conversazioni intercettate acquisite mediante "brogliacci", senza consentire ai difensori l'esercizio della facoltà di ascolto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 41362 del  7 ottobre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35692/2013
+                                      In tema di riesame, la richiesta del difensore volta ad accedere, prima del loro deposito ai sensi del quarto comma dell'art. 268 c.p.p., alle registrazioni di conversazioni o comunicazioni intercettate e sommariamente trascritte dalla polizia giudiziaria nei cosiddetti "brogliacci" di ascolto, utilizzati ai fini dell'adozione di un'ordinanza di custodia cautelare, intanto determina l'obbligo per il pubblico ministero di provvedere tempestivamente, in quanto il difensore specifichi che l'accesso è finalizzato alla presentazione di un'istanza di riesame. (Nella specie, il difensore sia in sede di richiesta delle copie dell'intercettazione, sia in sede di conferimento di incarico al c.t. per la duplicazione dei supporti non aveva indicato che la richiesta era urgente in quanto necessaria per l'udienza dinanzi al tribunale del riesame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 35692 del 28 agosto 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13463/2013
+                                      In tema di intercettazioni telefoniche, il contenuto delle conversazioni intercettate può essere provato anche mediante deposizione testimoniale, non essendo necessaria la trascrizione delle registrazioni nelle forme della perizia, atteso che la prova è costituita dalla bobina o dalla cassetta, che l'art. 271, comma primo, cod. proc. pen. non richiama la previsione dell'art. 268, comma settimo, cod. proc. pen. tra le disposizioni la cui inosservanza determina l'inutilizzabilità e che la mancata trascrizione non è espressamente prevista né come causa di nullità, né è riconducibile alle ipotesi di nullità di ordine generale tipizzate dall'art. 178 cod. proc. pen.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 13463 del 22 marzo 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1752/2013
+                                      Il termine entro il quale vanno rilasciate le copie delle registrazioni delle intercettazioni telefoniche deve essere sufficiente per consentire il solo ascolto delle registrazioni e non la trascrizione delle stesse a mezzo di proprio consulente. (Nella specie, la Corte ha ritenuto congruo, a fronte di un non rilevante numero di intercettazioni, il termine di due giorni liberi tra il rilascio di copie delle registrazioni e l'udienza di riesame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1752 del 14 gennaio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 22270/2011
+                                      La nullità generale a regime intermedio conseguente alla mancata disponibilità, in capo alla difesa, dei supporti, tempestivamente richiesti, delle conversazioni telefoniche intercettate e utilizzate ai fini dell'adozione di ordinanza di custodia cautelare, sussiste anche laddove detta indisponibilità consegua ad inerzia o ritardo non già del P.M. bensì degli uffici deputati a dare esecuzione al provvedimento di questi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 22270 del  3 giugno 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 18609/2011
+                                      Il difensore che deduca la nullità d'ordine generale a regime intermedio per non aver ottenuto, nonostante la tempestiva richiesta in vista del giudizio di riesame, l'accesso alle registrazioni di conversazioni intercettate, e utilizzate per l'emissione di un provvedimento di coercizione personale, ha l'onere di provare l'omesso o ritardato rilascio della documentazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 18609 del 11 maggio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 18268/2011
+                                      Sussiste incompatibilità a svolgere successivamente nello stesso procedimento la funzione di interprete per il soggetto che abbia svolto il compito di trascrizione delle registrazioni delle comunicazioni intercettate a norma dell'art. 268, comma 7, c.p.c.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 18268 del 10 maggio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20300/2010
+                                      In tema di riesame, l'illegittima compressione del diritto di difesa, derivante dal rifiuto o dall'ingiustificato ritardo del pubblico ministero nel consentire al difensore, prima del loro deposito ai sensi del quarto comma dell'art. 268 c.p.p., l'accesso alle registrazioni di conversazioni intercettate e sommariamente trascritte dalla polizia giudiziaria nei cosiddetti brogliacci di ascolto, utilizzati ai fini dell'adozione di un'ordinanza di custodia cautelare, dà luogo ad una nullità di ordine generale a regime intermedio, ai sensi dell'art. 178, lett. c), c.p.p., in quanto determina un vizio nel procedimento di acquisizione della prova, che non inficia l'attività di ricerca della stessa ed il risultato probatorio, in sé considerati. Ne consegue che, qualora tale vizio sia stato ritualmente dedotto in sede di riesame ed il Tribunale non abbia potuto acquisire il relativo supporto fonico entro il termine perentorio di cui all'art. 309, nono comma, c.p.p., le suddette trascrizioni non possono essere utilizzate come prova nel giudizio "de libertate". (In motivazione, la Corte ha altresì precisato che l'eventuale annullamento del provvedimento cautelare, per le ragioni testé indicate, non preclude al G.I.P. di accogliere una nuova richiesta cautelare, se corredata dal relativo supporto fonico).
+                                          
+                      –
+                      
+                                                          In tema di riesame, la richiesta del difensore volta ad accedere, prima del loro deposito ai sensi del quarto comma dell'art. 268 c.p.p., alle registrazioni di conversazioni o comunicazioni intercettate e sommariamente trascritte dalla polizia giudiziaria nei c.d. brogliacci di ascolto, utilizzati ai fini dell'adozione di un'ordinanza di custodia cautelare, determina l'obbligo per il pubblico ministero di provvedere in tempo utile a consentire l'esercizio del diritto di difesa nel procedimento incidentale "de libertate", obbligo il cui inadempimento può dar luogo a responsabilità disciplinare o penale del magistrato del P.M.. (In motivazione, la Corte ha precisato che, al fine di porre il pubblico ministero in grado di adempiere tale obbligo, è del pari necessario che la richiesta del difensore venga tempestivamente proposta rispetto alle cadenze temporali indicate dalle norme processuali)
+                                          
+                      –
+                      
+                                                          In tema di riesame, la richiesta del difensore volta ad accedere, prima del loro deposito ai sensi del quarto comma dell'art. 268 c.p.p., alle registrazioni di conversazioni o comunicazioni intercettate e sommariamente trascritte dalla polizia giudiziaria nei c.d. brogliacci di ascolto, utilizzati ai fini dell'adozione di un'ordinanza di custodia cautelare, deve essere presentata al pubblico ministero e non al giudice per le indagini preliminari che ha emesso il provvedimento cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 20300 del 27 maggio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9416/2010
+                                      Sono utilizzabili nel giudizio abbreviato i risultati della localizzazione mediante il sistema di rilevamento satellitare (cosiddetto GPS) degli spostamenti di una persona sul territorio, mediante l'acquisizione delle annotazioni e rilevazioni di servizio della polizia giudiziaria circa le coordinate segnalate dal sistema di rilevamento, in quanto costituiscono il prodotto di un'attività di investigazione atipica assimilabile al pedinamento e non alle operazioni di intercettazione. (In motivazione, la S.C. ha precisato che i supporti informatici relativi a tale attività di indagine non vanno considerati "atti non ripetibili", come accade per gli esiti delle intercettazioni, e non vanno inseriti nel fascicolo del dibattimento).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 9416 del  9 marzo 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3649/2010
+                                      La mancata trasmissione al giudice per le indagini preliminari, con la richiesta di rinvio a giudizio, delle registrazioni di conversazioni intercettate, non determina alcuna nullità, né l'inutilizzabilità del relativo contenuto, se nel fascicolo vi è comunque traccia di tutte le indagini espletate e, più specificamente, dell'attività di intercettazione, attraverso la trascrizione del contenuto delle relative comunicazioni, essendo ciò sufficiente a porre la parte interessata nella condizione di difendersi, anche contestando la fedeltà delle trascrizioni e richiedendo, se del caso, l'ascolto diretto dei nastri.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3649 del 28 gennaio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37151/2009
+                                      L'omessa trasposizione su nastro magnetico, richiesta dal difensore dell'indagato, delle registrazioni delle intercettazioni poste a fondamento di una misura cautelare non comporta l'inutilizzabilità delle stesse intercettazioni. (In motivazione la Corte ha chiarito che la sanzione di inutilizzabilità non è in tal caso configurabile nemmeno a seguito dell'intervento della sentenza della Corte Costituzionale n. 336 del 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Feriale,
+                                        sentenza n. 37151 del 10 settembre 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19150/2009
+                                      In tema di intercettazioni telefoniche, non costituisce requisito per l'ammissibilità della richiesta volta ad ottenere la trasposizione su nastro magnetico delle registrazioni di conversazioni o comunicazioni utilizzate ai fini dell'adozione di un provvedimento cautelare, la specificità dei rilievi mossi al contenuto dei colloqui. (Vedi Corte cost. n. 336 del 2008). (Nell'affermare tale principio in materia di riesame, la Corte ha altresì rilevato che la richiesta del difensore era stata depositata 17 gg. prima dell'udienza camerale, ovvero in un tempo sufficientemente congruo per consentire all'ufficio di procura la consegna delle registrazioni e comunque compatibile con la peculiare urgenza dell'incidente cautelare).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 19150 del  7 maggio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44128/2008
+                                      In materia di intercettazioni, sono inutilizzabili, in assenza di autorizzazione del giudice, le registrazioni di conversazioni effettuate con videoripresa da un soggetto extraneus dotato di strumenti di captazione predisposti e fornitigli dalla polizia giudiziaria, realizzandosi in tal modo un surrettizio aggiramento delle regole che impongono il ricorso a strumenti tipici per comprimere il bene costituzionalmente protetto della segretezza delle comunicazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 44128 del 26 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44127/2008
+                                      In tema di intercettazioni telefoniche, la richiesta volta ad ottenere la trasposizione su nastro magnetico delle registrazioni di conversazioni o comunicazioni utilizzate ai fini dell'adozione di un provvedimento cautelare deve essere presentata al giudice che ha adottato la relativa misura coercitiva e non al Tribunale del riesame.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 44127 del 26 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37699/2008
+                                      I risultati delle intercettazioni sono utilizzabili nel procedimento cautelare pur quando il pubblico ministero non abbia allegato i relativi supporti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 37699 del  3 ottobre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32851/2008
+                                      Poiché la trascrizione delle intercettazioni telefoniche non costituisce prova o fonte di prova ma solo un'operazione puramente rappresentativa in forma grafica del contenuto di prove già acquisite mediante registrazione fonica, non è possibile subordinare la richiesta di definizione del processo con rito abbreviato ad una integrazione probatoria consistente nell'esecuzione della trascrizione, ben potendo la parte far eseguire la trasposizione su nastro magnetico delle registrazioni secondo il disposto dell'art. 268, comma ottavo, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 32851 del  6 maggio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35042/2007
+                                      Sono utilizzabili gli esiti di intercettazioni eseguite mediante apparecchiature in dotazione ad ufficio giudiziario diverso da quello procedente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 35042 del 18 settembre 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 30347/2007
+                                      In tema di esecuzione delle operazioni di intercettazione di conversazioni o comunicazioni, alla carenza o insufficienza della motivazione del decreto del pubblico ministero che dispone l'utilizzazione di impianti diversi da quelli in dotazione all'ufficio di Procura, non può porre rimedio il giudice, nel giudizio di merito o di legittimità, con l'individuazione, in tali sedi, delle effettive ragioni dell'insufficienza o inidoneità sulla base di atti del processo diversi dal decreto del pubblico ministero e da quelli che lo integrano per relationem.
+                                          
+                      –
+                      
+                                                          In tema di esecuzione delle operazioni di intercettazione di conversazioni o comunicazioni, l'obbligo di motivazione del decreto del pubblico ministero che dispone l'utilizzazione di impianti diversi da quelli in dotazione all'ufficio di Procura non è assolto col semplice riferimento alla «insufficienza o inidoneità» degli impianti stessi (che ripete il conclusivo giudizio racchiuso nella formula di legge), ma richiede la specificazione delle ragioni di tale carenza che in concreto depongono per la ritenuta «insufficienza o inidoneità». (La Corte ha precisato che l'adempimento dell'obbligo di motivazione implica, per il caso di inidoneità funzionale degli impianti della Procura, che sia data contezza, seppure senza particolari locuzioni o approfondimenti, delle ragioni che li rendono concretamente inadeguati al raggiungimento dello scopo, in relazione al reato per cui si procede ed al tipo di indagini necessarie).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 30347 del 26 luglio 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2737/2006
+                                      In tema di intercettazioni di conversazioni o comunicazioni telefoniche e di autorizzazione all'utilizzazione di impianti diversi da quelli in dotazione alla Procura della Repubblica, ai sensi dell'articolo 268, comma 3, c.p.p., la motivazione del decredo del pubblico ministero, in ordine a entrambi i presupposti di legge deve intervenire prima dell'esecuzione delle operazioni captative. Il P.M. può rendere la relativa motivazione, integrarla, anche in momento successivo a quello in cui abbia, eventualmente, disposto l'esecuzione delle operazioni, ma comunque sempre e in ogni caso prima che le operazioni medesime vengano eseguite. Non è dato al giudice di emendare il decreto del P.M. sostituendosi a lui nel rendere una motivazione non data dall'inquirente o di integrarla, appropriandosi di ambiti di discrezionalità delibativa e determinativa che spettano solo alla parte pubblica.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 2737 del 24 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1595/2006
+                                      In materia di intercettazioni ambientali è legittima, in caso di urgenza e nel caso in cui la polizia giudiziaria non sia dotata delle necessarie apparecchiature, l'utilizzazione di impianti e mezzi appartenenti a privati, purché le operazioni, autorizzate con decreto motivato del P.M., avvengano sotto il diretto controllo degli organi di polizia giudiziaria, di modo che, in tale evenienza, i privati vengano ad agire come « longa manus» o ausiliari del pubblico ministero o della polizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 1595 del 16 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41174/2004
+                                      Le carenze motivazionali del decreto con il quale il pubblico ministero abbia disposto, ai sensi dell'art. 268, comma 3, c.p.p., l'effettuazione di operazioni di intercettazione con impianti diversi da quelli in dotazione alla procura della repubblica possono essere sancite mediante l'adozione, da parte dello stesso pubblico ministero, di un provvedimento integrativo fino al momento in cui i risultati delle intercettazioni non debbano essere utilizzati dal giudice, anche ai soli fini cautelari e quindi, in tale ultima ipotesi, fino a quando non sia emessa l'ordinanza applicativa della misura cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 41174 del 21 ottobre 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 18047/2004
+                                      Non è abnorme e non è, pertanto, suscettibile di ricorso per cassazione il provvedimento con il quale il giudice per le indagini preliminari, all'udienza fissata per l'espletamento di un incidente probatorio, revochi l'ordinanza ammissiva di detto incidente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 18047 del 19 aprile 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8025/2004
+                                      In tema di intercettazioni c.d. “ambientali”, quando si attesti, nel provvedimento previsto dall'art. 268, comma 3, seconda parte, c.p.p., la tecnica impossibilità di effettuarle mediante uso degli impianti in dotazione alla procura della Repubblica, per la loro accertata inidoneità allo scopo e non per mera, temporanea inutilizzabilità, diventa per ciò stesso superflua l'esigenza di una motivazione anche in ordine alle eccezionali ragioni di urgenza giustificative del ricorso ad impianti esterni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 8025 del 24 febbraio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 48252/2003
+                                      Non può considerarsi idonea ad integrare la motivazione richiesta dal terzo comma dell'art. 268 c.p.p. la semplice affermazione dell'assoluta urgenza delle operazioni, connotata da genericità ed apoditticità, soprattutto quando dagli atti non è desumibile in alcun modo una situazione di necessità dovuta a cadenze processuali ravvicinate e concitate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 48252 del 17 dicembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35090/2003
+                                      In tema di misure cautelari personali, è legittima l'adozione del provvedimento cautelare sulla base delle sole trascrizioni, anche parziali, delle intercettazioni, in quanto il deposito dei nastri registrati non rileva nella procedura de libertate, essendo incompatibile con l'urgenza di provvedere all'adozione della misura cautelare; mentre detto adempimento deve essere osservato nell'ambito del procedimento principale, riservandosi in fase cautelare la valutazione del rispetto delle norme processuali relative alle autorizzazioni necessarie ed alle modalità di esecuzione delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 35090 del  4 settembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 27307/2003
+                                      In materia di esecuzione delle operazioni di intercettazione di conversazioni o comunicazioni telefoniche, per impianto inidoneo, ai sensi dell'art. 268 comma 3 c.p.p., tale da giustificare l'utilizzo di impianti diversi da quelli esistenti presso la procura della Repubblica, deve intendersi non solo quello che non funzioni materialmente, ma anche quello che pur essendo disponibile e funzionante non riesca a raggiungere, nel caso concreto, lo scopo a cui è preposto, in relazione al reato per cui si procede e alla tipologia di indagine necessaria per il suo accertamento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 27307 del 24 giugno 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 22957/2003
+                                      In tema di intercettazioni telefoniche, ove sia stato autorizzato il ritardo sino alla conclusione delle indagini preliminari per il deposito delle trascrizioni, delle registrazioni e dei relativi decreti autorizzatori, il termine di cui all'art. 268, comma 2 c.p.p. coincide con quello di cui all'art. 415 bis stesso codice, sicché si fa luogo ad un unico deposito, l'indagato ed il suo difensore possono esercitare anche le facoltà di cui all'art. 268, comma 6 del codice di rito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 22957 del 26 maggio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10664/2003
+                                      In materia di intercettazioni di comunicazioni o conversazioni, l'ordinanza con cui il giudice per le indagini preliminari, in sede di conferimento dell'incarico di trascrizione integrale delle registrazioni, a norma dell'art. 268 comma 7 c.p.p., rigetti la richiesta di stralciare le registrazioni di cui è vietata l'utilizzazione, in quanto riguardanti telefonate del difensore della persona sottoposta ad indagini, effettuate successivamente all'assunzione dell'incarico difensivo, è provvedimento che, ponendosi al di fuori del sistema processuale, deve essere qualificato come “abnorme” e, quindi, può essere immediatamente impugnabile in cassazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 10664 del  7 marzo 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37695/2002
+                                      In tema di intercettazione di comunicazioni, ove le operazioni debbano essere effettuate mediante impianti di pubblico servizio o in dotazione alla polizia giudiziaria, è sufficiente, ai fini dell'osservanza del disposto di cui all'art. 268, comma 3, c.p.p., che il pubblico ministero attesti la indisponibilità degli impianti installati presso la procura della Repubblica e l'urgenza ontologicamente correlata alla sequenza delle indagini e delle stesse intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Feriale,
+                                        sentenza n. 37695 del  8 novembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9633/2002
+                                      In tema di intercettazione delle conversazioni telefoniche, non sussiste inutilizzabilità della trascrizione a seguito del mancato preventivo esame nel dibattimento della persona che vi ha provveduto su incarico del giudice, dovendosi ritenere che il richiamo contenuto nel comma settimo dell'art. 268 c.p.p. a “forme, modi e garanzie” previste per la perizia operi limitatamente alla tutela del contraddittorio e dell'intervento della difesa rispetto all'attività trascrittiva. (Nell'affermare tale principio la Corte ha ritenuto che la trascrizione delle conversazioni intercettate comporti una mera attività ricognitiva e non comprenda quei compiti di valutazione che sono alla base della previsione dell'art. 511, comma 3, c.p.p., che consente l'acquisizione e la lettura della relazione scritta solo dopo l'esame del perito).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 9633 del 11 marzo 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7406/2002
+                                      Le sommarie trascrizioni, effettuate a norma dell'art. 268, comma 2, c.p.p., delle conversazioni intercettate nei verbali redatti dalla polizia giudiziaria, possono essere utilizzate, in sede cautelare, come fonte dei gravi indizi di colpevolezza richiesti dall'art. 273, comma 1, c.p.p. anche quando, trattandosi di conversazioni svoltesi in lingua straniera, il loro contenuto risulti esplicitato da una traduzione simultanea affidata ad un interprete non nominato dal giudice, il quale abbia agito, quindi, come semplice ausiliario del personale addetto all'ascolto, fermo restando il potere-dovere del giudice chiamato a valutare la sussistenza dei suddetti gravi indizi di verificare, tenendo conto di ogni utile elemento messo a disposizione dal pubblico ministero o altrimenti acquisito in modo legittimo, l'assenza di motivi che possano ragionevolmente indurre a sospettare una non piena affidabilità della traduzione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7406 del 25 febbraio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42792/2001
+                                      In tema di intercettazione di comunicazioni o conversazioni, si applica anche alle intercettazioni tra presenti la disposizione dell'art. 268, comma 3, c.p.p., secondo cui è necessario, a pena di inutilizzabilità degli esiti delle operazioni (art. 271, comma 1, stesso codice), il decreto motivato del P.M. perché possa farsi ricorso ad impianti di pubblico servizio o in dotazione alla polizia giudiziaria in caso di insufficienza o inidoneità degli apparati installati presso la procura della Repubblica e in presenza di eccezionali ragioni di urgenza.
+                                          
+                      –
+                      
+                                                          In tema di intercettazione di comunicazioni tra presenti, è legittima la motivazione per relationem del decreto del pubblico ministero che disponga lo svolgimento delle operazioni di captazione mediante impianti in dotazione della polizia giudiziaria, allorché: 1) il provvedimento a tal fine richiamato (nella specie il decreto autorizzativo del ricorso al mezzo di ricerca della prova emesso dal giudice per le indagini preliminari) contenga idonea giustificazione della sussistenza di eccezionali ragioni di urgenza e dell'insufficienza o inidoneità degli apparati installati presso l'ufficio di procura; 2) abbia natura di atto del medesimo procedimento; 3) sia, se non allegato o trascritto nel provvedimento da motivare, conosciuto dall'interessato ovvero a lui ostensibile quanto meno al momento - giudizio di riesame - in cui si rende attuale l'esercizio della facoltà di valutazione, di critica ed eventualmente di gravame, con conseguente controllo dell'organo dell'impugnazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 42792 del 28 novembre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9797/2001
+                                      Il contenuto di conversazioni intercettate può essere provato soltanto mediante l'acquisizione delle relative trascrizioni, per cui è da considerare illegittima la deposizione testimoniale nella quale si riferisca di fatti emergenti da dette conversazioni, la cui trascrizione non sia stata acquisita. (Pertanto, nella specie, la S.C. ha ritenuto inammissibile per difetto d'interesse la relativa censura, posto che i fatti riferiti emergevano anche da altra fonte e, segnatamente, dall'acquisita copia di una ordinanza cautelare).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 9797 del  9 marzo 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2539/2000
+                                      In tema di intercettazione di conversazioni o comunicazioni l'obbligo della motivazione del provvedimento del pubblico ministero che dispone l'esecuzione delle operazioni mediante impianti diversi da quelli in dotazione all'ufficio della procura della Repubblica viene correttamente assolto con il semplice riferimento all'insufficienza o idoneità di questi ultimi, non essendo esigibile anche la specifica indicazione delle ragioni di tali carenze.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2539 del 25 maggio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3986/2000
+                                      La mancata osservanza dell'obbligo di motivazione previsto dall'art. 268, comma terzo, c.p.p. sul perché l'intercettazione debba essere eseguita non da impianti degli uffici della Procura della Repubblica ma dagli altri impianti dalla stessa norma previsti comporta, ai sensi dell'art. 271, la semplice inutilizzabilità delle intercettazioni compiute; pertanto di tali ragioni può darsi conto in un provvedimento integrativo, successivo all'effettuazione, purché anteriore all'utilizzazione delle risultanze dell'operazione, in modo da consentire il controllo da parte del giudice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 3986 del  9 febbraio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3243/1999
+                                      In tema di intercettazioni di conversazioni o comunicazioni, la richiesta di una misura cautelare non deve essere preceduta dal deposito di cui al quarto comma dell'art. 268 c.p.p., che rientra negli adempimenti da osservarsi nell'ambito del procedimento principale. Nella procedura incidentale de libertate il deposito non rileva, essendo del tutto incompatibile con la urgenza che caratterizza le misure cautelari.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3243 del 18 novembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5239/1999
+                                      Per l'intercettazione di comunicazioni tra presenti (nella specie effettuate nei locali di un istituto di pena) è richiesto, a pena di inutilizzabilità del relativo contenuto, che il decreto del pubblico ministero di autorizzazione a servirsi, sempre che ricorrano le condizioni previste dall'art. 268, comma terzo, c.p.p., di apparecchiature non installate presso la procura della Repubblica che procede, sia adeguatamente motivato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5239 del  4 novembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3289/1999
+                                      Ai fini dell'utilizzabilità dei risultati delle intercettazioni per l'emissione di una misura cautelare non è necessaria la trasmissione del verbale previsto dall'art. 268, comma primo, c.p.p., ma è sufficiente la trasmissione, con la richiesta del P.M., di una sommaria trascrizione del contenuto di esse o di un riferimento riassuntivo, come i c.d. brogliacci di ascolto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3289 del 15 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5903/1999
+                                      Ai fini dell'utilizzabilità dei risultati delle intercettazioni per l'emissione di una misura cautelare non è necessaria la trasmissione del verbale previsto dall'art. 268, comma primo, c.p.p., ma è sufficiente la trasmissione, con la richiesta del P.M., di una documentazione sommaria e informale, come i c.d. brogliacci di ascolto. E invero, mentre è necessaria la trasmissione dei decreti autorizzativi delle intercettazioni per dimostrare che le intercettazioni non sono state diposte in violazione di un divieto stabilito dalla legge (vizio che senz'altro pregiudicherebbe la possibilità di tenere conto degli indizi attraverso di esse acquisiti per l'emissione della misura), lo stesso valore non si può attribuire al verbale, la cui funzione è solo di dare atto delle modalità di svolgimento delle relative operazioni. (Fattispecie concernente intercettazioni ambientali, in relazione alle quali, peraltro, la S.C. ha ritenuto inapplicabile il disposto di cui all'art. 268, comma terzo, c.p.p.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5903 del 18 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 788/1998
+                                      La mancata trasmissione al Gip, da parte del P.M., a corredo della richiesta di applicazione di una misura cautelare basata sui risultati di intercettazioni telefoniche, dei decreti di autorizzazione all'effettuazione di tali operazioni, se non dedotta mediante impugnazione dell'ordinanza applicativa di detta misura, non può costituire motivo di revoca della misura stessa, quando venga accertato che i decreti in questione erano stati, in effetti, tempestivamente e ritualmente emessi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 788 del  6 aprile 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3133/1998
+                                      In tema di intercettazioni di conversazioni e comunicazioni, l'omissione del deposito dei provvedimenti del P.M. e del Gip, nonché del contenuto delle trascrizioni, nelle forme previste dall'art. 268, quarto e sesto comma, c.p.p. non dà luogo ad alcuna sanzione di nullità o inutilizzabilità in quanto non prevista dalla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3133 del 12 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4276/1998
+                                      Sono inutilizzabili, anche ai fini cautelari, i risultati di intercettazioni telefoniche quando sia stata omessa, da parte del pubblico ministero, la trasmissione non solo dei verbali delle conversazioni intercettate, ma anche delle trascrizioni sommarie e dei riferimenti riassuntivi previsti dall'art. 268, comma 2, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4276 del  3 febbraio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5156/1998
+                                      In tema di intercettazione di conversazioni tra presenti, è legittima l'autorizzazione all'utilizzo di impianti in dotazione alla polizia giudiziaria, stanti gli insormontabili ostacoli tecnici che impediscono un utile impiego degli impianti installati presso la procura della Repubblica, il cui normale uso è previsto dall'art. 268, comma terzo, c.p.p., con disposizione palesemente concepita per le intercettazioni telefoniche e non adattabile alle particolari esigenze di quelle ambientali.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5156 del 21 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4275/1998
+                                      A differenza della mancata trasmissione al giudice dei decreti di autorizzazione all'effettuazione di intercettazioni di comunicazioni, la mancata trasmissione dei verbali di esecuzione delle relative operazioni non dà luogo ad inutilizzabilità dei risultati, ai sensi dell'art. 271 c.p.p., sempre che — dovendosi pur sempre consentire la verifica della regolarità delle suddette operazioni — dalle trascrizioni sommarie o appunti riassuntivi siano comunque rilevabili la data, l'ora, il luogo della loro effettuazione e l'identità dell'agente che vi ha proceduto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4275 del  9 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11077/1997
+                                      Gli elementi ricavati da intercettazioni eseguite presso impianti diversi da quelli in dotazione alla Procura della Repubblica, in totale mancanza di specifico provvedimento del P.M. ai sensi dell'art. 268, comma terzo, del codice di procedura penale, sono inutilizzabili in giudizio. Ed invero, la mancata attuazione, nelle forme prescritte, del preventivo controllo dell'autorità giudiziaria circa le modalità dell'intercettazione, coinvolgendo il diritto, di rango costituzionale, alla riservatezza delle comunicazioni che riguarda non il solo indagato, ma una pluralità non preventivamente determinabile di soggetti, dà luogo automaticamente ad una situazione di radicale illegittimità sanzionata non solo dalla inutilizzabilità dei risultati, ma addirittura dalla fisica distruzione del materiale ricavato, che il giudice deve disporre d'ufficio in ogni stato e grado del processo: il che esclude altresì, evidentemente, la possibilità di qualsiasi intervento correttivo successivo all'esecuzione delle operazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 11077 del  3 dicembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4125/1997
+                                      Ai fini dell'adozione di una misura cautelare, i «gravi indizi di colpevolezza» possono essere legittimamente desunti anche dalle trascrizioni sommarie o dagli appunti raccolti durante le operazioni di intercettazione di comunicazione (c.d. «brogliacci di ascolto»), non essendo necessaria, ai fini anzidetti, la trasmissione, da parte del pubblico ministero, dei verbali redatti a norma dell'art. 268 comma 1 c.p.p. e dell'art. 89 att. c.p.p., i quali, a differenza dei decreti di autorizzazione, non attengono alla dimostrazione che le operazioni non si sono svolte in violazione di un divieto (con conseguenti riflessi sulla utilizzabilità dei loro risultati), ma riguardano solo l'elemento estrinseco e formale delle acquisizioni legittimamente avvenute, da considerarsi rilevante, ai fini della utilizzabilità, ex art. 271, comma 1, c.p.p., solo in sede probatoria e non in quella cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4125 del 16 luglio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1439/1997
+                                      Nel caso in cui la misura cautelare è richiesta dal pubblico ministero sulla base dei risultati di intercettazioni telefoniche, devono essere allegati, a pena di inutilizzabilità di tale mezzo di ricerca della prova, i relativi decreti autorizzativi, perché solo attraverso l'esame di tali atti il giudice investito della richiesta può esercitare il controllo di legalità che gli compete, accertando se sono state effettivamente osservate le disposizioni dell'art. 267 c.p.p. Né si può sostenere l'inutilità di inviare i decreti autorizzativi allo stesso organo che li ha precedentemente emessi, poiché il giudice per le indagini preliminari non trattiene documentazione di simili provvedimenti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1439 del 14 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7/1997
+                                      Qualora il pubblico ministero giustifichi, con adeguata motivazione, l'impossibilità di impiegare nelle intercettazioni gli impianti installati presso la procura della Repubblica, rimane affidato alla discrezionalità del medesimo il compito di utilizzare gli strumenti ritenuti idonei al fine di pervenire al risultato tecnicamente più rispondente alle esigenze dell'ascolto e della registrazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 7 del  4 marzo 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3347/1996
+                                      In conformità all'orientamento espresso dalle Sezioni unite della Suprema Corte, deve ritenersi che i decreti autorizzativi delle intercettazioni debbano essere allegati dal pubblico ministero agli atti da trasmettere al giudice per le indagini preliminari a fondamento della richiesta di applicazione della misura cautelare personale, e, successivamente, al tribunale in sede di riesame o di appello cautelare. La mancata presenza tra gli atti trasmessi dal P.M. al tribunale, a norma dellart. 309, comma quinto, c.p.p., dei decreti autorizzativi non determina, tuttavia, di per sè, l'automatica perdita di efficacia della misura cautelare. Questa sanzione è stata infatti tassativamente correlata, a norma dell'art. 309, comma decimo, c.p.p., alla sola mancata trasmissione degli atti posti dal P.M. a fondamento della richiesta di applicazione della misura coercitiva. D'altro canto, l'omessa allegazione alla richiesta di applicazione della misura cautelare dei decreti autorizzativi non dà luogo, di per sè, a nullità dell'ordinanza applicativa in quanto emessa in assenza dei gravi indizi di colpevolezza, dovendo il tribunale valutare, quale giudice del riesame, in forza dei poteri conferitigli dall'art. 309, comma nono, c.p.p., la legittimità della misura stessa sulla base del contenuto degli atti trasmessi dal P.M., senza tener conto dei risultati delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3347 del  5 dicembre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9370/1996
+                                      In materia di intercettazioni telefoniche, l'art. 268, terzo comma, c.p.p., stabilisce che le operazioni di intercettazione telefonica possono essere eseguite, previo provvedimento motivato del pubblico ministero, mediante impianti di pubblico servizio o in dotazione della polizia giudiziaria quando quelli esistenti presso le procure risultano «insufficienti o inidonei ed esistano ragioni di urgenza». Quanto alla valutazione da parte del pubblico ministero circa la inidoneità dei propri impianti all'uso designato, a nulla rileva la teorica previsione dell'obbligo di dotazione di impianti siffattamente idonei negli stessi uffici, servendo difatti la prevista facoltà derogatoria, del resto rigorosamente circoscritta dalla legge, proprio al superamento di deficienze tecniche del genere, in vista delle imperative e pressanti necessità di ordine pubblico, così come a nulla rileva la teorica possibilità - specie se emersa solo in un secondo momento - dell'eventuale raggiungimento del medesimo risultato a mezzo di opportune innovazioni tecniche: quella di cui bisogna tener conto è la situazione di fatto e di diritto esistente al momento in cui il pubblico ministero dispone, con decreto motivato, che le operazioni di intercettazioni vengano eseguite mediante impianti diversi da quelli esistenti presso il suo ufficio per la ritenuta inidoneità di questi ultimi e per la esistenza di eccezionali ragioni di urgenza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 9370 del 28 ottobre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3/1996
+                                      L'inutilizzabilità dei risultati delle intercettazioni di conversazioni o comunicazioni ha rilievo anche nel procedimento cautelare, poiché la sanzione processuale colpisce i risultati viziati del mezzo di ricerca della prova in quanto tali, in qualunque sede si intenda impiegarli, donde la conseguenza che, in sede di richiesta della misura cautelare il pubblico ministero ha, verso il Gip, l'obbligo di allegare i decreti autorizzativi delle intercettazioni e, nel procedimento di riesame o di appello, il giudice a quo ha lo stesso obbligo verso il tribunale e, in caso di sua inosservanza, il Gip nel primo caso e il tribunale della libertà nel secondo devono disporne l'acquisizione. Ne deriva che, in caso di riesame, il termine perentorio di cui all'art. 309, comma nono, c.p.p., decorre dalla data di arrivo di tali decreti al tribunale. (Fattispecie relativa a procedimento di riesame di misura cautelare conclusosi prima dell'entrata in vigore dell'art. 16 della legge n. 332 del 1995 che ha trasformato in perentorio il termine ordinatorio dell'art. 309, comma quinto, c.p.p.; per essa, la S.C. ha ritenuto l'applicabilità, in forza del principio tempus regit actum, della disciplina anteriore a tale legge).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 3 del 31 maggio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 931/1996
+                                      Non sussiste l'obbligo di provvedere alla traduzione degli atti, ai sensi degli artt. 143, 147 c.p.p., quando si procede alla trascrizione delle conversazioni telefoniche, ritualmente intercettate, svolte in lingua dialettale. (Fattispecie nella quale è stato deciso che correttamente il giudice di merito aveva ritenuto che non potessero sorgere dubbi sulla fedeltà della trascrizione delle conversazioni effettuate in dialetto calabrese, dal momento che della stessa erano state incaricate persone esperte di quel dialetto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 931 del 30 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 825/1996
+                                      Non è causa di nullità delle trascrizioni delle intercettazioni telefoniche la mancata sottoscrizione, in ciascuna pagina del verbale, del perito trascrittore. (Nell'enunciare il principio di cui in massima, la S.C. ha argomentato dal fatto che l'art. 268, comma 7, c.p.p. dispone che la trascrizione delle registrazioni delle intercettazioni telefoniche da acquisire al processo deve essere effettuata osservando i modi e le garanzie previsti per l'espletamento della perizia e che nelle disposizioni che regolano l'espletamento della perizia non è prevista la firma di ciascun foglio dell'elaborato e, comunque, alcuna sanzione per l'omissione di tale firma).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 825 del 27 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4343/1995
+                                      In tema di misure cautelari, legittimamente il giudice trae elementi indiziari dalle risultanze del verbale redatto in forma riassuntiva quando l'esame sia stato registrato mediante apparecchiatura audiomagnetica e non sia stata ancora disposta la trascrizione nelle forme previste dal codice di rito (art. 242, comma 2, con riferimento all'art. 268, comma 7, c.p.p.). In tale ipotesi, la fonte di prova è costituita e rappresentata dal processo verbale. Tuttavia, ove sia stata effettuata una trascrizione informale e questa sia stata posta a disposizione della difesa, nessun vizio può essere ravvisato, essendo sempre possibile estrarre copia della registrazione audiomagnetica e procedere, nell'emergenza della verifica, sulla misura cautelare, alla trascrizione di quanto memorizzato. (La corte ha anche osservato che il verbale redatto in forma riassuntiva, in ipotesi di esame del comparente, con l'uso di apparecchiature di registrazione audiovideomagnetiche, va assimilato al verbale di cui all'art. 268, comma 1, c.p.p. in materia di intercettazioni telefoniche, alla trascrizione delle quali non è necessario procedere quando l'applicazione della misura cautelare trovi fondamento in tale mezzo di ricerca di prova, essendo sufficiente il riferimento al predetto verbale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4343 del 22 agosto 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2146/1995
+                                      La circostanza che l'indagato o il suo difensore non abbiano potuto prendere visione del decreto di autorizzazione delle intercettazioni ambientali non determina, salvo che non sia stata sollevata specifica questione sulla loro legittimità, alcuna nullità del provvedimento cautelare assunto sulla base di esse, in quanto l'art. 268, commi quarto e quinto, c.p.p., stabilisce, a tutela della segretezza delle indagini, che il deposito del decreto autorizzativo delle intercettazioni, insieme con i verbali e con le registrazioni, venga effettuato entro cinque giorni dalla conclusione delle relative operazioni e che addirittura, in casi particolari, possa essere procrastinato sino al termine delle indagini, mentre nessuna norma prevede che debba avvenire, a pena di inutilizzabilità dei suddetti atti, prima dell'emissione di una misura cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2146 del  4 luglio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1606/1995
+                                      Anche quando il deposito dei provvedimenti e verbali relativi alle intercettazioni telefoniche non sia ancora avvenuto è legittima l'utilizzazione delle intercettazioni già eseguite ai fini della adozione di una misura cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1606 del 30 maggio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1003/1995
+                                      La trascrizione integrale delle registrazioni con le forme e le garanzie previste per l'espletamento delle perizie è necessaria solamente per l'inserimento nel fascicolo per il dibattimento e per la conseguente loro utilizzazione come prove in sede di giudizio e non anche per la valutazione della sussistenza dei gravi indizi di colpevolezza ai fini dell'applicazione delle misure cautelari ai sensi dell'art. 273 c.p.p. (Fattispecie relativa ad intercettazione ambientale di una conversazione, in relazione alla quale la Suprema Corte ha ritenuto irrilevante la circostanza che il contenuto di tale conversazione risultasse non da una riproduzione fedele di essa, ma dal riassunto dell'operatore preposto all'ascolto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1003 del 30 maggio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3784/1995
+                                      In tema di intercettazioni telefoniche, dal combinato disposto degli artt. 268, primo comma, c.p.p., 89, primo e secondo comma, norme att., emerge non soltanto che la legge ha inteso attribuire rilevanza probatoria esclusivamente ai documenti fonici ed ai verbali delle operazioni di intercettazione, con eccettuazione di ogni altro mezzo (in particolare, la testimonianza di chi ha eseguito l'intercettazione), ma si chiarisce anche che i cosiddetti «brogliacci di ascolto» inseriti nel verbale hanno lo scopo di consentirne il controllo da parte della difesa al momento del deposito; con la conseguenza che l'omissione della trascrizione di cui all'art. 268, secondo comma, c.p.p. non è causa di inutilizzabilità dell'intercettazione. Ulteriore conseguenza della rilevanza probatoria esclusiva del documento fonico, quanto al contenuto delle avvenute registrazioni e indipendentemente dal fatto della sommaria trascrizione delle medesime registrazioni nel verbale delle operazioni delle intercettazioni, è quella che la relazione di servizio — normalmente predisposta quale «brogliaccio» di ascolto ad opera del soggetto addetto all'ascolto stesso ed il cui contenuto, ai sensi dell'art. 268, secondo comma, c.p.p., deve, non a pena di inutilizzabilità, essere sommariamente trascritto nel verbale delle operazioni — assume efficacia unicamente a detto fine, sicché la sottoscrizione di essa relazione di servizio non costituisce momento di redazione del verbale delle operazioni, ma serve soltanto a far riconoscere a colui che deve predisporre il verbale che le relazioni di servizio attinenti alle varie fasi delle operazioni di intercettazione non vengono esattamente dai soggetti operatori, volta a volta addetti alle singole operazioni di ascolto, qualora, per l'impossibilità che il solo operatore adempia a tutte le operazioni nell'arco di durata della intercettazione, si renda inevitabile un avvicendamento tra i più addetti; nonché a ragguagliare il pubblico ministero e i coordinatori dell'operazione di polizia circa lo stato delle indagini e la scelta di ogni attività investigativa susseguente a predisporre ed attuare secondo finalità meramente interne delle quali il verbale non deve dare atto. In definitiva, considerato che unico è il verbale previsto dall'art. 268, primo comma, c.p.p., e che esso — quale documento attestante il complesso delle operazioni effettuate deve necessariamente essere predisposto al termine del periodo complessivamente autorizzato, incluse le eventuali proroghe, è logico o coerente ricavare che alla redazione del verbale medesimo non debbono partecipare, quali sottoscrittori, anche tutti gli altri operatori alle fasi attuative, perché ciò la legge, non solo richiede a pena di nullità, ma addirittura implicitamente esclude (art. 89, primo comma, norme att.), quando prescrive la semplice indicazione nel verbale delle «persone che hanno preso parte alle operazioni», con chiaro riferimento a tutti i soggetti, diversi dal pubblico ministero ovvero dall'ufficiale di polizia espressamente delegato alla titolarità della relativa indagine cui è stato possibile affidare il compimento delle distinte operazioni parziali svolte.
+                                          
+                      –
+                      
+                                                          L'incarico peritale che limiti ad una parte soltanto del contenuto delle intercettazioni telefoniche la relativa trascrizione non è affetto da alcuna nullità, sia perché la nullità non è prevista né può farsi discendere dalla previsione di cui all'art. 268, settimo comma, c.p.p., sia perché ciò che rileva ai fini del diritto di difesa è che nell'espletamento della trascrizione, siano osservate esatte forme di garanzia previste per la perizia, dato che in caso di perizia disposta in dibattimento, la facoltà di nomina di propri consulenti, nella speditezza del modo di cui all'art. 152 norme att. c.p.p., consente all'imputato di svolgere osservazioni circa la rilevanza delle registrazioni non trascritte e di provvedere esso stesso, per il tramite di suo consulente, a far trascrivere quanto altro possa interessargli, potendo comunque estrarre copia delle trascrizioni e far eseguire la trasposizione delle registrazioni su nastro magnetico.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3784 del  7 aprile 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4391/1995
+                                      In tema di intercettazioni di comunicazioni o conversazioni il ritardato deposito delle intercettazioni stesse non comporta la loro inutilizzabilità non essendo la detta sanzione prevista dall'art. 271, comma 1, c.p.p. per siffatti vizi. Esso non può peraltro essere dedotto prima del termine indicato dall'art. 181, comma 2, c.p.p. (e dunque nel procedimento incidentale de libertate), termine al quale, concludendosi le indagini preliminari, è rimandata la verifica della validità degli atti espletati durante le indagini, nell'interno del procedimento principale. D'altra parte, essendo previsto che il deposito possa essere ritardato «non oltre la chiusura delle indagini preliminari», non sarebbe configurabile in radice una sanzione processuale che attenesse ad un atto il cui termine di espletamento è tuttora in corso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4391 del 21 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1344/1995
+                                      In materia di intercettazioni telefoniche, ai sensi dell'art. 268 comma 6, c.p.p. l'obbligo di avviso al difensore sussiste solo per l'ascolto delle registrazioni e non per l'esame delle loro trascrizioni. Infatti la trascrizione delle registrazioni è un atto successivo disposto dal giudice ai sensi dell'art. 268 comma 7, c.p.p. e all'esito di tali operazioni non è previsto il deposito degli atti trascritti, in quanto le trascrizioni sono inserite nel fascicolo del dibattimento e, quindi, sono direttamente esaminate dal difensore.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1344 del 10 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1079/1995
+                                      Poiché, per l'inscindibile rapporto esistente tra nastri registrati e trascrizione di essi, la registrazione delle intercettazioni attuate, seguita da trascrizione, acquisita al fascicolo per il dibattimento, ai sensi dell'art. 268, comma settimo, ultima parte c.p.p., rientra tra le prove legittimamente acquisite nel dibattimento che, a norma dell'art. 526 c.p.p. possono essere utilizzate ai fini della decisione e poiché la mancata previsione dell'inserimento nel detto fascicolo dei nastri di registrazione che restano per altro a disposizione delle parti le quali hanno facoltà di ascoltarli e di farne eseguire la trasposizione su nastro magnetico, deriva solo dalla natura degli oggetti non fascicolabili, non è precluso al giudice l'ascolto in camera di consiglio delle bobine che della trascrizione attuata costituiscono il presupposto e l'utilizzo ai fini della decisione dei risultati dell'ascolto stesso, anche se ciò avvenga a seguito di rigetto dell'istanza della difesa concernente l'audizione dei nastri in dibattimento. Ed infatti, l'ascolto di questi in sede dibattimentale è configurabile come semplice modalità operativa istruttoria che è di esclusiva competenza del giudice valutare discrezionalmente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1079 del  1 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9760/1994
+                                      Costituisce, ai sensi dell'art. 271, comma 1, c.p.p., causa di inutilizzabilità delle intercettazioni telefoniche la mancanza di motivazione del decreto con il quale il pubblico ministero, ai sensi dell'art. 268, comma 3, stesso codice, abbia disposto l'effettuazione di dette intercettazioni mediante uso di impianti diversi da quelli installati presso la procura della Repubblica.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 9760 del  9 settembre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9370/1994
+                                      In tema d'intercettazione di comunicazioni tra presenti, è legittima l'autorizzazione all'utilizzo degli impianti in dotazione alla polizia giudiziaria per insormontabili ostacoli tecnico-ambientali che si frappongono ad un utile impiego degli impianti installati presso la Procura della Repubblica, il cui normale utilizzo è, peraltro, previsto dall'art. 268, comma 3, c.p.p. con disposizione palesemente concepita per le intercettazioni telefoniche e non adattata alle particolari esigenze delle intercettazioni ambientali.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 9370 del 31 agosto 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2163/1994
+                                      Ai fini della legittimità dell'emissione di un provvedimento di custodia cautelare non è necesario che vengano trasmessi agli organi decidenti gli atti comprovanti la regolarità formale delle operazioni di intercettazione telefonica e quelli idonei a consentire il controllo sostanziale del loro risultato, essendo sufficienti anche semplici annotazioni riassuntive del tenore delle conversazioni, in quanto — in relazione alla fase delle indagini preliminari, caratterizzata da esigenze di rapidità ed essenzialità di forme e connotata da costante evoluzione del materiale probatorio — non può invocarsi un'indebita compressione del diritto di difesa, le cui modalità vanno ragionevolmente adattate ai diversi momenti e alle peculiarità del rito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2163 del  8 giugno 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5167/1994
+                                      In tema di intercettazioni, il comma 6 dell'art. 268 c.p.p. pone a carico delle parti l'onere di indicare le conversazioni alla cui acquisizione abbiano interesse, e delle quali, poi, il giudice deve disporre la trascrizione integrale, ai sensi del successivo comma 7. Peraltro la relativa richiesta deve essere mirata, cioè indirizzata verso specifiche conversazioni indicate, per le quali il giudice sia in grado di esercitare il previsto vaglio di non manifesta irrilevanza, essendo inconcepibile istanza cumulativa, non sorretta da idonea motivazione a supporto di individuate esigenze. (Con riferimento al caso di specie e sulla base del principio di cui in massima, la Cassazione ha ritenuto che correttamente non si fosse dato esito, da parte del giudice di merito, alla richiesta dell'imputato di procedere alla trascrizione di ogni altra telefonata intercettata, oltre quelle per le quali si era già provveduto in tale senso).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5167 del  4 maggio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4831/1994
+                                      Qualora, a seguito di intercettazione di comunicazioni tra presenti venga disposta perizia con cui siano state trascritte le comunicazioni intercettate e registrate e qualora il perito sia stato nella disponibilità dei brogliacci delle intercettazioni redatti dalla polizia giudiziaria ex art. 268 c.p.p., che non avrebbero dovuto essere allegati al fascicolo dibattimentale, è da escludere, in mancanza di previsione normativa, l'inutilizzabilità della detta perizia ovvero l'irritualità della stessa, se da nessun elemento del processo è dato dedurre che il perito sia stato fuorviato dalla conoscenza dei brogliacci.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4831 del 28 aprile 1994)
+                  
+
+- 
+
+Ratio: La ratio di tale disposizione si coglie nell'esigenza di garantire il principio costituzionalmente garantito della libertà e della segretezza delle comunicazioni (art. 15), le cui limitazioni sono dunque ammissibili solo se poste in essere nel rispetto delle garanzie stabilite ex lege.
+Spiegazione: 
+
+	In un’ottica garantistica di tutela della libertà e della segretezza delle comunicazioni ex art. 15 Cost., l’art. 268 c.p.p. disciplina l’esecuzione delle operazioni di intercettazione.
+
+	Il comma 1 prevede che, nell’esecuzione delle operazioni, ci sia la registrazione delle comunicazioni intercettate e la verbalizzazione di tutte le operazioni compiute.
+
+	Il comma 2 stabilisce che nel verbale debba essere trascritto, anche sommariamente, il contenuto delle comunicazioni intercettate rilevante ai fini delle indagini (nella prassi, si parla dei cc.dd. brogliacci di ascolto), comprese anche le comunicazioni a favore dell’indagato.
+
+	Invece, in relazione al contenuto non rilevante ai fini delle indagini sia per l’oggetto, sia per i soggetti coinvolti, esso non viene trascritto, nemmeno in modo sommario. Dunque, nei verbali e nelle annotazioni di polizia giudiziaria, non saranno menzionati tali contenuti irrilevanti (in questi casi, viene utilizzata la dicitura “La conversazione omessa non è utile alle indagini”), ma viene indicata solo la data e l’ora delle operazioni.
+
+	Per assicurare le formalità appena viste, il comma 2-bis (modificato dalla Riforma Nordio, L. n. 114 del 2024) consolida i limiti a tutela della riservatezza dei terzi coinvolti nelle intercettazioni riconoscendo un ruolo di controllo del pubblico ministero. Difatti, il pubblico ministero dovrà dare indicazioni e vigilare affinché la redazione dei brogliacci sia conforme a quanto stabilito dal comma 2 e affinché nel verbale non siano riportate espressioni che permettano di identificare soggetti diversi dalle parti, sempre che ciò non sia rilevante per le finalità di indagine.
+
+	Inoltre, come stabilito dal comma 3, di regola, le operazioni possono essere effettuate solo con strumentazione in dotazione alla Procura della Repubblica. Tuttavia, quando tali impianti risultano insufficienti o inidonei ed esistono eccezionali ragioni di urgenza, il pubblico ministero può disporre – con provvedimento motivato – il compimento delle operazioni mediante l’utilizzo di impianti di pubblico servizio (è il caso degli operatori telefonici, spesso utilizzati per le indagini) o in dotazione alla polizia giudiziaria.  
+
+	Peraltro, quando le intercettazioni riguardano comunicazioni informatiche o telematiche ex art. 266 bis del c.p.p., il comma 3-bis prevede che il pubblico ministero possa disporre che l’esecuzione delle operazioni anche attraverso impianti appartenenti a privati.
+
+	Ai sensi del successivo comma 4, per consentire il diritto di difesa, i verbali e le registrazioni sono immediatamente trasmessi al pubblico ministero per la conservazione nell’archivio c.d. digitale di cui all’art. 269 del c.p.p. (l’archivio gestito e tenuto sotto la direzione e la sorveglianza del Procuratore della Repubblica dell’ufficio che ha richiesto ed eseguito le intercettazioni). Nello specifico, i verbali e le registrazioni sono depositati insieme ai decreti che hanno disposto, autorizzato, convalidato o prorogato le intercettazioni.
+
+	Secondo il comma 4, il pubblico ministero deve disporre il deposito entro cinque giorni dalla conclusione delle operazioni di intercettazione. Tuttavia, se tale deposito può comportare un grave pregiudizio per le indagini, il comma 5 stabilisce che il pubblico ministero possa essere autorizzato dal g.i.p. a ritardare il deposito (tale differimento non può comunque protrarsi oltre la chiusura delle indagini preliminari).
+
+	È il pubblico ministero a fissare la durata dei tempi di deposito di verbali e registrazioni, a meno che il giudice non ritenga che sia necessaria una proroga.
+
+	Ai sensi del comma 6 (modificato dalla Riforma Nordio, L. n. 114 del 2024), i difensori delle parti vengono immediatamente avvisati del fatto che, nel termine fissato a norma del comma 4 o 5, hanno facoltà di esaminare gli atti e ascoltare le registrazioni e prendere cognizione dei flussi di comunicazioni informatiche o telematiche (ma non è possibile estrarne copia).
+
+	Una volta conosciuto i contenuti del materiale di intercettazione, le parti hanno l’onere di indicare al giudice le conversazioni e i flussi di cui si chiede l’acquisizione, nell’ambito di una procedura camerale (c.d. udienza stralcio).
+
+	In particolare, il giudice dispone l’acquisizione delle conversazioni o dei flussi di comunicazioni informatiche o telematiche indicati dalle parti, che non appaiano irrilevanti. Inoltre, il giudice procede anche d’ufficio allo stralcio delle registrazioni e dei verbali di cui è vietata l’utilizzazione e di quelli che riguardano categorie particolari di dati personali o soggetti diversi dalle parti (affinché questo tipo di registrazioni e verbali siano acquisite dal giudice, è necessaria la prova della loro rilevanza).
+
+	Il pubblico ministero e i difensori hanno diritto di partecipare allo stralcio e sono avvisati almeno ventiquattro ore prima.
+
+	In base al comma 7, anche nel corso delle attività di formazione del fascicolo per il dibattimento, il giudice dispone la trascrizione integrale delle registrazioni o la stampa in forma intellegibile delle informazioni contenute nei flussi di comunicazioni informatiche o telematiche da acquisire, osservando le forme, i modi e le garanzie previsti per la perizia.
+	A tal riguardo, il comma 8 precisa che i difensori possono estrarre copia e fare eseguire la trasposizione della registrazione su idoneo supporto.
+
+	Peraltro, il comma 7 precisa che le trascrizioni o le stampe sono destinate ad essere inserite nel fascicolo per il dibattimento.
+
+	Infine, occorre anche precisare che, con il consenso delle parti, il giudice può disporre l’utilizzazione delle trascrizioni delle registrazioni ovvero delle informazioni contenute nei flussi di comunicazioni informatiche o telematiche (dunque, i brogliacci) effettuate dalla polizia giudiziaria durante le indagini. Tuttavia, nel caso di contestazioni sul tenore dei brogliacci, si applica la disciplina della trascrizione mediante perizia.
+

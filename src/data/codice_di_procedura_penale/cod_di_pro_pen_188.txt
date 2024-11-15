@@ -1,0 +1,41 @@
+
+==================================================
+
+===== Article 188 =====
+[Primary - Text]
+Art. 188
+Libertà morale della persona nell'assunzione della prova
+
+1.  Non possono essere utilizzati, neppure con il consenso della persona interessata, metodi o tecniche idonei a influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e di valutare i fatti.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo I - Disposizioni generali>Articolo 188
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 188
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 4429/2014
+                                      È inutilizzabile l'intercettazione delle dichiarazioni indotte in una persona dall'adozione di metodi o tecniche idonei a influire sulla sua capacità di autodeterminazione, posto che il divieto dell'art. 188, primo comma, c.p.p. investe l'oggetto della prova e non è circoscritto al contesto formale delle sole prove dichiarative. (Fattispecie nella quale le conversazioni indizianti erano state registrate in un ufficio di Polizia, dove il locutore era stato sottoposto a minacce e violenze dal personale di p.g.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4429 del 30 gennaio 2014)
+                  
+
+- 
+
+Ratio: Tale principio di fondo, posto a tutela della libertà morale della persona, è stato inserito tra le disposizioni generali relative alle prove al fine di sancirne il rango di regola basilare nel settore, idonea a configurare un limite assoluto all'ammissibilità di mezzi o procedure con essa confliggenti.
+Spiegazione: 
+Il legislatore, avendo operato una scelta intermedia tra ammissibilità o meno delle c.d. prove atipiche (ovvero non disciplinate espressamente dalla legge), senza escluderne a priori l’utilizzabilità in sede processuale, ne ha tuttavia delimitato l’ambito di operatività.
+
+Si è dunque deciso di non dettare alcuna aprioristica preclusione nei confronti delle prove atipiche, trasferendo in capo al giudice il compito di valutarne l’ammissibilità, anche in riferimento all’importanza che di volta in volta possono assumere nella fattispecie concreta.
+
+Ai sensi della norma in commento, non possono essere utilizzati, neppure con il consenso della persona offesa, tecniche o metodi idonei ad influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e di valutare i fatti. Trattasi di un principio complementare a quello di cui al successivo articolo, secondo il quale è fatto divieto di pregiudicare la libertà morale della persona.
+
+Tuttavia, la norma in esame presenta uno scopo ibrido: da un lato il legislatore ha inteso rispettare i più elementari e basilari principi di rispetto dei diritti umani, dall’altro lato ha voluto non pregiudicare l’accertamento della verità. Sotto quest’ultimo aspetto, è chiaro infatti che metodi di accertamento probatorio particolarmente invasivi o atipici possono alterare la capacità di valutare i fatti o la capacità di ricostruzione degli avvenimenti.
+

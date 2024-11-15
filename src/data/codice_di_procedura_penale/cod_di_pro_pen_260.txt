@@ -1,0 +1,90 @@
+
+==================================================
+
+===== Article 260 =====
+[Primary - Text]
+Art. 260
+Titolo non trovato
+
+1.  Le cose sequestrate si assicurano con il sigillo dell'ufficio giudiziario e con le sottoscrizioni dell'autorità giudiziaria e dell'ausiliario che la assiste ovvero, in relazione alla natura delle cose, con altro mezzo, anche di carattere elettronico o informatico, idoneo a indicare il vincolo imposto a fini di giustizia.
+
+2.  L'autorità giudiziaria fa estrarre copia dei documenti e fa eseguire fotografie o altre riproduzioni delle cose sequestrate che possono alterarsi o che sono di difficile custodia, le unisce agli atti e fa custodire in cancelleria o segreteria gli originali dei documenti, disponendo, quanto alle cose, in conformità dell'articolo 259. Quando si tratta di dati, di informazioni o di programmi informatici, la copia deve essere realizzata su adeguati supporti, mediante procedura che assicuri la conformità della copia all'originale e la sua immodificabilità; in tali casi, la custodia degli originali può essere disposta anche in luoghi diversi dalla cancelleria o dalla segreteria.
+
+3.  Se si tratta di cose che possono alterarsi, l'autorità giudiziaria ne ordina, secondo i casi, l'alienazione o la distruzione.
+
+((3-bis. L'autorità giudiziaria, anche su richiesta dell'organo accertatore o della persona offesa, quando il decreto di sequestro o di convalida del sequestro non è più assoggettabile a riesame, dispone il prelievo di uno o più campioni, con l'osservanza delle formalità di cui all'articolo 364, e ordina la distruzione della merce residua, nel caso di merci di cui sono comunque vietati la fabbricazione, il possesso, la detenzione o la commercializzazione, quando le stesse sono di difficile custodia ovvero quando la custodia risulta particolarmente onerosa o pericolosa per la sicurezza, la salute o l'igiene pubblica ovvero quando risulti evidente la violazione dei predetti divieti, anche in ragione della natura contraffatta o usurpativa delle merci. Se la conservazione della merce è assolutamente necessaria per la prosecuzione delle indagini, l'autorità giudiziaria dispone in tal senso con provvedimento motivato))
+
+3-ter.  Nei casi di sequestro nei procedimenti a carico di ignoti, la polizia giudiziaria, decorso il termine di tre mesi dalla data di effettuazione del sequestro,  ((procede))  alla distruzione delle merci contraffatte  ((o usurpative))  sequestrate, previa comunicazione all'autorità giudiziaria.  ((La distruzione può avvenire dopo quindici giorni dalla comunicazione, salva diversa decisione dell'autorità giudiziaria, ed è preceduta dal prelievo di uno o più campioni, con l'osservanza delle formalità di cui all'articolo 364)) .
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 260
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 260
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 14366/2013
+                                      La distruzione delle cose sequestrate di cui sia pericolosa la custodia, secondo il combinato disposto dell'art. 260, comma terzo, c.p.p. e dell'art. 83 del d.l.vo 28 luglio 1989, n. 271 (disp. att. c.p.p.) non costituisce accertamento tecnico non ripetibile, come tale soggetto alla disciplina dell'art. 360 del codice di rito, ma semplice adempimento esecutivo, che può essere attuato senza particolari formalità. (Nella specie la Corte ha ritenuto utilizzabile il verbale relativo alle operazioni di brillamento dell'esplosivo in sequestro).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 14366 del 26 marzo 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19918/2003
+                                      L'unico rimedio esperibile contro il provvedimento di cui all'art. 260, comma 3, c.p.p. - con il quale l'autorità giudiziaria abbia disposto l'alienazione o la distruzione di cose sottoposte a sequestro - è l'incidente di esecuzione, trattandosi di questione concernente la fase esecutiva del sequestro, e pertanto la competenza a decidere è demandata allo stesso giudice che ha emesso il provvedimento con le forme proprie della procedura camerale previste dall'art. 666 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 19918 del 30 aprile 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2967/1997
+                                      In base al principio di tassatività delle nullità (art. 177 c.p.p.), la mancata apposizione del sigillo su reperti che la polizia giudiziaria sia autorizzata a trattenere per esaminarli al fine di ricavarne elementi utili per le indagini, non dà luogo ad alcuna nullità, né pregiudica di per sé la utilizzabilità della prova che dai reperti medesimi sia in seguito acquisita.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2967 del 28 marzo 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6166/1995
+                                      Le modalità di custodia delle cose sequestrate indicate dagli artt. 259 e 260 c.p.p. costituiscono prescrizioni meramente indicative che, da un lato, sono derogabili per ragioni di impossibilità o di opportunità e, dall'altro lato, non sono astrattamente contestabili, tranne che dalle modalità di custodia vogliano dedursi inconvenienti sostanziali attinenti a concrete ipotesi di alterazione, modificazione o sostituzione dei reperti. (Applicazione in tema di custodia di sostanze stupefacenti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6166 del 27 maggio 1995)
+                  
+
+- 
+
+Ratio: La disposizione in esame è atta ad evitare che le cose sottoposte a sequestro vengano manipolate o modificate, assicurandone così l'intangibilità.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora a finalità preventive (artt. 321-323).
+
+Ai sensi della norma in esame, alle cose sequestrate va apposto il sigillo dell’ufficio giudiziario e la sottoscrizione dell’autorità giudiziaria e dell’ausiliario, in modo da rendere noto a tutti che la cosa è sottoposta a vincolo.
+
+Il secondo comma disciplina più nel dettaglio la custodia della cose deperibili e dei dati informatici, imponendo a chi di dovere di assicurarne la longevità, o quantomeno che vi sia documentazione, anche fotografica, delle cose, o copia di esse.
+
+Quando la cosa oggetto di sequestro è destinata ad alterarsi, l’autorità giudiziaria può ordinarne sia la distruzione che l’alienazione.
+
+Esistono inoltre delle cose sequestrate che non possono essere facilmente custodite o per le quali la custodia è particolarmente onerosa o pericolosa per la salute, la sicurezza o l’igiene pubblica, ovvero quando, all’esito degli accertamenti tecnici non ripetibili, risulti evidente la violazione dei divieti.
+
+L’autorità giudiziaria, in tali ipotesi, deve disporre il prelievo di uno o più campioni, garantendo la presenza del difensore dell’imputato ai sensi dell’articolo 364, ordinando in seguito la distruzione della merce residua.
+
+Nella diversa eventualità in cui si proceda a carico di ignoti, la polizia giudiziaria può procedere alla distruzione delle merci contraffatte sequestrate una volta decorsi tre mesi dal sequestro, salvo l’obbligo di comunicazione all’autorità giudiziaria.
+
+Decorsi quindici giorni da tale comunicazione la p.g. può procedere alla distruzione, tranne nel caso in cui la p.g. la vieti. In ogni caso è fatta salva la facoltà di conservare campioni per fini giudiziari.
+

@@ -1,0 +1,76 @@
+
+==================================================
+
+===== Article 215 =====
+[Primary - Text]
+Art. 215
+Ricognizione di cose
+
+1.  Quando occorre procedere alla ricognizione del corpo del reato o di altre cose pertinenti al reato, il giudice procede osservando le disposizioni dell'articolo 213, in quanto applicabili.
+
+2.  Procurati, ove possibile, almeno due oggetti simili a quello da riconoscere, il giudice chiede alla persona chiamata alla ricognizione se riconosca taluno tra essi e, in caso affermativo, la invita a dichiarare quale abbia riconosciuto e a precisare se ne sia certa.
+
+3.  Si applicano le disposizioni dell'articolo 214 comma 3.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo IV - Ricognizioni>Articolo 215
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 215
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 21034/2005
+                                      Il riconoscimento di un oggetto di percezione sensoriale, quale uno scritto privo di firma, effettuato nel corso della deposizione di persona esaminata nelle forme di cui all'art. 210 c.p.p., che ha esibito l'atto, trova il suo paradigma nella testimonianza assistita del soggetto, il quale, nel riferire quanto a sua conoscenza in ordine ai fatti contestati agli imputati, si attribuisce la paternità di un documento mancante della sottoscrizione. Esso, pertanto, deve essere tenuto distinto dalla ricognizione disciplinata dall'art. 216 c.p.p.ed è inquadrabile tra le prove non disciplinate dalla legge di cui all'art. 189 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 21034 del 14 aprile 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5926/1998
+                                      Per il riconoscimento della refurtiva da parte del derubato non devono essere necessariamente osservate le formalità stabilite per la ricognizione di cose; in questo caso, infatti, il derubato, avendo avuto il possesso delle cose rubate, è in grado di identificarle direttamente, come chiunque altro ne avesse avuto per ragioni analoghe personale conoscenza, e, quindi, la relativa operazione, costituendo un mero accertamento di fatto e non un atto processuale formale, può essere liberamente utilizzato dal giudice nella formazione del suo convincimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5926 del 20 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8007/1996
+                                      Il riconoscimento della refurtiva da parte del derubato non costituisce ricognizione e, come tale, non è soggetto a particolari formalità. Esso è un mero accertamento di fatto, e non un atto processuale formale, e può essere liberamente utilizzato dal giudice nella formazione del suo convincimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 8007 del 14 agosto 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9256/1991
+                                      In tema di utilizzabilità nel giudizio abbreviato degli atti di polizia giudiziaria, l'identificazione di cose sequestrate oggetto del reato da parte della persona offesa, eseguita su iniziativa della polizia giudiziaria anche al fine della restituzione delle cose stesse al titolare, costituisce valida fonte di prova, anche in mancanza di un formale atto di ricognizione. (Fattispecie in tema di riconoscimento di quadri rubati in una chiesa, da parte del parroco).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 9256 del 12 settembre 1991)
+                  
+
+- 
+
+Ratio: La disciplina delle ricognizioni pare orientata all'accuratezza e analiticità, soprattutto in relazione agli adempimenti preliminari, scelta legislativa che sottolinea una certa diffidenza del legislatore verso l'attendibilità dei risultati di tale delicato mezzo di prova.
+Spiegazione: 
+La ricognizione, che può riguardare sia le persone che le cose, richiede tutta una serie di adempimenti preliminari, atti a conferire una particolare affidabilità a quanto emerge dalla ricognizione. Questo soprattutto al fine di colmare l’inevitabile relatività che circonda un mezzo di prova di tal tipo, basato su ricordi (più o meno vaghi), percezioni ecc.
+
+Per quanto riguarda le cose, la norma in esame prevede che si possa procedere alla ricognizione quando occorra riconoscere il corpo del reato o altre cose pertinenti al reato. In tali casi, il giudice procede ex art. 213 per quanto riguarda gli adempimenti e poi, una volta allontanata la persona che deve effettuare la ricognizione, il giudice deve disporre almeno due cose molto somiglianti al corpo del reato o alle altre cose pertinenti al reato, per poi richiamare la persona che deve effettuare la ricognizione.
+
+A pena di nullità, il verbale deve far menzione di come si svolga la ricognizione, in tutti i suoi adempimenti formali e sostanziali. Tuttavia, secondo un orientamento giurisprudenziale, qualora non siano state rispettate le formalità prescritte dalla legge, la ricognizione può essere utilizzata ugualmente per la formazione del convincimento del giudice, a patto che siano considerati e verificati il contenuto e le modalità dell'atto, unitamente ad altri elementi di riscontro, a fronte dell'assenza nell'ordinamento di un principio di tassatività dei mezzi di prova.
+

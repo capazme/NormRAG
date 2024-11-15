@@ -1,0 +1,39 @@
+
+==================================================
+
+===== Article 256-bis =====
+[Primary - Text]
+Art. 256-bis
+Titolo non trovato
+
+1.  Quando deve disporre l'acquisizione di documenti, atti o altre cose presso le sedi dei servizi di informazione per la sicurezza, presso gli uffici del Dipartimento delle informazioni per la sicurezza o comunque presso uffici collegati all'esercizio delle funzioni di informazione per la sicurezza della Repubblica, l'autorità giudiziaria indica nell'ordine di esibizione, in modo quanto più possibile specifico, i documenti, gli atti e le cose oggetto della richiesta.
+
+2.  L'autorità giudiziaria procede direttamente sul posto all'esame dei documenti, degli atti e delle cose e acquisisce agli atti quelli strettamente indispensabili ai fini dell'indagine. Nell'espletamento di tale attività, l'autorità giudiziaria può avvalersi della collaborazione di ufficiali di polizia giudiziaria.
+
+3.  Quando ha fondato motivo di ritenere che i documenti, gli atti o le cose esibiti non siano quelli richiesti o siano incompleti, l'autorità giudiziaria informa il Presidente del Consiglio dei ministri, che provvede a disporre la consegna di ulteriori documenti, atti o cose o, se ne ricorrono i presupposti, a confermare l'inesistenza di ulteriori documenti, atti o cose.
+
+4.  Quando deve essere acquisito, in originale o in copia, un documento, un atto o una cosa, originato da un organismo informativo estero, trasmesso con vincolo di non divulgazione, l'esame e la consegna immediata sono sospesi e il documento, l'atto o la cosa è trasmesso immediatamente al Presidente del Consiglio dei ministri affinchè vengano assunte le necessarie iniziative presso l'autorità estera per le relative determinazioni in ordine all'apposizione del segreto di Stato.
+
+5.  Nell'ipotesi prevista al comma 4, il Presidente del Consiglio dei ministri autorizza l'acquisizione del documento, dell'atto o della cosa ovvero oppone o conferma il segreto di Stato entro sessanta giorni dalla trasmissione.
+
+6.  Se il Presidente del Consiglio dei ministri non si pronuncia nel termine di cui al comma 5, l'autorità giudiziaria acquisisce il documento, l'atto o la cosa.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 256 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 256-bis
+
+[Secondary - Brocardi Information]
+Ratio: La norma in esame ha predisposta una disciplina particolare relativa all'acquisizione da parte dell'autorità giudiziaria di documenti, atti o altre cose presso le sedi dei servizi di informazione per la sicurezza, presso gli uffici del Dipartimento delle informazioni per la sicurezza o comunque presso uffici collegati all’esercizio delle funzioni di informazione per la sicurezza della Repubblica, la cui ratio si ravvisa nell'esigenza di preservare la sensibilità delle informazioni acquisite.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora a finalità preventive (artt. 321-323).
+
+La norma in esame prevede una disciplina particolare in relazione all’acquisizione ad opera dell’autorità giudiziaria di documenti presso le sedi dei servizi di informazione per la sicurezza, nell’ipotesi in cui dai responsabili dei relativi uffici non venga eccepito il segreto di Stato.
+
+In tale eventualità. è previsto che l’autorità giudiziaria, dopo aver proceduto tramite apposito ordine di esibizione all’esame sul posto dei documenti di cui sopra, e dopo aver acquisito solo quei documenti strettamente indispensabili per le indagini, possa rivolgersi al Presidente del Consiglio al fine di sollecitarne una decisione in merito, ove si ritenga che i documenti esibiti non siano quelli richiesti, oppure siano incompleti.
+
+Sempre al Premier dovrà rivolgersi necessariamente l’autorità giudiziaria qualora intenda acquisire un documento originato da un organismo informativo estero e trasmesso con vincolo di non divulgazione. In tale ipotesi è infatti prevista la sospensione dell’esame e della consegna, in attesa che il Presidente del Consiglio decida, autorizzando l’acquisizione del documento oppure opponendo il segreto di Stato entro sessanta giorni.
+
+Si precisa qui che il Dipartimento delle informazioni per la sicurezza (DIS) è l’organo di cui si avvalgono il Presidente del Consiglio dei ministri e l’Autorità delegata per l’esercizio delle loro funzioni e per assicurare unitarietà nella programmazione della ricerca informativa, nell’analisi e nelle attività operative dell'Agenzia informazioni e sicurezza esterna (AISE) e dell'Agenzia informazioni e sicurezza interna (AISI).
+

@@ -1,0 +1,56 @@
+
+==================================================
+
+===== Article 249 =====
+[Primary - Text]
+Art. 249
+Perquisizioni personali
+
+1.  Prima di procedere alla perquisizione personale è consegnata una copia del decreto all'interessato, con l'avviso della facoltà di farsi assistere da persona di fiducia, purché questa sia prontamente reperibile e idonea a norma dell'articolo 120.
+
+2.  La perquisizione è eseguita nel rispetto della dignità e, nei limiti del possibile, del pudore di chi vi è sottoposto.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo II - Perquisizioni>Articolo 249
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 249
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 8411/2004
+                                      È illegittimo il provvedimento dell'Amministrazione penitenziaria che disponga l'ispezione e la perquisizione personale del detenuto mediante denudamento totale, allorché non sia motivatamente sorretto da effettive, specifiche e prevalenti esigenze di sicurezza interna, in riferimento alla peculiare situazione di fatto che non consenta l'accertamento con strumenti di controllo alternativi o alla pericolosità dimostrata in concreto dalla condotta del detenuto che rendano la misura ragionevolmente necessaria e proporzionata. (Nella specie la Corte ha ritenuto che l'ordinaria perquisizione personale del detenuto, in regime di sorveglianza speciale "ex" art. 41-bis ord. pen. (L. 26 luglio 1975 n. 354) e quindi già sottoposto a particolari limitazioni e a permanenti forme di controllo, fosse congrua alle finalità di sicurezza richieste in occasione del suo accesso alla sala per le videoconferenze e che, per contro, fossero gravose e vessatorie le modalità di esecuzione con denudamento senza flessioni, peraltro ripetuto più volte nel corso della stessa giornata).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 8411 del  3 febbraio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6007/1991
+                                      La circostanza che un provvedimento di perquisizione preveda la possibilità di perquisire anche le persone che sono presenti all'espletamento dell'atto o quelle che sopraggiungano nel corso dello stesso non trasforma i terzi estranei alle indagini, e di cui si ignora la stessa esistenza, in persone indagate.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6007 del 30 maggio 1991)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle perquisizioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+La perquisizione appartiene ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+Le perquisizioni, unitamente alle ispezioni (artt. 244 e ss.) rappresentano due tipici “atti a sorpresa” di cui dispone l’autorità giudiziaria, da cui si evince il preciso intento del legislatore di attribuire tale potere non solo al giudice, ma altresì al pubblico ministero.
+
+Ferma la distinzione tra l’inspicere, destinato ad accertare sulle persone, nei luoghi o nelle cose le tracce e gli altri effetti materiali del reato, tipico delle ispezioni ed il perquirere, diretto a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso (attività tipica delle perquisizioni), il legislatore ha mostrato in entrambi i casi disciplinati un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.).
+
+A tal proposito, la norma in esame prevede che l’ispezionando deve essere avvertito della facoltà di farsi assistere da persona di fiducia, purché prontamente reperibile ed idonea ai sensi dell’art. 120 (ovvero gli incapaci e le persone sottoposto a misure di prevenzione o di sicurezza detentiva).
+
+L’ispezione è eseguita nel rispetto della dignità e del pudore dell’interessato. Ovviamente è la stessa autorità giudiziaria che procede direttamente alle ispezioni, eccettuate le ipotesi in cui è presente un medico, nel qual caso l’autorità giudiziaria è dispensata dal dovere di presenziare.
+

@@ -1,0 +1,45 @@
+
+==================================================
+
+===== Article 204 =====
+[Primary - Text]
+Art. 204
+Esclusione del segreto
+
+1.  Non possono essere oggetto del segreto previsto dagli articoli 201, 202 e 203 fatti, notizie o documenti concernenti reati diretti all'eversione dell'ordinamento costituzionale  ((nonché i delitti previsti dagli  articoli 285 ,  416-bis ,  416-ter  e  422 del codice penale )) . Se viene opposto il segreto, la natura del reato è definita dal giudice. Prima dell'esercizio dell'azione penale provvede il giudice per le indagini preliminari su richiesta di parte.
+
+((
+
+1-bis.  Non possono essere oggetto del segreto previsto dagli articoli 201, 202 e 203 fatti, notizie o documenti concernenti le condotte poste in essere da appartenenti ai servizi di informazione per la sicurezza in violazione della disciplina concernente la speciale causa di giustificazione prevista per attività del personale dei servizi di informazione per la sicurezza. Si considerano violazioni della predetta disciplina le condotte per le quali, essendo stata esperita l'apposita procedura prevista dalla legge, risulta esclusa l'esistenza della speciale causa di giustificazione.
+
+1-ter.  Il segreto di Stato non può essere opposto o confermato ad esclusiva tutela della classifica di segretezza o in ragione esclusiva della natura del documento, atto o cosa oggetto della classifica.
+
+1-quater.  In nessun caso il segreto di Stato è opponibile alla Corte costituzionale. La Corte adotta le necessarie garanzie per la segretezza del procedimento.
+
+1-quinquies.  Quando il Presidente del Consiglio dei ministri non ritenga di confermare il segreto di Stato, provvede, in qualità di Autorità nazionale per la sicurezza, a declassificare gli atti, i documenti, le cose o i luoghi oggetto di classifica di segretezza, prima che siano messi a disposizione dell'autorità giudiziaria competente.
+
+))
+
+2.  Del provvedimento che rigetta l'eccezione di segretezza è data comunicazione al Presidente del Consiglio dei Ministri.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 204
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 204
+
+[Secondary - Brocardi Information]
+Ratio: La ratio di tale norma si ravvisa nella prevalente pregnanza dell'esigenza di accertamento dei fatti che possono mettere in pericolo le stesse fondamenta ordinamentali della Repubblica, che dunque viene preferita rispetto alla tutela di tali forme di segreto.
+Spiegazione: 
+Oltre alla particolare disciplina relativa alla testimonianza dei prossimi congiunti di cui all'articolo 199, a quella dei soggetti tenuti al segreto professionale (art. 200) e a quello d'ufficio (art. 201) l'articolo 202 opera una ulteriore deroga al generale obbligo di verità della persona che si trovi a ricoprire l'ufficio di testimone.
+
+Infatti, per quanto concerne l'opposizione del segreto di Stato, in sede di testimonianza, da parte degli stessi soggetti tenuti ad opporre il segreto d'ufficio (vale a dire pubblici ufficiali, ai pubblici impiegati ed agli incaricati di pubblico servizio), per essi è innanzitutto previsto anche qui l'obbligo di tali soggetti di astenersi dal deporre su fatti oggetto di segreto di Stato.
+
+Per quanto riguarda invece il segreto d'ufficio, si è già avuto modo di vedere (art. 201), come esso ricopra varie categorie di soggetti tenuti a non rivelare i segreti appresi nell'esercizio delle proprie professioni (si ricorda infatti che l'art. 326 c.p. punisce l'indebita rivelazione del segreto d'ufficio).
+
+Orbene, la norma in commento vieta che possano venire opposti il segreto d'ufficio o il segreto di Stato su fatti, notizie e documenti concernenti reati diretti all'eversione dell'ordinamento costituzionale, nonché i delitti elencati, riservandosi al giudice il compito di valutare la natura del reato, il quale rappresenta il presupposto per l'eventuale pronuncia contraria all'eccezione di segretezza, affidata alo stesso giudice anche in relazione alle altre situazioni descritte dai commi 1 bis e 1 ter.
+
+In ogni caso il legislatore ha previsto che del provvedimento di rigetto venga notiziato il Presidente del Consiglio del ministri, per consentirgli le opportune iniziative (ad es. conflitto di attribuzioni), nell'ipotesi di contrasto con quanto ritenuto dal giudice. Pervenuta la comunicazione, il Presidente del Consiglio dei Ministri, con atto motivato, conferma il segreto, se ritiene che non ricorrano i presupposti indicati nei commi 1, 1-bis e 1-ter, perché il fatto, la notizia o il documento coperto dal segreto di Stato non concerne il reato per cui si procede.
+
+In mancanza, decorsi trenta giorni dalla notificazione della comunicazione, il giudice dispone il sequestro del documento o l’esame del soggetto interessato, secondo quanto dispone l'art. 66, comma secondo, delle disp. att. del presente codice.
+

@@ -1,0 +1,125 @@
+
+==================================================
+
+===== Article 250 =====
+[Primary - Text]
+Art. 250
+Perquisizioni locali
+
+1.  Nell'atto di iniziare le operazioni, copia del decreto di perquisizione locale è consegnata all'imputato, se presente, e a chi abbia l'attuale disponibilità del luogo, con l'avviso della facoltà di farsi rappresentare o assistere da persona di fiducia, purché questa sia prontamente reperibile e idonea a norma dell'articolo 120.
+
+2.  Se mancano le persone indicate nel comma 1, la copia è consegnata e l'avviso è rivolto a un congiunto, un coabitante o un collaboratore ovvero, in mancanza, al portiere o a chi ne fa le veci.
+
+3.  L'autorità giudiziaria, nel procedere alla perquisizione locale, può disporre con decreto motivato che siano perquisite le persone presenti o sopraggiunte, quando ritiene che le stesse possano occultare il corpo del reato o cose pertinenti al reato. Può inoltre ordinare, enunciando nel verbale i motivi del provvedimento, che taluno non si allontani prima che le operazioni siano concluse. Il trasgressore è trattenuto o ricondotto coattivamente sul posto.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo II - Perquisizioni>Articolo 250
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 250
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 366/1999
+                                      In virtù del principio di tassatività delle impugnazioni sancito dall'art. 568 comma 1 c.p.p., il decreto con cui viene disposta una perquisizione locale è inoppugnabile e non può quindi essere sottoposto al riesame.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 366 del 21 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3287/1998
+                                      Nel caso in cui il decreto del P.M. contenga l'ordine di perquisizione senza indicare specificamente le cose da sequestrare, l'eventuale vizio di motivazione del decreto di perquisizione, che è inoppugnabile ove si tratti di perquisizione locale, può essere dedotto come causa di nullità a norma dell'art. 182 c.p.p. prima che la perquisizione venga eseguita o immediatamente dopo, se ciò non è possibile, ma non esplica effetti sull'autonomo e distinto provvedimento di sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 3287 del 26 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3513/1997
+                                      In tema di mezzi di ricerca della prova, una volta che sia stata legittimamente disposta dal giudice ovvero dal pubblico ministero la perquisizione locale, la riservatezza dell'indagato subisce una compressione che include necessariamente, anche in assenza di espressa indicazione nel provvedimento del magistrato, il sacrificio derivante dalla documentazione fotografica delle operazioni esecutive e dei luoghi in cui esse si sono svolte; l'esecuzione della perquisizione, infatti, implica e comprende per definizione l'attività di ispezione e di documentazione, e la fotografia, mezzo tecnico idoneo a fissare ed a prolungare la visione, altro non è che una modalità in cui può atteggiarsi la doverosa descrizione dei luoghi perquisiti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 3513 del 22 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2793/1995
+                                      In tema di perquisizione domiciliare, il fatto che la persona nei confronti della quale la stessa deve essere eseguita sia assente, eventualmente perché detenuta, e abbia già nominato un difensore di fiducia, non assume alcun rilievo ai fini dell'obbligatorietà dell'avviso al difensore nominato quando la persona presente sul posto non faccia specifica richiesta in tal senso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2793 del 27 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3893/1995
+                                      La particolare facoltà di perquisizione locale stabilita dall'art. 33, L. 7 gennaio 1929, n. 4 (Norme generali per la repressione delle violazioni delle leggi finanziarie) — e la cui vigenza è espressamente prevista dall'art. 225 att. c.p.p. — è ammessa, per la sua specialità, solo nella tassativa ipotesi di violazione a leggi finanziarie. In tali casi, non è necessaria la individuazione di ipotesi di reato con specifico riferimento a concreti elementi indizianti, secondo quanto, invece, è richiesto in via generale per la perquisizione disciplinata dal codice di procedura penale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3893 del 14 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2001/1995
+                                      L'avviso al soggetto sottoposto a perquisizione domiciliare della facoltà di farsi assistere o rappresentare è previsto ove la perquisizione sia effettuata dall'autorità giudiziaria, mentre tale formalità non è richiesta per le perquisizioni operate dalla polizia giudiziaria nella flagranza del reato, salva la facoltà del difensore di assistervi «senza diritto di essere preventivamente avvisato».
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2001 del 26 luglio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5153/1995
+                                      Ai fini della perquisizione locale di cui all'art. 247, comma 1, seconda parte, c.p.p., non è necessario che il luogo venga indicato con esatta specificazione di città, via, numero civico, ecc., essendo sufficiente che vengano forniti elementi tali da consentire di delimitare con esattezza l'ambito «locale» nel quale dovrà essere eseguita la perquisizione stessa, non rilevando, in contrario, che tale ambito debba essere ricercato dalla polizia giudiziaria sulla base di precisi riferimenti contenuti nel relativo decreto. (Fattispecie relativa al sequestro di documenti, nella quale il ricorrente, indagato per bancarotta preferenziale, si era doluto per la indeterminatezza del decreto di perquisizione, laddove si limitava a riferirsi ai luoghi che erano «di fatto» nella disponibilità dell'indagato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 5153 del 18 gennaio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9954/1992
+                                      Il tenore dell'art. 250, comma primo, c.p.p. lascia chiaramente intendere che la presenza dell'imputato alla perquisizione locale non è obbligatoria, sicché l'ufficiale di P.G. delegato a compiere l'atto non è tenuto ad assicurare la presenza dell'imputato medesimo che, trovandosi sul posto in stato di arresto, non gliene faccia espressa richiesta. Nè si verifica alcuna nullità qualora il decreto di perquisizione venga consegnato all'imputato senza traduzione nella sua lingua: l'art. 143 c.p.p., infatti, si limita a prevedere, per l'imputato che non conosce la lingua italiana, il diritto di farsi assistere da un interprete al fine di poter comprendere l'accusa nel momento in cui gli viene formulata, o di poter seguire il compimento di atti nei quali la sua partecipazione è prevista come obbligatoria, né può desumersi dagli artt. 169, comma terzo, stesso codice e 63 D.L.G. 28 luglio 1989, n. 271 (norme di attuazione) un dovere generale di traduzione degli atti scritti da notificare all'imputato che non conosce la lingua italiana.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 9954 del 17 ottobre 1992)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle perquisizioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+
+La norma in commento disciplina le formalità preliminari a cui deve procedere l'autorità giudiziaria prima di poter procedere a perquisizione locale, e ciò al fine non trascurabile di garantire all'interessato la conoscenza (seppur minimale) dei motivi per i quali si sta procedendo a perquisizione.
+
+Per quanto concerne le perquisizioni di luoghi, deve essere sottolineata l’estensione a tali atti della garanzia rappresentata dalla consegna del decreto dell’autorità giudiziaria che l’ha disposta, e questo prima dell’inizio delle operazioni. Copia del decreto va consegnata all’imputato ed alla persona titolare della disponibilità dei luoghi, se presenti.
+
+L’autorità giudiziaria dispone inoltre del potere di impedire coattivamente l’allontanamento di una o più persone dai luoghi dell’ispezione, prima della loro conclusione, e di farle ivi condurre con provvedimento motivato. La norma in esame prevede inoltre che l’interessato deve essere avvertito della facoltà di farsi assistere da persona di fiducia, purché prontamente reperibile ed idonea ai sensi dell’art. 120 (ovvero gli incapaci e le persone sottoposto a misure di prevenzione o di sicurezza detentiva).
+
+Quando nel luogo oggetti di perquisizione sopraggiungano altre persone che si ritiene possano occultare su di sé il corpo del reato o cose pertinenti al reato, l’autorità giudiziaria può disporre, sempre tramite decreto motivato, che siano perquisite anch’esse, e che non si allontanino prima che le operazioni siano concluse. Il trasgressore può essere trattenuto o ricondotto sul posto coattivamente.
+
+Se non si può provvedere secondo quanto disposto da tale comma, la copia del decreto di perquisizione è depositata presso la cancelleria o la segreteria dell'autorità giudiziaria che procede, e di tale deposito è affisso un avviso alla porta del luogo dove è stata eseguita la perquisizione, ex art. 80 disp. att. del presente codice.
+

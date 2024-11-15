@@ -1,0 +1,43 @@
+
+==================================================
+
+===== Article 236 =====
+[Primary - Text]
+Art. 236
+Documenti relativi al giudizio sulla personalità
+
+1.  È consentita l'acquisizione dei certificati del casellario giudiziale, della documentazione esistente presso gli uffici del servizio sociale degli enti pubblici e presso gli uffici di sorveglianza nonché delle sentenze irrevocabili di qualunque giudice italiano e delle sentenze straniere riconosciute, ai fini del giudizio sulla personalità dell'imputato o della persona offesa dal reato, se il fatto per il quale si procede deve essere valutato in relazione al comportamento o alle qualità morali di questa.
+
+2.  Le sentenze indicate nel comma 1 e i certificati del casellario giudiziale possono inoltre essere acquisiti al fine di valutare la credibilità di un testimone.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 236
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 236
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 42823/2013
+                                      In tema di giudizio abbreviato, il giudice d'appello può autonomamente acquisire un certificato penale dell'imputato aggiornato, in quanto la scelta del rito abbreviato non preclude tale possibilità, operando il riferimento normativo "allo stato degli atti" soltanto in ambito probatorio, mentre la presenza nel fascicolo del giudizio del certificato penale risponde a valutazioni afferenti il trattamento sanzionatorio, anche per l'eventuale esercizio dei poteri d'ufficio riconosciuti al giudice d'appello dal comma quinto dell'art. 597 c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 42823 del 18 ottobre 2013)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente.
+Spiegazione: 
+La scelta legislativa si è occupata di tenere distinto l’ambito dei documenti da quello degli atti. I primi, che interessano il capo IV, sono formati fuori dall’ambito processuale, e devono essere acquisiti al processo per poter assumere rilevanza probatoria, mentre i secondi sono formati all’interno del procedimento.
+
+Oltre ai tradizionali scritti, l’articolo 234 permette l’acquisizione anche di ogni altra cosa idonea a rappresentare fatti, persone o cose attraverso la cinematografia, la fotografia, la fonografia e qualsiasi altro mezzo.
+
+Similmente a quanto previsto per la prova testimoniale (v. art. 194), è esclusa la possibilità di acquisire documenti concernenti le voci correnti nel pubblico o la moralità in generale delle parti o dei testimoni. A tale ultimo proposito, la norma in commento permette solo l’acquisizione dei documenti necessari per valutare la personalità dell’imputato e, se del caso, la personalità della persona offesa dal reato.
+
+Tali documenti sono il casellario giudiziale, la documentazione esistente presso gli uffici del servizio sociale presso enti pubblici e di sorveglianza, le sentenze irrevocabili di condanna sia straniere che italiane, ma solo quando il fatto per cui si procede deve essere valutato in relazione al comportamento o alla moralità della persona offesa.
+

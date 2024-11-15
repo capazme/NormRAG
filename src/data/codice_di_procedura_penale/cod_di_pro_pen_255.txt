@@ -1,0 +1,107 @@
+
+==================================================
+
+===== Article 255 =====
+[Primary - Text]
+Art. 255
+Sequestro presso banche
+
+1.  L'autorità giudiziaria può procedere al sequestro presso banche di documenti, titoli, valori, somme depositate in conto corrente e di ogni altra cosa, anche se contenuti in cassette di sicurezza, quando abbia fondato motivo di ritenere che siano pertinenti al reato, quantunque non appartengano all'imputato o non siano iscritti al suo nome.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 255
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 255
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 33435/2006
+                                      La documentazione bancaria, consistente in supporti cartacei che riproducono dati estratti dalla memoria informatica e relativi ai rapporti intercorsi con l'istituto bancario, non rientra nella nozione di corrispondenza se non risulta che sia stata oggetto di spedizione al soggetto interessato e se per il decorso del tempo le comunicazioni in essa contenute hanno perso il requisito dell'attualità, sicché il sequestro di detta documentazione non richiede, ove l'interessato sia un membro del Parlamento, la previa autorizzazione della Camera a cui questi appartiene. (Annulla in parte senza rinvio, App. Milano, 23 maggio 2005).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 33435 del  4 maggio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20854/2005
+                                      Il cosiddetto «blocco» di cassette di sicurezza ad opera della banca, su invito del giudice o del P.M., benché non espressamente disciplinato dal legislatore, non deve ritenersi un atipico provvedimento di sequestro, qualora abbia solo finalità conoscitive e non ablative e sia finalizzato ad una verifica del contenuto in collaborazione della banca e del cliente, possessori delle chiavi. (Nella specie la Corte ha escluso che nella richiesta del P.M. fossero rinvenibili le caratteristiche proprie del cosidetto «blocco» delle cassette di sicurezza e ha qualificato il provvedimento quale vera e propria perquisizione seguita da un sequestro, in quanto vi era una esplicita finalità ablativa e, inoltre, mancava un ordine di esibizione, né vi era stata alcuna forma di collaborazione dell'interessato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 20854 del  3 giugno 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3272/1998
+                                      Qualora si colleghi un provvedimento di sequestro all'ipotesi di reati fiscali, le provviste di danaro esistenti sui conti correnti non costituiscono corpo di reato o cosa comunque ad esso pertinente, giacché non possono essere considerati il quantum di imposta non versata all'erario.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3272 del 25 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3090/1995
+                                      Il decreto con il quale il pubblico ministero richiede ad una banca la consegna di documentazione relativa a libretti di portatore ed a rapporti bancari connessi nonché la disposta estrazione di copie autentiche da detta documentazione con restituzione degli originali, non possono considerarsi provvedimenti abnormi. Tale attività invero trova il suo presupposto normativo negli artt. 248, comma 2, 255, 258 c.p.p.; avverso la stessa d'altro canto la parte potrà far valere le proprie ragioni difensive nella fase di acquisizione dei documenti al processo rappresentando quei vizi comportanti eventuali nullità o inutilizzabilità delle prove.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3090 del 15 settembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1009/1994
+                                      Non è consentita declaratoria di inammissibilità dell'istanza di riesame di un provvedimento di sequestro pur non proposta entro il decimo giorno dall'esecuzione del sequestro stesso quando l'istante abbia offerto la prova di avere conosciuto il provvedimento coercitivo da non oltre 10 giorni. (Decisione relativa a fattispecie in cui gli istanti al momento del sequestro probatorio presso una Banca si trovavano agli arresti domiciliari ed ebbero notizia del sequestro solo con la comunicazione loro effettuata dai legali dell'avviso di deposito ex art. 366 c.p.p.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 1009 del 22 aprile 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3872/1993
+                                      È inammissibile l'istanza di riesame del sequestro di titoli presentata dal creditore pignoratizio (nella specie, una banca) oltre il decimo giorno dalla data in cui egli sia venuto a conoscenza del provvedimento cautelare, a nulla rilevando che quest'ultimo risulti eseguito mediante intimazione al proprietario dei titoli e non con il fermo diretto di essi presso il creditore, che può, all'occorrenza, far valere la mancata annotazione del sequestro sui titoli stessi ai fini dell'opponibilità del credito pignoratizio alle ragioni poste a base del sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3872 del 23 novembre 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3272/1992
+                                      In tema di sequestro presso banche, la possibilità che il medesimo abbia ad oggetto cose non appartenenti all'imputato o non iscritte a suo nome (v. art. 255 c.p.p.) esclude che il provvedimento che lo dispone debba essere preceduto dall'informazione di garanzia a coloro ai quali risultano appartenere le cose sottoposte a sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3272 del 16 ottobre 1992)
+                  
+
+- 
+
+Ratio: Il legislatore ha tratteggiato in tal senso la disciplina del sequestro penale al fine di distinguerne in maniera non equivoca la finalità probatoria, distinta dalle altre forme di imposizione di un vincolo di indisponibilità sulla cosa.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora con finalità preventive (artt. 321-323).
+
+In relazione al sequestro presso istituti bancari, la norma in esame non presenta caratteristiche di spicco, se non la previsione secondo cui è possibile che il sequestro venga eseguito anche dagli organi di polizia giudiziaria, in line d’altronde con la possibilità degli stessi di esaminare atti, documenti e corrispondenza presso banche ex art. 248.
+
+Ad ogni modo, presso le banche possono venir sequestrati documenti, titoli, valori, somme ed ogni altra cosa, ancorché depositata o contenuta in cassette di sicurezza, qualora si abbia fondato motivo di ritenere la loro pertinenza al reato, a prescindere dal fatto che appartengano all’imputato o siano iscritti a suo nome. Si ribadisce l’insussistenza del segreto bancario di fronte al potere di sequestro da parte dell’autorità giudiziaria.
+
+L'esecuzione di tale atto si considera possa essere delegata agli organi di polizia di giudiziaria ex art. 253, coma terzo, non essendo tale possibilità esplicitamente esclusa. D'altronde si ricordi che gli stessi hanno anche il potere di esaminare presso banche atti, documenti e corrispondenza nonché dati, informazioni e programmi informatici, secondo quanto dispone l'art. 248, comma secondo.
+

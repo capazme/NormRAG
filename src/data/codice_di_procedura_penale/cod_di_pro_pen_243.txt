@@ -1,0 +1,21 @@
+
+==================================================
+
+===== Article 243 =====
+[Primary - Text]
+Art. 243
+Rilascio di copie
+
+1.  Quando dispone l'acquisizione di un documento che non deve rimanere segreto, il giudice, a richiesta di chi ne abbia interesse, può autorizzare la cancelleria a rilasciare copia autentica a norma dell'articolo 116.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 243
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 243
+
+[Secondary - Brocardi Information]
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente e garantire una netta distinzione netta tra acquisizione ed utilizzazione.
+Spiegazione: 
+Tranne nell’ovvia ipotesi in cui un documento venga secretato per vari motivi, il giudice può autorizzare la cancelleria a rilasciare una copia autentica del documento, a richiesta di chi ne abbia interesse.
+

@@ -1,0 +1,43 @@
+
+==================================================
+
+===== Article 201 =====
+[Primary - Text]
+Art. 201
+Segreto di ufficio
+
+1.  Salvi i casi in cui hanno l'obbligo di riferirne all'autorità giudiziaria, i pubblici ufficiali, i pubblici impiegati e gli incaricati di un pubblico servizio hanno l'obbligo di astenersi dal deporre su fatti conosciuti per ragioni del loro ufficio che devono rimanere segreti.
+
+2.  Si applicano le disposizioni dell'articolo 200 commi 2 e 3.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 201
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 201
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 37095/2009
+                                      L'esame testimoniale dei componenti di un collegio giudicante, nel caso in cui l'imputazione attenga ad un fatto intimamente connesso con quanto si è detto e deciso nella camera di consiglio, si estende legittimamente ai giudizi formulati e ai voti espressi in quella sede, posto che l'obbligo di denuncia che grava sul pubblico ufficiale, in tal caso i componenti del collegio, fa venire meno il vincolo del segreto. (Fattispecie in cui l'imputazione per il delitto di falsità ideologica in atto pubblico atteneva alla redazione da parte del presidente estensore di un Tribunale del riesame di un'ordinanza con statuizione difforme da quella deliberata in camera di consiglio). (Annulla senza rinvio, App. Potenza, 08/07/2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 37095 del 22 aprile 2009)
+                  
+
+- 
+
+Ratio: Tale deroga all'obbligo della deposizione trova la propria ratio nell'esistenza e tutela del c.d. segreto d'ufficio.
+Spiegazione: 
+Oltre alla particolare disciplina relativa alla testimonianza dei prossimi congiunti di cui all'articolo 199, la norma in oggetto opera una ulteriore deroga al generale obbligo di verità della persona che si trovi a ricoprire l'ufficio di testimone.
+
+Per quanto concerne il segreto d'ufficio, esso ricopre varie categorie di soggetti tenuti a non rivelare i segreti appresi nell'esercizio delle proprie professioni (si ricorda infatti che l'art. 326 c.p. punisce l'indebita rivelazione del segreto d'ufficio).
+
+La norma fa riferimento ai pubblici ufficiali, ai pubblici impiegati ed agli incaricati di pubblico servizio. Va precisato che qui, a differenza della rivelazione di segreto professionale di cui all'articolo precedente (art. 200), ai soggetti suindicati non spetta la facoltà, bensì l'obbligo di astenersi dal deporre.
+
+Un limite a tale obbligo è però previsto nelle ipotesi in cui i soggetti elencati hanno l'obbligo di riferire all'autorità giudiziaria le notizie conosciute per ragione del proprio ministero, ufficio o professione, come ad esempio previsto dagli artt. 331, 361 e 362).
+

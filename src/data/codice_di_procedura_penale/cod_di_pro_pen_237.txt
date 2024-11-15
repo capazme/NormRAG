@@ -1,0 +1,105 @@
+
+==================================================
+
+===== Article 237 =====
+[Primary - Text]
+Art. 237
+Acquisizione di documenti provenienti dall'imputato
+
+1.  È consentita l'acquisizione, anche di ufficio, di qualsiasi documento proveniente dall'imputato, anche se sequestrato presso altri o da altri prodotto.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 237
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 237
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 35036/2010
+                                      L'omessa convalida da parte del P.M. del sequestro di corrispondenza mancata dall'imputato, eseguito d'iniziativa dalla polizia giudiziaria, non impedisce l'utilizzabilità nel giudizio della corrispondenza sequestrata, in quanto l'art. 237 cod. proc. pen. consente l'acquisizione anche d'ufficio di qualsiasi documento proveniente dall'imputato, anche se sequestrato presso altri o da altri prodotto. (Rigetta, App. Palermo, 10 giugno 2009).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 35036 del 12 maggio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 47009/2009
+                                      È illegittimo il provvedimento con cui il P.M. ordini alla direzione di una Casa circondariale l'esibizione della corrispondenza relativa a un detenuto, quando sia stato adottato in violazione della normativa penitenziaria (art. 18-ter L. n. 354 del 1975) che disciplina le forme e le garanzie contemplate per il "visto di controllo", con la conseguente inutilizzabilità dei relativi risultati probatori, a norma dell'art. 191, comma primo, c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 47009 del 13 ottobre 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21289/2009
+                                      In tema di procedimento di riesame, le dichiarazioni accusatorie rese da un coindagato, contenute in un "block notes", possono essere acquisite ex artt. 234 e 237 cod. proc. pen., ma non posseggono, quanto al contenuto, la valenza probatoria delle dichiarazioni "contra alios" disciplinate dall'ordinamento, se non accompagnate da alcuna illustrazione da parte del loro autore in sede di interrogatorio. (Rigetta, Trib. lib. Lecce, 31 gennaio 2009)
+
+Fonti:
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 21289 del 24 aprile 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21952/2001
+                                      L'obbligo di usare la lingua italiana si riferisce agli atti da compiere nel procedimento, non agli atti, già formati, da acquisire al procedimento medesimo. (Fattispecie in cui il ricorrente, cittadino italiano di lingua tedesca, aveva dedotto inosservanza di norme processuali stabilite a pena di nullità per omessa traduzione in lingua italiana degli atti e documenti acquisiti al processo e redatti in tedesco).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 21952 del 31 maggio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7685/1999
+                                      È legittima ai sensi dell'art. 237 c.p.p. l'acquisizione di documenti allegati ad una istanza presentata dall'imputato, trttandosi di documenti provenienti dal medesimo e non essendo pertanto ipotizzabile, stante il fatto volontario del medesimo, la lesione del diritto di difesa. (Fattispecie in cui è stata ritenuta legittima l'acquisizione della querela allegata all'istanza di rinvio del dibattimento presentata dall'imputato per documentare la concomitanza con l'altro processo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 7685 del 15 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4033/1997
+                                      In tema di reato di omesso versamento di somma quale ritenuta di acconto Irpef operata sui redditi di lavoro dipendente, di cui all'art. 2, secondo comma D.L. 10 luglio 1982, n. 429 convertito in legge 7 agosto 1982, n. 516, il modello 770 di sostituto d'imposta è acquisibile, ex art. 237 c.p.p., in quanto proveniente dall'imputato e, peraltro, essendo pertinente al reato — nella cui nozione rientrano tutte le cose che servono anche indirettamente ad accertare, tra l'altro, la consumazione dell'illecito — può essere raccolto nel fascicolo del dibattimento ai sensi dell'art. 431 lett. f) c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 4033 del  7 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 473/1994
+                                      La lettera, occasionalmente intercettata dall'autorità giudiziaria, con la quale il coautore del fatto contesti al concorrente la responsabilità principale, del delitto, non costituisce chiamata di correo, perché non fatta nel processo, né diretta al giudice, ma è una dichiarazione di scienza del fatto, effettuata da persona la quale, ancorché imputata di un certo reato, la renda al di fuori del processo e, nella sua intenzione, all'insaputa del giudice. Tale dichiarazione, acquisibile al procedimento ai sensi dell'art. 237 c.p.p., non essendo di per sé sufficiente per l'affermazione di responsabilità va qualificata, sul piano probatorio, come indizio, con la conseguenza che può assumere valore di prova solo allorché ricorrano i requisiti previsti dall'art. 192, secondo comma, stesso codice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 473 del 19 gennaio 1994)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente.
+Spiegazione: 
+La norma in commento, al fine di consentire al giudice la maggior cognizione di causa possibile, stabilisce che è sempre consentita, anche d’ufficio, l’acquisizione di qualsiasi documento proveniente dall’imputato, anche se detenuto da altri o da altri prodotto. 
+
+Tale ampiezza dei poteri del giudice presente un duplice scopo, vale a dire consentire, a prescindere dall’impulso di parte, una difesa più ampia dell’imputato, in un’ottica di tutela del principio di presunzione di innocenza, sia lo scopo di evitare che vadano dispersi importanti elementi probatori.
+

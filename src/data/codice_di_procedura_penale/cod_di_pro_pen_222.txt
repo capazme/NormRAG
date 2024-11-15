@@ -1,0 +1,119 @@
+
+==================================================
+
+===== Article 222 =====
+[Primary - Text]
+Art. 222
+Incapacità e incompatibilità del perito
+
+1.  Non può prestare ufficio di perito, a pena di nullità:    
+ 
+ a) il minorenne, l'interdetto, l'inabilitato e chi è affetto da infermità di mente;    
+ 
+ b) chi è interdetto anche temporaneamente dai pubblici uffici ovvero è interdetto o sospeso dall'esercizio di una professione o di un'arte;    
+ 
+ c) chi è sottoposto a misure di sicurezza personali o a misure di prevenzione;    
+ 
+ d) chi non può essere assunto come testimone o ha facoltà di astenersi dal testimoniare o chi è chiamato a prestare ufficio di testimone o di interprete;    
+ 
+ e) chi è stato nominato consulente tecnico nello stesso procedimento o in un procedimento connesso.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 222
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 222
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 43797/2012
+                                      L'art. 222 c.p.p. vieta che sia attribuito l'incarico di perito a chi sia stato già nominato consulente tecnico nello stesso procedimento o in altro connesso, ma non che assuma la veste di perito chi, essendo già stato nominato tale nel medesimo procedimento, si veda nuovamente conferire l'incarico da parte di un giudice diverso. (Nella specie, a seguito di modifica nella composizione del collegio giudicante, e in omaggio al principio dell'immutabilità del giudice, si era reso necessario procedere al rinnovo della perizia già disposta ed espletata).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 43797 del 12 novembre 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38413/2003
+                                      Non sussiste incompatibilità tra l'ufficio di perito, quando l'incarico abbia ad oggetto la trascrizione di conversazioni intercettate, e quello di interprete chiamato a tradurre le conversazioni svolte in una lingua diversa da quella italiana. (In motivazione la Corte ha osservato che la traduzione non è eseguita riguardo al testo trascritto, bensì con riferimento alla comunicazione registrata, e che sarebbe irrazionale la separazione di attività utilmente condotte in modo unitario e dalla stessa persona).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 38413 del  9 ottobre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12165/2002
+                                      L'incompatibilità alla prestazione dell'ufficio di perito prevista dall'art. 222, comma 1, lett. d), c.p.p. non opera con riguardo all'attività di trascrizione delle intercettazioni, disciplinata dall'art. 268, comma 7, c.p.p., atteso che il rinvio contenuto in tale disciplina alle forme, ai modi ed alle garanzie previste per l'espletamento delle perizie è da intendersi limitato alle norme concernenti le formalità di nomina, lo svolgimento delle operazioni e le relative comunicazioni, con esclusione invece, della equiparazione al perito della persona chiamata a eseguire le trascrizioni, dovendo questa - a differenza del perito, la cui funzione è quella di esprimere un «parere», ossia un «giudizio tecnico» - porre in essere soltanto una «operazione tecnica» connessa non ad un «giudizio» ma ad una finalità di tipo «ricognitivo».
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 12165 del 28 marzo 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8587/2001
+                                      L'assunzione dell'ufficio di perito da parte di chi abbia già svolto nell'ambito dello stesso procedimento compiti di interprete integra una nullità relativa che, come tale, è eccepibile, a pena di decadenza, entro i termini di cui all'art. 182 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 8587 del  1 marzo 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5886/1998
+                                      Nei confronti del consulente tecnico del P.M. nominato ex art. 233 c.p.p. fuori dei casi di perizia, non sussistono le cause di incompatibilità richiamate dal comma terzo dell'art. 225 c.p.p., previste, per evidenti ragioni di imparzialità richieste a tale ausiliario del giudice, esclusivamente per il perito di ufficio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 5886 del 19 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5386/1994
+                                      La nullità prevista dall'art. 222 c.p.p. ha carattere relativo e deve essere eccepita, a pena di decadenza, nei termini stabiliti dall'art. 182 stesso codice.
+                                          
+                      –
+                      
+                                                          Non sussiste la preclusione di cui all'art. 222, lett. e), c.p.p., nei confronti di chi abbia svolto le funzioni di tecnico previste dall'art. 135, comma 2, c.p.p., cioè di assistente dell'ausiliario e non del giudice e venga successivamente incaricato di effettuare la trascrizione della registrazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 5386 del 10 maggio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5421/1992
+                                      La nullità prevista dall'art. 222 c.p.p. ha carattere relativo e va pertanto eccepita, a pena di decadenza, nei termini stabiliti nell'art. 182 stesso codice. (Nella specie la nullità derivante dal conferimento dell'incarico di perito a persona che già aveva espletato, nel corso delle indagini preliminari, l'incarico di consulente del P.M., era stata eccepita dalla parte presente con l'impugnazione della sentenza di primo grado, e quindi tardivamente).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5421 del  9 maggio 1992)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare la più idonea competenza tecnica e scientifica dei periti, nonchè l'efficienza di tale fondamentale mezzo di prova.
+Spiegazione: 
+A pena di nullità della perizia, la norma in esame elenca le ipotesi di incompatibilità con l’ufficio di perito.
+
+Da un lato vi sono casi in cui il perito non presenta quelle qualità morali e professionali richieste dalla natura dell’incarico, mentre dall’altro lato vi sono casi in cui il perito stesso risulta in una posizione di conflitto d’interesse con l’oggetto del procedimento, o comunque non può avere un giudizio imparziale circa l’oggetto della perizia disposta dal giudice.
+
+Oltre alle ipotesi qui elencate, si ricordi poi che non possono ottenere l'iscrizione nell'albo le persone: a) condannate con sentenza irrevocabile alla pena della reclusione per delitto non colposo, salvo che sia intervenuta riabilitazione; b) che si trovano in una delle situazioni di incapacità previste dall'articolo 222 comma 1 lettere a), b), c) del codice; c) cancellate o radiate dal rispettivo albo professionale a seguito di provvedimento disciplinare definitivo, secondo quanto disposto dall'art. 69 delle disp. att. del presente codice.
+

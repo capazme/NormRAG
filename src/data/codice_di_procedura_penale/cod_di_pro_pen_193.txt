@@ -1,0 +1,21 @@
+
+==================================================
+
+===== Article 193 =====
+[Primary - Text]
+Art. 193
+Limiti di prova stabiliti dalle leggi civili
+
+1.  Nel processo penale non si osservano i limiti di prova stabiliti dalle leggi civili, eccettuati quelli che riguardano lo stato di famiglia e di cittadinanza.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo I - Disposizioni generali>Articolo 193
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 193
+
+[Secondary - Brocardi Information]
+Ratio: La norma, salvo eccezioni, conferma il principio del libero convincimento del giudice in materia probatoria.
+Spiegazione: 
+La norma in esame sancisce il principio secondo cui nel processo penale il giudice non deve osservare i limiti stabiliti dalle leggi civili. Infatti, data la diversità di interessi sottesi, l’ordinamento civile permette che in taluni casi il giudice sia vincolato nella valutazione delle prove addotte dalle parti, come nel caso del giuramento (art. 2738), nella confessione (artt. 2733 e 2735 c.c.), in relazione all’atto pubblico (art. 2760 c.c.), alla scrittura privata (artt. 2702, 2715, 2716 e 2719 c.c.), e soprattutto in riferimento alle presunzioni legali assolute e relative (art. 2728 c.c.). Per contro, il giudice penale è vincolato alla disciplina probatoria prevista dal codice civile per quanto concerne la cittadinanza e lo stato di famiglia.
+

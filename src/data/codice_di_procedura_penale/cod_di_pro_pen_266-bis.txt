@@ -1,0 +1,72 @@
+
+==================================================
+
+===== Article 266-bis =====
+[Primary - Text]
+Art. 266-bis
+Titolo non trovato
+
+1.  Nei procedimenti relativi ai reati indicati nell'articolo 266, nonché a quelli commessi mediante l'impiego di tecnologie informatiche o telematiche, è consentita l'intercettazione del flusso di comunicazioni relativo a sistemi informatici o telematici ovvero intercorrente tra più sistemi)).
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 266 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 266-bis
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 24576/2021
+                                      In tema di accesso abusivo ad un sistema informatico, ai fini della configurabilità dell'aggravante di cui all'art. 615-ter, comma terzo, cod. pen., sono "di interesse pubblico" solo i sistemi informatici o telematici di pubblica utilità, ossia destinati al servizio di una collettività indifferenziata e indeterminata di soggetti, e non anche quelli a vario titolo riconducibili all'esercizio di diritti, pur di rilevanza collettiva, costituzionalmente tutelati. (Fattispecie in cui la Corte ha escluso la sussistenza dell'aggravante nel caso di accesso abusivo al sito del fondatore di un movimento politico di livello nazionale utilizzato per la divulgazione delle idee di detto movimento).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 24576 del 16 marzo 2021)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15899/2021
+                                      Integra il delitto di accesso abusivo ad un sistema informatico la condotta di colui che si introduca, mediante uso di "password" modificate e contro la volontà del titolare, nel c.d. "cassetto fiscale" altrui, spazio virtuale del sistema informatico dell'Agenzia delle entrate di pertinenza esclusiva del contribuente, riconducibile alla nozione di domicilio informatico. (In motivazione, la Corte ha precisato che non rileva la pregressa autorizzazione all'accesso rilasciata dal titolare per vincolo familiare o affettivo e poi revocata mediante comportamenti concludenti). (Dichiara inammissibile, CORTE APPELLO TORINO, 15/11/2018).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 15899 del 15 febbraio 2021)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1822/2018
+                                      I messaggi "WhatsApp" e gli "SMS" conservati nella memoria di un telefono cellulare sottoposto a sequestro hanno natura di documenti ai sensi dell'art. 234 cod. proc. pen., sicchè la loro acquisizione non costituisce attività di intercettazione disciplinata dagli artt. 266 e ss. cod. proc. pen., atteso che quest'ultima esige la captazione di un flusso di comunicazioni in atto ed è, pertanto, attività diversa dall'acquisizione "ex post" del dato conservato nella memoria dell'apparecchio telefonico che documenta flussi già avvenuti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1822 del 16 gennaio 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 48370/2017
+                                      Sono legittime le intercettazioni di comunicazioni informatiche o telematiche, di cui all'art. 266-bis cod. proc. pen., effettuate mediante l'istallazione di un captatore informatico (c.d. "trojan horse") all'interno di un computer collocato in un luogo di privata dimora.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 48370 del 20 ottobre 2017)
+                  
+
+- 
+
+Ratio: La norma trova il proprio fondamento nella necessità avvertita dal legislatore di adeguare l'ordinamento alle nuove forme di comunicazione realizzate attraverso sistemi informatici.
+Spiegazione: 
+Le intercettazioni appartengono ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+L’ambito delle intercettazioni si presenta assai delicato, in quanto involve la libertà e la segretezza delle comunicazioni, definite inviolabili dall’articolo 15 della Costituzione.
+
+Nello specifico, per effetto dell’introduzione dell’articolo in commento, viene ammessa anche l’intercettazione del flusso di comunicazioni relativo a sistemi informatici o telematici.
+

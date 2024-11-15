@@ -1,0 +1,29 @@
+
+==================================================
+
+===== Article 217 =====
+[Primary - Text]
+Art. 217
+Pluralità di ricognizioni
+
+1.  Quando più persone sono chiamate ad eseguire la ricognizione della medesima persona o del medesimo oggetto, il giudice procede con atti separati, impedendo ogni comunicazione tra chi ha compiuto la ricognizione e coloro che devono ancora eseguirla.
+
+2.  Se una stessa persona deve eseguire la ricognizione di più persone o di più oggetti, il giudice provvede, per ogni atto, in modo che la persona o l'oggetto sottoposti a ricognizione siano collocati tra persone od oggetti diversi.
+
+3.  Si applicano le disposizioni degli articoli precedenti.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo IV - Ricognizioni>Articolo 217
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 217
+
+[Secondary - Brocardi Information]
+Ratio: La disciplina delle ricognizioni pare orientata all'accuratezza e analiticità, soprattutto in relazione agli adempimenti preliminari, scelta legislativa che sottolinea una certa diffidenza del legislatore verso l'attendibilità dei risultati di tale delicato mezzo di prova.
+Spiegazione: 
+La ricognizione, che può riguardare sia le persone che le cose, richiede tutta una serie di adempimenti preliminari, atti a conferire una particolare affidabilità a quanto emerge dalla ricognizione. Questo soprattutto al fine di colmare l’inevitabile relatività che circonda un mezzo di prova di tal tipo, basato su ricordi (più o meno vaghi), percezioni ecc.
+
+Anche per tali motivi, qualora più persone siano chiamate ad eseguire la ricognizione della stessa persona, il giudice procede separatamente, evitando qualsiasi interazione tra di loro, ovviamente al fine di non influenzarsi a vicenda, inficiando il valore probatorio del mezzo di prova.
+
+La norma in esame estende inoltre esplicitamente l’applicazione delle norme precedenti, concernenti gli adempimenti preliminari alla ricognizione e le modalità di svolgimento, prevedendo quindi anche la menzione di tali adempimenti all’interno del verbale, a pena di nullità. Tuttavia, secondo un orientamento giurisprudenziale, qualora non siano state rispettate le formalità prescritte dalla legge, la ricognizione può essere utilizzata ugualmente per la formazione del convincimento del giudice, a patto che siano considerati e verificati il contenuto e le modalità dell'atto, unitamente ad altri elementi di riscontro, a fronte dell'assenza nell 'ordinamento di un principio di tassatività dei mezzi di prova.
+

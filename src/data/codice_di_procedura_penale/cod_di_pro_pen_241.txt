@@ -1,0 +1,39 @@
+
+==================================================
+
+===== Article 241 =====
+[Primary - Text]
+Art. 241
+Documenti falsi
+
+1.  Fuori dei casi previsti dall'articolo 537, il giudice, se ritiene la falsità di un documento acquisito al procedimento, dopo la definizione di questo, ne informa il pubblico ministero trasmettendogli copia del documento.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 241
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 241
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 4086/1997
+                                      Dal combinato disposto dell'art. 241 c.p.p. e secondo comma dell'art. 425 c.p.p., emerge l'esistenza, nell'ordinamento processuale, di un principio che impone al giudice la declaratoria della falsità di atti o documenti, quando essa sia accertata sulla base degli atti, anche a seguito di proscioglimento in esito all'udienza preliminare. E ciò in quanto non può ipotizzarsi che un'eventuale sentenza di non luogo a procedere per estinzione del reato, renda esente da sanzione quegli atti o documenti la cui falsità risulti dall'accertamento del fatto-reato in ordine al quale viene emessa la pronunzia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4086 del  8 maggio 1997)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente, optando per l'abolizione della c.d. pregiudizialità penale.
+Spiegazione: 
+Salvo il caso in cui venga appositamente pronunciata una sentenza sulla falsità dei documenti acquisiti al processo, la norma in esame stabilisce che il giudice, ove ritenga falso uno dei documenti acquisiti, debba informare il pubblico ministero perché valuti l’opportunità di esercitare l’azione penale a carico dell’autore del falso, ma solo dopo la definizione del procedimento in corso.
+
+In tal modo si riconosce in sostanza al giudice di poter accertare incidenter tantum l’eventuale falsità di documenti, rinunciando così il legislatore a riproporre nel nuovo codice lo schema dell’impugnazione e del conseguente incidente di falso.
+
+Le fattispecie di falso sono inserite in un apposita sezione del codice penale, a partire dall'articolo 476 c.p. in poi, e puniscono le falsità commesse sia dai pubblici ufficiali che dai privati, in cui il bene giuridico tutelato viene rappresentato dalla fiducia che i consociati devono poter riporre in talune tipologie di atti, oltre all'interesse dello Stato che tali documenti possano costituire fede privilegiata di quanto in essi contenuto.
+

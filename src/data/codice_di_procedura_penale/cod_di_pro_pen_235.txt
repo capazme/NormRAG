@@ -1,0 +1,61 @@
+
+==================================================
+
+===== Article 235 =====
+[Primary - Text]
+Art. 235
+Documenti costituenti corpo del reato
+
+1.  I documenti che costituiscono corpo del reato devono essere acquisiti qualunque sia la persona che li abbia formati o li detenga.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 235
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 235
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 38516/2007
+                                      È configurabile il tentativo di favoreggiamento personale nella condotta del difensore di un imputato che, nel corso delle indagini preliminari, abbia proposto, senza esito, al teste di modificare la versione dei fatti già resa alla polizia giudiziaria, onde consentirgli di presentare all'A.G. un'istanza per la sua nuova audizione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 38516 del  5 aprile 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15791/2005
+                                      Le dichiarazioni spontaneamente rese dall'indagato alla polizia giudiziaria, all'atto dell'arresto in flagranza di reato (nella specie furto), sono documentate in verbale, a norma dell'art. 357 comma secondo lett. b) c.p.p., e che tale verbale, allorquando contiene dichiarazioni ritenute calunniose, costituisce cosa pertinente al reato di calunnia, di cui sono ammessi il sequestro (art. 253 c.p.p.), l'inserimento nel fascicolo per il dibattimento (art. 431) e la conseguente utilizzabilità dibattimentale nel procedimento di calunnia. Il verbale delle predette dichiarazioni è, in ogni caso, un documento a norma dell'art. 234 c.p.p. e, come tale, può essere acquisito a norma dell'art. 190 c.p.p. e utilizzato come prova nel processo per calunnia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 15791 del 27 aprile 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11/1997
+                                      Nel procedimento volto ad accertare il reato di favoreggiamento commesso mediante dichiarazioni fuorvianti rese alla polizia giudiziaria, il verbale in cui queste sono state raccolte ai sensi degli artt. 351 e 357 c.p.p. assume rilievo non già quale atto processuale, bensì quale documento che costituisce corpo di reato; esso invero è atto rappresentativo delle dichiarazioni per mezzo delle quali il reato è stato commesso, e poiché è stato formato nell'ambito di attività investigativa di altro procedimento, deve essere acquisito al fascicolo del dibattimento ai sensi del combinato disposto degli artt. 235 e 431, lett. f), c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 11 del  8 gennaio 1997)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente.
+Spiegazione: 
+La scelta legislativa si è occupata di tenere distinto l’ambito dei documenti da quello degli atti. I primi, che interessano il capo IV, sono formati fuori dall’ambito processuale, e devono essere acquisiti al processo per poter assumere rilevanza probatoria, mentre i secondi sono formati all’interno del procedimento.
+
+La norma in commento opera una ulteriore distinzione tra i documenti utilizzabili come mezzi di prova ed i documenti costituenti corpo del reato, prevedendo un regime differenziato. Appare infatti chiaro come i documenti costituenti corpo del reato siano di fondamentale importanza, sia per la definizione del processo penale, sia perché il legislatore ha ritenuto più opportuno evitare che essi rimangano in circolazione, aggravando gli esiti del reato commesso (come ad es. in caso di diffamazione).
+
+Tali documenti devono infatti essere acquisiti qualunque sia la persona che li detenga o che li abbia formati, anche d’ufficio, e quindi in sintonia con quanto previsto in tema di sequestro (art. 253), dove viene anche ivi definita la nozione di corpo del reato.
+

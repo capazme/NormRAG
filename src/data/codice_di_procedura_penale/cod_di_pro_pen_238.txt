@@ -1,0 +1,189 @@
+
+==================================================
+
+===== Article 238 =====
+[Primary - Text]
+Art. 238
+Titolo non trovato
+
+1.  È ammessa l'acquisizione di verbali di prove di altro procedimento penale, se si tratta di prove assunte nell'incidente probatorio o nel dibattimento.
+
+2.  È ammessa l'acquisizione di verbali di prove assunte in un giudizio civile definito con sentenza che abbia acquistato autorità di cosa giudicata.
+
+((
+
+2-bis.  Nei casi previsti dai commi 1 e 2 i verbali di dichiarazioni possono essere utilizzati contro l'imputato soltanto se il suo difensore ha partecipato all'assunzione della prova o se nei suoi confronti fa stato la sentenza civile.
+
+3.  È comunque ammessa l'acquisizione della documentazione di atti che non sono ripetibili. Se la ripetizione dell' atto è >divenuta   
+impossibile per fatti o circostanze sopravvenuti, l'acquisizione è ammessa se si tratta di fatti o circostanze imprevedibili.
+
+4.  Al di fuori dei casi previsti dai commi 1, 2, 2-bis e 3, i verbali di dichiarazioni possono essere utilizzati nel dibattimento soltanto nei confronti dell'imputato che vi consenta; in mancanza di consenso, detti verbali possono essere utilizzati per le contestazioni previste dagli articoli 500 e 503.
+
+))
+
+5.  Salvo quanto previsto dall'articolo 190-bis, resta fermo il diritto delle parti di ottenere a norma dell'articolo 190 l'esame delle persone le cui dichiarazioni sono state acquisite a norma dei commi 1, 2 , 2-bis e 4 del presente articolo.(96)
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VII - Documenti>Articolo 238
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 238
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 1405/2017
+                                      L'utilizzazione degli atti di indagine compiuti in territorio estero dalla polizia straniera, ai fini della sussistenza dei gravi indizi di colpevolezza per l'adozione di provvedimenti cautelari, non è condizionata all'accertamento, da parte del giudice italiano, della regolarità degli atti compiuti dall'autorità straniera, vigendo una presunzione di legittimità dell'attività svolta e spettando al giudice straniero la verifica della correttezza della procedura e l'eventuale risoluzione di ogni questione relativa alle irregolarità riscontrate. (In forza di tale principio la Corte ha rigettato il ricorso che lamentava la mancata trasmissione degli originali dei decreti autorizzativi e dei verbali di ascolto delle intercettazioni effettuate dalle autorità olandesi, successivamente trasmesse a quelle italiane a seguito della rogatoria richiesta da quest'ultima).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1405 del 12 gennaio 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37241/2013
+                                      È illegittima l'acquisizione e l'utilizzazione a fini probatori di verbali di dichiarazioni rese in diverso procedimento (nella specie, in procedimento di volontaria giurisdizione), se non seguita, al di fuori dei casi e delle forme previsti dall'art. 238 c.p.p., dalla citazione del dichiarante e dalla sua escussione in contraddittorio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 37241 del 11 settembre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5880/2013
+                                      È legittima l'acquisizione nel processo penale dell'interrogatorio formale reso dall'imputato nel procedimento civile, quando questo risulta definito, ancorché con conciliazione giudiziale, trattandosi di atto proveniente da un processo al quale il medesimo soggetto ha partecipato, esplicando la sua difesa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5880 del  6 febbraio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16703/2009
+                                      Le dichiarazioni rese dall'imputato in diverso procedimento penale possono essere utilizzate, ex art. 238, comma terzo, c.p.p. richiamato dal successivo art. 511 bis, qualora egli rifiuti di sottoporsi ad esame, in quanto detto rifiuto, rendendo irripetibile l'atto compiuto con l'interrogatorio davanti al P.M., legittima l'acquisizione del relativo verbale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 16703 del 20 aprile 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 46040/2003
+                                      Deve ritenersi ammissibile, ai sensi dell'art. 238 terzo comma c.p.p., l'acquisizione della documentazione degli atti compiuti dalla Polizia straniera che abbia proceduto al sequestro, e all'immediata trasmissione al laboratorio di analisi del Ministero della Giustizia del Paese (nella specie: l'Olanda ), di ingenti quantità di sostanza rilevatasi, a seguito degli accertamenti, stupefacente (nella specie: hashish ) poiché il rischio di perdita del principio attivo, con il trascorrere del tempo, nella sostanza stupefacente rende gli atti compiuti non ripetibili.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 46040 del 28 novembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21367/2003
+                                      Gli atti di indagine assunti nell'ambito di un altro procedimento ed acquisiti ai sensi dell'art. 238 c.p.p. sono utilizzabili, ai fini dell'emissione di una misura cautelare personale, anche se intervenuti dopo la scadenza del termine massimo di durata delle indagini preliminari.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 21367 del 15 maggio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1710/2000
+                                      È legittima l'acquisizione al fascicolo del dibattimento, ai fini della prova dei fatti in esse accertati, di sentenze di primo e secondo grado, annullate in parte qua dalla Corte di cassazione, allorché la loro utilizzazione sia limitata dal giudice a quella parte di esse coperata da giudicato parziale. (Nella specie, la S.C. aveva disposto l'annullamento con rinvio in ordine al punto concernente la configurabilità della continuazione, mentre aveva rigettato i ricorsi per quanto riguardava l'affermazione di responsabilità dei ricorrenti, sicché risultava definitivamente accertata la loro partecipazione ai vari episodi criminosi che rilevavano ai fini della verifica di veridicità dlele dichiarazioni rese).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1710 del 14 febbraio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13682/1998
+                                      L'inosservanza delle formalità dettate dall'art. 468, comma 4 bis, c.p.p. per l'acquisizione a richiesta di parte dei verbali di prove di altro procedimento penale è sfornita di qualsivoglia sanzione processuale, non operando l'inammissibilità prevista dal primo comma del medesimo articolo per il solo caso di inosservanza dei termini di deposito delle liste testimoniali e non potendosi, d'altra parte, in difetto di espressa previsione, far ricorso all'istituto della nullità, come pure a quello dell'inutilizzabilità, il quale ultimo richiederebbe la violazione di uno specifico divieto di acquisizione, nella specie insussistente. (In applicazione di tali principi la S.C. ha ritenuto che legittimamente il giudice di merito avesse utilizzato, ai fini della decisione, verbali di dichiarazioni rese da coimputati in altro procedimento dei quali il pubblico ministero, pur avendo depositato in ritardo la lista testimoniale, aveva chiesto l'esame diretto riservandosi la produzione di detti verbali, già contenuti nel suo fascicolo, ove l'esame non fosse poi stato effettuato - come era in effetti avvenuto - per essersi parte dei dichiaranti rifiutati di sottoporvisi, mentre altri non erano comparsi).
+                                          
+                      –
+                      
+                                                          La sopravvenienza, successivamente all'esaurimento delle fasi di merito, della nuova disciplina risultante, in materia di acquisizione e valutazione dei verbali di prova di altri procedimenti, dai commi 2 bis e 4 dell'art. 238 c.p.p. (introdotto, il primo, e modificato, il secondo, dall'art. 3 della legge 7 agosto 1997 n. 267), e dalla successiva sentenza della Corte costituzionale n. 361 del 1998, comporta che, al pari di quanto si verifica nel caso di dichiarazioni acquisite e valutate ai sensi dell'art. 513 c.p.p. nella formulazione antecedente l'entrata in vigore di detta legge, una volta denunciata, in sede di ricorso per cassazione, l'inutilizzabilità di detti verbali per la mancanza delle condizioni ora previste dalla summenzionata disciplina, devesi dar luogo all'annullamento con rinvio della sentenza impugnata onde rendere possibile una nuova acquisizione e valutazione, ai sensi della normativa transitoria di cui all'art. 6, comma 5, della legge n. 267/97, nei modi e con i criteri di cui all'art. 500, commi 2 bis e 4, c.p.p.; ciò sempre a condizione che gli elementi tratti dai verbali in questione abbiano avuto rilevanza ai fini della decisione impugnata e che - ove la sopravvenuta inutilizzabilità sia stata denunciata con motivi nuovi - l'originario atto di ricorso abbia investito anche la valutazione di questi stessi elementi.
+                                          
+                      –
+                      
+                                                          Tra i «verbali di prove di altri procedimenti» cui si riferisce l'art. 468, comma 4 bis, c.p.p., che ne prevede l'acquisizione su richiesta di parte, da formularsi unitamente al deposito delle liste testimoniali, rientrano - atteso l'ampio significato dell'espressione adottata dal legislatore, riferibile ad ogni mezzo di prova, sia orale che documentale - anche i verbali di dichiarazioni di persone già sentite ed eventualmente da risentire (testi, indagati o imputati in altro procedimento), come si evince dalla specificazione contenuta nella seconda parte dello stesso comma che ricalca, anche per la specificità della norma, la simultanea suddistinzione che si ritrova rispettivamente nei commi 1 e 4 dell'art. 238 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 13682 del 28 dicembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1151/1997
+                                      In tema di prove, una volta annullata una sentenza per difetto della notifica del decreto di citazione per il giudizio, non può essere utilizzato alcuno degli atti assunti nel corso del precedente procedimento conclusosi con la sentenza poi annullata, dal momento che in esso non era stato ritualmente costituito il rapporto processuale. (Nella fattispecie si trattava di verbali di deposizioni testimoniali rese nel precedente procedimento conclusosi con la sentenza annullata, prodotti dal P.M. nel corso del nuovo giudizio ed acquisiti agli atti senza alcun interpello della difesa; la Suprema Corte, in applicazione del principio di cui in massima, ha ritenuto illegittima l'acquisizione di detti verbali).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1151 del  7 febbraio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12827/1995
+                                      Qualora venga proposto un unico atto di querela per reati diversi che fanno capo a distinte competenze territoriali dell'A.G. e si proceda per essi separatamente, ben può una delle due autorità giudiziarie, avvalendosi dei poteri ex art. 238, comma 3, c.p.p., posto che la querela è certamente atto non ripetibile oltre il termine di legge, acquisire agli atti copia della stessa, che poi forma il fascicolo per il dibattimento e della quale può dare letture al dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 12827 del 30 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9320/1995
+                                      Le dichiarazioni rese da coimputati o da imputati di reato connesso o collegato nel corso delle indagini preliminari sono utilizzabili a fini di decisione, e non soltanto per le contestazioni a norma degli artt. 503, quarto comma, e 500, terzo comma, c.p.p. E ciò per il regime di utilizzazione delle dichiarazioni risultanti dalla sentenza costituzionale n. 255 del 1992, con la quale è stata dichiarata l'illegittimità dell'art. 500, terzo e quarto comma, c.p.p., nella parte in cui non prevede l'acquisizione al fascicolo per il dibattimento, se sono state utilizzate per le contestazioni, delle dichiarazioni precedentemente rese e contenute nel fascicolo del pubblico ministero, nonché, ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimità dell'art. 2, n. 76, nella legge-delega, nella parte in cui prevede il potere di allegare nel fascicolo processuale, tra gli atti utilizzati per le contestazioni, solo le sommarie informazioni assunte dalla polizia giudiziaria o dal pubblico ministero nel corso delle perquisizioni ovvero sul luogo e nell'immediatezza del fatto e non anche le dichiarazioni precedentemente rese da testimoni e contenute nel fascicolo del pubblico ministero; senza contare la «novellazione» apportata al testo dell'art. 500 dall'art. 7 del decreto legge n. 306 del 1992 e, soprattutto, al quarto, quinto e sesto comma di tale articolo, ove è previsto un complesso regime di utilizzazione a fini di prova delle dichiarazioni di cui le parti si sono servite per le contestazioni. Inoltre, a norma dell'art. 513 c.p.p., quale risultante a seguito della già ricordata sentenza costituzionale n. 254 del 1992, l'ipotesi del coimputato che rifiuti di rendere dichiarazioni è stata inserita nel sistema speciale disciplinato dall'art. 513, primo comma, c.p.p., che concerne il potere del giudice di disporre la lettura (a cui consegue l'allegazione al fascicolo per il dibattimento, ex art. 515 c.p.p.) delle dichiarazioni rese fuori del dibattimento dai soggetti indicati dall'art. 210 c.p.p. Poiché, poi, come ha osservato la Corte costituzionale nella sentenza adesso ricordata, la disciplina risultante dalla parziale dichiarazione d'illegittimità implica che gli imputati in procedimento connesso «hanno la possibilità di sottrarsi, in tutto o in parte, all'esame, così determinando, nel caso in cui avessero reso precedenti dichiarazioni, quel tipo di situazione che lo stesso legislatore delegato ha inteso qualificare come un'ipotesi di impossibilità sopravvenuta dell'atto», il regime di utilizzazione degli atti è quello predisposto dagli artt. 238 e 511 bis e non quello enucleato dagli artt. 500 e 503, con conseguente utilizzabilità di tali atti a fini di prova, a norma dell'art. 526, primo comma, c.p.p. (v. Corte cost., sentenza n. 254 e 255 del 1992).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 9320 del  5 settembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3068/1994
+                                      In tema di acquisizione di atti da altri procedimenti, le prescrizioni dell'art. 238 comma primo c.p.p. sono applicabili soltanto in sede dibattimentale. Ne consegue che le limitazioni da esse imposte non operano nel procedimento in materia di libertà, né in sede di riesame, ai fini della verifica da parte del tribunale in ordine alla sussistenza dei gravi indizi di colpevolezza di cui all'art. 273 c.p.p., né con riferimento alla fase della revoca e sostituzione delle misure cautelari ex art. 299 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3068 del  4 ottobre 1994)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui approntato una disciplina unitaria della prova documentale al fine di eliminare le incertezze della legislazione previgente e garantire una netta distinzione netta tra acquisizione ed utilizzazione.
+Spiegazione: 
+La norma in esame disciplina l’ingresso nell’ambito processuale dei verbali relativi alle prove di altri procedimenti, considerati qui dei documenti per via della loro provenienza, esterna rispetto al processo nel quale dovrebbero essere acquisiti.
+
+L’acquisizione è ammessa senza condizioni solamente quando si tratti di prove assunte nell’incidente probatorio o nel dibattimento, mentre, per contro, la stessa regola non vale per i verbali di cui sia stata data lettura in sede dibattimentale.
+
+Tuttavia, nel caso di verbali relativi alle prove acquisite ai sensi dei primi due commi e riguardanti dichiarazioni, queste ultime sono utilizzabili solo nei confronti degli imputati i cui difensori abbiano partecipato alla loro assunzione, ovvero nei cui confronti fa stato la sentenza civile.
+
+Il comma 3 disciplina le prove che per cause sopravvenute sono divenute irripetibili, stabilendo che tali prove sono sempre ammesse, ove la non ripetibilità per cause sopravvenute dell’assunzione derivi da fatti o circostanze imprevedibili.
+
+Eccettuate le ipotesi appena descritte, l’acquisizione e la successiva utilizzazione in dibattimento dei verbali di altri procedimenti contenenti dichiarazioni (ad es. dichiarazioni rese da testimoni, da imputati in procedimenti connessi) è ammessa solamente nei confronti dell’imputato che vi acconsenta. Al contrario, in assenza di tale consenso, i predetti verbali possono essere utilizzati solo ai fini delle contestazioni in sede di esame dibattimentale, nei limiti e per gli effetti previsti e disciplinati dagli artt. 500 e 503.
+
+Ad ogni modo, qualora ai sensi dei commi precedenti siano stati acquisiti verbali di dichiarazioni provenienti da latri procedimenti, rimane fermo il diritto di ottenere l’esame delle persone che abbiano reso tali dichiarazioni, al fine di consentire un contraddittorio successivo.
+

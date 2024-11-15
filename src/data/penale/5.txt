@@ -1,0 +1,3441 @@
+Lineamenti di Diritto Penale e di Procedura Penale
+
+sintesi e ripasso
+
+
+
+di
+
+Rocco Mela
+
+
+
+
+
+Copyright © 2019
+
+
+
+
+
+a Salvo
+
+
+
+
+
+Prefazione
+
+
+
+
+Questo libro nasce dopo le richieste di numerosi lettori che trovavano più utile avere in un unico manuale la sintesi sia di diritto penale che di procedura penale, al posto di avere due libri su cui ripassare
+
+Da questa richiesta è nato quindi questo nuovo testo, principe nell'aiutare gli studenti di ogni età a superare con profitto le sessioni di esami.
+
+Ma il manuale sarà utile anche a tutti coloro i quali vogliono approfondire questo ramo di diritto per conoscenza personale.
+
+
+
+Buona lettura
+
+
+
+Giugno 2019
+
+
+
+
+
+Indice
+
+
+
+
+Prefazione 3
+
+Indice 4
+
+- DIRITTO PENALE - 10
+
+Introduzione 11
+
+1. Il codice penale 12
+
+Data di nascita del codice 12
+
+Composizione del codice 12
+
+2. Caratteristiche della norma penale 14
+
+3. Principi costituzionali 16
+
+Principio di legalità 17
+
+4. Ambito di operatività della legge penale 21
+
+Limiti spaziali 21
+
+Limiti personali 22
+
+5. Il reato 25
+
+Definizione formale del reato 25
+
+Forme di manifestazione del reato 26
+
+L’elemento oggettivo 27
+
+L’elemento soggettivo (colpevolezza) 31
+
+6. Cause di esclusione del reato 37
+
+L’errore 37
+
+Errore nel momento della formazione della mia volontà 37
+
+Errore nel momento di esecuzione del reato 38
+
+7. Le cause di giustificazione (o scriminanti)40
+
+Legittima difesa 40
+
+Stato di necessità 41
+
+La situazione di pericolo 42
+
+La condotta lesiva 43
+
+Il consenso dell’avente diritto 43
+
+L’esercizio di un diritto 45
+
+L’adempimento di un dovere 45
+
+L’uso legittimo delle armi 46
+
+Le scriminanti speciali 48
+
+8. L’imputabilità 49
+
+9. Le cause di esclusione o diminuzione dell’imputabilità 52
+
+La minore età (art. 97 e 98 c.p.) 52
+
+Il sordomutismo (art 96 c.p.) 53
+
+Il vizio di mente 54
+
+L’azione dell’alcool e degli stupefacenti (artt. 91-95 c.p.) 55
+
+10. Il tentativo: il delitto tentato (art 56 c.p.) 58
+
+11. Il concorso di persone nel reato 60
+
+12. Reati Associativi (o di associazione) 62
+
+Il concorso di reati 62
+
+13. Le teorie funzionali della pena 64
+
+La prevenzione generale 64
+
+La prevenzione speciale 65
+
+14. I tipi di pena nel nostro diritto 67
+
+Le pene principali 67
+
+Sanzioni sostitutive delle pene detentive 69
+
+Le pene accessorie 70
+
+Sanzioni emesse dal giudice di pace 71
+
+Misure alternative alla detenzione 72
+
+- PROCEDURA PENALE - 78
+
+Introduzione 79
+
+Definizione 79
+
+1. I soggetti processuali 80
+
+2. Il giudice 82
+
+Giudici monocratici e collegiali 82
+
+Giudici togati e laici 82
+
+3. Tipi di Giudici 83
+
+Giudici di primo grado 83
+
+Giudici di secondo grado 83
+
+Giudici di terzo grado 84
+
+4. Caratteristiche del giudice 85
+
+L’ambito di autorità del giudice 85
+
+Competenza per materia 85
+
+Competenza territoriale 86
+
+Eventualità in cui il giudice conosce l’imputato 86
+
+5. Il Pubblico Ministero 88
+
+Le Procure 89
+
+6. La polizia giudiziaria 90
+
+Servizi di polizia giudiziaria 91
+
+Sezioni di polizia giudiziaria 91
+
+Altri uffici di polizia giudiziaria 91
+
+7. L’imputato 92
+
+I soggetti legittimati a stare nel processo 92
+
+8. Il difensore 94
+
+9. Persona Offesa - Parte Civile 96
+
+10. Responsabile Civile 97
+
+11. Le prove nel processo penale 98
+
+Mezzi di ricerca della prova 98
+
+Storia giuridica della prova 99
+
+Casi in cui il diritto alla prova è di competenza del giudice 99
+
+L’ammissione delle prove 99
+
+I criteri di valutazione della prova 100
+
+12. Le misure cautelari 102
+
+Le misure cautelari personali 102
+
+Condizioni di applicabilità delle misure cautelari personali 103
+
+Le misure cautelari reali 103
+
+Disposizione della misura cautelare 104
+
+L’impugnazione dell’ordinanza 105
+
+13. Lo svolgimento del processo penale 107
+
+Generalità 107
+
+Le indagini preliminari 108
+
+Modalità dell’avvio delle indagini preliminari 109
+
+Reati perseguibili d’ufficio 109
+
+Reati perseguibili ad iniziativa di parte 110
+
+Le notizie di reato relative ai reati perseguibili d’ufficio 110
+
+Le notizie di reato relative ai reati perseguibili ad iniziativa di parte 111
+
+14. Iter delle indagini preliminari 113
+
+L’attività della polizia giudiziaria 113
+
+L’attività del P.M. 115
+
+L’attività del difensore 116
+
+L’incidente probatorio 116
+
+15. La chiusura delle indagini 118
+
+Il procedimento di archiviazione 118
+
+Il rinvio a giudizio 119
+
+16. L’udienza preliminare 120
+
+La sentenza di non luogo a procedere 121
+
+Il decreto che dispone il giudizio 122
+
+17. I principi generali del dibattimento 123
+
+Atti preliminari al dibattimento 123
+
+Dibattimento vero e proprio 124
+
+Atti introduttivi 126
+
+L’istruttoria dibattimentale 127
+
+18. Atti successivi al dibattimento 130
+
+19. Le impugnazioni 132
+
+Iter per impugnare la sentenza 132
+
+Gli effetti delle impugnazioni 133
+
+I mezzi di impugnazione 134
+
+20. L’appello 135
+
+Il potere del giudice di appello 135
+
+Lo svolgimento del giudizio di appello 136
+
+Le sentenze 137
+
+21. Ricorso per cassazione 138
+
+Poteri della corte di cassazione 139
+
+Svolgimento del giudizio di cassazione 139
+
+Sentenze della corte di cassazione 141
+
+22. La revisione 143
+
+23. Il passaggio in giudicato della sentenza 145
+
+Le funzioni del magistrato di sorveglianza 146
+
+Le funzioni del tribunale di sorveglianza 147
+
+Il procedimento di sorveglianza 147
+
+24. Gli atti (i provvedimenti) del giudice 149
+
+La sentenza 149
+
+L’ordinanza 149
+
+Il decreto 150
+
+25. Gli atti del P.M. 151
+
+Le richieste 151
+
+Le requisitorie 151
+
+26. A proposito dell’autore 152
+
+27. Libri dell’autore 153
+
+Libri in lingua italiana 153
+
+Libri in lingua straniera 155
+
+English 155
+
+Français 155
+
+Español 155
+
+28. Posso domandarti un favore? 156
+
+29. Note Legali 157
+
+
+
+
+
+- DIRITTO PENALE -
+
+
+
+
+
+Introduzione
+
+
+
+
+Il diritto penale è una parte del diritto pubblico, perché il reato è un oggetto di interesse generale e collettivo; interessa l’intera società, non il singolo.
+
+Anche quando i beni che esso protegge sono di pertinenza diretta degli individui (la vita, la libertà, l’onore), vengono sempre tutelati in vista di un interesse pubblico.
+
+Soprattutto bisogna ricordare che l’azione diretta alla repressione dei reati è sempre pubblica e spetta allo Stato.
+
+Il diritto penale è quel ramo della scienza giuridica che studia i fatti costituenti reato.
+
+Il reato è ogni fatto umano alla cui realizzazione la legge riconnette sanzioni penali; quindi il reato richiede, per poter sussistere, la sanzione penale.
+
+La definizione di diritto penale finora data riguarda il cosiddetto diritto sostanziale o materiale, che va tenuto distinto dal diritto penale processuale o formale, il quale è un ramo del diritto che disciplina il processo.
+
+
+
+
+
+1. Il codice penale
+
+
+
+
+
+Data di nascita del codice
+
+
+In Italia il principale complesso di norme giuridiche penali è costituito dal codice penale, entrato in vigore il primo luglio 1931, in pieno periodo fascista.
+
+Fu denominato “Codice Rocco” dal nome del guardasigilli che lo propose.
+
+Ad oggi, seppure ampiamente rivisto e corretto, e ancora quello di 76 anni fa.
+
+Constava originariamente di 734 articoli.
+
+Invece il codice di procedura penale è stato sostituito con il codice Vassalli.
+
+
+
+
+
+Composizione del codice
+
+
+Il codice penale si compone di tre parti:
+
+1- Primo Libro “Dei reati in generale”: Costituisce la parte generale del codice penale, in quanto disciplina pone in essere tutte quelle regole che si possono applicare a qualunque tipologia di reato.
+
+Fanno parte di questo libro i seguenti argomenti: la norma penale, il principio di legalità, gli elementi costitutivi del reato, le conseguenze del comportamento illecito.
+
+2- Secondo Libro “Dei delitti in particolare”;
+
+3- Terzo libro “Delle contravvenzioni in particolare”.
+
+
+
+Gli ultimi due libri sono le parti speciali del codice.
+
+Naturalmente le norme penali non si esauriscono all’interno del codice penale, ma si trovano anche nelle cosiddette leggi speciali (es. legge 309/1990, la legge sulla droga).
+
+
+
+
+
+2. Caratteristiche della norma penale
+
+
+
+
+Il diritto penale è costituito da un complesso di disposizioni contenute non solo nel c.p., ma anche in altri codici e in molte leggi speciali, ciascuna delle quali viene denominata norma penale.
+
+La caratteristica fondamentale della norma penale è quella di avere una sanzione conseguente ad un comportamento.
+
+Questa caratteristica la distingue da tutte le altre norme previste dal nostro ordinamento.
+
+Le norme penali sono dislocate in qualunque ambito riguardante il diritto (quindi possono essere solamente una parte delle leggi).
+
+Le sanzioni di nostro interesse sono contenute nell’art 17 c.p.:
+
+
+
+Delitti:
+
+- Ergastolo (carcere a vita);
+
+- Reclusione (carcere ma a termine);
+
+- Multa (sanzione pecuniaria)
+
+
+
+Contravvenzioni:
+
+- Arresto (pena detentiva che non può superare i tre anni);
+
+- Ammenda (sanzione pecuniaria);
+
+
+
+Tutte le sanzioni penali incidono sulla libertà dell’individuo.
+
+Mentre la privazione della libertà nel caso della reclusione e dell’arresto è immediata, riguardo le pene pecuniarie è potenziale (cioè potrebbe provocarla successivamente).
+
+Esempio: Tizio paga 2000 euro di multa per un reato non meglio specificato.
+
+Il nostro ordinamento consente la rateizzazione della multa in funzione del reddito personale.
+
+Ma se la persona è senza reddito, si attiva l’istituto della conversione della pena pecuniaria, consistente del sottoporre il soggetto condannato a misure di tipo diverso, quali ad esempio la libertà controllata.
+
+Se il soggetto viola la libertà controllata si avrà il passaggio alla pena detentiva.
+
+
+
+
+
+3. Principi costituzionali
+
+
+
+
+Le norme penali devono sottostare a quelli che sono i principi generali della costituzione:
+
+
+
+- Principio di legalità; art 25 secondo comma: Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso.
+
+- Principio della personalità della responsabilità penale; art 27 primo comma: La responsabilità penale è personale. (Nessuno può rispondere del reato al posto dell’interessato)
+
+- Principio di umanità del trattamento; art 27 terzo comma: Le pene non possono consistere in trattamenti contrari al senso di umanità.
+
+- Principio della finalità rieducativa della pena; art 27 terzo comma: Le pene devono tendere alla rieducazione del condannato;
+
+- Principio della libertà personale; art 13: La libertà personale è inviolabile.
+
+Non è ammessa forma alcuna di detenzione, di ispezione o perquisizione personale, né qualsiasi altra restrizione della libertà personale, se non per atto motivato dell'autorità giudiziaria e nei soli casi e modi previsti dalla legge. (In termine tecnico si chiamano riserva di legge –ossia nei casi previsti dalla legge- e riserva di giurisdizione –ossia in caso di provvedimento del giudice-)
+
+
+
+
+
+Principio di legalità
+
+
+Il principio, previsto anche nella dichiarazione internazionale dei diritti dell’uomo, è il cardine di tutto il diritto penale.
+
+Con questo principio si rispetta l’esigenza che la produzione e l’applicazione delle norme penali siano sottoposte al monopolio della legge.
+
+La costituzione ne parla anche nell’art 25 comma secondo e terzo.
+
+Il principio è trattato nell’articolo 1 del codice penale:
+
+- Reati e pene: disposizione espressa di legge
+
+Nessuno può essere punito per un fatto che non sia espressamente preveduto come reato dalla legge, né con pene che non siano da essa stabilite.
+
+Questo principio serve a garantire il cittadino perché la legge viene creata in parlamento, il quale è eletto dal popolo, e quindi da ogni singolo cittadino; così non sarebbe se la legge fosse posta in essere dal governo, il quale rappresenta solo una parte della popolazione).
+
+
+
+Questo principio può essere suddiviso in tre sotto principi:
+
+1- Principio della riserva di legge (o di stretta legalità): riguarda la fonte.
+
+La norma penale esiste solo nella legge, e non in altre fonti normative.
+
+Quindi non possono essere fonte di diritto penale i regolamenti, ad eccezione di quelli che specificano meglio i contenuti di una legge (ad esempio il regolamento che elenca le droghe pesanti e leggere).
+
+Ma diverso discorso è da farsi riguardo il decreto legge ed il decreto legislativo; i predetti sono fonte di diritto penale, in quanto diverranno leggi grazie o all’approvazione parlamentare o per un controllo a monte, sempre del parlamento.
+
+2- Principio di determinatezza e tassatività della norma penale: riguarda il contenuto.
+
+La norma penale, dal punto di vista contenutistico, deve essere formulata in maniera chiara, precisa e determinata in ogni suo elemento, in maniera tale che si possa stabilire con certezza quali siano i comportamenti vietati e quelli leciti.
+
+Ciò serve come garanzia per il cittadino, il quale può disporre del diritto di difesa e anche per il giudice, che non ha dubbi su come applicare la legge.
+
+La determinatezza riguarda la norma nel suo contenuto, la tassatività invece riguarda la norma nelle sue possibili evoluzioni esterne, che sono vietate.
+
+È vietata ogni cosiddetta applicazione analogica, ossia l’applicazione della norma ad un contenuto simile (ciò è permesso in altri rami del diritto, ma non in quello penale).
+
+La determinatezza la si può guardare in una doppia ottica:
+
+- Determinazione della fattispecie: ogni tipo di reato deve avere una enunciazione precisa.
+
+- Determinazione della pena: si deve sapere a cosa si va incontro quando si tiene un comportamento criminoso; si deve sapere che si commette un reato e a quale pena si va incontro. Il secondo punto è un po’ più complesso, perché rubare un gioiello non è la stessa cosa che rubare una mela. Quindi la pena oscilla tra un minimo e un massimo (il minimo e il massimo sono posti in essere dal legislatore, il giudice sceglierà tra questo range).
+
+3- Principio della irretroattività della norma penale: riguarda l’efficacia della norma nel tempo.
+
+Questo principio è sancito dall’art 2 del codice penale (oltre che dal secondo comma della costituzione): la sanzione penale non può essere applicata a fatti anteriori la sua entrata in vigore.
+
+Tuttavia il predetto non è un principio assoluto, infatti sussistono delle deroghe (delle eccezioni): ciò avviene nel caso in cui la nuova sanzione penale è più favorevole di quella precedente.
+
+In base alle irretroattività delle norma penale, si possono formulare tre ipotesi:
+
+- Prima ipotesi: un’azione che prima era lecita, costituisce reato; in questo caso, per tutte le azioni effettuate anteriormente l’entrata in vigore della legge, vige il citato principio.
+
+- Seconda ipotesi: un’azione che prima costituiva reato viene considerata lecita; in questo caso non si applica il principio di irretroattività (sia per chi è sotto processo sia per chi sta già espiando la condanna)
+
+- Terza ipotesi: si modifica la sanzione penale; in questo caso se la modifica è peggiorativa vige il principio di irretroattività, se invece è migliorativa il principio non verrà applicato.
+
+A sua volta il principio di retroattività prevede delle eccezioni; i casi sono due, e sono previsti dal codice penale sempre all’articolo 2: riguardano le leggi eccezionali e le leggi temporanee.
+
+
+
+
+
+4. Ambito di operatività della legge penale
+
+
+
+
+
+Limiti spaziali
+
+
+Per prima cosa bisogna stabilire dove è applicabile la legge, ossia bisogna definire l’ambito spaziale di applicazione della legge penale.
+
+In tal proposito bisogna asserire che nel nostro ordinamento vige il principio di territorialità, primo comma dell’art 3 del codice penale: la legge italiana obbliga tutti coloro che, cittadini o stranieri, si trovano nel territorio dello Stato.
+
+Questo principio è ribadito dal primo comma dell’art 6: chiunque commette un reato nel territorio dello Stato è punito secondo la legge italiana
+
+Per territorio dello Stato si intende quanto dice il secondo comma dell’art 4 del codice penale: Agli effetti della legge penale, è "territorio dello Stato" il territorio "della Repubblica", quello delle colonie ed ogni altro luogo soggetto alla sovranità dello Stato. Le navi e gli aeromobili italiani sono considerati come territorio dello Stato, ovunque si trovino, salvo che siano soggetti, secondo il diritto internazionale, a una legge territoriale straniera.
+
+Il territorio dello Stato, oltre alla terraferma, comprende il cosiddetto mare costiero, ossia lo specchio d’acqua che circonda la costa fino ad una distanza di 12 miglia.
+
+Oltre al mare costiero, nel territorio dello Stato è compreso il sottosuolo fin dove può spingersi l’attività umana ed anche lo spazio atmosferico sovrastante.
+
+Infine, l’art 4 del codice penale sancisce che “le navi e gli aeromobili italiani sono considerati come territorio dello Stato, ovunque si trovino; questa norma è tuttavia derogabile se si è soggetti, secondo il diritto internazionale, ad una legge territoriale straniera.
+
+L’art 4 altresì non è che la “legge della bandiera”; è assoluta riguardo i mezzi militari.
+
+Per quanto riguarda il luogo del commesso reato, l’art 6 c.p. (principio di ubiquità) sancisce: “il reato si considera commesso nel territorio dello Stato, quando l’azione o l’omissione che la costituisce è ivi avvenuta in tutto o in parte, ovvero si è ivi verificato l’evento”.
+
+Qualora il reato sia iniziato in territorio straniero e consumato in Italia o cominciato in Italia e consumato all’estero o comunque veda realizzato in Italia anche soltanto un frammento della condotta, si considera sempre commesso in Italia.
+
+Così si considera commesso in Italia il reato di colui che spedisce all’estero dei dolci avvelenati... Per stabilire se un reato sia tentato o consumato si deve tenere conto della parte verificatasi all’estero; se la condotta si svolge in Italia e l’evento all’estero, il fatto è consumato e non semplice tentativo.
+
+
+
+
+
+Limiti personali
+
+
+L’art 3 del c.p. reca: “la legge penale italiana obbliga tutti coloro che sono cittadini o stranieri che si trovano nel territorio dello Stato, salvo eccezione del diritto pubblico interno ed internazionale”.
+
+Tale principio quindi non esclude l’esistenza di condizioni speciali a favore di determinate persone, che ricoprono uffici di particolare importanza.
+
+Sono queste le c.d. immunità o prerogative, le quali implicano un particolare trattamento. Ad esempio il capo dello Stato è ritenuto non responsabile degli atti compiuti nell’esercizio delle sue funzioni tranne che per l’alto tradimento e attentato alla costituzione; deputati, senatori, giudici della corte costituzionale, componenti del CSM non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell’esercizio delle loro funzioni.
+
+Altre immunità derivano dalle consuetudini internazionali riconosciute dal diritto interno e precisamente:
+
+1- Il Papa;
+
+2- I capi di Stato esteri, nonché i membri della famiglia e del seguito che li accompagnano;
+
+3- I capi di Governo e Ministri esteri in conferenze o organizzazioni internazionali;
+
+4- Gli agenti diplomatici accreditati presso lo Stato italiano;
+
+5- I rappresentanti dell’Onu;
+
+6- Gli appartenenti al corpo della Nato.
+
+Se queste persone commettono reato in Italia, verranno giudicati secondo la legge del loro Stato.
+
+
+
+
+
+5. Il reato
+
+
+
+
+
+Definizione formale del reato
+
+
+Per reato si intende ogni fatto umano al quale la legge riconnette una sanzione penale.
+
+La predetta è una definizione solo di natura formale, non guarda alla sostanza del reato.
+
+Colui che compie l’illecito penale è il soggetto attivo del reato, designato dal nostro codice con la parola “reo”.
+
+In ogni reato, oltre al soggetto attivo, esiste un oggetto definito oggetto giuridico, il quale altro non è che il bene giuridico (bene protetto dal diritto).
+
+Quindi se formalmente il reato è violazione di una norma giuridica, sostanzialmente consiste nell’offesa del bene che la norma intende proteggere.
+
+In ogni reato vi è anche un soggetto passivo, cioè la vittima del reato, o meglio, il titolare dell’interesse la cui offesa costituisce l’essenza del reato (ad esempio nell’omicidio il soggetto passivo è soltanto l’ucciso e non i congiunti dello stesso).
+
+Il codice penale vigente adotta la bipartizione per cui i reati vengono classificati in delitti e contravvenzioni secondo la diversa specie delle pene per essi stabilite.
+
+Secondo tale summa divisio, che tiene conto della qualità e dell’entità della sanzione che indica la gravità che il legislatore attribuisce al fatto, si definiscono:
+
+- Delitti quei reati per i quali sono comminate le pene dell’ergastolo, reclusione e multa;
+
+- Contravvenzioni quei reati puniti con l’arresto e l’ammenda.
+
+La distinzione è effettuata sia con un criterio sostanziale che formale.
+
+Sostanziale perché si ha una distinzione di natura quantitativa (i delitti sono illeciti penali più gravi delle contravvenzioni).
+
+Formale perché si ha una distinzione che poggia sulle diverse pene a cui si va incontro.
+
+
+
+
+
+Forme di manifestazione del reato
+
+
+Nello studio analitico del reato bisogna anzitutto distinguere tra gli elementi essenziali e gli elementi accidentali.
+
+Sono essenziali quegli elementi che costituiscono l’essenza del reato senza i quali il reato non può esistere. In altre parole sono gli elementi che la legge ritiene indispensabili affinché un comportamento possa essere considerato reato e come tale punito (ad esempio per l’omicidio –art 575 c.p.- è qualunque condotta idonea a cagionare la morte). Sono detti elementi costitutivi.
+
+Sono accidentali quegli elementi la cui presenza o assenza non influisce sulla esistenza del reato, ma sulla gravità e quindi sull’entità della pena; sono indicati anche con il termine “circostanze di reato”, attenuanti o aggravanti.
+
+Sono aggravanti quando comportano un aumento della pena prevista per quel reato: ad es. nell’omicidio doloso un’aggravante è la premeditazione (dai 21 anni si passa all’ergastolo).
+
+Invece le attenuanti comportano una diminuzione della pena: ad es. nel sequestro di persona, se poco dopo si libera si sequestrato, si passa dai 25/30 ai 6/8 anni.
+
+Le circostanze inoltre si distinguono in comuni (art 61-62 c.p.) se si riferiscono a qualunque reato, in speciali se si riferiscono ad un particolare tipo di reato.
+
+L’analisi degli elementi essenziali del reato ha ravvisato 2 componenti:
+
+1- L’elemento oggettivo, cioè il fatto dell’uomo;
+
+2- L’elemento soggettivo, cioè la colpevolezza.
+
+
+
+
+
+L’elemento oggettivo
+
+
+A costituire l’elemento oggettivo del reato concorre anzitutto un’azione o una omissione indicate con termine di “condotta” o “azioni in senso lato”. La condotta umana di regola non basta a costituire il primo elemento essenziale del reato: occorre anche un risultato, un effetto della condotta (per esempio la morte di un uomo nel reato di omicidio).
+
+Questo risultato di dice “evento”. Tra la condotta e l’evento deve esistere un legame, e più precisamente un rapporto di causalità.
+
+Ne risulta, quindi, che l’elemento oggettivo del reato si compone di 5 elementi:
+
+1- Il soggetto attivo: l’autore del reato;
+
+Il soggetto attivo è la persona fisica che pone in essere un comportamento che corrisponde ad una fattispecie prevista dal codice penale. Se ci sono responsabilità previste da una persona giuridica, ci sarà sempre una persona fisica che ne risponde (ad es. il recente caso di “calciopoli”, dove si sono incriminati gli amministratori delle società di calcio).
+
+Con un decreto legislativo del 2001, le persone giuridiche rispondono solamente attraverso le pene pecuniarie.
+
+In relazione al soggetto, il reato si può distinguere in due grandi categorie: il reato comune, che può essere commesso da chiunque, e quello proprio. Il reato si dice proprio quando si richiede che l’autore (che può essere fisico o giuridico) abbia una ben precisa qualifica (ad es. l’infanticidio può essere commesso solo dalla madre); ci sono casi in cui il reato, per esistere, deve essere proprio (incesto). In altri casi invece, al cambiare del soggetto cambia il reato: se l’infanticidio non viene compiuto dalla madre, il reato si trasforma in omicidio;
+
+2- Condotta: qualunque comportamento umano rilevante per l’identificazione della tipologia di reato.
+
+Il comportamento può essere di diversa natura; può consistere in un fare (azione) o in un non fare (omissione). L’azione consiste in un movimento del corpo che si manifesta all’esterno, ossia che sia visibile dagli altri.
+
+L’omissione consiste in un non fare ciò che la legge obbliga, e in questo caso si parla di reato omissivo proprio (es. omissione di soccorso), oppure nel non impedire un evento che il soggetto attivo avrebbe l’obbligo di impedire, e allora si parla di reato omissivo mediante omissione (es. il mancato soccorso del bagnino di un uomo in mare). Tutti e due i reati omissivi saranno considerati tali solo nel caso in cui si avrà avuta la possibilità di intervenire.
+
+Comunque sia, il comportamento deve essere assolutamente visibile all’esterno, perché non si può incriminare nessuno delle sue intenzioni (principio di materialità)!
+
+In relazione alla condotta distinguiamo i reati a condotta vincolata, i quali sono reati descritti con grandissima precisione dal c.p. (es. la truffa), e i reati a condotta libera, per i quali la legge descrive solamente il risultato che deve conseguire la condotta (es. l’omicidio).
+
+Nel caso in cui si verificasse la presenza di una pluralità di azioni, bisogna stabilire quando queste non incarnino diverse fattispecie di reato ma solamente uno.
+
+Perché si possa parlare di unicità di azione è necessario che ricorrano i due seguenti requisiti:
+
+- Deve ricorrere la contestualità degli atti, ossia gli atti devono essere compiuti senza soluzione di continuità;
+
+- È necessario che ci sia un rapporto diretto tra il comportamento tenuto ed il cosiddetto bene tutelato, ossia tutti i comportamenti devono essere diretti al medesimo oggetto: insultare una persona e aggredirla fisicamente sono comportamenti che incidono su beni protetti diversi;
+
+3- L’oggetto della condotta;
+
+4- Evento: la conseguenza, l’effetto del comportamento tenuto (ad es. per l’omicidio è la morte). Non è necessario che ci sia una contestualità tra l’azione e l’evento; può anche succedere che l’evento si realizzi a distanza di tempo e in un luogo diverso da dove si è realizzata la condotta.
+
+Comunque non tutti i reati hanno un evento, ma possono sostanziarsi nella sola condotta (es. falsa testimonianza); quindi si distinguono reati di evento e reati di mera condotta (ossia senza evento).
+
+5- Rapporto di causalità: deve sussistere uno stretto legame tra la condotta del soggetto e l’evento; il rapporto di causalità rappresenta il nesso di imputazione, perché consente di imputare il fatto al suo autore.
+
+Il nesso di causalità non sempre è facile da identificare, perché nel verificarsi dell’evento possono intervenire anche delle condizioni esterne di varia natura; ad es. una persona viene colpita da sasso, e si genera una ferita completamente curabile, tuttavia la vittima è emofilica e muore.
+
+Per l’esistenza del rapporto di causalità occorrono due elementi, uno positivo e uno negativo:
+
+- Il positivo è che l’uomo con la sua azione abbia posto in essere una condizione dell’evento, e cioè un antecedente senza il quale l’evento stesso non si sarebbe verificato;
+
+- Il negativo è che il risultato non sia dovuto al concorso di fatti eccezionali.
+
+Allorché un legame di dipendenza esiste tra l’azione ed il risultato, ma questo, in seguito al concorso di fattori eccezionali, non è imputabile all’uomo, il rapporto tra l’una e l’altra può dirsi occasionale.
+
+In questa ipotesi si può parlare di esclusione del rapporto giuridico di causalità.
+
+In applicazione a ciò dovrà negarsi l’esistenza del nesso di causalità fra l’azione iniziale e l’esito finale, ad es. quando un colpo di sasso determina la morte di un emofiliaco.
+
+La disciplina del codice attuata sulla materia si evince dall’art 41 c.p: “il concorso di cause preesistenti, o simultanee o sopravvenute, anche se indipendenti dall’azione od omissione del colpevole, non esclude il rapporto di causalità fra l’azione od omissione e l’evento (primo comma)”. Le cause sopravvenute escludono il rapporto di causalità quando sono state da sole sufficienti a determinare l’evento.
+
+“In tal caso, se l’azione od omissione precedentemente commessa costituisce di per sé un reato, si applica la pena per questo stabilita (secondo comma)”.
+
+6- Il soggetto passivo: è il titolare dell’interesse leso, da non confondere con il danneggiato dal reato (denominato “persona danneggiata”. In molti casi soggetto passivo e persona danneggiata coincidono, ma non sempre (ad es. i familiari di una persona uccisa).
+
+
+
+
+
+L’elemento soggettivo (colpevolezza)
+
+
+Concerne la psicologia del soggetto che compie reato.
+
+Affinché si abbia il reato non basta il fatto materiale(o elemento oggettivo) ma occorre anche il concorso della volontà (c.d. colpevolezza o volontà colpevole).
+
+Dalle disposizioni contenute negli art 42 e 43 del c.p. di desume che nel nostro diritto l’elemento soggettivo del reato presuppone la coscienza e la volontà dell’azione od omissione, e che può assumere due forme fondamentali: il dolo e la colpa.
+
+L’essenza della colpevolezza viene ravvisata in un rapporto di contraddizione tra la volontà del soggetto ed una norma giuridica.
+
+La colpevolezza la si può guardare da due angolazioni:
+
+- Si ha un atteggiamento psicologico nei confronti della norma incriminatrice: il soggetto ha agito pur conoscendo la norma o ha agito non conoscendo la norma pur avendo il dovere di conoscerla;
+
+- Si ha un atteggiamento psicologico con il quale si pone in essere il reato: il soggetto lo ha voluto con tutte le sue forze o non ha fatto nulla per evitarlo.
+
+L’elemento soggettivo si compone di:
+
+1- Dolo
+
+Il dolo è la forma più grave di elemento psicologico. È previsto genericamente nell’art 42 c.p.: “nessuno può essere punito per un fatto preveduto dalla legge, se non l'ha commesso con dolo”.
+
+Il reato doloso vale per tutte le tipologie di reato.
+
+Il dolo si distingue in intenzionale, diretto ed eventuale.
+
+Si dice intenzionale quando il soggetto attivo vuole con tutte le sue forze non solo realizzare la condotta, ma anche che si verifichi l’evento consequenziale.
+
+Si dice diretto quando il comportamento tenuto è solo un mezzo necessario per realizzare uno scopo voluto. Per cui il soggetto attivo, per raggiungere il suo scopo, è disposto a mantenere quel comportamento: ad es. un terrorista che ha intenzione di sequestrare un personaggio politico accerchiato dalle guardie del corpo, ucciderà le predette perché ostacolano il sequestro.
+
+Nel dolo eventuale la commissione del reato è soltanto una possibile conseguenza di una condotta che è finalizzata ad altri scopi: è il caso, per es. di chi collocando una bomba in un luogo pubblico con l’intento di provocare del panico, prevede che qualche passante possa restare ucciso e tuttavia pone in essere l’azione criminosa.
+
+Altra distinzione va fatta tra dolo generico e dolo specifico:
+
+- Si ha dolo generico quando basta che sia voluto il fatto descritto nella norma incriminatrice;
+
+- Si ha dolo specifico quando la legge esige che il soggetto abbia agito per un fine particolare e la realizzazione non è necessaria per l’esistenza del reato (ad es. nel furto si cerca il fine di “trarre profitto” dalla cosa mobile sottratta); comunque, ai fini della punizione, il dolo specifico non ha importanza: se il ladro ruba un borsello che poi risulta essere vuoto, verrà punito ugualmente;
+
+2- Colpa
+
+La colpa è meno grave rispetto al dolo (rispetto a quest’ultimo la colpa comporta un forte abbattimento di pena).
+
+A differenza del dolo, non è prevista una norma a carattere generale; infatti la colpa è prevista solamente in determinati reati.
+
+Si ha la colpa quando l’agente agisce non volendo l’evento, anche se talora possa anche prevederlo: in altre parole, è voluto il comportamento, ma non l’evento; quindi la consapevolezza, nella colpa, è legata solo al comportamento.
+
+Dunque la legge punirà il reato commesso, ma per colpa e non per dolo.
+
+L’evento si verifica perché l’agente, nel porre in essere l’azione, non ha rispettato talune regole comportamentali.
+
+Queste regole possono essere non scritte, ossia norme derivate dalla comune esperienza e che tutti normalmente rispettano (il mancato rispetto può causare danni), oppure scritte (leggi, regolamenti, ordini).
+
+Non rispettando le predette regole si agisce con colpa.
+
+In particolare le regole non scritte si dividono in tre tipi:
+
+- La negligenza: non si fa qualcosa che si dovrebbe comunemente fare. Ad es. la sera prima di andare a dormire è regola non scritta chiudere la valvola del gas; se ciò non si fa, e scoppia la palazzina, si ha colpa (ma non dolo);
+
+- L’imprudenza: si ha quando la regola comportamentale mi vieta di fare una determinata azione, che io invece pongo in essere. Ad es. su una strada vi è il limite di 80 Km/h, e invece si viaggia a 130 Km/h;
+
+- L’imperizia: significa fare un qualcosa rispetto alla quale non abbiamo le conoscenze utili per farla correttamente. Ad es. si presta soccorso somministrando farmaci che solo un medico è in grado di somministrare.
+
+Le regole scritte si dividono anch’esse in tre tipi:
+
+- Le leggi;
+
+- I regolamenti: che hanno una portata di carattere generale come le leggi, ma la differenza consiste nella specificità dell’oggetto
+
+- Gli ordini; hanno una portata ancora più limitata, perché si rivolgono soltanto a specifiche categorie di persone, come ad es. gli ordini di una fabbrica.
+
+
+
+Una distinzione che si suole fare è quella tra colpa generica e colpa specifica: la colpa è generica quando riguarda tutti i consociati, specifica quando riguarda soltanto determinate categorie di persone (le colpe specifiche sono previste nei regolamenti e negli ordini).
+
+Altra distinzione si fa tra colpa incosciente, cosciente e con previsione.
+
+La colpa è incosciente quando l’agente non è consapevole di trasgredire una regola e quindi non può prevedere l’evento. Ad es. l’automobilista che non si accorge di superare il limite di velocità.
+
+La colpa è invece cosciente quando l’agente è consapevole di trasgredire la regola, ma non prevede assolutamente l’evento. Ad es. l’automobilista sa di aver superato il limite di velocità, ma non prevede di trovare subito dopo una coda e di andarsi a schiantare.
+
+La colpa è infine con previsione quando l’agente sa di trasgredire una regola e di avere conseguenze negative, ma non ne tiene egualmente conto. Ad es. l’automobilista viaggia ad alta velocità ed è consapevole che ciò può essere pericoloso, ma si fida della sua abilità da pilota e se ne frega.
+
+È chiaro che in caso di un processo, l’accertamento del tipo di colpa non è sempre facile, così come non è facile stabilire se un reato è stato commesso con dolo o con colpa.
+
+Spetta al giudice decidere.
+
+
+
+3- Preterintenzione.
+
+Si ha quando dal comportamento dell’agente deriva un evento dannoso più grave di quello voluto. In questi casi si parla di reati oltre (preter) l’intenzione.
+
+Il c.p. prevede solamente due casi di reato preterintenzionale: l’omicidio e l’aborto.
+
+Si ha omicidio preterintenzionale quando l’agente compie delle azioni dirette a percuotere, ma in conseguenza di queste percosse la persona aggredita muore.
+
+Si ha aborto preterintenzionale quando le percosse sono rivolte nei confronti di una persona incinta la quale, a seguito delle predette, abortisce.
+
+
+
+
+
+6. Cause di esclusione del reato
+
+
+
+
+Cause di esclusione del reato sono le situazioni che impediscono il configurarsi del reato.
+
+
+
+
+
+L’errore
+
+
+L’errore, previsto nel codice penale, nasce da una visione non corretta di quella che è la realtà.
+
+Questa inesatta conoscenza fa si che io mi comporti in un modo diverso da quello in cui mi sarei comportato se avessi avuto la visione corretta della realtà. In sostanza l’agente sbaglia perché non conosce.
+
+L’errore, nel c.p, viene disciplinato in due momenti diversi:
+
+1- Nel momento della formazione della volontà;
+
+2- Nel momento di esecuzione del reato.
+
+
+
+
+
+Errore nel momento della formazione della mia volontà
+
+
+La mia volontà nasce già viziata, poiché frutto di un errore. A questa situazione la legge equipara l’ignoranza (la mancanza di conoscenza).
+
+Si possono distinguere altri due sottotipi di errore: l’errore sul fatto e l’errore di diritto.
+
+L’errore sul fatto è un’erronea visione della realtà esterna. Ad es. il cacciatore spara pensando di colpire un cervo, ma invece il bersaglio risulta essere un uomo; l’errore sul fatto esclude il dolo, ma non la colpa.
+
+L’errore di diritto altresì non è che la famosa ignoranza della legge.
+
+Mi comporto in un determinato modo perché sconosco la legge che mi impedirebbe di farlo.
+
+L’ignoranza della legge è trattata nell’art 5 c.p.:
+
+Ignoranza della legge penale
+
+Nessuno può invocare a propria scusa l'ignoranza della legge penale.
+
+Tuttavia, per attenuare l’eccessivo rigore del predetto articolo, è intervenuta la corte costituzionale: La Corte costituzionale, sentenza 24 marzo 1988, n. 364, ha dichiarato l'illegittimità di questo articolo nella parte in cui non esclude dall'inescusabilità dell'ignoranza della legge penale l'ignoranza inevitabile.
+
+Quindi bisogna accertare di caso in caso se quell’ignoranza di legge poteva essere evitata.
+
+Es.: la ragazza che è fuggita dal pedofilo austriaco, se avesse commesso un reato contro il regolamento della strada, non sarebbe stata giudicata, perché non ha mai potuto avere il modo di conoscere il regolamento, in quanto segregata da anni.
+
+
+
+
+
+Errore nel momento di esecuzione del reato
+
+
+Sussistono due ipotesi:
+
+- Reato commesso nei confronti di una persona diversa da quella che si voleva. Ad es. si voleva uccidere Tizio ma si uccide Caio. Questo tipo di errore non scusa alcunché, poiché è comunque un reato commesso con dolo intenzionale.
+
+- Reato diverso da quello voluto. Es.: Tizio spara a Caio con l’intenzione di ucciderlo, ma invece ferisce un passante. Tizio verrà condannato per tentato omicidio nei confronti di Caio (ne risponderà con dolo), e per lesioni nei confronti del passante (ne risponderà con colpa).
+
+
+
+
+
+7. Le cause di giustificazione (o scriminanti)
+
+
+
+
+Sono delle situazioni in presenza delle quali un fatto di reato diventa lecito.
+
+Queste situazioni fanno venire meno il carattere antigiuridico del fatto: chi lo commette non può essere punito.
+
+Le cause di giustificazione operano oggettivamente, ossia indipendentemente dalla consapevolezza che ne possa avere chi agisce in quel momento.
+
+
+
+Le cause di giustificazione sono comuni quando si applicano a tutti i reati:
+
+
+
+
+
+Legittima difesa
+
+
+La legittima difesa è trattata nell’art 52 c.p.: “non e' punibile chi ha commesso il fatto per esservi stato costretto dalla necessità di difendere un diritto proprio od altrui contro il pericolo attuale di un'offesa ingiusta, sempre che la difesa sia proporzionata all'offesa.”
+
+Quindi per diritto non si intende solamente il diritto alla vita, ma qualunque tipo.
+
+È necessaria la presenza di un’offesa ingiusta e di un comportamento che faccia intendere in modo chiaro la volontà di attentare ad un mio diritto.
+
+E il pericolo deve essere attuale: non si può agire preventivamente perché si teme una azione futura. Ne tanto meno si può reagire a distanza di tempo dall’offesa.
+
+E comunque sia la difesa deve essere proporzionata all’offesa ricevuta.
+
+Il 13 febbraio 2006 è stata emanata la legge 59 che, tra le altre cose, ha aggiunto due commi al predetto articolo: "Nei casi previsti dall'articolo 614 c.p., primo e secondo comma, sussiste il rapporto di proporzione di cui al primo comma del presente articolo se taluno legittimamente presente in uno dei luoghi ivi indicati usa un'arma legittimamente detenuta o altro mezzo idoneo al fine di difendere:
+
+a) la propria o altrui incolumità;
+
+b) i beni propri o altrui, quando non vi è desistenza e vi è pericolo di aggressione.
+
+La disposizione di cui al secondo comma si applica anche nel caso in cui il fatto sia avvenuto all'interno di ogni altro luogo ove venga esercitata un'attività commerciale, professionale o imprenditoriale".
+
+
+
+
+
+Stato di necessità
+
+
+Ai sensi dell'articolo 54 "non è punibile chi ha commesso il fatto per esservi stato costretto dalla necessità di salvare sé o ad altri dal pericolo attuale di un danno grave alla persona, pericolo da lui non volontariamente causato, né altrimenti evitabile, sempre che di fatto sia proporzionato al pericolo”.
+
+Es: due naufraghi possono rimanere a galla aggrappandosi ad una piccola tavolozza di legno. Tuttavia la predetta tavola può sostenere il peso di una sola persona. In questo caso si può uccidere l’altro, non incorrendo in nessun tipo di reato.
+
+Pur presentando affinità con la legittima difesa, se ne differenzia sostanzialmente, dal punto di vista etico e giuridico:
+
+- nelle premesse, poiché viene leso il diritto non di un aggressore, ma di un terzo innocente, che non ha determinato la situazione di pericolo;
+
+- nei conseguenti limiti, poiché deve trattarsi di diritti personali ed esistere il pericolo di un danno grave e non volontariamente causato;
+
+- nelle conseguenze, poiché lascia residuare sul piano civile l'onere di versare un equo indennizzo al soggetto pregiudicato.
+
+Lo stato di necessità implica una situazione di pericolo e una condotta lesiva da parte del soggetto che versa in pericolo.
+
+
+
+
+
+Trova questo e tutti gli altri libri gratis molto prima nel sito da cui vengono copiati. Clicchi su questo testo e troverà la biblioteca, completamente gratuita, più fornita del web. Se invece questo link non si dovesse aprire, cerchi cortesemente ma.rapca.na su Google cancellando i punti nella parola. La aspettiamo!
+
+
+
+
+
+La situazione di pericolo
+
+
+Il pericolo deve consistere nella minaccia di un danno alla persona, cioè ad un diritto non patrimoniale, ma personale, che come tale comprende anche la libertà fisica e morale, la libertà sessuale, il pudore e l'onore, e non soltanto la vita e l'integrità fisica. Il pericolo deve essere, come già visto per la legittima difesa, attuale. Inoltre, bisogna che sia non volontariamente causato dall'agente. Il pericolo deve avere per oggetto un danno alla persona, non qualsiasi ma grave, tale cioè da giustificare il pregiudizio di un innocente.
+
+
+
+
+
+La condotta lesiva
+
+
+Anche nello stato di necessità debbono ricorrere i tre requisiti autonomi, sovente oggetto invece, di sovrapposizioni: della necessità di salvarsi, della inevitabilità altrimenti del pericolo, della proporzione tra il fatto e il pericolo.
+
+- la necessità di salvarsi si ha, anche qui, quando il soggetto era nell'alternativa tra subire o recare un danno, ma deve essere intesa in modo più rigido;
+
+- pure la inevitabilità altrimenti del pericolo, che anche qui sta a significare la impossibilità, rapportata alla situazione concreta, di salvarsi con una offesa meno grave di quella arrecata, va interpretata più rigorosamente che nella legittima difesa.
+
+- lo stesso vale per la proporzione tra il fatto e il pericolo che si ha quando il male inflitto è uguale o inferiore a quello, grave, che si è evitato.
+
+
+
+
+
+Il consenso dell’avente diritto
+
+
+Non è punibile chi lede o pone in pericolo un diritto, con il consenso della persona che può validamente disporne. Si pongono in materia tre ordini di problemi, concernenti:
+
+- La natura. Circa la controversa natura giuridica, il consenso non è un negozio né di diritto penale né di diritto privato, ma, come ormai si riconosce, è un mero atto giuridico, un permesso con cui si conferisce al destinatario un potere di agire, senza che si crei alcun rapporto di diritti e obblighi e che ha come unico effetto di escluderne l'illiceità per il semplice abbandono del proprio interesse ed accettazione del fatto.
+
+- I limiti. Circa i limiti, il consenso deve avere per oggetto: a) un diritto, comunemente inteso nel senso lato di qualsiasi bene, tutelato dalla norma penale; b) disponibile. Indisponibili sono i beni facenti capo allo Stato, alla collettività non personificata o alla famiglia. Circa i beni, facenti capo i singoli, incontestabilmente disponibili sono i diritti patrimoniali. Nella più controversa categoria dei diritti personalissimi, assolutamente indisponibile è la vita.
+
+Sono invece disponibili i diritti che riguardano l’integrità fisica: in altre parole, non si può andare oltre il danno permanente (non ci si può far tagliare un braccio), a meno che la minorazione fisica non sia prevista per legge (donazione del rene...).
+
+- La validità del consenso. Quanto alla validità del consenso, occorre, innanzitutto, che chi consente sia legittimato a consentire. Tale è il titolare, persona fisica o giuridica, dell'interesse protetto dalla norma perché, altrimenti, sarebbe soggetto passivo del reato. Il consenso deve essere effettivo, non espresso cioè per scherzo, simulazione, riserva mentale; libero, cioè non viziato da violenza, errore, dolo; attuale, cioè preesistente al momento del fatto, e perdurante per tutta la durata di questo; determinato. E scrimina nei limiti in cui è concesso, potendo il soggetto delimitarne l'oggetto e l'ambito, porre termini, condizioni e modalità di lesione del bene. Non è richiesta, invece, alcuna particolare forma, essendo sufficiente che la volontà sia riconoscibile dall'esterno. Può essere, perciò, non solo espresso, ma anche tacito.
+
+
+
+
+
+L’esercizio di un diritto
+
+
+Ai sensi dell’art 51 c.p, ogni qualvolta un soggetto titolare di un diritto esercita il predetto laddove sia espressamente previsto dalla legge, egli non può essere punito.
+
+Es: il diritto dei genitori di educare i figli (si può dare lo schiaffo ai figli).
+
+I casi più importanti di esercizio di un diritto sono i seguenti: diritto di cronaca, disciplina familiare, offendicoli (con questo termine si indicano i mezzi offensivi predisposti a difesa della proprietà, come filo spinato, punte di ferro nei cancelli, cocci di vetro sui muri di cinta), attività medico – chirurgica.
+
+
+
+
+
+L’adempimento di un dovere
+
+
+Per disposto dell’art 51 c.p., “l’adempimento di un dovere imposto da una norma giuridica o da un ordine legittimo della pubblica autorità, esclude la punibilità”. Classici esempi sono quelli del soldato che uccide in guerra, del boia che esegue una condanna a morte, dell’agente della forza pubblica che effettua una perquisizione domiciliare. Per norma giuridica si deve intendere non solo la legge statale, ma anche ogni altra forma del diritto, compresa la consuetudine. Se vi è rinvio da parte del diritto interno, è norma giuridica anche la norma del diritto internazionale o del diritto straniero.
+
+Nel caso che il dovere scaturisca da un ordine dell’autorità, occorre che l’ordine sia legittimo. L’ordine è legittimo solo quando è conforme alla norma di grado superiore, sulla base della quale è emanato.
+
+Se l’ordine è illegittimo, del fatto commesso risponde chi ha dato l’ordine. Ne risponde pure il soggetto che lo ha eseguito salvo il caso in cui non abbia consapevolezza dell’illegittimità e salvo che la legge non gli consenta alcun sindacato sulla legittimità dell’ordine.
+
+In quest’ultimo caso, si parla di ordine illegittimo vincolante.
+
+Ma si ha cura di precisare che, anche ove il rapporto si subordinazione sia strettissimo (come nel caso dei militari), la legge consente di rifiutare l’obbedienza quando manchi uno dei seguenti requisiti:
+
+- La competenza dei superiori ad emanare l’ordine;
+
+- La propria competenza ad eseguirlo;
+
+- L’emanazione dell’ordine nelle forme prescritte dalla legge.
+
+
+
+
+
+L’uso legittimo delle armi
+
+
+Ai sensi dell'articolo 53/1 “…non è punibile il pubblico ufficiale che, al fine di adempiere un dovere del proprio ufficio, fa uso ovvero ordina di fare uso delle armi o di un altro mezzo di coazione fisica, quando viene costretto dalla necessità di respingere una violenza o di vincere una resistenza all'autorità”.
+
+L'articolo 53/3 richiama gli altri casi in cui la legge autorizza, entro certi limiti, l'uso delle armi o di altri mezzi di coazione fisica. Sono quelli previsti per impedire i passaggi abusivi delle frontiere, le evasioni dei detenuti o violenza tra i medesimi, per reprimere il contrabbando e per le sentinelle nel servizio militare.
+
+La scriminante è propria dei pubblici ufficiali appartenenti alla cosiddetta forza pubblica i quali hanno istituzionalmente in dotazione armi o altri mezzi di coazione fisica. L'articolo 53/2 equiparare altresì al pubblico ufficiale la persona che, legalmente richiesta dal pubblico ufficiale, gli presti assistenza.
+
+L'uso legittimo delle armi si incentra sui due poli:
+
+- della situazione impediente l'adempimento del dovere concretantesi in una violenza senso lato, comprendente la violenza fisica e quella psichica, o in una resistenza all'autorità;
+
+- della reazione eliminante la violenza o la resistenza: requisito primo è la necessità di fare uso delle armi e degli altri mezzi coercitivi, dovendo il pubblico ufficiale trovarsi nell'alternativa di respingere la violenza o vincere la resistenza con le armi o detti mezzi o di non adempiere al proprio dovere. Se tali ostacoli all'adempimento del dovere sono diversamente eliminabili, la scriminante non ricorre, perché, come pure la giurisprudenza riconosce, il ricorso alle armi o ad altri mezzi di coazione fisica deve costituire l'extrema ratio.
+
+Deve ritenersi sottinteso il requisito della inevitabilità altrimenti del fatto ostativo; parimenti implicito deve considerarsi requisito della proporzione tra il bene leso e quello che l'adempimento del dovere di ufficio tende a soddisfare.
+
+
+
+
+
+Le scriminanti speciali
+
+
+Invece le scriminanti speciali riguardano solamente determinati reati:
+
+- Reazione legittima agli atti arbitrari del pubblico ufficiale;
+
+- L’eccesso nel comportamento: è valido solo laddove sia inconsapevole e non si è in presenza di nessun elemento psicologico (dolo e colpa).
+
+Es.: l’aggressione al buio; si viene aggrediti di notte nel sonno. Nella colluttazione che ne scaturisce si uccide l’aggressore. All’accensione della luce si scopre questi era un bambino.
+
+
+
+
+
+8. L’imputabilità
+
+
+
+
+Possibilità di punire un soggetto per aver commesso un illecito penale. Se un soggetto non è imputabile, non può essere punito.
+
+In base all’art 85, un soggetto perché sia imputabile deve possedere:
+
+- la capacità di intendere, cioè l’attitudine del soggetto non solo a conoscere la realtà esterna, ciò che si svolge al di fuori di lui, ma a rendersi conto del valore sociale, positivo o negativo, di tali accadimenti e degli atti che egli compie;
+
+- la capacità di volere, cioè l’attitudine del soggetto ad autodeterminarsi, a determinarsi cioè in modo autonomo tra i motivi coscienti in vista di uno scopo, volendo ciò che l’intelletto ha giudicato di doversi fare e, quindi, adeguando il proprio comportamento alle scelte fatte.
+
+Per poter essere presente l’imputabilità, occorre che entrambe le capacità siano presenti.
+
+La colpevolezza è ciò che permette di punire una persona, ma la predetta non può esistere per un soggetto incapace di intendere e di volere.
+
+Questo perché chi commette un illecito penale, è punito con una pena che tendere ad una rieducazione del condannato; quindi, affinché la pena sia efficace, chi la subisce deve essere consapevole di ciò. Poiché i soggetti incapaci di intendere e di volere non comprenderebbero la predetta funzione della pena, non sono imputabili.
+
+Data l’impossibilità di accertare la capacità individuale di agire altrimenti nella situazione concreta, tale libertà è presunta come presente nel soggetto agente in assenza delle cause che valgono ad escluderla.
+
+L’accertamento della capacità di intendere e di volere deve essere fatto dal giudice che, non disponendo di mezzi idonei, si avvale dell’uso della “perizia”, la quale verrà eseguita da un perito che presenterà successivamente al magistrato la relazione.
+
+Una volta accertata l’incapacità, il giudice deve accertare anche la pericolosità del soggetto, stabilendo se quest’ultimo debba essere sottoposto o meno a misure di sicurezza.
+
+Mentre l’accertamento della capacità di intendere e di volere è svolto dal perito, quella della pericolosità spetta al giudice.
+
+L’art 133 c.p. stabilisce i parametri dei quali il giudice deve servirsi per accertare tale pericolosità:
+
+1) dai motivi a delinquere e dal carattere del reo;
+
+2) dai precedenti penali e giudiziari e, in genere, dalla condotta e dalla vita del reo, antecedenti al reato;
+
+3) dalla condotta contemporanea o susseguente al reato;
+
+4) delle condizioni di vita individuale, familiare e sociale del reo.
+
+Le misure di sicurezza richiedono sempre la commissione di un reato. Se il soggetto è ritenuto capace di intendere e di volere, le misure di sicurezza si aggiungeranno alla pena, altrimenti si avranno misure di sicurezza senza pena.
+
+Comunque, nonostante i parametri, il giudizio non è sempre facile e non esiste una “pericolosità presunta”, ma va sempre accertata qualunque sia il reato commesso.
+
+
+
+
+
+9. Le cause di esclusione o diminuzione dell’imputabilità
+
+
+
+
+La cause che escludono o diminuiscono l'imputabilità, previste dal codice negli artt. 88-96, appartengono alle due species:
+
+- delle alterazione patologiche, dovute ad infermità di mente o all’azione dell’alcool o di sostanze stupefacenti;
+
+- della immaturità fisiologica o parafisiologica, dipendenti rispettivamente dalla minore età e dal sordomutismo.
+
+
+
+
+
+La minore età (art. 97 e 98 c.p.)
+
+
+Come l’esperienza comune e la scienza insegnano, la capacità di intendere e di volere presuppone un certo sviluppo fisico-psichico del soggetto. Il codice italiano pone una triplice distinzione sancendo:
+
+1- per il minore di anni 14 una presunzione assoluta di incapacità, per presunta immaturità, cioè senza prova contraria;
+
+2- per i maggiori degli anni 18 una presunzione di capacità per presunta maturità, salvo che si dimostri che tale capacità è esclusa o diminuita da altre cause, patologiche o parafisiologiche;
+
+3- per il minore fra i 14 e i 18 anni nessuna presunzione, dovendo il giudice (anche d’ufficio) accertare caso per caso la imputabilità o inimputabilità;
+
+Circa il trattamento, il minore non imputabile viene prosciolto. Per non lasciare la società indifesa, si applica, al minore che abbia commesso un delitto e sia ritenuto pericoloso, la misura di sicurezza del riformatorio giudiziario o della libertà vigilata. Se il minore fra i 14 e i 18 anni è ritenuto imputabile fruisce allora di una diminuzione di pena e di talune agevolazioni in tema di pene accessorie. Qualora il giudice lo ritenga pericoloso può ordinare che dopo l’esecuzione della pena, sia sottoposto alle suddette misure di sicurezza. Quando il minore sia incapace di intendere e di volere anche per ragioni diverse dalla minore età, si fa luogo al trattamento curativo.
+
+
+
+
+
+Il sordomutismo (art 96 c.p.)
+
+
+Il sordomutismo è previsto tra le cause che escludono o diminuiscono l’imputabilità, in quanto l’udito e il linguaggio sono essenziali per lo sviluppo del patrimonio psichico dell’uomo. Nel vigente codice il sordomutismo non comporta alcuna presunzione di imputabilità, ma deve caso per caso accertarsi se esso incida o meno sulla capacità del soggetto. Per questo motivo:
+
+- quando si riconosce che la capacità di intendere e di volere era piena, il sordomuto viene penalmente considerato come una persona normale e ritenuto imputabile;
+
+- se, invece, si accerta che la capacità non sussisteva, egli è parificato alla persona affetta da vizio totale di mente e ritenuto non imputabile;
+
+- se si accerta, infine, che la capacità era grandemente scemata, è parificato alla persona affetta da vizio parziale di mente, e quindi, è ritenuto imputabile, ma la pena è diminuita.
+
+
+
+
+
+Il vizio di mente
+
+
+Per vizio di mente deve intendersi uno stato mentale patologico, che esclude o diminuisce la capacità di intendere e di volere. Al fine del giudizio di imputabilità, l’alterazione dello stato mentale deve esistere al momento del fatto e riguardare lo specifico fatto. Il nostro codice distingue tra:
+
+1- vizio di mente totale (art. 88), per cui non è imputabile chi, nel momento in cui ha commesso il fatto era, per infermità, in tale stato di mente da escludere la capacità di intendere e di volere. L’imputato dichiarato non imputabile è prosciolto ma se pericoloso è sottoposto alla misura di sicurezza dell’ospedale psichiatrico giudiziario (art. 222); dopo di ché sarà necessario un riesame della pericolosità da parte del magistrato di sorveglianza. Se il soggetto continua ad essere pericoloso, resterà per un altro periodo all’ospedale. Se la sua situazione sarà ritenuta meno gravosa, si passerà alla casa di cura o di custodia, una misura di sicurezza più tenue. Se sarà migliorato molto, sarà seguito da psicologi, ma verrà rimesso in libertà.
+
+2- vizio di mente parziale (art. 89) che si ha quando la capacità di intendere e di volere, senza essere esclusa, è grandemente scemata (seminfermità): in tal caso si opera una diminuzione della pena cui si cumula, di regola, una misura di sicurezza.
+
+In quanto potrebbe comunque trattarsi di un soggetto pericoloso, verrà eseguito un accertamento e gli verrà data come misura di sicurezza la casa di cura o di custodia.
+
+Se il soggetto risultasse pericoloso, verrà scontata per prima la pena (che va subito in esecuzione) e, terminata la quale, successivamente la misura di sicurezza (a meno che nel mentre il soggetto tramite una nuova perizia, non venga più considerato pericoloso; in questo caso sarà revocata la misura di sicurezza).
+
+Gli stati emotivi e passionali, invece, non escludono né diminuiscono l’imputabilità (art. 90) sempre che non siano manifestazione di uno stato patologico.
+
+
+
+
+
+L’azione dell’alcool e degli stupefacenti (artt. 91-95 c.p.)
+
+
+Alcolismo ed uso di stupefacenti sono fenomeni che hanno sempre interessato le scienze criminali per la loro plurima potenzialità offensiva e criminogena. Nella lotta contro tali fenomeni la nostra legge segue la duplice via:
+
+1- della prevenzione, sia colpendo le attività che favoriscono le auto intossicazioni voluttuarie, sia attraverso interventi informativi ed educativi;
+
+2- della repressione, incriminando ad esempio l’ubriachezza manifesta in luogo pubblico e la guida in stato di ebbrezza.
+
+Se da un punto di vista medico-legale si dovrebbe concludere che un soggetto privo di capacità di intendere e di volere a causa dell’uso di dette sostanze sia inimputabile o semi-imputabile, non è così dal punto di vista giuridico.
+
+Per quanto riguarda l’alcolismo, il nostro codice distingue tra ubriachezza e cronica intossicazione. Nell’ambito della prima distingue fra:
+
+- ubriachezza accidentale (art. 91 c.p.), derivata da caso fortuito o forza maggiore; in tal caso il soggetto sarà punito dopo avere accertato quando questo stato di intossicazione sia inciso sul suo gesto, perché se ha portato il soggetto ad essere assolutamente incapace di intendere e di volere, non sarà punito. Se viceversa la capacità e scemata, verrà punito con una riduzione di pena.
+
+- ubriachezza volontaria o colposa (art. 92 c.p.) a seconda che il soggetto si sia ubriacato intenzionalmente o abbia comunque accettato il rischio di ubriacarsi, oppure, si sia ubriacato per negligenza o imprudenza non volendo il fatto ma senza evitare – pur potendola evitare – tale eventualità; si viene ugualmente puniti.
+
+- ubriachezza preordinata (art. 93 c.p.) qualora abbia il fine di commettere un reato o prepararsi una scusa; in tal caso l’ubriachezza è vista come un’aggravante, e la pena verrà aumentata.
+
+- ubriachezza abituale (art. 94 c.p.) quando il soggetto è dedito all’uso di alcolici e viene spesso a trovarsi, per tale motivo, in stato di ebbrezza. Oltre a non escludere l’imputabilità, la ubriachezza abituale comporta un aumento di pena e l’applicazione di una misura di sicurezza;
+
+Per quanto riguarda la cronica intossicazione da alcool, poiché in tale ipotesi i fenomeni sono stabili e persistenti anche dopo l’eliminazione dell’alcool, l’art. 95 richiama lo stesso regime del vizio di mente totale o parziale, per cui l’intossicato è non punibile o punibile con pena ridotta a seconda che la capacità sia esclusa o grandemente scemata.
+
+Passando all’azione degli stupefacenti, si ravvisa un’identità fra la disciplina dettata per gli effetti della loro azione e quella dettata per gli effetti dell’alcool. Avremo pertanto – anche in questo caso – una intossicazione accidentale, volontaria o colposa, preordinata, abituale e cronica.
+
+
+
+
+
+10. Il tentativo: il delitto tentato (art 56 c.p.)
+
+
+
+
+Chi compie atti idonei, diretti in modo non equivoco a commettere un delitto, risponde di delitto tentato, se l’azione non si compie o l’evento non si verifica.
+
+Il colpevole del delitto tentato è punito con la reclusione non inferiore a 12 anni se la pena stabilita è l’ergastolo (ad es. se l’omicidio prevede l’ergastolo, il tentato omicidio la reclusione a 12 anni). Negli altri casi la pena stabilita per il delitto sarà diminuita di uno fino ad un massimo di due terzi.
+
+Gli elementi del delitto tentato sono:
+
+- L’idoneità degli atti: cioè le azioni devono essere tali da consentire il risultato che non si è avuto;
+
+- L’univocità degli atti e la non equivocità: cioè si deve poter comprendere quale fosse l’intenzione del soggetto;
+
+- L’elemento soggettivo del tentativo: può essere solo il dolo.
+
+Nel delitto tentato si può verificare la desistenza volontaria, cioè il colpevole volontariamente desiste dall’azione, soggiace soltanto alla pena per gli atti compiuti qualora questi costituiscano di per sé un reato diverso: ad es. chi forza la porta di un appartamento per rubare gli immobili, ma poi si pente e non lo fa, verrà punito per violazione di domicilio.
+
+Si può verificare anche il recesso attivo, quando il soggetto colpevole impedisce l’evento.
+
+In questo caso l’agente verrà punito con una diminuzione di pena, che va da un terzo alla metà di quanto previsto per il tentativo: ad es. si invia un pacco bomba in un ufficio e poi, pentitosi l’agente, si telefona a quest’ultimo avvisando di non aprirlo.
+
+Una forma particolare è costituita dal reato impossibile, che si ha quando l’azione è inidonea o l’oggetto a cui è diretta l’azione è impossibile e/o non esiste.
+
+In questo caso il reato non può essere punito.
+
+
+
+
+
+11. Il concorso di persone nel reato
+
+
+
+
+Si ha concorso di persone nel reato quando più persone pongono in essere insieme un reato che, astrattamente, può essere realizzato anche da una sola persona. Il fenomeno viene chiamato anche concorso eventuale di persone (ad es, nel reato di furto) per contraddistinguerlo dal c.d. concorso necessario di persone, che si ha quando è la stessa norma incriminatrice di parte speciale che richiede, per la esistenza del reato, una pluralità di soggetti attivi (ad es. il reato di rissa).
+
+Nel nostro diritto l’art. 110 c.p. statuisce che “quando più persone concorrono nel medesimo reato, ciascuna di esse soggiace alla pena per questo stabilita”. Parlando genericamente di “reato”, essa incrimina il concorso sia nei delitti che nelle contravvenzioni.
+
+Il modello fondamentale per valutare e punire i concorrenti è il seguente:
+
+- quello della pari responsabilità, per cui essi sono considerati egualmente responsabili e punibili, in via di principio, salvo valutare in concreto la loro reale responsabilità e graduare la pena in base al ruolo effettivamente avuto.
+
+A favore del principio della pari responsabilità si è andata orientando la più moderna dottrina. Oltre a presentare un solido fondamento razionale, esso meglio soddisfa le esigenze della pratica e della difesa sociale. Il principio della pari responsabilità non implica, però, una meccanica eguaglianza del quantum della pena per tutti concorrenti: esso sta a significare l'impossibilità di differenziazioni aprioristiche di responsabilità sulla base di tipi astratti di concorrenti, ma la necessità pur sempre di una graduazione in concreto della stessa in rapporto al reale contributo apportato da ciascun concorrente.
+
+Il codice del ‘30 ha adottato, di principio, la soluzione corretta e semplificante della pari responsabilità dei concorrenti.
+
+Gli elementi che individuano in un reato il concorso di persona sono tre:
+
+1- La pluralità di agenti. Primo ed ovvio requisito del concorso è che il reato sia commesso da un numero di soggetti superiore a quello che la legge ritiene necessario per la esistenza del reato.
+
+2- La realizzazione di un reato. Secondo elemento costitutivo della fattispecie plurisoggettiva del concorso è che sia stato posto in essere un fatto materiale di reato, consumato o tentato. Siccome il delitto tentato costituisce l'estremo limite dei fatti punibili, il minimo indispensabile perché‚ possa aversi un concorso punibile è che siano realizzati gli estremi di un delitto tentato. Il nostro codice non punisce il tentativo di concorso ma soltanto il concorso nel delitto tentato. Il puro accordo e la semplice istigazione a commettere un reato sono per il nostro diritto qualcosa di meno del tentativo punibile.
+
+3- Il contributo causale. Ogni persona deve avere contribuito alla realizzazione del reato.
+
+
+
+
+
+12. Reati Associativi (o di associazione)
+
+
+
+
+Si hanno quando tre o più persone si associano allo scopo di commettere uno o più delitti (art. 416 c.p). Viene chiamata associazione a delinquere e non necessita, per essere punita, la realizzazione di un reato; l’illiceità sta già nel far parte dell’associazione. Se verrà commesso un reato, si verrà poi punito per quest’ultimo.
+
+Questo perché il reato associativo ha come fondamento un accordo tra più persone, e non il concorso.
+
+Col tempo, si sono aggiunte fattispecie specifiche di associazione: l’associazione a delinquere di stampo mafioso (art 416 bis c.p.), e l’associazione a delinquere finalizzata al traffico e allo spaccio di sostanze stupefacenti (art 74 della legge 309/90).
+
+
+
+
+
+Il concorso di reati
+
+
+Si ha concorso di reati quando uno stesso soggetto ha violato più volte la legge penale e, perciò, deve rispondere di più reati.
+
+Circa il trattamento sanzionatorio il nostro diritto vigente distingue, a differenza di molti altri codici, tra concorso materiale e concorso formale di reati.
+
+- Si ha concorso materiale quando il soggetto ha posto in essere più reati con più azioni o omissioni. Ad es. si ruba una pistola in un negozio d’armi e con la predetta si va a rapinare una banca; tra le due azioni vi è un legame: la prima è stata commessa per poter commettere l’altra. Può essere omogeneo se è stata violata più volte la stessa norma penale o eterogeneo se sono state violate norme diverse.
+
+- Sì ha concorso formale di reati quando il soggetto ha posto in essere più reati con una sola azione od omissione. Ad es. l’automobilista spericolato che si schianta con un’altra auto, ne uccide il pilota e ferisce gravemente il copilota. Anch’esso è omogeneo o eterogeneo a seconda che si violi la stessa norma più volte o più norme diverse.
+
+
+
+Ambedue i concorsi di reati comportano un aumento di pena.
+
+Nel concorso formale si segue quanto stabilito dall’art 81 c.p.: "è punito con la pena che dovrebbe infliggersi per la violazione più grave aumentata fino al triplo chi con una sola azione od omissione viola diverse disposizioni di legge ovvero commetta più violazioni della medesima disposizione di legge".
+
+Nel concorso materiale si fa la somma delle pene: si applicano tante pene per quanti sono i reati.
+
+
+
+
+
+13. Le teorie funzionali della pena
+
+
+
+
+La pena può essere definita come la reazione dell’ordinamento giuridico nei confronti dell’autore di un illecito penale.
+
+Quindi la pena ha un significato di punizione, di castigo, di afflizione, di sofferenza.
+
+Ma se la pena consistesse solamente in questo, andrebbe in palesemente contro i principi cardini della morale comune, della religione e, cosa più importante, della costituzione.
+
+Quindi la pena è soprattutto altro.
+
+La teoria più antica sulla funzione della pena è quella retributiva: al male commesso dal soggetto che ha posto in essere un illecito penale, si deve contrapporre un altro male ad esso proporzionato.
+
+Successivamente nascono le teorie della funzione preventiva della pena: la prevenzione generale e speciale.
+
+
+
+
+
+La prevenzione generale
+
+
+Per i seguaci della teoria della prevenzione generale, scopo della pena è impedire che vengano commessi in futuro reati: nata nell'ambito dell'ideologia illuministica, questa teoria attribuisce alla pena un andamento utilitaristico, in quanto essa costituirebbe un mezzo per distogliere i consociati dal commettere atti criminosi. In particolare, la pena viene intesa come una contro spinta rispetto al desiderio di procurarsi quel piacere che costituisce la spinta criminosa.
+
+Tale funzione preventiva è assolta sia nel momento in cui la pena viene minacciata dalla legge, come conseguenza della violazione di un determinato precetto, sia nel momento in cui essa viene concretamente applicata: se alla minaccia non seguisse anche l’applicazione contro i trasgressori, la pena perderebbe per il futuro qualsiasi efficacia intimidatrice.
+
+
+
+
+
+La prevenzione speciale
+
+
+Secondo la teoria della prevenzione speciale, la pena tende ad impedire che colui che si è reso responsabile di un reato torni a delinquere anche in futuro. Questo effetto positivo può essere conseguito in tre modi diversi, attraverso l'emenda del reo, la sua rieducazione o risocializzazione; l'intimidazione e cioè l'efficacia dissuasiva della condanna e dalla sua esecuzione; la neutralizzazione qualora si tratti di pena detentiva consistente nella segregazione del reo che gli impedisce di commettere altri reati.
+
+
+
+Nel tempo queste tre teorie si sono succedute, e ai giorni nostri non esiste una prevalenza di una teoria sull’altra.
+
+Di fatti attualmente si parla di una teoria polifunzionale della pena, dove una funzione non esclude l’altra.
+
+Nel concetto di pena ritroviamo quindi tutto quello che si è detto in precedenza.
+
+In più, alle funzioni citate, se ne aggiunge un’altra importantissima, che nasce con la nostra costituzione (art 27 terzo comma): le pene devono tendere alla rieducazione del condannato (funzione rieducativa della pena).
+
+Si evince che la rieducazione è un obbligo dello Stato
+
+
+
+
+
+14. I tipi di pena nel nostro diritto
+
+
+
+
+Le pene previste dal nostro ordinamento si distinguono in:
+
+1- Pene principali, inflitte dal giudice con sentenza di condanna (delitti e contravvenzioni)
+
+2- Pene accessorie, che conseguono di diritto alla condanna, come effetti penali di essa
+
+
+
+Poi vi sono le:
+
+3- Sanzioni del giudice di pace
+
+4- Misure alternative alla detenzione
+
+
+
+
+
+Le pene principali
+
+
+Le pene principali stabilite per i delitti sono:
+
+a- la pena di morte, oggi completamente abolita e assorbita nell’ergastolo sia per i reati previsti dal codice penale (L. 224/44) e leggi speciali diverse da quelle militari (D.Lgs. 21/48) sia per i reati previsti dal codice penale militare di guerra (L. 589/94);
+
+b- l’ergastolo, ovvero la privazione perpetua della libertà personale. Perpetuità, tuttavia, non assoluta in quanto l’ergastolano può essere ammesso alla liberazione condizionale quando abbia scontato almeno 26 anni di pena; ciò si istituì nel ‘75, a seguito di numerose polemiche dovute al fatto che l’ergastolo, in quanto tale, non permetteva il recupero del soggetto condannato.
+
+c- la reclusione, ovvero la privazione temporanea della libertà personale, per un tempo che va da 15 giorni a 24 anni (massimo che può essere elevato fino a 30 anni in caso di concorso di aggravanti o di reati), tranne per le pene previste esplicitamente dal legislatore (ad es. i reati terroristici).
+
+d- la multa, consistente nel pagamento allo Stato di una somma non inferiore a circa 5 euro né superiore a circa 5000 euro;
+
+
+
+per le contravvenzioni:
+
+a- l’arresto, che si estende da 5 giorni a 3 anni (massimo elevabile a 5 anni nel concorso di aggravanti e fino a 6 anni nel concorso di reati);
+
+b- l’ammenda, consistente nel pagamento di una somma non inferiore a circa 2 euro né superiore a circa 1000 euro.
+
+
+
+Per tutte le pene che sottopongono il soggetto a reclusione, si ha l’obbligo del lavoro e dell’isolamento notturno.
+
+L’ordinamento prevede anche la possibilità di convertire in pena detentiva le pene pecuniarie per insolvibilità del condannato. A tal proposito la L. 689/81 prevede:
+
+a- la conversione della multa e dell’ammenda, non eseguite per insolvibilità, colpevole o incolpevole, del condannato, alla pena della libertà controllata per un periodo massimo rispettivamente di un anno e di sei mesi; oppure si può pagare a rate.
+
+
+
+
+
+Sanzioni sostitutive delle pene detentive
+
+
+La più originale innovazione del nostro sistema sanzionatorio si ha con la L. 689/81 che ha introdotto le pene sostitutive. Hanno lo scopo di far evitare a chi deve scontare una pena detentiva breve (fino ad un massimo di un anno). Viene inflitta dal giudice alla fine del processo, quindi non si può sapere a priori se si potrà beneficiare della sanzione sostitutiva.
+
+Le sanzioni sostitutive sono:
+
+a- la semidetenzione, che comporta l’obbligo di trascorrere almeno 10 ore al giorno in un istituto situato nel comune di residenza del condannato o in un comune vicino e la limitazione di taluni diritti. E’ sostitutiva delle pene detentive determinabili dal giudice entro i limiti dei sei mesi;
+
+b- la libertà controllata, che comporta il divieto di allontanarsi dal comune di residenza tranne che per giustificato motivo, l’obbligo di presentarsi almeno una volta al giorno presso il locale ufficio di pubblica sicurezza, nonché la limitazione di alcuni diritti e la eventuale sottoposizione del condannato ad interventi dei centri di servizio sociale, idonei al suo reinserimento. E’ sostitutiva delle pene detentive determinabili dal giudice entro i limiti di tre mesi;
+
+c- la pena pecuniaria della multa o dell’ammenda, sostitutiva della pena detentiva rispettivamente della reclusione o dell’arresto, determinabile dal giudice entro i limiti di un mese.
+
+Presupposti della sostituzione sono:
+
+- la non inclusione dei reati tra quelli tassativamente esclusi;
+
+- la non recidività;
+
+- la non presunzione da parte del giudice che le prescrizioni non saranno adempiute da parte del condannato.
+
+
+
+
+
+Le pene accessorie
+
+
+Le pene accessorie sono misure afflittive, che comportano una limitazione di capacità, attività o funzioni, ovvero accrescono l’afflittività della stessa pena principale, e presuppongono sempre la condanna ad una pena che sia l’ergastolo, la reclusione, l’arresto, la multa o l’ammenda. Possono essere perpetue o temporanee. Ne sono caratteri normali:
+
+a- l’automaticità, poiché di regola conseguono di diritto alla condanna principale;
+
+b- l’indefettibilità, nel senso che una volta irrogate sono sempre scontate non estendendosi ad esse la sospensione condizionale della pena principale.
+
+Vediamole da vicino:
+
+- l’interdizione dai pubblici uffici: priva il condannato di ogni diritto politico; di ogni pubblico ufficio o incarico, non obbligatorio, di pubblico servizio; dei gradi e dignità accademiche, titoli e decorazioni ecc;
+
+- l’interdizione da una professione o arte: consiste nella perdita, durante l’interdizione, della capacità di esercitare una professione, arte, industria, commercio o mestiere, per cui è concesso uno speciale permesso, licenza ecc;
+
+- la sospensione dall’esercizio di una professione o arte: a differenza dell’interdizione comporta solo il divieto di esercitare una certa attività per un periodo limitato;
+
+- la interdizione legale: comporta la perdita della capacità di agire, applicandosi al condannato interdetto le norme della legge civile per l’interdizione giudiziale in ordine alla disponibilità e amministrazione dei beni e alla rappresentanza negli atti relativi;
+
+- la incapacità di contrarre con la pubblica amministrazione, importa il divieto di concludere contratti con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio;
+
+- la decadenza o la sospensione dall’esercizio della potestà dei genitori: la decadenza consegue all’ergastolo e agli altri casi determinati dalla legge; la sospensione, per un tempo pari al doppio della pena inflitta, consegue alla condanna per delitti commessi con abuso della potestà dei genitori;
+
+- la pubblicazione della sentenza penale di condanna (viene depositata nella cancelleria del tribunale, non è, come si potrebbe erroneamente capire, pubblicata nel giornale).
+
+
+
+
+
+Sanzioni emesse dal giudice di pace
+
+
+La figura del giudice di pace è nata nel 2000, ma è entrata in funzione solamente nel 2002.
+
+Il giudice di pace non è un magistrato che ha fatto il concorso, ma è un semplice cittadino che possiede determinate qualità.
+
+L’incarico proviene dal consiglio superiore della magistratura (CSM), e dura tre anni rinnovabili.
+
+È una figura creata per cercare di smaltire il lavoro dei giudici di carriera.
+
+Si occupa dei cosiddetti reati bagatellari: di solito sono reati perseguibili a querela di parte.
+
+Per questo tipo di reati non vi è l’obbligo di essere assistiti da un avvocato.
+
+I reati possono essere l’ingiuria, la diffamazione, le percosse lievi (non gravi).
+
+Il giudice di pace non può infliggere una pena detentiva, ma la pena pecuniaria e la permanenza domiciliare (consistente nello stare per due giorni a settimana presso il proprio domicilio).
+
+Il giudice di pace può infliggere infine il lavoro di pubblica utilità, il quale non può essere imposto, ma deve essere espressamente richiesto da parte del soggetto interessato.
+
+
+
+
+
+Misure alternative alla detenzione
+
+
+Una svolta verso un sistema sanzionatorio differenziato ha avuto inizio con la L. 354/75 (sull’ordinamento penitenziario – misure alternative).
+
+Le modalità di esecuzione alternativa della pena detentiva si possono avere solo quando si è già stati condannati, quando il processo si è concluso.
+
+Le misure alternative possono essere chieste dal condannato al tribunale di sorveglianza (che si occupa solamente di questa attività), al posto della pena detentiva inflittagli dal giudice.
+
+Le misure alternative introdotte sono:
+
+a- l’affidamento in prova al servizio sociale, fuori dell’istituto, per un periodo uguale a quello della pena da scontare.
+
+É la misura alternativa per eccellenza. Invece di andare in carcere si viene affidati ad un assistente sociale, rimanendo, in questo modo, dei liberi cittadini.
+
+Ma ci vogliono dei presupposti:
+
+- Il soggetto non deve essere socialmente pericoloso;
+
+- L’affidamento in prova deve essere idoneo per il suo recupero. Ciò si può fare solamente sulla base dell’osservazione di personalità effettuata.
+
+A tal proposito, il tribunale di sorveglianza si serve della relazione comportamentale che viene fatta dall’equipe penitenziaria (se naturalmente il soggetto si trova già in carcere), che descrive il comportamento tenuto in carcere, le punizioni e le ricompense ricevute, lo stato mentale, le relazioni con i detenuti e con il personale. A questa si aggiunge una relazione esterna (socio-ambientale), che viene fatta da un assistente sociale dell’U.E.P.E. (ex C.S.S.A.).
+
+Il tribunale di sorveglianza si avvale poi della visione della sentenza di condanna e del certificato penale (dove risultano le altre sentenze) e il certificato dei carichi pendenti ( i procedimenti in corso).
+
+Importanti sono anche le informazioni di polizia
+
+Sulla base di questo materiale si fa un procedimento di sorveglianza, dove si decide se concedere o meno l’affidamento in prova.
+
+Se l’affidamento viene concesso, il soggetto viene affidato ad un specifico assistente sociale. Gli assistenti sociali devono seguire e sostenere il soggetto, ma anche controllarlo: si ha così un doppio compito.
+
+Il soggetto rimane in prova al servizio sociale per tutta la durata della pena.
+
+L’assistente sociale relaziona periodicamente sull’andamento della misura alternativa al magistrato di sorveglianza, e poi stende una relazione conclusiva.
+
+Se la relazione è positiva, il tribunale dichiara estinto il reato, altrimenti si concluderà con un parere negativo.
+
+Esiste una forma particolare di affidamento in prova: quello per alcol e tossicodipendenti. In queste circostanze si vuole privilegiare la cura alla reclusione. La pena da scontare non deve essere però superiore ai quattro anni, e ci vuole una Asl che certifichi lo stato di dipendenza (il certificato deve essere attuale).
+
+Successivamente deve essere preparato un programma di cura per il soggetto, da parte di enti pubblici o enti privati accreditati; l’Asl accerterà l’idoneità del programma.
+
+Il soggetto viene quindi curato in una comunità (che è residenziale), oppure nel sert (che è ambulatoriale); nel sert la cura consiste nel prendere il metadone due volte a settimana e nel svolgere un colloquio al mese con lo psicologo.
+
+b- il regime di semilibertà (art 48 l. 354/75), corrispondente nella concessione di trascorrere parte del giorno fuori del carcere per partecipare ad attività lavorative, istruttive o comunque utili al reinserimento sociale; la parte residua del giorno, viceversa, viene trascorsa dal condannato in un istituto che, per evitare la promiscuità con i detenuti non ammessi a tale beneficio, la legge prevede che i semiliberi siano assegnati in appositi istituti o in apposite sezioni autonome di istituti ordinari. Le modalità con le quali il regime di semilibertà si svolge, sono stabiliti nel programma di trattamenti. Si tiene a precisare che la semilibertà non è una misura alternativa alla detenzione, ma una modalità di esecuzione della pena detentiva. È importante sottolineare come il semilibero conservi a tutti gli effetti giuridici, lo “status” di detenuto. Per ciò che riguarda i condannati è previsto che possano essere espiate in regime di semilibertà le pene detentive (c.d. brevi) non superiori a sei mesi. La semilibertà può essere disposta anche nei confronti dei condannati a pene c.d. lunghe, con tale aggettivo intendendosi pene detentive superiori a tre anni. I condannati a pene lunghe possono essere ammessi alla semilibertà allorché abbiano scontato almeno metà della pena o, se condannati per taluni gravi reati (ad es. omicidio), almeno i due terzi di essa. Il requisito per essere ammessi al beneficio è individuato dal legislatore nella avvenuta dimostrazione, da parte del condannato, della propria volontà di reinserimento sociale.
+
+c- la detenzione domiciliare (art 47 ter l. 354/75), consistente nell’espiazione della pena nella propria abitazione o in altro luogo di privata dimora ovvero in un luogo pubblico di cura o di assistenza. Prima di questa legge del ‘75, la detenzione domiciliare non era assolutamente prevista. Venne definitivamente posta in essere con la legge Gozzini.
+
+Il regime varia in base alla personalità del soggetto: può, a seconda dei casi, non affacciarsi alla finestra o non rispondere al telefono. Se i soggetti non hanno conviventi, godono di un permesso quotidiano di due ore per adempiere alle esigenze di prima necessità. Ad alcuni soggetti è consentito lavorare, specialmente se possedevano già un lavoro.
+
+Gli assistenti sociali dell’U.E.P.E. supervisionano il tutto.
+
+Ai sensi dell'art 47 ter, possono beneficiare della predetta misura alternativa le seguenti persone:
+
+- La donna madre di figli di età non superiore a dieci anni che convivono con lei (questa possibilità è stata estesa successivamente agli uomini);
+
+- Tutti coloro che sono in gravi condizioni di salute, tali da richiedere costanti contatti con i presidi sanitari;
+
+- I soggetti con età superiore a 60 anni e parzialmente inabili;
+
+- I soggetti tra 18 e 21 anni che devono completare la loro formazione scolastica.
+
+Nei predetti casi il limite della pena da espiare è di 4 anni.
+
+La legge 65/98 ha allargato la possibilità di concessione della detenzione domiciliare. Questo perché, in quel momento, le carceri erano colme di detenuti. Si nomina quindi deflattiva questo tipo di detenzione. In questi casi la pena massima da scontare è di due anni. I soggetti non devono essere considerati pericolosi e non ci deve essere pericolo che possano tornare a commettere reati.
+
+
+
+d- la liberazione anticipata (art 54 l. 354/75), che consiste nel ridurre la pena detentiva di 45 giorni ogni sei mesi di pena scontata, a fronte di un buon comportamento carcerario: in pratica il soggetto deve dimostrare la volontà di partecipare al trattamento del carcere. Si deve presentare domanda al magistrato di sorveglianza. È una misura premiale.
+
+
+
+e- la liberazione condizionale, che consente di fare uscire il soggetto condannato un po di tempo prima della fine della pena. Ciò può avvenire nel caso in cui il soggetto si sia ravveduto. Il soggetto può tornare in società, ma è sottoposto alla libertà controllata. Questo istituto è disciplinato all’art 176 c.p.
+
+
+
+
+
+- PROCEDURA PENALE -
+
+
+
+
+
+Introduzione
+
+
+
+
+Il processo penale è disciplinato da codice di procedura penale, riformato nel 1988 (nominato Vassalli dal legislatore che lo ha modificato).
+
+Il nostro processo si è avvicinato sempre più al modello americano, trasformandosi da un modello inquisitorio ad un modello accusatorio.
+
+Il modello inquisitorio rendeva molto più potente il giudice.
+
+Invece il modello accusatorio lascia invece molto spazio alle parti, poiché sono quest’ultime che gestiscono la prova. Il giudice rimane un semplice spettatore.
+
+
+
+
+
+Definizione
+
+
+Il processo penale è una serie di atti che vengono posti in essere dai soggetti processuali al fine di consentire al giudice di potere decidere.
+
+Il processo serve quindi ad emettere un provvedimento conclusivo.
+
+
+
+
+
+1. I soggetti processuali
+
+
+
+
+I soggetti processuali sono tutti coloro i quali hanno un interesse al processo e nel processo.
+
+Sono titolari di interessi che fanno valere attraverso il processo.
+
+I soggetti processuali si dividono in necessari ed eventuali.
+
+Sono necessari: il giudice, l’imputato (il difensore viene considerato un tutt’uno con quest’ultimo), il pubblico ministero.
+
+Se manca anche uno solo di questi soggetti, non si può porre in essere il processo.
+
+Sono eventuali: la persona offesa dal reato (la vittima); la polizia giudiziaria (collabora con il p.m. nel corso delle indagini, svolge attività processuali); la parte civile (è colui che chiede il risarcimento del danno derivante dal reato; il responsabile civile (colui che risponde del danno al posto dell’imputato: ad es. l’assicurazione); il civilmente obbligato per la pena pecuniaria (è colui che paga la pena pecuniaria al posto dell’imputato).
+
+
+
+Non bisogna confondere questi soggetti processuali con le parti processuali.
+
+Parte è chi avanza una pretesa nel processo, e dunque chi chiede al giudice di pronunciarsi su quella pretesa.
+
+Quindi tutte le parti sono soggetti, ma sono tutti i soggetti possono essere parte (ad es. il giudice o la persona offesa. Se questa persona offesa vuole avanzare una pretesa, si deve costituire parte civile).
+
+In particolare la polizia giudiziaria non è mai parte, perché non ha nessuna pretesa da avanzare al giudice.
+
+
+
+
+
+2. Il giudice
+
+
+
+
+Il giudice è un organo dello Stato fornito di potere giurisdizionale.
+
+La giurisdizione è quel potere spettante solo e soltanto al giudice, e consiste nel prendere decisioni in posizione di terzietà: il giudice è al di sopra delle parti, è estraneo a loro.
+
+
+
+
+
+Giudici monocratici e collegiali
+
+
+Il giudice è monocratico quando lavora singolarmente: ad es. il giudice di pace, il gip.
+
+Il giudice è collegiale quando lavora con più persone: ad es. il tribunale si compone di tre giudici; un presidente e due giudici a latere.
+
+
+
+
+
+Giudici togati e laici
+
+
+I giudici togati sono quelli di carriera, quelli che per entrare in magistratura hanno fatto il concorso.
+
+I giudici laici sono quelli che sono investiti della funzione di giudice, ma i temporaneamente. Non hanno fatto il concorso in magistratura: es il giudice di pace (che è un giudice onorario); giudice laico è anche il giudice popolare, presente nella corte di Assise.
+
+
+
+
+
+3. Tipi di Giudici
+
+
+
+
+Nell’ordinamento italiano esistono tre gradi di giudizio
+
+
+
+
+
+Giudici di primo grado
+
+
+- Il giudice per le indagini preliminari (G.I.P.). È un organo monocratico. Esercita i suoi compiti solo limitatamente alla fase delle indagini del processo. Interviene nel caso in cui ci siano da fare delle decisioni.
+
+- Il giudice dell’udienza preliminare (G.U.P.). È un organo monocratico. L’udienza preliminare è la prima vera fase del processo
+
+- Giudice del dibattimento. Può essere monocratico o collegiale a seconda dei reati presi in esame. Il dibattimento è la fase centrale del processo preliminare.
+
+I giudici del dibattimento si dividono in quelli del tribunale (3 giudici togati) e quelli della corte di assise (2 giudici togati e 6 giudici popolari).
+
+
+
+
+
+Giudici di secondo grado
+
+
+- Corte di appello (3 giudici togati)
+
+- Corte di assise di appello (2 giudici togati e 6 giudici popolari)
+
+
+
+
+
+Giudici di terzo grado
+
+
+- La corte di Cassazione. Si divide in 7 sezioni. Ogni sezione è composta da 5 giudici togati
+
+
+
+
+
+4. Caratteristiche del giudice
+
+
+
+
+Il giudice non soggiace al potere esecutivo. È soggetto solamente alla legge ( principio di indipendenza: art 101 costituzione secondo comma).
+
+Deve essere assolutamente estraneo agli interessi delle parti (principio di imparzialità: art 111 costituzione).
+
+Altro principio importante è citato nell’art 25 della costituzione: il giudice è naturale e precostituito per legge. Ciò sta a significare che quando un soggetto ha commesso reato, saprà già chi lo andrà a giudicare. Il giudice naturale è quello competente per quel reato.
+
+
+
+
+
+L’ambito di autorità del giudice
+
+
+L’enorme giurisdizione viene divisa in tante parti, che corrispondono all’autorità di ogni singolo giudice.
+
+Le competenze più importanti sono la competenza per materia e la competenza per territorio.
+
+
+
+
+
+Competenza per materia
+
+
+Si basa su un criterio qualitativo (a seconda della gravità del reato), e un criterio quantitativo (a seconda della quantità di pena prevista per il reato).
+
+La corte di Assise dei reati più gravi, per i quali è prevista una pena superiore ai 24 anni.
+
+Il giudice di pace si occupa di reati meno gravi. Nello specifico, i reati di sua competenza sono stati individuati uno per uno.
+
+La competenza del tribunale viene definita con criterio residuale: sono di competenza del tribunale monocratico i reati punibili con pena fino a 10 anni. Per i reati con pena dai 10 ai 24 anni è previsto il tribunale collegiale.
+
+Il tribunale per i minori è un organo specializzato, per i soggetti dai 14 ai 18 anni; si compone di 3 giudici togati e 2 onorari (devono essere per legge, un uomo e una donna, e devono avere particolari qualità: criminologi, assistenti sociali, psicologi...).
+
+
+
+
+
+Competenza territoriale
+
+
+La competenza individuale si individua sulla base del luogo di consumazione del reato.
+
+Una eccezione è costituita dal reato di omicidio; in base all’art 8 c.p.p. è competente il giudice del luogo in cui è avvenuta l’azione o l’omissione (non ha importanza dove muoia la vittima).
+
+
+
+
+
+Eventualità in cui il giudice conosce l’imputato
+
+
+Se il giudice conosce l’imputato, per tutelare l’imparzialità, esistono 3 rimedi:
+
+1- L’astensione: il giudice si astiene dal fare il processo;
+
+2- La ricusazione: sono le parti che non vogliono il giudice;
+
+3- La rimessione: è una situazione che si determina quando il sospetto sulla mancanza di imparzialità non riguarda una singola persona, ma tutto l’organo giudicante. La rimessione è posta in essere dall’art 45 c.p.p., dove esiste la causa generica di legittimo sospetto (ad es. una antipatia nei confronti dell’imputato).
+
+In questo caso, se il sospetto risulta fondato, si avrà uno spostamento territoriale del processo. Esistono in proposito delle tabelle predisposte: il cosiddetto criterio tabellare, sempre per il principio della precostituzione del giudice.
+
+
+
+
+
+5. Il Pubblico Ministero
+
+
+
+
+È un organo dello Stato. È un magistrato poiché ha fatto il concorso in magistratura, ma non ha potere giurisdizionale.
+
+Ha poteri diversi rispetto al giudice (anche se i due ruoli sono intercambiabili).
+
+Il P.M. è il soggetto più presente nel corso di tutto il processo; infatti le sue funzioni iniziano nel momento in cui inizia il processo.
+
+Svolge le indagini per acquisire tutti gli elementi di prova necessari.
+
+Un compito più importante è quello che esplica a conclusione delle indagini: è lui infatti quello che decide se il processo si deve fare o meno; in proposito può chiedere al giudice di archiviare il caso (non si porrà in essere alcun processo) o il rinvio a giudizio del predetto. In tal caso si avrà l’inizio del processo penale.
+
+La richiesta del rinvio a giudizio rappresenta il cosiddetto esercizio dell’azione penale, la cui titolarità spetta solo e soltanto al P.M. (art 112 costituzione).
+
+Dopo l’avvio del processo, il P.M. diventa parte del predetto, precisamente la parte pubblica, poiché tutela gli interessi dello Stato; la parte privata è invece l’imputato.
+
+Una volta finito il processo, con sentenza irrevocabile, il P.M. è organo dell’esecuzione, in quanto è lui che deve dare esecuzione alla sentenza (ordine di esecuzione).
+
+
+
+
+
+Le Procure
+
+
+Gli uffici del P.M. sono le procure (il procuratore è un P.M.).
+
+Si hanno diverse procure:
+
+1- La procura della Repubblica, che ha sede nei tribunali. A capo vi è il procuratore, aiutato dai sostituti procuratori.
+
+2- La procura generale, che ha sede presso la corte di cassazione. Ha sede solo a Roma, così come la corte di cassazione. A capo vi è il procuratore generale, aiutato dai sostituti procuratori generali.
+
+
+
+Agli inizi degli anni ’90, furono create delle nuove procure, con lo scopo di occuparsi soltanto di reati di mafia.
+
+Sono due:
+
+1- La procura distrettuale antimafia (ce n’è una per ogni distretto di corte di appello). Ha quindi un ambito operativo molto vasto: l’intera corte di appello.
+
+2- La procura nazionale antimafia, che ha sede a Roma. È nata con Giovanni Falcone, e di solito non svolge funzione di indagine, ma di coordinamento delle indagini distrettuali.
+
+
+
+
+
+6. La polizia giudiziaria
+
+
+
+
+La polizia giudiziaria collabora con il pubblico ministero durante le indagini.
+
+La polizia giudiziaria non è un corpo, i membri fanno parte di altri corpi dello Stato.
+
+Appartengono alla polizia giudiziaria nel momento in cui svolgono determinate attività (è quindi l’attività che si svolge in quel momento che fa diventare membro della polizia giudiziaria).
+
+Ad es., se Tizio fa il carabiniere e viene a conoscenza di un reato, a partire da quel momento tutte le attività che compie per quel reato sono funzioni di polizia giudiziaria (art 55 c.p.p.).
+
+Nella polizia giudiziaria è importante la distinzione tra ufficiali ed agenti, poiché esistono alcune attività che possono essere svolte solamente dagli ufficiali, e viceversa.
+
+La polizia giudiziaria deve:
+
+- anche di propria iniziativa, prendere notizia dei reati;
+
+- impedire che i reati vengano portati a conseguenze ulteriori;
+
+- ricercarne gli autori;
+
+- compiere gli atti necessari per assicurare le fonti di prove, ad es.: ascoltare le persone che hanno assistito al reato; pedinare una persona sospetta.
+
+
+
+
+
+Servizi di polizia giudiziaria
+
+
+Vi appartengono tutti quei agenti che svolgono attività di P.G. in maniera continuativa ma non esclusiva.
+
+
+
+
+
+Sezioni di polizia giudiziaria
+
+
+Sono istituite presso le procure della repubblica.
+
+Sono presenti ufficiali ed agenti dei vari corpi dello Stato.
+
+Svolgono attività di P.G. in maniera continuativa ed esclusiva
+
+Il P.M. è un superiore dal punto di vista funzionale, ma non gerarchico (art 109 costituzione).
+
+
+
+
+
+Altri uffici di polizia giudiziaria
+
+
+Qualunque posto che svolge le funzioni sul territorio; in caso di reato svolgerà le funzioni di P.G.
+
+
+
+
+
+7. L’imputato
+
+
+
+
+È il soggetto nei confronti del quale il P.M. esercita l’azione penale.
+
+Infatti, a conclusione delle indagini preliminari, il P.M. può chiedere al G.I.P. il rinvio a giudizio attribuendo al soggetto, che fino a quel momento era indagato, un fatto di reato.
+
+L’attribuzione del fatto di reato all’indagato, costituisce l’imputazione. E da qui l’assunzione della qualità di imputato.
+
+Imputato può essere qualunque persona fisica, non giuridica. Al massimo l’ente giuridico risponde al reato attraverso una pena pecuniaria.
+
+Poi ci sono i soggetti immuni, che non possono essere imputati, almeno fino a quando dura l’immunità (vedere la sbobinatura di diritto penale per maggiori informazioni).
+
+L’art 61 c.p.p. prevede espressamente che tutti i diritti e le garanzie dell’imputato, vengano riconosciute anche all’indagato.
+
+
+
+
+
+I soggetti legittimati a stare nel processo
+
+
+Nel processo può compiere atti solo chi è capace di intendere e di volere (dal punto di vista processuale si richiede una capacità generica, non legata al momento del reato).
+
+La dove, nel corso del processo, dovesse sorgere il dubbio sulla capacità di intendere e di volere dell’imputato,il giudice ha l’obbligo di disporre perizia, nominando un perito (psichiatra o psicologo).
+
+Se nella perizia si stabilisce l’incapacità del soggetto, il processo non si può fare, perché il soggetto deve capire quello che gli sta accadendo.
+
+Il processo viene sospeso per sei mesi; trascorso questo periodo si dispone un’altra perizia; il processo può quindi riprendere o essere sospeso per altri sei mesi.
+
+Nel periodo di sospensione, se il soggetto è considerato pericoloso, si dispongono le misure di sicurezza.
+
+Si può prosciogliere il processo se si riscontra l’assoluta irreversibilità dello stato di incapacità del soggetto, il quale andrà a finire in un ospedale psichiatrico.
+
+
+
+
+
+8. Il difensore
+
+
+
+
+Il diritto di difesa è garantito dall’art 24 della costituzione. Nel processo penale è un diritto irrinunciabile. Questo perché anche l’imputato deve essere garantito e tutelato.
+
+Anche nel caso in cui l’imputato fosse un avvocato o un magistrato, ha ugualmente l’obbligo di avere un difensore, perché nel caso in cui si difendesse da solo potrebbe essere, data la situazione, turbato e poco obiettivo.
+
+Il legale non è invece obbligatorio nei processi sotto la giurisdizione del giudice di pace.
+
+Nel nostro ordinamento ritroviamo 3 tipi di difensori (difesa tecnica):
+
+1- Difensore di fiducia: quello scelto dall’imputato;
+
+2- Difensore d’ufficio: è nominato dal giudice quando giunge a conoscenza che l’imputato non ha nominato nessun legale in sua difesa. Il nominativo è scelto da un elenco giornaliero che è posto in essere dalla sezione dell’albo forense che opera in quel tribunale. Gli avvocati non possono rifiutare la nomina del giudice. Si faccia attenzione sul fatto che la disponibilità è soltanto giornaliera, non per tutto il processo. Quindi se l’imputato continuerà a non scegliere un difensore di fiducia, si vedrà cambiare il difensore un’udienza dopo l’altra.
+
+3- Difensore dei soggetti non abbienti: chi non ha le possibilità economiche per nominare un avvocato, può chiedere il patrocinio a spese dello Stato.
+
+L’imputato è libero nello scegliere il suo difensore di fiducia, il quale presenterà una pratica per il gratuito patrocinio. Non può esercitare attività di gratuito patrocinio l’avvocato con meno di 5 anni di attività.
+
+Poi esiste la cosiddetta autodifesa, la quale non può però essere esclusiva.
+
+Deve sempre essere complementare all’attività del difensore.
+
+L’autodifesa si concretizza nell’interrogatorio dell’imputato: è il momento in cui l’imputato ha la possibilità di parlare. È bene ricordare che l’imputato è l’unico soggetto che non è obbligato a dire la verità.
+
+
+
+
+
+9. Persona Offesa - Parte Civile
+
+
+
+
+La persona offesa è il titolare dell’interesse leso. È la persona che subisce il reato. È solo un soggetto processuale, non è parte del processo. Può diventarlo solo se si costituisce parte civile, cioè se chiede al giudice il risarcimento del danno materiale e morale derivante dal reato.
+
+La costituzione come parte civile che il giudice penale, a conclusione del processo, debba decidere oltre che alla responsabilità dell’imputato, anche l’entità del risarcimento (in caso di condanna del predetto).
+
+La costituzione come parte civile nel processo penale è tuttavia facoltativa. Pertanto il soggetto danneggiato può optare di chiedere il risarcimento del danno al giudice civile, e in tal caso si avranno due processi, con sentenze che potranno anche essere diverse tra loro.
+
+
+
+
+
+10. Responsabile Civile
+
+
+
+
+È la persona che risponde del danno causato dall’imputato.
+
+Se non c’è parte civile non ci può essere responsabile civile.
+
+La figura del responsabile civile è prevista per legge: ad es. l’assicurazione nei confronti dell’assicurato, il genitore nei confronti dei figli.
+
+Il responsabile civile paga il danno al posto dell’imputato.
+
+Il responsabile civile entra nel processo perché citato dal giudice sotto richiesta della parte civile o perché interviene volontariamente (ad es. un padre che vuole rispondere nei confronti del figlio).
+
+
+
+
+
+11. Le prove nel processo penale
+
+
+
+
+Sono quei strumenti che consentono al giudice di decidere.
+
+Queste sono le più famose:
+
+- La testimonianza: dichiarazione fatta da una persona che ha visto cosa è successo. È obbligatoria nel momento in cui si è citati in giudizio da parte del giudice.
+
+- La perizia: può essere di vario tipo.
+
+- La ricognizione: riconoscimento di una persona o di una cosa.
+
+- L’esperimento giudiziale: si ricostruisce il fatto
+
+- Tutti i documenti.
+
+
+
+
+
+Mezzi di ricerca della prova
+
+
+Sono gli strumenti attraverso i quali si arriva ad una prova:
+
+- Le ispezioni, che si fanno sul luogo del reato;
+
+- La perquisizione, che serve a cercare il corpo del reato e cose attinenti al reato.
+
+- L’intercettazione telefonica; è l’unico mezzo che richiede l’autorizzazione del giudice, perché vige l’art 115 della costituzione sulla riservatezza.
+
+Gli altri mezzi sono disposti direttamente dal P.M.
+
+
+
+
+
+Storia giuridica della prova
+
+
+Nel codice del 1930 la prova era di competenza esclusiva del P.M. e del giudice. Le altre parti erano semplici spettatrici.
+
+Oggi non è più così: il diritto alla prova spetta alle parti, private (l’imputato, il suo difensore...) e pubbliche (P.M.), che devono portare le predette al giudice.
+
+Adesso il giudice non sa in pratica nulla delle prove, le va conoscendo pian piano.
+
+
+
+
+
+Casi in cui il diritto alla prova è di competenza del giudice
+
+
+Adesso il diritto alla prova è esclusivamente delle parti, eccezion fatta per alcuni casi tassativamente indicati dalla legge:
+
+- Art 507 c.p.p.: fase conclusiva del dibattimento. A conclusione del dibattimento, se il giudice non può assolutamente decidere sulla base delle prove portate dalle parti, potrà assumerne lui personalmente (potere residuale del giudice rispetto alla prova)..
+
+
+
+
+
+L’ammissione delle prove
+
+
+Il giudice ha un potere importante riguardo l’ammissione delle prove.
+
+Compito del giudice è quello di decidere quale prove possono essere ammesse.
+
+Il giudice decide tenendo conto dei criteri di ammissione indicati dal codice:
+
+la prova deve essere pertinente, ossia deve riguardare il fatto del reato;
+
+la prova deve essere legittima: non deve essere contro la legge (ad es. l’utilizzo della macchina della verità o dell’ipnosi);
+
+la prova non deve essere superflua: non può dimostrare una cosa che è già chiara.
+
+La prova non deve essere irrilevante: è irrilevante nel caso in cui non sia in grado di dare una dimostrazione ne piena ne parziale del fatto.
+
+
+
+
+
+I criteri di valutazione della prova
+
+
+Ai sensi dell’art 192 c.p.p., nel processo penale vige il principio del libero convincimento, che si contrappone alla prova legale prevista nel processo civile.
+
+Il giudice è libero di valutare ogni prova come meglio crede.
+
+Si è limitato questo potere del giudice penale imponendo l’obbligo della motivazione della sentenza.
+
+Infatti il giudice deve dire di quale prova si è servito e perché.
+
+Quindi la motivazione costituisce il freno all’arbitrio.
+
+La motivazione consente inoltre ai destinatari della sentenza di potere esprimere il perché del loro disaccordo con ciò che dice il giudice, al fine di impugnare la sentenza e fare appello.
+
+La motivazione è dunque doppiamente importante.
+
+
+
+La legge impone inoltre all’art 192 dei limiti:
+
+- Il giudice non può condannare o assolvere per mezzo di un indizio, a meno che questi indizi non siano gravi, precisi e concordanti: devono essere ossia numerosi e devono portare tutti allo stesso risultato.
+
+Si avrà in questo caso un processo indiziario.
+
+Si ricorda che gli indizi sono delle situazioni alle quali non si può dare un valore di prova, ma sono delle situazioni che per deduzione logica ci consentono di pervenire a dei risultati. L’indizio è molto meno della prova.
+
+- Le dichiarazioni dei pentiti (collaboratori di giustizia), sono valutate dal giudice unitamente agli altri elementi di prova che ne confermano l’attendibilità
+
+Ciò per impedire l’ipertrofia dei cosiddetti pentiti per comodità.
+
+
+
+
+
+12. Le misure cautelari
+
+
+
+
+Consistono in limitazioni della libertà della persona e/o della libera disponibilità patrimoniale.
+
+Esse trovano legittimazione nell’art. 13 della costituzione, il quale dopo avere detto che la libertà personale è inviolabile, dice che sono consentite delle limitazioni solo nei casi espressamente previsti dalla legge e solo con provvedimento del giudice (vi è quindi sia riserva di legge che di giurisdizione).
+
+Nei casi di eccezionalità e di urgenza la polizia può limitare la libertà personale, ma entro 48 ore deve darne comunicazione al P.M. il quale, a sua volta, entro le 48 ore successive, deve chiedere la convalida al giudice (questo potrebbe essere il caso dell’arresto in flagranza di reato); l’arresto e il fermo non possono quindi superare al massimo le 96 ore.
+
+
+
+Le misure cautelari si distinguono in due grandi categorie:
+
+
+
+
+
+Le misure cautelari personali
+
+
+Limitano la libertà delle persone; possono essere coercitive ed interdittive.
+
+Coercitivo è il divieto di espatrio;l’obbligo di presentarsi alla polizia giudiziaria (la firma); l’allontanamento dalla casa familiare (di solito si applica questa misura a chi abusa sessualmente dei familiari); il divieto o l’obbligo di dimora; gli arresti domiciliari; la custodia cautelare in carcere.
+
+Interdittive sono: la sospensione della potestà genitoriale; la sospensione dall’esercizio di un pubblico ufficio; il divieto temporaneo di esercitare determinate attività professionali o imprenditoriali (tuttavia non può essere sospeso dal servizio pubblico chi ricopre una carica elettiva, come quella del sindaco: questo perché è stato il popolo ad investirlo del potere).
+
+
+
+
+
+Condizioni di applicabilità delle misure cautelari personali
+
+
+Condizione primaria sono i gravi indizi (intesi in questo caso come qualunque elemento probatorio) di colpevolezza.
+
+Poi occorre che si affianchi alla predetta condizione almeno una delle cosiddette esigenze cautelari (art 264 c.p.p.):
+
+- pericolo di fuga;
+
+- pericolo di inquinamento delle prove;
+
+- pericolo di commissione di altri reati dello stesso tipo.
+
+
+
+
+
+Le misure cautelari reali
+
+
+Limitano il patrimonio; sono due:
+
+- il sequestro conservativo: si sequestra un qualcosa ai fini di conservare l’oggetto (beni mobili e immobili dell’imputato). Si mettono sotto sequestro al fine di garantire il pagamento delle spese processuali e del risarcimento del danno.
+
+- il sequestro preventivo: previene la commissione di altri reati. Oggetto di questo sequestro è unicamente il corpo del reato.
+
+
+
+
+
+Disposizione della misura cautelare
+
+
+L’esigenza nasce, di solito, nel corso delle indagini.
+
+Colui che si rende conto della necessità della misura cautelare è il P.M., che la chiede al giudice.
+
+Il giudice stabilisce la misura da applicare, ma non può applicarne una più restrittiva di quella richiesta dal P.M.
+
+I criteri in base ai quali si dispongono le misure cautelari sono previsti dal nostro codice, e sono i seguenti:
+
+1- il criterio di proporzionalità: la misura cautelare deve essere proporzionata alla gravità del fatto;
+
+2- il criterio di adeguatezza: la misura deve essere adeguata all’esigenza che si intende perseguire;
+
+3- il criterio di gradualità: si deve applicare la misura cautelare meno gravosa idonea all’esigenza che si vuole perseguire:
+
+In presenza di reati di associazione mafiosa, la custodia cautelare in carcere è l’unica applicabile (sempre in concomitanza di esigenze cautelari e di gravi indizi).
+
+Invece in caso di donna incinta o con figli con meno di tre anni e per i malati terminali di Aids la custodia cautelare in carcere non è applicabile.
+
+Nel momento in cui il giudice dispone la misura cautelare, deve stabilirne anche la durata: scaduto il termine ultimo, la misura viene meno.
+
+Le misure cautelari vengono meno con la sentenza definitiva; nell’eventualità in cui l’imputato risultasse essere innocente, può chiedere la cosiddetta riparazione per l’ingiusta detenzione se è stato sottoposto a custodia cautelare (si da un risarcimento pecuniario: il massimo corrisponde ad un miliardo del vecchio conio).
+
+
+
+
+
+L’impugnazione dell’ordinanza
+
+
+L’ordinanza di misura cautelare può essere impugnata sia dal P.M. che dall’indagato.
+
+Se ne può chiedere il:
+
+- riesame (può essere chiesto entro 10 giorni dall’ordinanza): può essere chiesto solo dall’imputato contro le misure coercitive. Competente è il tribunale delle libertà, che decide entro 10 giorni. Se il tribunale non risponde entro il termine, la misura cautelare decade;
+
+- l’appello (può essere chiesto entro dieci giorni dall’ordinanza): è chiesto dall’imputato per tutte le altre misure non previste nel riesame; dal P.M. in tutti i casi. Competente è sempre il tribunale delle libertà che, questa volta, decide entro 20 giorni: Se il tribunale non decide entro questo termine, la misura cautelare non decade;
+
+- ricorso per cassazione (può essere chiesto entro dieci giorni a seguito di riesame o di appello, o anche per saltum): competente è la corte di cassazione, che decide solo sulla legittimità. La decisione va presa entro 30 giorni dal ricorso. Non si ha decadenza.
+
+
+
+
+
+13. Lo svolgimento del processo penale
+
+
+
+
+
+Generalità
+
+
+La prima fase pre-processuale è quella delle indagini preliminari.
+
+A conclusione delle indagini il P.M. deciderà che strada seguire: se gli elementi sono carenti farà richiesta di archiviazione, invece se gli elementi raccolti sono sufficienti, chiederà al G.I.P. il rinvio a giudizio.
+
+A partire da questo momento abbiamo il vero e proprio processo penale.
+
+La prima fase di processo vera e propria è l’udienza preliminare, che serve a verificare la fondatezza delle richieste del P.M. competente è il G.U.P., che può emettere una sentenza di non luogo a procedere (e quindi il processo finisce), altrimenti il decreto che dispone in giudizio. Quindi il G.U.P. non condanna, ma emette delle sentenze nei confronti delle richieste del P.M.
+
+Il G.U.P avvia la fase centrale del processo, che è il dibattimento: tutte le prove portate dalle parti vengono assunte davanti al giudice.
+
+A conclusione della fase dibattimentale si hanno le sentenze di merito, che possono essere di condanna o di proscioglimento.
+
+Con la sentenza dibattimentale si chiude il giudizio di primo grado.
+
+Ma nella gran parte dei casi si fa domanda di appello; l’appello e per l’appunto il secondo grado di giudizio.
+
+Il giudice di appello concluderà con una sentenza che confermerà o modificherà la sentenza di primo grado.
+
+Si fare infine ricorso in cassazione, che è il terzo grado del giudizio. Il giudizio di cassazione è caratterizzato dal fatto che è solo un giudizio di legittimità.
+
+Le sentenze più importanti della cassazione sono le sentenze di annullamento.
+
+Si può, in certi casi, fare un nuovo ricorso in cassazione.
+
+
+
+
+
+Le indagini preliminari
+
+
+Questa fase serve all’acquisizione di tutti quei elementi di prova che serviranno al P.M. per decidere se esercitare o meno l’azione penale.
+
+Titolare delle indagini è il P.M., che nel svolgerle si fa aiutare dalla polizia giudiziaria.
+
+Per il fatto che le indagini siano in mano al P.M. (il quale non è un organo giurisdizionale), non hanno carattere giurisdizionale, ma extragiurisdizionale.
+
+Esistono situazioni nelle quali il P.M. ha bisogno dell’intervento del giudice, come ad es. le misure cautelari. In questo caso si rivolge al G.I.P. (che effettivamente svolge un ruolo marginale, intervenendo occasionalmente).
+
+In ogni caso l’intervento del G.I.P. è necessario a conclusione delle indagini, poiché è a quest’ultimo che il P.M. avanza le sue richieste conclusive.
+
+
+
+
+
+Modalità dell’avvio delle indagini preliminari
+
+
+Per poter avviare le indagini preliminari, è necessaria la notizia di reato, che è ogni fatto che nei suoi elementi essenziali può essere ricondotto ad una fattispecie previste dal codice penale.
+
+La notizia di reato viene acquisita dai seguenti organi: il P.M. e la polizia giudiziaria.
+
+Questi organi possono acquisire le notizie di reato autonomamente o per mezzo di un’acquisizione derivata (c’è qualcun'altro che porta a conoscenza del P.M. o della P.G. una notizia di reato).
+
+Prima di andare avanti è utile una piccola digressione:
+
+
+
+
+
+Reati perseguibili d’ufficio
+
+
+Nel momento in cui il P.M. abbia notizia del fatto, può esercitare l’azione penale, può dare avvio al processo.
+
+Ciò perché il nostro processo serve a tutelare la nostra collettività, e quindi ha una funzione pubblica; non si può condizionare l’inizio del processo alla decisione di un privato.
+
+
+
+
+
+Reati perseguibili ad iniziativa di parte
+
+
+Anche nel caso in cui il P.M. ha conoscenza di un fatto di reato, non può procedere fino a quando non c’è la manifestazione di volontà del soggetto interessato.
+
+Il caso tipico è la querela (ingiuria, diffamazione).
+
+Il perché di questa distinzione si individua nella prevalenza dell’interesse tutelato.
+
+Quando l’interesse tutelato ha una natura prevalentemente pubblica (ad es. l’omicidio), il reato sarà perseguito d’ufficio.
+
+Al contrario, il reato è perseguibile ad iniziativa di parte quando prevale l’interesse privato. (ad es. la diffamazione).
+
+Il reato di violenza sessuale è perseguibile a querela di parte: ciò è molto criticato, ma in questo caso prevale il diritto alla riservatezza; un eventuale processo per violenza è devastante dal punto di vista psicologico). In generale la querela si può sempre ritirare, tranne quella per violenza sessuale.
+
+
+
+
+
+Le notizie di reato relative ai reati perseguibili d’ufficio
+
+
+- La denuncia è quella dichiarazione che viene fatta da un qualunque cittadino (anche la vittima) che è a conoscenza perseguibile d’ufficio. La denuncia è facoltativa, non vi è nessun obbligo.
+
+Vi è l’obbligo solo nel caso di pubblici ufficiali o di coloro che esercitano un pubblico servizio (ad es. l’impiegato postale) se vengono a conoscenza, durante le loro funzioni, di un reato perseguibile d’ufficio.
+
+- Il referto è quell’atto posto in essere da chi esercita una funzione sanitaria, quando nell’esercizio delle sue attività viene a conoscenza di un fatto di reato. Il referto è obbligatorio, infatti negli ospedali c’è il posto di polizia.
+
+L’obbligo viene meno in caso di sanitari, che non lavorano nel settore pubblico, che prestano cure al possibile autore del reato; in questo caso prevale il diritto alla salute previsto all’art 32 della costituzione: se così non fosse nessun autore si farebbe curare.
+
+
+
+
+
+Le notizie di reato relative ai reati perseguibili ad iniziativa di parte
+
+
+Sono la querela, l’istanza, la richiesta, l’autorizzazione a procedere. Si chiamano condizioni di procedibilità, perché in assenza delle predette il P.M. non può esercitare l’azione penale.
+
+Analizziamo la querela.
+
+La querela è quell’atto mediante il quale la vittima del reato manifesta la sua volontà che venga processato l’autore.
+
+La querela è facoltativa. Va presentata entro 3 mesi dal momento in cui è stato commesso il fatto, o dal momento in cui la vittima ne ha avuto conoscenza; scaduti i 3 mesi la querela non si può più presentare.
+
+Il soggetto che ha presentato querela può rinunciare alla stessa, quando entro i 3 mesi dalla presentazione di quest’ultima dimostra espressamente o tacitamente di non volere perseguire il colpevole.
+
+Diversa dalla rinuncia è la remissione della querela: chi ha presentato la querela successivamente la ritira; affinché la querela possa essere rimessa, è necessario il consenso della persona querelata.
+
+
+
+
+
+14. Iter delle indagini preliminari
+
+
+
+
+Quando la notizia di reato perviene al P.M., questi ha l’obbligo di iscriverla nel registro delle notizie di reato (art 335 c.p.p.), indicando il fatto e, quando si conosce, l’autore del fatto.
+
+A partire dalla data di iscrizione, decorrono i termini per le indagini, che per i reati comuni sono di 6 mesi, prorogabili due volte (quindi si potrà avere un massimo di 18 mesi).
+
+Per i reati di maggior allarme sociale (art 407 c.p.p.), i termini sono di un anno, con due possibilità di proroga di 6 mesi ciascuna (quindi si potrà avere un massimo di 2 anni).
+
+La proroga viene chiesta dal P.M. al G.I.P.
+
+Le attività vengono svolte sia dal P.M. che dalla polizia giudiziaria; di solito il P.M. dirige le indagini, delegando la polizia giudiziaria del compimento degli atti; la delega può essere generica o specifica: ossia si può delegare tutto il caso o solo una parte di esse.
+
+
+
+
+
+L’attività della polizia giudiziaria
+
+
+La polizia giudiziaria gode di un’attività autonoma, prevista al titolo quarto del c.p.p.
+
+L’autonomia è però riferita solo e soltanto a quelle che sono le sue funzioni, previste dall’art 55 c.p.p.
+
+Gli strumenti per esercitare questa attività autonoma sono espressamente indicati dal c.p.p. a partire dall’art 349: identificazione della persona nei cui confronti vengono svolte le indagini e di altre persone.
+
+L’art 350 tratta sulle “sommarie informazioni dalla persona nei cui confronti vengono svolte le indagini (il cosiddetto quasi interrogatorio).
+
+La polizia giudiziaria può interrogare l’indagato solo in presenza di due presupposti.
+
+1- l’indagato deve essere libera nella persona: se è arrestata o fermata ci vuole per forza il P.M.
+
+2- all’interrogatorio deve essere obbligatoriamente presente il difensore
+
+Tuttavia sono previste altre modalità di audizione; infatti, sempre l’art 350 dice che sul luogo, o nell’immediatezza del fatto, la polizia giudiziaria può assumere informazioni dall’indagato anche in assenza del difensore. Ma queste informazioni non possono essere verbalizzate, serviranno solamente per indirizzare le indagini.
+
+Esiste un’altra modalità di raccolta delle informazioni: le dichiarazioni spontanee, fatte dall’indagato senza che gli sia stato richiesto; le dichiarazioni spontanee non obbligano alla presenza del difensore, e possono essere verbalizzate ed utilizzate.
+
+L’art 351 prevede la facoltà di assumere altre sommarie informazioni da parte delle persone informate sui fatti, che nell’eventuale processo diverranno con probabilità i testimoni.
+
+L’art 352 da alla P.G. la possibilità di effettuare perquisizioni. Di solito è necessario il consenso del P.M., tranne nel caso di arresto in flagranza di reato, l’arresto in caso di evasione e tutti i casi in cui la P.G. deve eseguire un ordine di carcerazione.
+
+Nel caso di perquisizione autonoma la P.G., entro 48 ore deve darne comunicazione al P.M, che nelle 48 ore deve convalidarla. Se non convalida, quella perquisizione non può essere utilizzata.
+
+La P.G, ai sensi dell’art 354, può fare accertamenti urgenti sui luoghi, sulle cose e sulle persone e in casi di urgenza sequestrare il corpo del reato. Anche in questi casi è necessaria la successiva convalida da parte del P.M.
+
+
+
+
+
+L’attività del P.M.
+
+
+È praticamente infinita. Può interrogare l’indagato, assumere informazioni, disporre una consulenza tecnica per fare un accertamento, disporre il fermo di una persona ed il sequestro del corpo del reato.
+
+Tutte le predette attività servono per poter acquisire gli elementi di prova, che serviranno al P.M. per fare le sue scelte, a conclusione delle indagini.
+
+Alcune attività di indagine sono caratterizzate dalla loro irripetibilità, come potrebbe essere una perquisizione o una intercettazione telefonica.
+
+In questi casi i verbali di queste attività irripetibili potranno essere utilizzate in dibattimento.
+
+
+
+
+
+L’attività del difensore
+
+
+A partire dal 2000, anche al difensore è stata riconosciuta la possibilità di svolgere le cosiddette indagini difensive (o investigazioni difensive). Ciò è regolamentato dal titolo VI bis del libro quinto del c.p.p.
+
+I grossi studi legali hanno di fatti l’investigatore privato.
+
+
+
+
+
+L’incidente probatorio
+
+
+L’attività delle indagini servono esclusivamente per la fase pre-processuale, ma può accadere che ci sia l’urgenza di acquisire una prova, dovuta al fatto che se non si acquisisce subito, si perde. Un esempio è la testimonianza di una persona malata di cancro, che difficilmente arriverà al processo.
+
+Per evitare questa dispersione di prova, è stato introdotto un istituto che si chiama incidente probatorio, il quale consente di assumere la prova immediatamente, durante il corso delle indagini.
+
+Le prove che si possono assumere sono indicate all’art 392.
+
+L’incidente probatorio si attiva su richiesta del P.M. o dell’indagato.
+
+La richiesta viene rivolta al G.I.P., il quale dopo aver valutato la situazione deciderà se acconsentire all’assunzione della prova anticipatamente al dibattimento.
+
+Se viene disposto l’incidente probatorio, la parti verranno avvisate della data dell’udienza camerale (senza pubblico) durante la quale, alla presenza del G.I.P., verrà assunta la prova.
+
+Le modalità di assunzione sono quelle del dibattimento, e quindi si fa l’esame incrociato: sono le parti che rivolgono le domande al testimone.
+
+
+
+
+
+15. La chiusura delle indagini
+
+
+Il P.M. deve scegliere se chiedere l’archiviazione o il rinvio a giudizio al G.I.P.
+
+Si ha l’archiviazione quando:
+
+1- La notizia di reato è infondata (art 408 c.p.p.): gli elementi raccolti non consentono di avviare il processo, e laddove il processo si facesse, si arriverebbe ad un proscioglimento (quindi lavoro inutile).
+
+2- Manca la condizione di procedibilità (ad es. manca la querela). Il processo non può essere posto in essere.
+
+3- Il reato è estinto (ad es è morto l’indagato).
+
+4- Il reato è prescritto.
+
+5- Sono ignoti gli autori del fatto (art 415 c.p.p.).
+
+
+
+
+
+Il procedimento di archiviazione
+
+
+Si ha la richiesta del P.M., accompagnata da tutti gli elementi a supporto, nei confronti del G.I.P.; deciderà poi quest’ultimo.
+
+Se favorevole, emetterà il decreto di archiviazione.
+
+In caso di dubbio il G.I.P. convoca un’udienza, chiamando le parti per chiedere chiarimenti: il soggetto indagato, il P.M. e la persona offesa.
+
+Quindi deciderà o per l’ordinanza di archiviazione (ordinanza perché c’è stata l’udienza), o imporrà al P.M. di continuare le indagini (prolungandone il termine) o imporrà al P.M. di esercitare l’azione penale (che sarebbe il rinvio al giudizio, ma che in questo caso si chiama imputazione coatta - obbligata dal giudice -).
+
+Il P.M. può comunque chiedere la riapertura delle indagini, con una nuova iscrizione e una nuova decorrenza di termini.
+
+
+
+
+
+Il rinvio a giudizio
+
+
+Si ha quando gli elementi raccolti nelle indagini sono sufficienti per sostenere l’accusa in dibattimento.
+
+La richiesta di rinvio a giudizio apre la fase dell’udienza preliminare, prima fase processuale vera e propria, che si svolge davanti al G.U.P.
+
+
+
+
+
+16. L’udienza preliminare
+
+
+
+
+L’udienza preliminare viene chiamata udienza filtro, perché serve a verificare la fondatezza dell’accusa del P.M., ed a evitare inutili dibattimenti.
+
+Ricevuta la richiesta, il G.U.P. fissa la data dell’udienza e convoca le parti.
+
+Il giorno dell’udienza, per prima cosa il G.U.P. controlla la regolare presenza delle parti.
+
+Se nota vizi rinvia l’udienza, perché la presenza delle parti è importantissima.
+
+Dopo di ché si avvia la discussione; è obbligatoria la presenza del P.M. e del difensore, ma non quella dell’imputato. In caso di assenza volontaria di quest’ultimo, si dice che il processo si fa in contumacia.
+
+Nella discussione per primo parla il P.M., che espone le sue ragioni alla luce degli elementi raccolti.
+
+Poi parla il difensore della parte civile, se costituitasi.
+
+Successivamente è il turno del difensore del responsabile civile ed infine del difensore dell’imputato, che ha sempre diritto a parlare per ultimo.
+
+L’udienza preliminare è il momento a partire dal quale si possono costituire la parte civile ed il responsabile civile.
+
+Finita la discussione il G.U.P., se in grado di decidere, emette il provvedimento conclusivo, oppure può indicare al P.M. nuovi temi di prova, dandogli un termine per lo svolgimento delle indagini, fissando la data per una nuova udienza. Altrimenti può assumere d’ufficio le prove il giudice stesso, ma deve trattarsi di prove a favore dell’imputato (con il solo fine di scagionarlo).
+
+Il provvedimento conclusivo consiste nella sentenza di non luogo a procedere o un decreto che dispone il giudizio.
+
+
+
+
+
+La sentenza di non luogo a procedere
+
+
+Può essere una sentenza di diritto (di legittimità) o di merito.
+
+È di diritto quando non ha ad oggetto il merito della causa, e cioè la responsabilità del soggetto. Sono sentenze di non luogo a procedere di diritto: la sentenza di non luogo a procedere per mancanza di condizione di procedibilità (ad es. manca la querela); la sentenza di non luogo a procedere perché il reato è estinto.
+
+È di merito quando c’è l’accertamento di responsabilità del soggetto; sono: la sentenza di non luogo a procedere perché il fatto non sussiste (ad es. era tutta un’invenzione); la sentenza di non luogo a procedere perché il soggetto non ha commesso reato; la sentenza di non luogo a procedere perché il fatto non costituisce reato (manca un qualcosa che lo fa rendere tale); la sentenza di non luogo a procedere perché il fatto non è previsto dalla legge come reato.
+
+Nei confronti di questa sentenza è possibile la revoca, che viene chiesta al G.U.P. dal P.M., quando ci sono nuovi elementi di prova dai quali può dedursi che il soggetto prosciolto debba invece essere rinviato a giudizio.
+
+La sentenza di non luogo a procedere può essere impugnata: si può avere l’appello ed il ricorso in cassazione.
+
+
+
+
+
+Il decreto che dispone il giudizio
+
+
+Viene emesso dal G.U.P. quando gli elementi emersi nell’udienza preliminare sono sufficienti per avviare il dibattimento.
+
+Questo decreto ha una doppia funzione:
+
+è il provvedimento che conclude l’udienza preliminare;
+
+nello stesso tempo è il provvedimento di apertura del dibattimento, tanto è vero che vale come atto di citazione a giudizio.
+
+
+
+
+
+17. I principi generali del dibattimento
+
+
+Il dibattimento è il cuore del processo penale, è il momento della formazione della prova; è la fase nella quale finalmente si deciderà se l’imputato deve essere condannato o prosciolto.
+
+Il dibattimento (o giudizio) si divide in:
+
+
+
+
+
+Atti preliminari al dibattimento
+
+
+Consistono in una serie di attività preparatorie del dibattimento vero e proprio. Sono attività che non si svolgono in udienza (si svolgono prima, sono preparatorie).
+
+Tra esse ricordiamo la possibilità di spostare la data dell’udienza, o la possibilità di compiere atti urgenti.
+
+Ma l’attività più importante è la presentazione delle liste dei testimoni, periti, consulenti, tecnici e imputati dei procedimenti commessi.
+
+Le liste sono presentate dalle parti.
+
+La lista indica anche l’oggetto su cui quella persona deporrà.
+
+La lista ha dunque lo scopo di evitare prove a sorpresa, in maniera tale che ciascuna parte sappia a cosa verrà incontro (le liste possono essere presentate fino a sette giorni prima dell’udienza).
+
+Se compaiono, ad es., dei testimoni nuovi, la lista sarà vincolante fino ad un certo punto: le prove nuove possono essere accettate a discrezione del giudice, previa dimostrazione che queste nuove prove non erano conosciute in precedenza.
+
+Se così sarà, il giudice dovrà successivamente ammettere le prove contrarie o a discarico, ossia tutte quelle prove che contraddicono la nuova prova presentata dalla parte opposta.
+
+
+
+
+
+Dibattimento vero e proprio
+
+
+Il dibattimento presenta delle suddivisioni (fasi):
+
+- Atti introduttivi del dibattimento;
+
+- Istruttoria (o istruzione) dibattimentale;
+
+- Discussione finale.
+
+Comunque i caratteri fondamentali della fase dibattimentale sono:
+
+- La pubblicità: il dibattimento deve poter essere conosciuto da tutti, ed infatti è aperto al pubblico. Si possono fare le riprese televisive; tuttavia, sia l’imputato che il testimone che non voglia essere riconosciuto non può essere ripreso.
+
+La pubblicità viene meno nel caso di processo per i minorenni: in questo caso si ha un processo camerale, quindi senza pubblico; ma il minore (con almeno 16 anni di età) può chiedere la pubblicità del processo.
+
+La pubblicità può venire anche meno, a discrezione del giudice, nel caso in cui si debba tutelare la privacy di qualcuno (in questo caso non sarà pubblica solamente la fase in cui verrà ascoltata la predetta persona) o la sua moralità, o dr il caso in giudizio ha fatto molto scalpore nell’opinione pubblica e non la si vuole turbare ulteriormente.
+
+- L’oralità: le parti portano le prove a conoscenza del giudice in maniera orale (a voce).
+
+La lettura è consentita come eccezione all’oralità nei soli casi previsti dalla legge. Ciò accade riguardo gli atti irripetibili, che vengono conosciuti attraverso i verbali redatti nella fase delle indagini e riguardo l’incidente probatorio, i risultati del quale verranno letti durante il dibattimento.
+
+Il contraddittorio tra le parti e il contraddittorio per la prova: consiste nel confronto verbale tra le parti contrarie; ciascuna delle parti del processo dice la sua confrontandosi con le altre parti.
+
+La contraddizione è maggiore quando si presentano le prove.
+
+- L’immediatezza: l’immediatezza sta a significare che tutte le prove che devono essere assunte lo devono essere senza interruzioni, e soprattutto, dopo l’assunzione delle prove, la sentenza deve essere emessa subito, immediatamente dopo.
+
+Ma, quasi sempre, si presentano delle situazioni in cui il processo non si può chiudere lo stesso giorno del suo inizio.
+
+Per immediatezza si intende anche il rapporto di estrema vicinanza tra il giudice e la prova: la prova, cioè, si forma alla presenza del giudice.
+
+
+
+
+
+Atti introduttivi
+
+
+Non sono da confondere con gli atti preliminari, che sono prima dell’udienza.
+
+Il giorno dell’udienza è fissato nell’atto di citazione.
+
+Le parti si presentano davanti al giudice, che varia a seconda della gravità del reato.
+
+Il primo compito del giudice è quello di controllare che le parti siano regolarmente costituite: questo perché ciascuna parte ha diritto a partecipare al processo, quindi si deve verificare se una eventuale assenza sia voluta o dovuta per errore (ad es. l’atto di citazione non è arrivato all’indirizzo di residenza).
+
+In caso di assenza di una parte dovuta per errore, si rinvia l’udienza, citando nuovamente la parte assente per errore (la citazione della parte presente si fa naturalmente seduta stante).
+
+Se l’imputato è stato regolarmente citato e non si presenta all’udienza, pur non avendo un legittimo impedimento, il processo si inizia ugualmente, e l’imputato sarà dichiarato contumace.
+
+Dopo il regolare controllo della costituzione delle parti, si discutono le questioni preliminari, cioè situazioni che è necessario risolvere subito perché altrimenti il processo non potrebbe andare avanti; ad es. sorge una questione sulla competenza territoriale del processo.
+
+Le questioni preliminari si discutono e si risolvono in camera di consiglio (si fa uscire il pubblico); il giudice decide con una ordinanza.
+
+Dopo le questioni preliminari il presidente del collegio dichiara ufficialmente aperto il dibattimento.
+
+Ha così inizio la fase relativa alla prova, che si compone di tre momenti, in cui i primi due rientrano tra gli atti introduttivi, mentre il terzo è una fase successiva, ossia l’istruttoria dibattimentale.
+
+I due momenti che sono afferenti a questa fase sono:
+
+- La richiesta di prova, che consiste nella richiesta di ciascuna parte, rivolta al giudice, di accogliere le prove che ritiene necessarie per sostenere la propria posizione.
+
+L’ordine di intervento è il seguente: il P.M., il difensore di parte civile, il difensore del responsabile civile, il difensore civilmente obbligato ed il difensore dell’imputato.
+
+- Il secondo momento è l’immissione della prova da parte del giudice, ai sensi dell’art 190 c.p.p.
+
+E qui si chiudono gli atti introduttivi.
+
+
+
+
+
+L’istruttoria dibattimentale
+
+
+È quel momento del processo durante il quale si assumono le prove davanti al giudice, nel famoso contraddittorio tra le parti.
+
+Quando la prova consiste in una dichiarazione da parte di taluno, si segue lo schema dell’esame incrociato, che si compone di tre momenti: esame, controesame e riesame.
+
+Ad es., se si deve ascoltare un testimone, l’esame viene svolto dalla parte che ne ha chiesto l’assunzione (la parte che ha presentato quel testimone). Durante l’esame vengono rivolte al soggetto domande che devono essere precise (non si può dire al testimone “raccontami quello che hai visto”), alle quali si risponde con risposte secche: devono riguardare il fatto di reato di cui si tratta, e non devono avere ad oggetto la morale del soggetto, a meno che non si tratti di un reato che tratti proprio questa.
+
+Non devono essere domande suggestive, ossia che condizionino la risposta.
+
+Finito l’esame, le altre parti, se vogliono, possono chiedere il controesame, e pertanto possono rivolgere domande a loro volta; questa volta possono essere domande suggestive: la parte contraria ha tutto l’interesse a far crollare quello che si era costruito prima.
+
+Finito il controesame, chi ha fatto l’esame può, se vuole, chiedere il riesame, attraverso il quale potrà nuovamente rivolgere domande al suo testimone, per riequilibrare la situazione.
+
+Nel corso dell’esame incrociato, il giudice ha solo una funzione di controllo, e non può rivolgere alcuna domanda (è un semplice spettatore).
+
+Assunte tutte le prove richieste, il giudice può ritenere necessarie delle integrazioni di prova, invitando le parti a portare altre prove su punti non del tutto chiari.
+
+In ultima ipotesi, quando nonostante l'attivazione delle parti il giudice rimanga non in grado di decidere, questi può assumere d’ufficio le prove.
+
+Chiusa l’istruttoria dibattimentale, si passa alla discussione finale, nelle quali tutte le parti presentano le proprie conclusioni.
+
+Il primo a parlare è il P.M. (il suo discorso si chiama requisitoria), successivamente parlano i difensori delle parti (secondo l’ordine analizzato in precedenza), facendo le loro arringhe.
+
+Dopo le conclusioni delle parti, si passa alla fase della decisione.
+
+
+
+
+
+18. Atti successivi al dibattimento
+
+
+
+
+È in questa fase che il giudice prende la decisione.
+
+Questa fase si svolge in camera di consiglio ristretta, è cioè presente il solo giudice.
+
+Nel caso in cui il giudice sia collegiale, si deciderà con maggioranza.
+
+Se ad es. il collegio è composto da tre giudici, si ha la maggioranza con la decisione concorde di 2 giudici.
+
+In caso di parità prevale la decisione più favorevole per l’imputato.
+
+Una volta presa la decisione, il giudice ritorna in pubblica udienza, e legge il dispositivo della sentenza, nel quale si indica l’articolo del c.p. violato, il titolo del reato ed il contenuto della sentenza.
+
+Oltre che del dispositivo, la sentenza si compone anche della motivazione, nella quale il giudice espone le ragioni in base alle quali è giunto a quella decisione, sulla base delle prove assunte.
+
+Se la motivazione è semplice, si può scrivere subito e si legge insieme al dispositivo (ma non accade quasi mai), altrimenti il giudice ha un tempo che va dai 15 ai 90 giorni per potere scrivere la motivazione, che poi verrà depositata in cancelleria, affinché le parti possano prenderne visione.
+
+Il deposito della motivazione è importante, perché da esso decorrono i termini per impugnare.
+
+La sentenza dibattimentale può essere di proscioglimento o di condanna.
+
+La sentenza di proscioglimento si divide in:
+
+1- Sentenza di non doversi procedere: si ha quando manca la condizione di procedibilità o quando il reato è estinto (ad es. per la prescrizione).
+
+È dunque una sentenza processuale, che non valuta il merito (non accerta se il soggetto è colpevole o meno).
+
+2- Sentenza di assoluzione: è sentenza di merito, perché valuta la mancanza di responsabilità dell’imputato. Le formule sono:
+
+- assoluzione perché l’imputato non ha commesso il fatto;
+
+- assoluzione perché il fatto non sussiste;
+
+- assoluzione perché il fatto non costituisce reato;
+
+- assoluzione perché il fatto non è previsto dalla legge come reato;
+
+- assoluzione perché il soggetto non è punibile:
+
+La sentenza di condanna è, per forza di cose, una sentenza di merito, perché riconosce la responsabilità dell’imputato.
+
+Con la condanna viene stabilita la pena e, se è il caso, vengono stabilite le pene accessorie e, se il soggetto è pericoloso, le misure di sicurezza.
+
+
+
+
+
+19. Le impugnazioni
+
+
+
+
+Le impugnazioni sono degli strumenti che la legge fornisce alle parti al fine di rimuovere uno svantaggio derivante dalla decisione del giudice.
+
+Si chiede infatti ad un altro giudice un nuovo giudizio.
+
+Nelle impugnazioni vige il principio di tassatività, nel senso che è la legge che dice quali sono i mezzi di impugnazione e, di volta in volta, di quale mezzo ci si può servire.
+
+La tassatività vale anche per i soggetti che possono impugnare, perché è la legge che li indica; quando la legge non specifica, vuol dire che possono impugnare tutte le parti processuali.
+
+Tuttavia, per potere impugnare, non basta essere legittimati, ma occorre anche avere interesse (legato alla possibilità di avere un provvedimento più favorevole; l’interesse nasce dallo svantaggio derivante dalla sentenza).
+
+In particolare, riguardo l’imputato, ci sono dei casi in cui non si potrà avere mai un interesse, perché con l’impugnazione non si può ottenere di più: ciò accade quando non si è commesso il fatto e quando il fatto non sussiste. Infatti questi due casi sono chiamate formule ampiamente liberatorie.
+
+
+
+
+
+Iter per impugnare la sentenza
+
+
+Il soggetto presenta la domanda di impugnazione presso la cancelleria del giudice che ha emesso la sentenza.
+
+La domanda va presentata entro termini perentori, che se non vengono rispettati privano la parte interessata al diritto di impugnazione.
+
+Nella domanda sono contenuti i capi e i punti della sentenza che si vogliono impugnare.
+
+I capi sono le varie imputazioni.
+
+I punti sono i vari aspetti di ogni imputazione (tipo di pena, quantità di pena...).
+
+La domanda contiene, in secondo luogo, i motivi per i quali non si è d’accordo con la sentenza del giudice.
+
+La domanda contiene inoltre le motivazioni ai motivi; questo contenuto è richiesto a pena di inammissibilità.
+
+Le impugnazioni sono lasciate alla volontà delle parti.
+
+Allo stesso modo, la parte che ha deciso di impugnare, può pentirsi e ritirare l’impugnazione.
+
+In questo caso il processo si concluderà ugualmente con un provvedimento del giudice, che dichiarerà la rinuncia all’impugnazione.
+
+
+
+
+
+Gli effetti delle impugnazioni
+
+
+Sono tre:
+
+- Effetto devolutivo: la causa passa da un giudice ad un altro giudice (non è lo stesso e sarà di grado superiore);
+
+- Effetto sospensivo: nel corso del processo di impugnazione si sospende l’esecuzione della sentenza impugnata.
+
+Unica eccezione è costituita dalla sentenza di proscioglimento, che è immediatamente esecutiva;
+
+- Effetto estensivo: si ha quando la sentenza è rivolta verso più imputati. Se ad impugnare è un solo imputato, gli effetti positivi dell’impugnazione si estendono anche agli altri, a meno che l’impugnazione non si basi su motivi strettamente personali (ad es. l’incapacità di intendere e di volere).
+
+
+
+
+
+I mezzi di impugnazione
+
+
+I mezzi di impugnazione si distinguono in ordinari e straordinari.
+
+Ordinari sono quelli che impediscono il passaggio in giudicato (l’irrevocabilità) della sentenza, ossia impediscono che la sentenza diventi definitiva. Sono l’appello ed il ricorso in cassazione.
+
+Straordinari sono i mezzi capaci di modificare una sentenza definitiva. È la revisione.
+
+
+
+
+
+20. L’appello
+
+
+L’appello è un mezzo di impugnazione ordinario mediante il quale la parte interessata chiede al giudice di appello la modifica in tutto o in parte del provvedimento impugnato.
+
+Soggetti legittimati sono tutte le parti.
+
+Oggetto dell’appello sono le sentenze del giudice di primo grado, escluse quelle che la legge dichiara inappellabili.
+
+Giudici di appello sono: il tribunale monocratico contro le sentenza del giudice di pace; la corte di appello contro le sentenze del tribunale; la corte di assise di appello contro le sentenze della corte di assise.
+
+
+
+
+
+Il potere del giudice di appello
+
+
+- Potere di cognizione: è limitato dai motivi dell’impugnazione; si parla di devoluzione oggettiva;
+
+- Potere di decisione: varia a seconda della parte che impugna.
+
+Se ad appellare è il P.M., il giudice di appello non ha alcun limite riguardo la decisione (sempre relativamente all’oggetto).
+
+Se ad appellare è l’imputato, il giudice deve sottostare al cosiddetto divieto di riformare in peggio, pertanto se viene appellata una sentenza di condanna, non si può aumentare la pena; se viene appellata una sentenza di assoluzione, non si può condannare e non si può assolvere con una sentenza meno favorevole (ciò esiste per evitare di scoraggiare l’appello).
+
+
+
+
+
+Lo svolgimento del giudizio di appello
+
+
+Esistono due modalità:
+
+- Camera di consiglio: si ha ad oggetto la specie e la misura della pena. La presenza delle parti è facoltativa, tranne nel caso eccezionale in cui si deve assumere una prova (ciò si verifica quando il giudice non è in grado di decidere in base alle prove del primo grado di giudizio).
+
+- Pubblica udienza: si ha quando si hanno ad oggetto gli atti preliminari, il dibattimento vero e proprio e gli atti successivi.
+
+Nella fase degli atti preliminari il giudice valuta l’ammissibilità della domanda di appello; se non è ammissibile emette l’ordinanza di inammissibilità.
+
+Se invece è ammissibile, si passa all’udienza, che risulta essere molto più semplice rispetto al primo grado.
+
+Innanzitutto, il cosiddetto giudice relatore, quello che ha studiato la documentazione del giudizio di primo grado, fa la relazione della causa. Se la relazione non è sufficiente, si può dare lettura di verbali del giudizio di primo grado.
+
+In ultima ipotesi, se il giudice non può assolutamente decidere, si assumono nuove prove (rinnovazione dell’istruttoria dibattimentale).
+
+Poi si passa alla discussione finale.
+
+Infine il giudice emette la discussione finale.
+
+
+
+
+
+Le sentenze
+
+
+Possono essere di conferma, quando si ritiene corretta la sentenza del giudice di primo grado; in questo caso si motiva il perché.
+
+Possono essere di riforma, quando invece si modifica la sentenza del giudice di primo grado. La modifica può essere parziale o totale.
+
+
+
+
+
+21. Ricorso per cassazione
+
+
+
+
+È il mezzo di impugnazione con il quale la parte interessata chiede alla corte di cassazione l’annullamento, in tutto o in parte, di un precedente provvedimento giurisdizionale.
+
+Sono soggetti legittimati al ricorso tutte le parti.
+
+I provvedimenti che si possono impugnare sono tutte le sentenze del giudice di appello, ma anche le sentenze del giudice di primo grado che non sono appellabili.
+
+La possibilità di ricorso contro le sentenze di primo grado si ha anche nel cosiddetto ricorso per saltum (per salto): si salta il primo grado, solamente nel caso in cui non si debbano far valere diritti di merito.
+
+Giudice è la corte di cassazione, che ha sede solo a Roma. Lì si trovano le sette sezioni.
+
+Ciascuna sezione è composta da cinque consiglieri di cassazione.
+
+La corte di cassazione ha un presidente.
+
+All’interno della corte di cassazione si hanno anche le sezioni unite; si riuniscono nel momento in cui è necessario il loro intervento (è composta da otto consiglieri scelti tra le varie sezioni più il presidente), ossia in presenza di casi molto complessi.
+
+Rispetto all’appello, si ha una grande differenza: mentre nell’appello sono le parti che individuano i motivi per cui impugnano, nel ricorso per cassazione i motivi sono tassativamente indicati dalla legge, all’art 606 c.p.p.:
+
+- Eccesso di potere: si ha quando il giudice, nel decidere, ha invaso il campo di un altro potere dello Stato (non c’entra nulla con l’incompetenza);
+
+- La violazione della norma penale;
+
+- La violazione di una norma contenuta nel c.p.p.; la norma violata deve essere prevista a pena di nullità, inammissibilità, decadenza ed inutilizzabilità;
+
+- La mancata assunzione di una prova decisiva da parte del giudice dei gradi di giudizio precedenti:
+
+- La motivazione della sentenza. È la mancanza o la manifesta illogicità della motivazione della sentenza.
+
+
+
+
+
+Poteri della corte di cassazione
+
+
+Essa è limitata dai motivi presentati dalle parti.
+
+
+
+
+
+Svolgimento del giudizio di cassazione
+
+
+La domanda viene presentata presso la cancelleria del giudice che ha emesso la sentenza.
+
+Questo giudice ha l’obbligo di trasferire gli atti alla cancelleria della corte di cassazione.
+
+Il primo compito che spetta al presidente della corte di cassazione è quello di vedere se il ricorso è ammissibile (perché è inutile perdere tempo).
+
+Per questo motivo è stata creata la sezione filtro (attualmente è la settima sezione), che ha il compito esclusivo di verificare l’ammissibilità dei ricorsi.
+
+Se il ricorso non è ammissibile, la sezione filtro informa il presidente, che emetterà l’ordinanza di inammissibilità.
+
+Anche nel caso in cui sia ammissibile, si trasferiscono gli atti al presidente, perché il caso deve essere assegnato ad una delle altre sei sezioni, o alle sezioni unite.
+
+Il giudizio di cassazione è ancora più semplice di quello di appello, perché i giudici esaminano soltanto la documentazione scritta. È un giudizio assolutamente cartolare.
+
+In cassazione non ci potrà mai essere una assunzione di prova.
+
+Quindi il giudizio di cassazione consiste solo e soltanto nella relazione della causa che il giudice relatore (uno dei cinque componenti della sezione), fa al collegio; relaziona il giorno dell’udienza.
+
+Anche in cassazione si hanno due modalità:
+
+- L’udienza camerale: si ha quando la sentenza impugnata è stata emessa a sua volta in camera di consiglio. Non c’è obbligo di presenza delle parti. Il P.M. ha la facoltà di presenziare (è libero di essere presente o meno). È invece vietata la presenza sia dell’imputato che del suo difensore.
+
+- Pubblica udienza: ci vuole la presenza obbligatoria del P.M. e la presenza facoltativa dei difensori; rimane il divieto di presenza dell’imputato e delle altre parti.
+
+Dalla relazione della causa si passa alla discussione finale (sempre che ci sia una parte).
+
+Si ha infine l’emanazione della sentenza.
+
+In una stessa udienza si trattano più cause (al contrario del primo grado). Infatti al di fuori dell’aula c’è il ruolo di udienza (l’elenco dei casi esaminati in quel giorno).
+
+
+
+
+
+Sentenze della corte di cassazione
+
+
+- Sentenza di inammissibilità: mancano, nella domanda di ricorso, i requisiti richiesti dalla legge (di tempo, di forma, di contenuto...);
+
+- Sentenza di rigetto: si ha quando i motivi del ricorso sono infondati;
+
+- Sentenza di rettificazione: corregge gli errori materiali della sentenza (ad es. l’imputato viene chiamato Giuseppe al posto di Giovanni, o si è condannati per furto ma la sentenza indica l’art dell’omicidio);
+
+- Sentenza di annullamento: accoglie il ricorso. Chi ha fatto il ricorso ha ragione. Si annulla la sentenza impugnata.
+
+Si hanno due tipi di annullamento:
+
+1- Annullamento senza rinvio: non è necessario un nuovo esame del merito, e pertanto, in virtù dei suoi poteri, la corte di cassazione annulla la precedente sentenza, che rimane dunque priva di ogni efficacia;
+
+2- Annullamento con rinvio: si ha quando è necessario un nuovo giudizio di merito e la cassazione, non potendolo fare essa stessa, deve rinviare il giudizio ad un altro giudice di merito, che è chiamato giudice di rinvio.
+
+In questo caso si ha un nuovo giudizio, davanti il giudice di rinvio, che si concluderà con una sentenza che andrà a sostituire quella annullata.
+
+Il giudice di rinvio è un giudice di pari grado rispetto a quello della sentenza impugnata, ma fisicamente diverso.
+
+Contro la sentenza del giudice di rinvio è possibile di nuovo impugnare (quindi teoricamente il processo potrebbe non finire mai).
+
+
+
+
+
+22. La revisione
+
+
+
+
+È un mezzo di impugnazione straordinario, mediante il quale il soggetto condannato ingiustamente chiede che venga sanato l’errore giudiziario, e che venga dunque prosciolto.
+
+La revisione si può fare contro la sentenza di condanna solo col fine di ottenere il proscioglimento.
+
+Per la revisione non esistono termini; ciò significa che il soggetto che chiede la revisione, può essere in espiazione di pena o addirittura averla già scontata.
+
+La revisione si può fare anche dopo la morte del soggetto (può essere chiesta dai familiari che vogliono che la memoria del loro caro non rimanga infangata).
+
+I casi di revisione sono tassativamente indicati all’art 630 c.p.p.; tra questi casi quello più rilevante riguarda la nuova prova, che è idonea a dimostrare l’innocenza del condannato.
+
+Competente per la revisione è la corte di appello.
+
+La corte di appello esamina innanzitutto l’ammissibilità della richiesta e, se ritenuta ammissibile, pone in essere un processo secondo le regole previste per l’appello.
+
+La revisione si può concludere con due provvedimenti:
+
+- La sentenza di rigetto: le nuove prove non sono idonee a dimostrare l’innocenza del soggetto;
+
+- La sentenza di accoglimento: le ragioni su cui si basa la richiesta di revisione sono fondate.
+
+In questo caso la corte di appello emette un doppio provvedimento: revoca la sentenza di condanna e nello stesso tempo emette la sentenza di assoluzione.
+
+Il soggetto assolto ha diritto ad un riconoscimento morale, tanto è vero che la nuova sentenza viene pubblicata su un quotidiano del luogo in cui vive il soggetto, e viene affissa presso la casa comunale.
+
+Il soggetto ha anche diritto ad un risarcimento, che può chiedere alla corte di appello, la quale assegnerà una somma di denaro o stabilirà un vitalizio.
+
+
+
+
+
+23. Il passaggio in giudicato della sentenza
+
+
+
+
+La sentenza diventa irrevocabile quando si sono percorsi tutti i gradi di giurisdizione, o quando sono decorsi inutilmente i termini per impugnare.
+
+In questi casi la sentenza irrevocabile si dice che acquista autorità di cosa giudicata.
+
+Effetti del giudicato sono:
+
+- l’obbligatorietà: la sentenza è obbligatoria per tutti i destinatari;
+
+- l’esecutività: la sentenza può essere eseguita;
+
+- il divieto di secondo giudizio: il soggetto che è stato prosciolto o condannato con sentenza definitiva non può essere sottoposto a procedimento penale per lo stesso fatto (art 649 c.p.p.).
+
+Nel caso in cui nel corso del processo il giudice si dovesse accorgere che l’imputato è già stato giudicato per quel fatto, deve immediatamente prosciogliere, per il divieto di secondo giudizio.
+
+Nell’ipotesi in cui si dovesse arrivare ad una seconda sentenza per lo stesso fatto, se ne darà esecuzione ad una sola, e a quella più favorevole per il soggetto.
+
+L’organo dell’esecuzione penale è il P.M.
+
+Nel caso di condanna a pena detentiva, il P.M. emette l’ordine di esecuzione, che contiene l’ordine di carcerazione rivolto alla polizia giudiziaria.
+
+Nel caso in cui la pena non superi i tre anni di detenzione (quattro per i dipendenti da sostanze psicotrope), il P.M. sospende l’ordine di esecuzione al fine di consentire al condannato di chiedere misure alternative alla detenzione.
+
+Nella fase dell’esecuzione si hanno anche due organi giurisdizionali, che insieme compongono la magistratura di sorveglianza.
+
+Sono il magistrato di sorveglianza e il tribunale di sorveglianza.
+
+
+
+
+
+Le funzioni del magistrato di sorveglianza
+
+
+Il magistrato di sorveglianza è un organo monocratico che ha funzioni di:
+
+- Vigilanza e controllo: compito del magistrato di sorveglianza è quello di controllare e di vigilare sulla correttezza dell’esecuzione della pena. Esercita questo controllo mediante periodiche visite in carcere, durante le quali fa colloqui con i detenuti che li hanno chiesti. Se nelle sue visite scopre delle irregolarità, ne da comunicazione al ministro della giustizia.
+
+- Funzioni consultive: il magistrato di sorveglianza viene consultato per dei pareri. È previsto per la richiesta di grazia, ma non è vincolante per il presidente della Repubblica.
+
+- Funzione deliberativa: prende delle decisioni. La gran parte delle decisioni del magistrato di sorveglianza hanno natura amministrativa (sono delle autorizzazioni).
+
+I provvedimenti del magistrato di sorveglianza che hanno valore giurisdizionale sono quelli relativi alle misure di sicurezza.
+
+Prima di mettere in esecuzione una misura di sicurezza, è necessario un riesame della pericolosità; questo è un compito che spetta al magistrato di sorveglianza.
+
+L’esame viene svolto nel corso del procedimento di sorveglianza, a conclusione del quale il magistrato di sorveglianza dispone con ordinanza o l’esecuzione della misura di sicurezza inflitta dal giudice del processo (in questo caso ritiene che la pericolosità del soggetto è rimasta invariata), o la modifica (se ritiene che la pericolosità si sia attenuata); o infine revoca la misura di sicurezza (se ritiene che il soggetto non sia più pericoloso).
+
+
+
+
+
+Le funzioni del tribunale di sorveglianza
+
+
+È un organo collegiale a composizione mista: due giudici togati e due giudici esperti in materie come psicologia, criminologia, scienze giuridiche, pedagogia, servizio sociale.
+
+Il tribunale di sorveglianza è competente per le misure alternative alla detenzione.
+
+È sempre organo giurisdizionale, in quanto decide a conclusione del procedimento di sorveglianza.
+
+Per le misure alternative è giudice di primo grado, mentre per le misure di sicurezza è giudice di appello contro i provvedimenti del magistrato di sorveglianza.
+
+
+
+
+
+Il procedimento di sorveglianza
+
+
+È il procedimento attraverso il quale si applicano le misure di sicurezza e le misure alternative alla detenzione.
+
+Si svolge in camera di consiglio, ed ha inizio o a seguito di richiesta del soggetto interessato o del suo difensore o del P.M., o può iniziare d’ufficio, quando il giudice si attiva autonomamente.
+
+La prima valutazione del giudice riguarda l’ammissibilità della richiesta.
+
+La richiesta è inammissibile quando è riproposizione di una richiesta già rigettata, basata sugli stessi elementi, oppure quando manca delle condizioni previste dalla legge.
+
+Una volta presentata la domanda si da avvio alla fase istruttoria, che serve a raccogliere tutti gli elementi utili alla decisione.
+
+Una volta raccolto il materiale, si fissa la data dell’udienza, alla quale partecipano obbligatoriamente il P.M. ed il difensore, facoltativamente il condannato.
+
+Uno dei magistrati di sorveglianza fa la relazione della causa.
+
+Se la relazione è ritenuta sufficiente si passa direttamente alla decisione, altrimenti si possono acquisire altri elementi, rinviando l’udienza ad un’altra data.
+
+Si avrà poi la discussione finale.
+
+Infine il giudice decide con ordinanza, ricorribile in cassazione.
+
+
+
+
+
+24. Gli atti (i provvedimenti) del giudice
+
+
+
+
+
+La sentenza
+
+
+La sentenza è l’atto conclusivo di una fase o di un grado del processo.
+
+La sentenza si compone di due parti:
+
+- Il dispositivo, che viene emesso in nome del popolo italiano e che contiene l’indicazione dell’art di legge violato, la qualificazione giuridica del fatto ed il contenuto della sentenza.
+
+- La motivazione, che è il percorso logico seguito dal giudice per arrivare a quella conclusione.
+
+Se manca una di queste due parti la sentenza si può considerare nulla.
+
+
+
+
+
+L’ordinanza
+
+
+È il provvedimento con il quale si risolvono questioni interne al processo, durante il corso dello stesso.
+
+L’ordinanza, di solito, si emette a seguito di una udienza camerale, e quindi presuppone il confronto tra le parti.
+
+Anche l’ordinanza deve essere obbligatoriamente motivata.
+
+
+
+
+
+Il decreto
+
+
+Il decreto è un provvedimento che il giudice prende al di fuori dell'udienza, e dunque senza che ci sia confronto con le parti.
+
+Non c’è alcun obbligo di motivazione.
+
+
+
+
+
+25. Gli atti del P.M.
+
+
+
+
+
+Le richieste
+
+
+La richiesta è un atto di iniziativa. Serve a sollecitare l’attività del giudice.
+
+
+
+
+
+Le requisitorie
+
+
+Le requisitorie sono atti conclusivi. Di solito sono i discorsi conclusivi di un processo subito prima della decisione del giudice.
+
+
+
+
+
+26. A proposito dell’autore
+
+
+
+
+Rocco Mela, classe ‘83, Laurea in Sociologia, Master in Amministrazione Aziendale.
+
+Al posto di mettere su famiglia, dal 2008 gira l’Europa alla ricerca del lavoro e del Paese ideale.
+
+Dopo Italia, Francia, Inghilterra, Irlanda, Polonia, Ungheria, Spagna e Portogallo, 5 lingue parlate e tantissime storie da poter raccontare quando sarà vecchio, non ha ancora deciso di fermarsi.
+
+
+
+Prima Citazione preferita: “L’esperienza è una maestra severa, ma impari. Mio Dio se impari!” - Clive Staples Lewis
+
+
+
+Facebook: https://fb.me/roccomelascrittore
+
+Email: roccomela@outlook.com
+
+Amazon:www.amazon.com/author/roccomela
+
+
+
+
+
+27. Libri dell’autore
+
+
+
+
+Tutti i libri dell’autore sono presenti su Amazon:
+
+https://www.amazon.it/l/B00J9MMPHQ
+
+
+
+
+
+Libri in lingua italiana
+
+
+- Europubblik: i miei primi 25 articoli
+
+- Le regole della felicità: otto regole per avere tanta gioia di vivere
+
+- Il colloquio di lavoro vincente: come rispondere alle 100 domande più frequenti che ti faranno i selezionatori
+
+- La storia di Luca Di Marco: il fondatore del popolo di Seattle
+
+- La dipendenza da Internet
+
+- Nozioni di Economia Politica: sintesi e ripasso
+
+- Storia della prostituzione a Caltanissetta: decennio 1943-43
+
+- Come durare più a lungo: l’eiaculazione precoce non sarà più un problema
+
+- La previsione degli effetti: come cambia il Progetto di Provvedimento e il Procedimento Amministrativo con la legge 241 del 1990
+
+- Disoccupato Mai: tutto quello che devi sapere per non restare mai senza lavoro!
+
+- Lineamenti di Procedura Penale: sintesi e ripasso
+
+- Le influenze del Codice Napoleonico e del BGB tedesco sul Codice Civile Italiano: sistemi giuridici comparati
+
+- Lineamenti di Diritto Penale
+
+- La protezione mafiosa in Sicilia: analisi sociologia del fenomeno
+
+- Fondamenti di Informatica e di Information Technology: manuale di alfabetizzazione informatica
+
+- Diventare Croupier con la Cerus: Storia di una scelta
+
+- Fare il Croupier grazie alla Cerus: la testimonianza di chi è stato con noi
+
+- Il Mobbing: come difendersi dagli stronzi
+
+
+
+
+
+Libri in lingua straniera
+
+
+
+
+
+English
+
+
+- Job Interview FAQ: the most common questions with the perfect answer!
+
+- Mixed Problem Solving Methodology: all the techniques in one book
+
+
+
+
+
+Français
+
+
+- Déménager à Liverpool: un guide rapide et utile pour profiter tout de suite de la ville des Beatles!
+
+
+
+
+
+Español
+
+
+- Gestión de Proyectos Multilaterales: todos los pasos de la elaboración de un proyecto
+
+
+
+
+
+28. Posso domandarti un favore?
+
+
+
+
+Se questo libro ti è piaciuto e lo hai trovato utile, sarei
+
+molto contento se tu potessi postare un commento o
+
+una breve recensione su Amazon.
+
+Leggo personalmente tutte le recensioni, in modo da
+
+poter scrivere quello che veramente i lettori vogliono e
+
+che stanno cercando.
+
+Grazie per il tuo supporto!
+
+
+
+
+
+29. Note Legali
+
+
+
+
+Questo libro e tutti i suoi contenuti sono protetti dal diritto d'autore e da ogni altro diritto di proprietà intellettuale.
+
+È vietata la riproduzione, in tutto o in parte, in qualsiasi forma, dei suoi contenuti, senza il consenso espresso in forma scritta dell'autore.
+
+Salvo che sia espressamente indicato il contrario, tutte le persone (compresi i loro nomi e le immagini), i marchi registrati e le immagini dei prodotti di terzi, i servizi e/o i luoghi presenti su questo libro non sono in alcun modo associati, legati o affiliati all'autore e non si deve fare affidamento sull'esistenza di tale collegamento o affiliazione.
+
+Tutti i marchi registrati/nomi presenti su questo libro appartengono ai rispettivi titolari.
+
+L’autore non si assume alcuna responsabilità circa l'accuratezza e la completezza dei contenuti pubblicati, fatto salvo quanto diversamente previsto dalla legge.
+
+Queste Note Legali sono regolate dalla legge italiana.
+
+***
+
+
+
+
+

@@ -1,0 +1,181 @@
+
+==================================================
+
+===== Article 227 =====
+[Primary - Text]
+Art. 227
+Relazione peritale
+
+1.  Concluse le formalità di conferimento dell'incarico, il perito procede immediatamente ai necessari accertamenti e risponde ai quesiti con parere raccolto nel verbale.
+
+2.  Se, per la complessità dei quesiti, il perito non ritiene di poter dare immediata risposta, può chiedere un termine al giudice.
+
+3.  Quando non ritiene di concedere il termine, il giudice provvede alla sostituzione del perito; altrimenti fissa la data, non oltre novanta giorni, nella quale il perito stesso dovrà rispondere ai quesiti e dispone perché ne venga data comunicazione alle parti e ai consulenti tecnici.
+
+4.  Quando risultano necessari accertamenti di particolare complessità, il termine può essere prorogato dal giudice, su richiesta motivata del perito, anche più volte per periodi non superiori a trenta giorni. In ogni caso, il termine per risposta ai quesiti, anche se prorogato, non può superare i sei mesi.
+
+5.  Qualora sia indispensabile illustrare con note scritte il parere, il perito può chiedere al giudice di essere autorizzato a presentare, nel termine stabilito a norma dei commi 3 e 4, relazione scritta.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 227
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 227
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 18975/2017
+                                      In tema di controllo sulla motivazione, il giudice che ritenga di aderire alle conclusioni del perito d'ufficio, in difformità da quelle del consulente di parte, non può essere gravato dell'obbligo di fornire autonoma dimostrazione dell'esattezza scientifica delle prime e dell'erroneità delle seconde, dovendosi al contrario considerare sufficiente che egli dimostri di avere comunque valutato le conclusioni del perito di ufficio, senza ignorare le argomentazioni del consulente; conseguentemente, può ravvisarsi vizio di motivazione, denunciabile in cassazione ai sensi dell'art. 606, comma primo, lettera e), cod. proc. pen., solo qualora risulti che queste ultime siano tali da dimostrare in modo assolutamente lampante ed inconfutabile la fallacia delle conclusioni peritali recepite dal giudice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 18975 del 20 aprile 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44495/2004
+                                      Il giudice che ritenga di aderire alle conclusioni del perito d'ufficio, in difformità da quelle del consulente di parte, non può essere gravato dell'obbligo di fornire, in motivazione, autonoma dimostrazione dell'esattezza scientifica delle prime e dell'erroneità, per converso, delle altre, dovendosi al contrario considerare sufficiente che egli dimostri di avere comunque valutato le conclusioni del perito di ufficio, senza ignorare le argomentazioni del consulente e potendosi quindi ravvisare vizio di motivazione solo se queste ultime siano tali da dimostrare in modo assolutamente lampante e inconfutabile la fallacia delle conclusioni peritali. (Fattispecie in tema di perizia dattiloscopica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 44495 del 16 novembre 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 34379/2004
+                                      In tema di controllo sulla motivazione, il giudice che ritenga di aderire alle conclusioni del perito d'ufficio, in difformità da quelle del consulente di parte, non può essere gravato dell'obbligo di fornire autonoma dimostrazione dell'esattezza scientifica delle prime e dell'erroneità, per converso, delle altre, dovendosi al contrario considerare sufficiente che egli dimostri di avere comunque valutato le conclusioni del perito di ufficio, senza ignorare le argomentazioni del consulente; ne consegue che può ravvisarsi vizio di motivazione solo se queste ultime siano tali da dimostrare in modo assolutamente lampante e inconfutabile la fallacità delle conclusioni peritali.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 34379 del 11 agosto 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11425/2003
+                                      L'omessa comunicazione da parte del perito nominato nel corso del dibattimento del giorno, ora e luogo di inizio delle operazioni peritali, incide sul diritto di difesa, in quanto pregiudica l'eventuale esercizio della facoltà di nomina di un consulente tecnico di parte, e determina perciò una nullità di ordine generale, che deve essere dedotta prima della deliberazione della sentenza di primo grado. (Nel caso di specie, la parte aveva immediatamente dedotto la nullità e pertanto la sentenza è stata annullata con rinvio in quanto fondata sui risultati della perizia dibattimentale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 11425 del 11 marzo 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35187/2002
+                                      In tema di perizia, l'art. 228, comma 1, c.p.p., nello stabilire che il perito «può essere autorizzato dal giudice a prendere visione degli atti, dei documenti e delle cose prodotti dalle parti dei quali la legge prevede l'acquisizione al fascicolo per il dibattimento», deve intendersi come riferito non solo agli atti che siano inseribili nel fascicolo da formarsi, ai sensi dell'art. 431 c.p.p., all'esito dell'udienza preliminare, ma anche a tutti quelli di cui la legge non esclude, in astratto, la possibilità di inserimento in detto fascicolo, d'ufficio, a richiesta di parte o a seguito di contestazoni, durante tutto il corso del giudizio, anche successivamente al conferimento dell'incarico peritale (principio affermato con riguardo a perizia disposta in sede di incidente probatorio, sulla base del richiamo, contenuto nell'art.401, comma 5, c.p.p., alle «forme stabilite per il dibattimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 35187 del 21 ottobre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13750/1999
+                                      In tema di perizia, il mancato rispetto del termine, di natura ordinatoria, di sei mesi previsto dall'art. 227 c.p.p. per rispondere ai quesiti non comporta la nullità o inutilizzabilità della perizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 13750 del  1 dicembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6528/1998
+                                      Il giudice che ritenga di aderire alle conclusioni del perito d'ufficio, in difformità da quelle del consulente di parte, non può essere gravato dell'obbligo di fornire, in motivazione, autonoma dimostrazione dell'esattezza scientifica delle prime e dell'erroneità, per converso, delle altre, dovendosi al contrario considerare sufficiente che egli dimostri di avere comunque valutato le conclusioni del perito di ufficio, senza ignorare le argomentazioni del consulente e potendosi quindi ravvisare vizio di motivazione solo se queste ultime siano tali da dimostrare in modo assolutamente lampante e inconfutabile la fallacia delle conclusioni peritali. (Fattispecie in tema di perizia dattiloscopica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6528 del 11 maggio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2088/1996
+                                      In tema di sostituzione e revoca di misure cautelari personali, attesa la previsione, contenuta nell'art. 299, comma 4 ter, c.p.p., che gli accertamenti eventualmente necessari siano disposti senza formalità, deve escludersi che dia luogo a nullità, in caso di accertamento disposto mediante conferimento di incarico peritale, la mancata osservanza delle formalità previste dall'art. 226 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2088 del 17 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3521/1995
+                                      La perizia, anche se disposta nelle forme dell'incidente probatorio, può essere utilizzata ai fini dell'emissione della misura cautelare non appena sia stata depositata la relazione scritta, e quindi anche prima che il pericolo sia stato sentito, ponendosi il problema del rapporto temporale fra la lettura della relazione e l'esame orale del perito solo nella fase dibattimentale a norma dell'art. 511, comma 3, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3521 del  8 agosto 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10819/1994
+                                      Quando si procede con incidente probatorio, la nullità della procedura seguita per l'espletamento della perizia, per avere il Gip, dopo il conferimento dell'incarico e la fissazione di un termine per l'espletamento, omesso di rinviare ad altra udienza per l'audizione del perito, limitandosi a disporre il deposito di relazione scritta, deve essere eccepita prima del compimento della perizia, se la parte interessata è presente nella fase di scelta della procedura irregolare, e comunque, trattandosi di nullità attinente alla fase delle indagini preliminari, non oltre la celebrazione dell'udienza preliminare. Ne consegue che, in mancanza di tempestiva eccezione, si verifica decadenza dalla stessa, con l'ulteriore conseguenza che legittimamente la relazione peritale scritta viene inserita nel fascicolo del dibattimento e utilizzata per la decisione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 10819 del 22 ottobre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5030/1994
+                                      Qualora l'espletamento di una perizia venga affidato ad un collegio di tre periti e uno di costoro non prenda parte alle operazioni onde sia redatta e poi depositata ed utilizzata una perizia a due e non a tre, la perizia è da considerarsi inesistente e, quindi, inutilizzabile ai fini della decisione. Ed infatti, poiché a norma dell'art. 221, comma 2, c.p.p. il giudice affida l'espletamento della perizia a più persone quando le indagini e le valutazioni risultano di notevole complessità ovvero richiedono distinte conoscenze in differenti discipline, la perizia che provenga da alcuni soltanto dei soggetti designati, è inidonea a conseguire lo scopo perseguito e, quindi, non è riconducibile nell'ambito dell'atto voluto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 5030 del  2 maggio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4273/1994
+                                      In tema di prove, nell'ipotesi di lettura della relazione peritale la preventiva escussione del perito non è stabilita a pena di nullità: ed invero tali casi sono tassativamente previsti dalla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4273 del 13 aprile 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6945/1991
+                                      In tema di perizia assunta con incidente probatorio, deve escludersi che costituisca causa di nullità il fatto che, acquisito l'elaborato peritale, il giudice abbia negato la fissazione di nuova udienza per l'esame orale del perito, ritenendo che a tale incombente potesse darsi luogo nel corso del dibattimento. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6945 del 28 giugno 1991)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare un pronto ed efficiente utilizzo di tale fondamentale mezzo di prova, che assicura attraverso la relazione finale il rispetto dei canoni di semplificazione formale, nonchè del principio di oralità.
+Spiegazione: 
+La perizia, importante mezzo di prova, è caratterizzata dal fatto che offre al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione.
+
+Elemento fondamentale della perizia è la relazione finale, prevede che il perito risponda immediatamente ai quesiti propostigli, comunque in forma orale, mediante parere raccolto nel verbale, salvo il potere del giudice di ordinare che la relazione stessa si svolga in forma scritta, se ritenuta indispensabile ad illustrare meglio il parere espresso dal perito.
+
+Nell’ipotesi in cui il perito non sia in grado di rispondere immediatamente ai quesiti posti, e sempreché il giudice non ritenga di sostituirlo ex art. 231 per negligenza, imperizia o semplice inerzia), il legislatore ha previsto la concessione di un termine non superiore ai novanta giorni, affinché il perito stesso goda di maggior tempo per rispondere, dandone comunicazione alle parti ed ai consulenti tecnici.
+
+Ciononostante, il termine può essere ulteriormente prolungato dal giudice, quando gli accertamenti richiesti risultino di particolare complessità. Tale proroga presuppone una apposita richiesta del perito, che può essere presentata anche più volte per periodi non superiori ogni volta a 30 giorni, salvo il rispetto del termine massimo di sei mesi.
+

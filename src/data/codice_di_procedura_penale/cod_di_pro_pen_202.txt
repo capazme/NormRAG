@@ -1,0 +1,65 @@
+
+==================================================
+
+===== Article 202 =====
+[Primary - Text]
+Art. 202
+Titolo non trovato
+
+1.  I pubblici ufficiali, i pubblici impiegati e gli incaricati di un pubblico servizio hanno l'obbligo di astenersi dal deporre su fatti coperti dal segreto di Stato.
+
+2.  Se il testimone oppone un segreto di Stato, l'autorità giudiziaria ne informa il Presidente del Consiglio dei ministri, ai fini dell'eventuale conferma, sospendendo ogni iniziativa volta ad acquisire la notizia oggetto del segreto.
+
+3.  Qualora il segreto sia confermato e per la definizione del processo risulti essenziale la conoscenza di quanto coperto dal segreto di Stato, il giudice dichiara non doversi procedere per l'esistenza del segreto di Stato.
+
+4.  Se entro trenta giorni dalla notificazione della richiesta il Presidente del Consiglio dei ministri non dà conferma del segreto, l'autorità giudiziaria acquisisce la notizia e provvede per l'ulteriore corso del procedimento.
+
+5.  L'opposizione del segreto di Stato, confermata con atto motivato dal Presidente del Consiglio dei ministri, inibisce all'autorità giudiziaria l'acquisizione e l'utilizzazione, anche indiretta, delle notizie coperte dal segreto.
+
+6.  Non è, in ogni caso, precluso all'autorità giudiziaria di procedere in base a elementi autonomi e indipendenti dagli atti, documenti e cose coperti dal segreto.
+
+7.  Quando è sollevato conflitto di attribuzione nei confronti del Presidente del Consiglio dei ministri, qualora il conflitto sia risolto nel senso dell'insussistenza del segreto di Stato, il Presidente del Consiglio dei ministri non può più opporlo con riferimento al medesimo oggetto. Qualora il conflitto sia risolto nel senso della sussistenza del segreto di Stato, l'autorità giudiziaria non può né acquisire né utilizzare, direttamente o indirettamente, atti o documenti sui quali è stato opposto il segreto di Stato.
+
+8.  In nessun caso il segreto di Stato è opponibile alla Corte costituzionale. La Corte adotta le necessarie garanzie per la segretezza del procedimento.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 202
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 202
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 16362/2012
+                                      In tema di segreto di Stato opposto da un imputato ai sensi dell'art. 41, comma primo, della legge 3 agosto 2007 n. 124, la richiesta di conferma dell'esistenza del segreto, e l'eventuale successiva declaratoria di non doversi procedere ai sensi del comma terzo del citato art. 41, in caso di conferma del segreto da parte del Presidente del Consiglio dei Ministri, non sono impugnabili per difetto di motivazione qualora il giudice procedente abbia adeguatamente evidenziato, nei predetti provvedimenti, che le notizie, gli atti, i documenti coperti da segreto sono, da un lato, pertinenti all'ipotesi accusatoria e specificamente rilevanti per l'esercizio del diritto di difesa, e, dall'altro, essenziali ai fini del decidere sulla posizione dell'imputato opponente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 16362 del  3 maggio 2012)
+                  
+
+- 
+
+Ratio: Tale deroga all'obbligo della deposizione trova la propria ratio nell'esistenza e tutela del c.d. segreto di Stato.
+Spiegazione: 
+Oltre alla particolare disciplina relativa alla testimonianza dei prossimi congiunti di cui all'articolo 199, a quella dei soggetti tenuti al segreto professionale (art. 200) e a quello d'ufficio (art. 201) la norma in oggetto opera una ulteriore deroga al generale obbligo di verità della persona che si trovi a ricoprire l'ufficio di testimone.
+
+Infatti, per quanto concerne l'opposizione del segreto di Stato, in sede di testimonianza, da parte degli stessi soggetti tenuti ad oppore il segreto d'ufficio (vale a dire pubblici ufficiali, ai pubblici impiegati ed agli incaricati di pubblico servizio), per essi è innanzitutto previsto anche qui l'obbligo di tali soggetti di astenersi dal deporre su fatti oggetto di segreto di Stato.
+
+In tali evenienze si ribadisce l'obbligo dell'autorità giudiziaria di rivolgersi al Presidente del Consiglio dei ministri al fine di chiedere conferma della sussistenza del segreto, sospendendo medio tempore qualsiasi iniziativa volta ad acquisire la notizia oggetto di segreto.
+
+Qualora entro trenta giorni la sussistenza del segreto venga confermata con atto motivato, all'autorità giudiziaria sarà vietata l'acquisizione e l'utilizzo anche indiretto delle notizie coperte da segreto.
+
+Il legislatore, di conseguenza, ha ritenuto necessario adeguare l'andamento del processo nei casi in cui tali notizie non siano utilizzabili, e dunque, allorché il giudice reputi essenziale ai fini della definizione del processo la conoscenza delle notizie segrete, potrà soltanto dichiarare con sentenza il non doversi procedere per l'esistenza del segreto di Stato.
+
+Per contro, se la notizia coperta dal segreto non venga reputata dal giudice essenziale per il processo, quest'ultimo potrà proseguire, non essendo precluso procedere in base ad elementi autonomi ed indipendenti.
+
+Stessa soluzione è prevista nel caso in cui il Presidente del Consiglio dei ministri neghi la sussistenza del segreto di Stato, o comunque non risponda entro trenta giorni all'interpello del giudice.
+
+Il comma 7 descrive dunque le possibili alternative nell'eventualità in cui, a seguito della conferma circa la sussistenza del segreto, venga sollevato ad opera dell'autorità giudiziaria conflitto di attribuzione innanzi alla Corte Costituzionale (a cui nessun segreto di Stato è opponibile).
+
+Qualora il conflitto venga risolto nel senso della non sussistenza del segreto, il Presidente del Consiglio dei ministri non potrà più opporlo con riferimento al medesimo oggetto. Nell'ipotesi contraria, invece, l'autorità giudiziaria non potrà né acquisire, né utilizzare, direttamente o indirettamente, gli atti o i documenti rispetto ai quali il medesimo segreto sia stato opposto.
+

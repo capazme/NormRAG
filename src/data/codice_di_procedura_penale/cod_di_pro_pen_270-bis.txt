@@ -1,0 +1,47 @@
+
+==================================================
+
+===== Article 270-bis =====
+[Primary - Text]
+Art. 270-bis
+Titolo non trovato
+
+1.  L'autorità giudiziaria, quando abbia acquisito, tramite intercettazioni, comunicazioni di servizio di appartenenti al Dipartimento delle informazioni per la sicurezza o ai servizi di informazione per la sicurezza, dispone l'immediata secretazione e la custodia in luogo protetto dei documenti, dei supporti e degli atti concernenti tali comunicazioni.
+
+2.  Terminate le intercettazioni, l'autorità giudiziaria trasmette al Presidente del Consiglio dei ministri copia della documentazione contenente le informazioni di cui intende avvalersi nel processo, per accertare se taluna di queste informazioni sia coperta da segreto di Stato.
+
+3.  Prima della risposta del Presidente del Consiglio dei ministri, le informazioni ad esso inviate possono essere utilizzate solo se vi è pericolo di inquinamento delle prove, o pericolo di fuga, o quando è necessario intervenire per prevenire o interrompere la commissione di un delitto per il quale sia prevista la pena della reclusione non inferiore nel massimo a quattro anni. Resta ferma la disciplina concernente la speciale causa di giustificazione prevista per attività del personale dei servizi di informazione per la sicurezza.
+
+4.  Se entro sessanta giorni dalla notificazione della richiesta il Presidente del Consiglio dei ministri non oppone il segreto, l'autorità giudiziaria acquisisce la notizia e provvede per l'ulteriore corso del procedimento.
+
+5.  L'opposizione del segreto di Stato inibisce all'autorità giudiziaria l'utilizzazione delle notizie coperte dal segreto.
+
+6.  Non è in ogni caso precluso all'autorità giudiziaria di procedere in base ad elementi autonomi e indipendenti dalle informazioni coperte dal segreto.
+
+7.  Quando è sollevato conflitto di attribuzione nei confronti del Presidente del Consiglio dei ministri, qualora il conflitto sia risolto nel senso dell'insussistenza del segreto di Stato, il Presidente del Consiglio dei ministri non può più opporlo con riferimento al medesimo oggetto. Qualora il conflitto sia risolto nel senso della sussistenza del segreto di Stato, l'autorità giudiziaria non può acquisire né utilizzare, direttamente o indirettamente, atti o documenti sui quali è stato opposto il segreto di Stato.
+
+8.  In nessun caso il segreto di Stato è opponibile alla Corte costituzionale. La Corte adotta le necessarie garanzie per la segretezza del procedimento.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 270 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 270-bis
+
+[Secondary - Brocardi Information]
+Ratio: La norma predispone una particolare disciplina in merito all'acquisizione, attraverso lo strumento delle intercettazioni, di comunicazioni di servizio di appartenenti ai servizi di sicurezza, la cui ratio si ravvisa nella necessità di considerare la sensibilità delle informazioni così ottenute.
+Spiegazione: 
+Le intercettazioni appartengono ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+L’ambito delle intercettazioni si presenta assai delicato, in quanto coinvolge la libertà e la segretezza delle comunicazioni, definite inviolabili dall’articolo 15 della Costituzione.
+
+L’ambito della segretezza viene trattato anche dal presente articolo, con particolare riferimento alle ipotesi in cui l’Autorità giudiziaria, tramite le intercettazioni, abbia acquisito comunicazioni di servizio di appartenenti al sistema dei servizi di sicurezza. La relativa documentazione deve venire immediatamente secretata e custodita in luogo protetto, per poi darne comunicazione al presidente del Consiglio dei ministri, con le informazioni che l’Autorità giudiziaria ritiene rilevanti per il processo e per le quali è sorto il dubbio se siano o meno coperte da segreto.
+
+Qualora entro sessanta giorni il Premier non opponga il segreto, l’Autorità giudiziaria può acquisire la documentazione trasmessa e proseguire con il normale decorso del procedimento penale.
+
+In caso contrario, qualora venga opposto il segreto, all’Autorità giudiziaria è inibita l’utilizzazione delle notizie coperte da segreto.
+
+Pare importante precisare che nel non brevissimo lasso di tempo che intercorre tra la comunicazione al Premier e la relativa risposta l’Autorità giudiziaria può comunque utilizzare le informazioni acquisite, ma solo in prospettiva cautelare, e quindi quando vi sia pericolo di inquinamento di prove o pericolo di fuga, oppure quando sia necessario intervenire per prevenire o interrompere la commissione di un delitto per il quale sia prevista la pena non inferiore nel minimo a quattro anni.
+
+Tuttavia, per l’ovvia importanza che l’attività della Corte Costituzionale investe, in nessun caso può essere opposto il segreto nei confronti dei giudici costituzionali nell’esercizio delle proprie funzioni.
+

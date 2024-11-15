@@ -1,0 +1,163 @@
+
+==================================================
+
+===== Article 190 =====
+[Primary - Text]
+Art. 190
+Diritto alla prova
+
+1.  Le prove sono ammesse a richiesta di parte. Il giudice provvede senza ritardo con ordinanza escludendo le prove vietate dalla legge e quelle che manifestamente sono superflue o irrilevanti.
+
+2.  La legge stabilisce i casi in cui le prove sono ammesse di ufficio.
+
+3.  I provvedimenti sull'ammissione della prova possono essere revocati sentite le parti in contraddittorio.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo I - Disposizioni generali>Articolo 190
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 190
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 42965/2015
+                                      In tema di rinnovazione dell'istruzione dibattimentale in sede di appello, il giudice, ove trattasi di prove nuove sopravvenute o scoperte dopo il giudizio di primo grado, deve disporre la detta rinnovazione osservando i soli limiti previsti dall'art. 495, comma primo, cod. proc. pen. che richiama la regola generale stabilita dall'art. 190, comma primo, cod. proc. pen., secondo cui il giudice ammette le prove escludendo quelle vietate dalla legge o quelle che manifestamente sono superflue o irrilevanti; ne consegue che l'assunzione delle dette prove nuove deve sempre essere vagliata dal giudice di appello sotto il profilo dell'utilità processuale, non invece sotto il profilo della loro indispensabilità o assoluta necessità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 42965 del 26 ottobre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9606/2012
+                                      La parte che abbia omesso di depositare la lista dei testimoni nel termine di legge ha la facoltà di chiedere la citazione a prova contraria dei testimoni, periti e consulenti tecnici, considerato che il termine perentorio per il deposito della lista dei testimoni è stabilito, a pena di inammissibilità, dall'art. 468, comma primo, soltanto per la prova diretta e non anche per quella contraria, giacché diversamente, il diritto alla controprova che costituisce espressione fondamentale del diritto di difesa, ne risulterebbe vanificato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 9606 del 13 marzo 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15208/2010
+                                      Il diritto alla prova riconosciuto alle parti implica la corrispondente attribuzione del potere di escludere le prove manifestamente superflue ed irrilevanti, secondo una verifica di esclusiva competenza del giudice di merito che sfugge al sindacato di legittimità ove abbia formato oggetto di apposita motivazione immune da vizi logici e giuridici.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 15208 del 25 febbraio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 45450/2008
+                                      In tema di prove testimoniali, la mancata citazione per l'udienza dei testimoni già ammessi dal giudice non può, per ciò solo, comportare la decadenza dalla prova, salvo che il giudice, ritenendo la stessa superflua, non provveda motivatamente a revocarla.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 45450 del  9 dicembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 49491/2003
+                                      In tema di formazione della prova, la violazione dell'obbligo del teste di non assistere all'esame delle parti e degli altri testi non è sanzionata da alcuna nullità o inutilizzabilità, sì che incombe al giudice, in sede di successiva valutazione della testimonianza, verificare se la rilevata irregolarità del mancato isolamento del teste durante il dibattimento abbia nociuto alla attendibilità della testimonianza. (Sulla base di tale principio la Corte ha ritenuto violato il diritto alla prova dell'imputato dall'ordinanza con cui il giudice di merito non aveva ammesso a testimoniare una persona ritualmente citata dalla difesa, sul presupposto che tale teste aveva assistito in aula alla istruttoria dibattimentale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 49491 del 31 dicembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38812/2002
+                                      Il potere del giudice di revocare l'ammissione di prove “superflue” in base alle risultanze dell'istruttoria dibattimentale (art. 495, comma 4, c.p.p.) è ben più ampio di quello riconosciuto all'inizio del dibattimento (art. 190, comma 1, c.p.p.) di non ammettere le prove vietate dalla legge e quelle “manifestamente” superflue o irrilevanti, in relazione al diverso grado di conoscenza della regiudicanda che caratterizza i due distinti momenti del processo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 38812 del 19 novembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3977/1997
+                                      Gli atti investigativi compiuti dal difensore ai sensi dell'art. 38 att. c.p.p., essendo formati da un soggetto del procedimento nell'esercizio di una facoltà riconosciutagli dall'ordinamento al fine di essere esibiti dal giudice, che ha il dovere di prenderli in considerazione al momento della decisione, hanno il valore di atti del procedimento, per cui il loro risultato probatorio è utilizzabile tanto quanto quello degli atti di indagine compiuti dal pubblico ministero. La valutazione del contenuto degli atti investigativi della difesa rimane pertanto affidata al prudente apprezzamento del giudice, il quale, nell'esercizio del suo libero convincimento, deve comunque tener conto della diversità di disciplina esistente tra l'indagine condotta dal titolare della funzione d'accusa e quella del difensore, ed in particolare della circostanza che gli elementi forniti dalla difesa sono circondati da una minor garanzia di veridicità, dato che alle dichiarazioni raccolte ai sensi dell'art. 38 att. c.p.p. non si applicano agli artt. 371 bis, 476 e 479 c.p. né le rigorose modalità di documentazione cui devono attenersi gli organi inquirenti. (In applicazione di tale principio, la Corte — pur rigettando il ricorso sotto altri profili — ha censurato l'ordinanza del tribunale della libertà che aveva negato rilievo ai nuovi elementi prodotti dalla difesa, consistenti in dichiarazioni di persone informate sui fatti, affermando che le informazioni raccolte in sede di indagine difensiva non possono provare il fatto oggetto della dichiarazione, ma unicamente il fatto storico dell'avvenuta dichiarazione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3977 del  2 dicembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5976/1997
+                                      Qualora la parte rinunci all'assunzione di una prova già, su sua richiesta, ammessa, detta rinuncia non vincola il giudice, il quale deve comunque valutare se la prova in questione sia divenuta o meno superflua e provvedere, quindi, in caso positivo, a revocarne l'ammissione, nel modo previsto dall'art. 495, comma 4, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5976 del 19 giugno 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6422/1994
+                                      Il diritto alla prova riconosciuto alle parti dall'art. 190, primo comma, c.p.p., implica la corrispondente attribuzione del potere di escludere le prove manifestamente superflue ed irrilevanti, secondo una verifica di esclusiva competenza del giudice di merito e che sfugge al sindacato di legittimità, quando abbia formato oggetto di apposita motivazione che abbia dato conto del provvedimento adottato attraverso una spiegazione immune da vizi logici e giuridici. (Nella fattispecie la corte ha affermato l'insindacabilità della decisione del giudice di merito che, sulla base della posizione assolutamente negativa assunta dal coimputato di prestare il proprio contributo di conoscenze e che avrebbe reso comunque inattendibile - nel caso, del tutto teorico in cui il suo atteggiamento fosse mutato - il successivo atto di ricognizione, ha ritenuto di non procedere al compimento di detto atto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6422 del  1 giugno 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2333/1994
+                                      Nel giudizio abbreviato d'appello il giudice, ove lo ritenga assolutamente necessario ai fini della decisione, può disporre d'ufficio l'assunzione di nuove prove; le parti, invece, non hanno i normali poteri di disposizione della prova concessi loro dall'art. 190 c.p.p., avendo rinunciato a tale diritto coll'utilizzazione del rito abbreviato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2333 del 24 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3666/1993
+                                      Nel vigente sistema processuale — caratterizzato dalla dialettica delle parti (art. 190 c.p.p.), alle quali è attribuito l'onere di allegare le prove a sostegno dei rispettivi petita — il giudice è tenuto a provvedere sulle relative richieste sulla base dei parametri di ammissibilità enunciati dall'art. 190, comma primo, c.p.p., con riguardo cioè ai divieti probatori ed alla pertinenza della prova richiesta al thema decidendum. Ogni diversa valutazione, non improntata ai suddetti criteri, in fatto e in diritto, non solo esula dal potere del giudice ma contravviene al diritto alla prova delle parti, concretizzando una violazione di legge che vizia la relativa pronuncia del giudice. (Nella fattispecie, sulla base del principio sopra massimato, sono state annullate l'ordinanza dibattimentale e la sentenza che avevano ritenuto l'art. 234 c.p.p. ostativo alla acquisizione di un mandato di cattura emesso in altro procedimento e del certificato di carichi pendenti, richiesta dal pubblico ministero per desumere elementi relativi alla personalità dell'imputato ed al corretto esercizio del potere discrezionale avente ad oggetto la concessione delle attenuanti generiche, dal tribunale ritenute prevalenti sulle contestate aggravanti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3666 del 15 aprile 1993)
+                  
+
+- 
+
+Ratio: La norma, che chiarisce l'impronta accusatoria del nuovo codice, esplicita il duplice livello sul quale si articola il diritto alla prova riconosciuto alle parti, ovvero come diritto di chiedere l'missione di determinate prove e come diritto ad ottenere la prova richiesta.
+Spiegazione: 
+Le modalità attraverso le quali si articola l’ammissione della prova rappresentano uno dei terreni in cui il legislatore ha inciso maggiormente per raggiungere il nuovo modello di processo di parti, tramite cui attribuire alle parti stesse un vero e proprio diritto alla prova.
+
+Difatti, capovolgendo i precedenti sistemi inquisitori, il codice enuncia il principio secondo cui le prove sono ammesse a richiesta di parte, ed impone al giudice di decidere con ordinanza circa l’ammissibilità delle stesse, introducendo dunque il principio accusatorio.
+
+Il diritto alla prova si divide in due corollari: da una parte vi è il diritto di richiedere l’ammissione di determinate prove, salve le ipotesi in cui il giudice può inserire d’ufficio alcune prove all’interno del processo, nei casi stabiliti dalla legge; dall’altra parte vi è il diritto ad ottenere le prove richieste, nei limiti, ovviamente, in cui esse possono essere ammesse.
+
+Mentre la verifica sulla rilevanza della prova si risolve in un giudizio circa al sua riconducibilità all'ambito oggettivo delineato ex art. 187, la verifica relativa alla non supefluità comporta un giudizio sulla potenziale utilità della stessa e quindi sulla sua attitudine a contribuire in termini positivi all'arricchimento della piattaforma su cui dovrà formarsi il convincimento del giudice.
+
+Ad ogni modo, la norma in commento inserisce un “filtro” all’interno della valutazione del giudice in ordine all’ammissibilità della prova. Egli dovrà innanzitutto escludere le prove vietate dalla legge, vale a dire quelle per cui esiste un espresso divieto. In secondo luogo deve escludere le prove che risultino in concreto manifestamente superflue o irrilevanti.
+
+Al fine di non discostarsi dal principio accusatorio su delineato, la norma stabilisce inoltre il divieto di revocare i provvedimenti relativi all’ammissione della prova senza istaurare un previo contraddittorio. Solo in tale ultimo caso, dunque, il giudice potrà revocare l’ordinanza che ha ammesso la prova.
+
+Va comunque precisato che l’area di incidenza dei principi citati si estende all’intero processo e non solo alla fase dibattimentale, come ad esempio all’incidente probatorio (v. artt. 392 e ss).
+
+Alle regole di cui al presente articolo si deroga solo nei particolari casi di cui all’articolo seguente 190 bis.
+

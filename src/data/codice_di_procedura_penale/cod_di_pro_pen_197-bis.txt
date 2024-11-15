@@ -1,0 +1,237 @@
+
+==================================================
+
+===== Article 197-bis =====
+[Primary - Text]
+Art. 197-bis
+Titolo non trovato
+
+1.  L'imputato in un procedimento connesso ai sensi dell'articolo 12 o di un reato collegato a norma dell'articolo 371, comma 2, lettera b), può essere sempre sentito come testimone quando nei suoi confronti è stata pronunciata sentenza irrevocabile di proscioglimento, di condanna o di applicazione della pena ai sensi dell'articolo 444.
+
+2.  L'imputato in un procedimento connesso ai sensi dell'articolo 12, comma 1, lettera c), o di un reato collegato a norma dell'articolo 371, comma 2, lettera b), può essere sentito come testimone, inoltre, nel caso previsto dall'articolo 64, comma 3, lettera c).
+
+3.  Nei casi previsti dai commi 1 e 2 il testimone è assistito da un difensore. In mancanza di difensore di fiducia è designato un difensore di ufficio. (155)  ((244))
+
+4.  Nel caso previsto dal comma 1 il testimone non può essere obbligato a deporre sui fatti per i quali è stata pronunciata in giudizio sentenza di condanna nei suoi confronti, se nel procedimento egli aveva negato la propria responsabilità ovvero non aveva reso alcuna dichiarazione. Nel caso previsto dal comma 2 il testimone non può essere obbligato a deporre su fatti che concernono la propria responsabilità in ordine al reato per cui si procede o si è proceduto nei suoi confronti.
+
+5.  In ogni caso le dichiarazioni rese dai soggetti di cui al presente articolo non possono essere utilizzate contro la persona che le ha rese nel procedimento a suo carico, nel procedimento di revisione della sentenza di condanna ed in qualsiasi giudizio civile o amministrativo relativo al fatto oggetto dei procedimenti e delle sentenze suddette.
+
+6.  Alle dichiarazioni rese dalle persone che assumono l'ufficio di testimone ai sensi del presente articolo si applica la disposizione di cui all'articolo 192, comma 3. (155)  ((244))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 197 bis
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 197-bis
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 13844/2017
+                                      In tema di prova testimoniale, qualora nel corso del dibattimento il pubblico ministero si limiti ad escutere il teste (nella specie ex art.197-bis cod.proc.pen.) già sentito in sede di incidente probatorio solo su specifici fatti sopravvenuti e, per il resto, chieda la conferma delle dichiarazioni rese, tale richiesta assume il significato della sostanziale rinuncia all'escussione del teste sui temi di prova oggetto dell'incidente probatorio, con la conseguente preclusione, per la parte che non aveva inserito il teste nella lista ex art.468 cod.proc.pen. e che aveva partecipato all'assunzione della prova ex art.392 cod.proc.pen., a procedere al controesame sui fatti oggetto delle precedenti dichiarazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 13844 del 21 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 53691/2016
+                                      Devono ritenersi dichiarazioni testimoniali e sono pienamente utilizzabili i contributi dichiarativi resi alla polizia giudiziaria nel corso delle indagini preliminari da migranti soccorsi in acque internazionali e trasportati su territorio nazionale, non potendo configurarsi nei loro confronti il reato di cui all'art. 10-bis del D.Lgs. n. 286 del 1998, né potendo ipotizzarsi che il pericolo di vita, cui è seguita l'azione di salvataggio, sia stato dagli stessi previsto e artatamente creato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 53691 del 16 dicembre 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 267/2012
+                                      Il testimone esaminato in ordine a reati per i quali abbia già riportato condanna va sentito ai sensi dell'art. 197-bis, comma primo, cod. proc. pen., ma senza ricevere gli avvisi previsti dall'art. 64 cod. proc. pen.; ne consegue che l'eventuale difetto di assistenza difensiva non produce l'inutilizzabilità delle sue dichiarazioni, ma costituisce unicamente un vizio della procedura acquisitiva che va immediatamente eccepito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 267 del 11 gennaio 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19342/2010
+                                      È configurabile il delitto di falsa testimonianza nei confronti di colui che, condannato in via definitiva in separato procedimento prima dell'entrata in vigore della L. n. 63 del 2001 ed autore nel corso delle indagini preliminari di propalazioni eteroaccusatorie nei confronti dei coimputati nello stesso reato, renda dichiarazioni mendaci nel processo a carico di questi ultimi, dove era stato citato a testimoniare ai sensi dell'art. 197 bis, comma primo, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 19342 del 21 maggio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 16908/2009
+                                      È legittima la rinnovazione in appello dell'istruzione dibattimentale disposta per l'esame della persona imputata o giudicata in procedimento connesso o per reato collegato che abbia assunto l'ufficio di testimone le cui dichiarazioni rese in primo grado siano inutilizzabili in quanto assunte senza la presenza del difensore.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 16908 del 21 aprile 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44527/2008
+                                      La persona offesa del reato, che sia stata a sua volta indagata per reato "reciproco" ai danni dell'imputato, può deporre in qualità di testimone assistito anche se il relativo procedimento è stato archiviato, ma le dichiarazioni concernenti la responsabilità di quest'ultimo sono inutilizzabili se non è stata avvertita delle garanzie richiamate dall'art. 197 bis, comma secondo, c.p.p.. (Fattispecie in cui la persona offesa era stata denunziata dall'imputato per calunnia e diffamazione e il relativo procedimento era stato archiviato prima della deposizione della stessa).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 44527 del 28 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4230/2008
+                                      Con riferimento alla materia delle misure cautelari personali, sono utilizzabili le dichiarazioni erga alios rese da un coindagato senza l'assistenza del difensore, in quanto la sanzione dell'inutilizzabilità, a norma dell'art. 197 bis, comma quinto c.p.p., è prevista solo nel caso in cui di tali dichiarazioni si faccia uso contro la persona che le ha rese.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4230 del 28 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 31945/2007
+                                      Deve ritenersi ammissibile la testimonianza, ai sensi dell'art. 197 bis c.p.p., dell'imputato di corruzione attiva in un procedimento connesso, qualora nei suoi confronti sia stata pronunciata sentenza non impugnabile di non luogo a procedere per intervenuta prescrizione. (In motivazione, la Corte di cassazione ha altresì precisato che la testimonianza ai sensi della norma citata sarebbe ammissibile nel caso di dichiarazioni rese da imputato di corruzione passiva, in relazione alle quali potrebbe prospettarsi l'eventualità della revoca della sentenza ex art. 425 c.p.p. per corruzione al fine di procedere nei confronti del dichiarante per concussione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 31945 del  3 agosto 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24743/2007
+                                      La dichiarazione liberatoria di un coimputato, o comunque di un soggetto che va esaminato ai sensi dell'art. 197 bis c.p.p., deve essere valutata «unitamente agli altri elementi che ne confermano l'attendibilità» (art. 192, comma terzo, c.p.p.), e non costituisce, pertanto, da sola, «prova nuova» agli effetti della richiesta di revisione, bensì mero elemento probatorio integrativo di quelli confermativi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 24743 del 22 giugno 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15804/2007
+                                      L'ufficio di testimone ex articolo 197 bis c.p.p. può essere assunto da persone indagate in procedimento connesso o collegato, anche se sia stata disposta nei loro confronti l'archiviazione, per i fatti riguardanti la responsabilità di altri, sempre che la persona non si sia avvalsa della facoltà di non rispondere. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 15804 del 19 aprile 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41028/2002
+                                      Ai fini della utilizzabilità delle dichiarazioni, rese da taluno dei soggetti indicati negli artt. 64 e 197 bis c.p.p. dei quali il pubblico ministero abbia dovuto rinnovare l'esame ai sensi dell'art. 26, comma 2, della legge 1 marzo 2001 n. 63 sul c.d. «giusto processo», non è necessario che la rinnovazione avvenga mediante una pedissequa ripetizione delle precedenti affermazioni, essendo sufficiente che la persona interrogata si limiti a confermare il contenuto di quanto in precedenza dichiarato, nella piena consapevolezza della natura e degli effetti dell'atto che compie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 41028 del  5 dicembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37245/2002
+                                      Qualora, nel corso del processo, siano state assunte, secondo le modalità previste dalla normativa all'epoca vigente, le dichiarazioni di soggetti da considerarsi come imputati in procedimento connesso, la sopravvenuta entrata in vigore della L. 1 marzo 2001 n. 63, introduttiva, con l'art. 6, dell'art. 197 bis c.p.p., il quale prevede la possibilità che i soggetti suindicati vengano sentiti come testimoni, non implica che debba provvedersi ad una loro nuova audizione in tale veste, rimanendo valide le dichiarazioni da essi già rese in precedenza nelle forme allora prescritte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 37245 del  7 novembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24730/2002
+                                      Nel giudizio di appello, successivo all'entrata in vigore della legge 1 marzo 2001, n. 63, sul c.d. “giusto processo”, sono pienamente utilizzabili le dichiarazioni rese dai coimputati, sulla base della normativa previgente, nel corso dell'interrogatorio dinanzi al pubblico ministero e già poste a fondamento della responsabilità dell'imputato nel giudizio di primo grado definito con il rito abbreviato, dovendo escludersi l'applicazione della nuova disciplina ai sensi dell'art. 26, commi 1 e 2, della legge n. 63/2001 (nel caso di specie, la Corte ha escluso che il giudice, al fine di utilizzare le dichiarazioni acquisite nel precedente giudizio di primo grado definito con il rito abbreviato, fosse tenuto a disporre per la prima volta il dibattimento per procedere all'esame dei coimputati secondo la nuova disciplina di cui agli artt. 64 e 197 bis c.p.p.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 24730 del 27 giugno 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 17900/2002
+                                      L'art. 26 comma 2 della legge 1 marzo 2001, n. 63, condiziona la conservazione dell'efficacia alle dichiarazioni rese dai soggetti indicati dagli artt. 64 e 197 bis c.p.p. alla loro rinnovazione da parte del pubblico ministero, purché il procedimento si trovi ancora nella fase delle indagini preliminari, restando del tutto ininfluente, a questi fini, che i termini di durata massima delle indagini siano scaduti, con la conseguenza che la rinnovazione è sempre consentita fino a quando non venga esercitata l'azione penale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 17900 del 10 maggio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13192/2002
+                                      In tema di «giusto processo», la rinnovazione da parte del pubblico ministero, a norma dell'art. 26, comma 2, della L. 1 marzo 2001, n. 63, dell'esame dei soggetti indicati negli artt. 64 e 197 bis c.p.p. - il primo modificato ed il secondo introdotto dalla stessa L. n. 63 del 2001 - è possibile fino a che il procedimento si trovi ancora nella fase delle indagini preliminari e la sua effettuazione non deve necessariamente precedere l'adozione dell'ordinanza applicativa di misura cautelare basata sulle dichiarazioni dei soggetti anzidetti, le quali conservano la loro validità per tutta la durata della medesima fase. (In applicazione di tale principio, la Corte ha respinto il ricorso con il quale si denunciava la pretesa inutilizzabilità, a fini cautelari, di dichiarazioni assunte prima dell'entrata in vigore della L. n. 63 del 2001, alla cui rinnovazione si era proceduto dopo l'adozione dell'ordinanza cautelare ma prima della chiusura delle indagini preliminari, con produzione dei relativi verbali all'udienza di riesame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 13192 del  8 aprile 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13011/2002
+                                      In tema di «giusto processo» e con riferimento alla materia delle misure cautelari personali, qualora prima dell'entrata in vigore della L. 1 marzo 2001, n. 63 si sia svolto regolarmente, secondo la disciplina all'epoca vigente, il procedimento di acquisizione e valutazione del quadro indiziario e sia intervenuta la chiusura della fase delle indagini preliminari — con conseguente preclusione della possibilità per il pubblico ministero di procedere alla rinnovazione dell'esame dei soggetti indicati negli artt. 64 e 197 bis c.p.p., come previsto dalla disciplina transitoria di cui all'art. 26, comma 2, della citata L. n. 63 del 2001 — deve ammettersi che, ai soli fini del mantenimento delle misure in questione, conservino validità le dichiarazioni precedentemente rese dai medesimi soggetti, ancorché la loro assunzione sia stata effettuata senza l'osservanza delle formalità previste a pena di inutilizzabilità dalla normativa sopravvenuta. (Nella specie, la Corte di cassazione ha ritenuto utilizzabili le dichiarazioni rese da soggetti indicate negli artt. 34 e 197, senza che fosse stato dato l'avvertimento previsto dal comma 3 del medesimo art. 64, in quanto all'epoca non ancora vigente).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 13011 del  5 aprile 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12575/2002
+                                      In tema di prova dichiarativa, la norma di cui all'art. 26, comma 2, della legge 1 marzo 2001 n. 63 obbliga il pubblico ministero a rinnovare secondo le forme previste dagli artt. 64 e 197 bis c.p.p. l'esame dei soggetti che hanno reso dichiarazioni eteroaccusatorie ai fini della loro utilizzabilità probatoria, di guisa che si configura irrilevante, sempre che il procedimento penda nella fase delle indagini stesse, la circostanza che siano già scaduti i termini di durata delle indagini preliminari. (In applicazione di tale principio la Corte ha ritenuto utilizzabili ai fini della applicazione di una misura coercitiva le dichiarazioni rese da un collaboratore di giustizia, rinnovate dal pubblico ministero, secondo la disciplina transitoria, nella fase delle indagini preliminari nonostante la scadenza del termine massimo fissato per queste ultime).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 12575 del 20 marzo 2002)
+                  
+
+- 
+
+Ratio: Il legislatore ha introdotto la norma in esame al fine di regolare i modi dell'assunzione della testimonianza delle persone imputate o giudicate in un procedimento connesso o collegato che assumono l'ufficio di testimone, sulla base degli emendamenti subiti dalla disposizione precedente.
+Spiegazione: 
+La testimonianza appartiene ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione.
+
+Ferme le incompatibilità previste dall'articolo precedente (art. 197, la norma in commento trova applicazione in riferimento alle persone che, avendo rivestito la posizione di imputato in un procedimento connesso o collegato, possono comunque rivestire la qualifica di testimone in talune ipotesi.
+
+Le ipotesi sono innanzitutto quelle in cui l'imputato si trovi in una delle posizioni di cui alle lettere a e b, allorquando nei loro confronti sia stata pronunciata sentenza irrevocabile di proscioglimento ovvero sentenza irrevocabile di condanna, compresa la sentenza di patteggiamento ex art. 444. Essi sono dunque tutti gli imputati in un procedimento connesso o di un reato collegato, i quali abbiano reso in interrogatorio dichiarazioni concernenti la responsabilità di altri (ove avvertiti ex art. 64 comma 3 lett.c.
+
+I sintesi, le previsioni dei primi due commi delineano l'ambito soggettivo degli imputati destinatari della particolare disciplina ivi dettata, in relazione alle ipotesi in cui gli stessi assumano l'ufficio di testimone, cui vanno aggiunte le garanzie difensive. Egli viene infatti assistito dal difensore.
+
+Al comma 4, in aggiunta alla particolare clausola derogatoria di cui all'art. 198 co. 2, il comma 4 della presente norma individua altre due ipotesi in cui il testimone non può essere obbligato a deporre.
+
+In primo luogo, nelle ipotesi di cui al primo comma, egli può rifiutarsi di deporre sui fatti per i quali in giudizio sia stata pronunciata a suo carico sentenza irrevocabile di condanna, allorchè nel procedimento avesse negato la propria responsabilità ovvero non avesse reso alcuna dichiarazione.
+
+In secondo luogo, nelle ipotesi di cui al comma 2, la norma stabilisce che il testimone è esonerato dall'obbligo di deporre su fatti concernenti la propria responsabilità in ordine al reato per cui si procede o si è proceduto nei suoi confronti, per cui nessun testimone può essere obbligato a deporre su fatti dai quali potrebbe emergere una sua responsabilità.
+
+Oltre a tali garanzie, destinate a trovare applicazione ex ante, vi sono altre garanzie utilizzabili ex post, come quelle di cui al comma 5, in cui si stabilisce che tali dichiarazioni non possono essere utilizzate contro la persona da cui provengono nel procedimento a suo carico, sia ove ancora in corso, sia pro futuro, in un eventuale giudizio di revisione o in qualsiasi altro giudizio civile o amministrativo relativo al fatto oggetto di tali procedimenti o di tale sentenza.
+
+Meno chiara invece la ratio sottesa all'ultimo comma, ove si prevede che le dichiarazioni provenienti dai testimoni di cui alla presente norma venga estesa la regola dettata dall'articolo 192 comma 3, nel senso che tali dichiarazioni vengano corroborate da altri elementi di prova che ne confermino l'attendibilità. La Corte Costituzionale ha in più riprese ridisegnato i confini applicativi di tale ultimo comma (v. note).
+

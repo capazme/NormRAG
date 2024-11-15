@@ -1,0 +1,262 @@
+
+==================================================
+
+===== Article 247 =====
+[Primary - Text]
+Art. 247
+Casi e forme delle perquisizioni
+
+1.  Quando vi è fondato motivo di ritenere che taluno occulti sulla persona il corpo del reato o cose pertinenti al reato, è disposta perquisizione personale. Quando vi è fondato motivo di ritenere che tali cose si trovino in un determinato luogo ovvero che in esso possa eseguirsi l'arresto dell'imputato o dell'evaso, è disposta perquisizione locale.
+
+((
+
+1-bis.  Quando vi è fondato motivo di ritenere che dati, informazioni, programmi informatici o tracce comunque pertinenti al reato si trovino in un sistema informatico o telematico, ancorché protetto da misure di sicurezza, ne è disposta la perquisizione, adottando misure tecniche dirette ad assicurare la conservazione dei dati originali e ad impedirne l'alterazione.
+
+))
+
+2.  La perquisizione è disposta con decreto motivato.
+
+3.  L'autorità giudiziaria può procedere personalmente ovvero disporre che l'atto sia compiuto da ufficiali di polizia giudiziaria delegati con lo stesso decreto.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo II - Perquisizioni>Articolo 247
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 247
+
+[Secondary - Brocardi Information]
+Brocardi: 
+- 
+“
+Perquisitio
+”
+
+                        Perquisizione
+                      
+
+Massime: 
+- 
+
+- 
+Cass. pen. n. 15784/2017
+                                      L'illegittimità della perquisizione non invalida il conseguente sequestro, qualora vengano acquisite cose costituenti corpo di reato o a questo pertinenti, dovendosi considerare che il potere di sequestro non dipende dalle modalità con le quali le cose, oggettivamente sequestrabili, sono state reperite, ma è condizionato unicamente all'acquisibilità del bene e alla insussistenza di divieti probatori espliciti o univocamente enucleabili dal sistema.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 15784 del 29 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 37644/2015
+                                      In tema di perquisizione di sistema informatico o telematico, sia l'art. 247, comma 1-bis, che l'art. 260, comma secondo, cod. proc. pen., si limitano a richiedere l'adozione di misure tecniche e di procedure idonee a garantire la conservazione dei dati informatici originali e la conformità ed immodificabilità delle copie estratte per evitare il rischio di alterazioni, senza imporre misure e procedure tipizzate. (Fattispecie in cui la Corte ha rigettato il motivo di ricorso genericamente fondato sulla mancata indicazione, da parte del consulente tecnico del PM, del cd. valore "hash" dei files ottenuti dai supporti informatici, in assenza peraltro di contestazione circa la mancata corrispondenza fra le copie estratte e i dati originariamente presenti sui supporti informatici nella disponibilità dell'imputato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 37644 del 17 settembre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20854/2005
+                                      Il decreto del pubblico ministero con il quale venga disposto il c.d. «blocco» di una cassetta di sicurezza, quando non abbia le finalità esclusivamente conoscitive proprie di un tale provvedimento, ma si caratterizzi per la produzione di effetti sostanzialmente ablativi del contenuto di detta cassetta, assume di fatto le caratteristiche di un vero e proprio decreto di perquisizione e deve essere pertanto motivato, a pena di nullità. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 20854 del  3 giugno 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2108/2000
+                                      In tema di riesame, è da ritenersi inoppugnabile, non essendo previsto alcun mezzo di gravame, il provvedimento di convalida di perquisizione operata dalla polizia giudiziaria; conseguentemente, la eventuale richiesta di riesame avanzata dalla parte deve essere dichiarata inammissibile.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2108 del  8 giugno 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1934/1998
+                                      È legittimo il sequestro di cose ritenute corpo di reato o pertinenti al reato effettuato dalla polizia giudiziaria all'esito del decreto del P.M. di perquisizione e sequestro anche se la cosa sequestrata non sia stata descritta nel provvedimento di perquisizione, se alla sua individuazione possa comunque pervenirsi mediante il riferimento sia alla natura del reato in relazione al quale la perquisizione era stata disposta, sia alle nozioni normative di «corpo di reato» e di «cosa pertinente al reato». (Nella specie la Corte ha ritenuto corretto il comportamento del P.M. che aveva rigettato la richiesta di restituzione di un libretto di risparmio al portatore da parte dell'indagato — che sosteneva la mancata convalida del sequestro, ritenuta, invece, non necessaria da parte del P.M. — in un caso in cui il decreto di perquisizione conteneva un elenco dettagliato delle cose da ricercare e sottoporre a sequestro, per concludere con il riferimento ulteriore a «Documentazione e quant'altro comunque attinente ai fatti per cui si procede»).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1934 del 14 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1035/1998
+                                      Dall'insufficiente motivazione del decreto di perquisizione emesso dal pubblico ministero non consegue alcun effetto preclusivo in tema di sequestro, sia perché perquisizione e sequestro hanno differenti presupposti e differente funzione giuridica, ancorché eventualmente convergenti sul piano del risultato, sia perché, al di fuori di prove che regole sostanziali e processuali escludano in modo assoluto, tutte le altre sono coattivamente acquisibili ed eventuali irregolarità nell'acquisizione, a parte censure di carattere disciplinare o penale, non impediscono che, in attesa della successiva ammissione di valido sequestro, sulla cosa si realizzi quanto meno uno stato di fermo analogo a quello che l'art. 354 c.p.p. riconosce nei poteri degli agenti di polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1035 del 27 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2473/1997
+                                      L'ordinamento processuale colloca i provvedimenti di perquisizione e sequestro tra i mezzi di ricerca della prova, tali provvedimenti presuppongono perciò l'esistenza di una notitia criminis e l'avvenuta iscrizione del procedimento nel relativo registro. Coerentemente con tale collocazione, per l'emissione del provvedimento è richiesta la forma del decreto motivato che deve necessariamente contenere l'indicazione della fattispecie concreta nei suoi estremi essenziali di tempo, luogo e azione nonché della norma penale che si intende violata, non essendo sufficiente la mera indicazione del titolo di reato. Ciò posto, tuttavia, la incompleta individuazione del thema probandum da parte del pubblico ministero non consente al tribunale del riesame l'annullamento sic et simpliciter del provvedimento, ma impone la verifica della effettiva sussistenza dei requisiti per la sua emissione, e, in caso affermativo, la conferma di questo previa integrazione della motivazione carente del pubblico ministero.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2473 del 29 luglio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2834/1996
+                                      I provvedimenti dispositivi di perquisizioni e sequestri ex art. 247 c.p.p. devono da un lato, specificare le imputazioni a fondamento della ricerca dei corpi di reato e delle cose pertinenti al reato mediante l'indicazione anche sommaria delle fattispecie criminose contestate e dei fatti specifici addebitati, in relazione ai quali si ricercano le cose stesse, dall'altro enunciare sia pure in forma approssimativa le ragioni per le quali si ritiene probabile che esse si trovino in un determinato luogo. (Fattispecie relativa a decreto di perquisizione locale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2834 del  5 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2362/1995
+                                      La perquisizione è un mezzo di ricerca della prova in relazione a un'ipotesi di reato che nel relativo provvedimento deve essere sufficientemente determinato nei suoi elementi fattuali poiché, in difetto di specifici e precisi riferimenti al riguardo, si trasformerebbe in un mezzo di acquisizione della notitia criminis, come tale inammissibile perché lesivo della libertà individuale costituzionalmente garantita.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2362 del 28 giugno 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 489/1995
+                                      Ai fini della legittimità del provvedimento che dispone la perquisizione domiciliare, è necessaria la enunciazione, almeno sommaria e provvisoria, dell'ipotesi accusatoria, non limitata, di regola, alla mera indicazione degli articoli di legge che si assumono violati, e occorre altresì l'indicazione delle cose da ricercare, ancorché non ancora individuate, ma comunque riconducibili alla suddetta ipotesi accusatoria, come pure l'indicazione essenziale delle ragioni per le quali si «ritiene» (non bastando più il semplice «sospetto», cui si riferiva l'art. 332 dell'abrogato codice di rito), che le cose summenzionate siano reperibili nel luogo in cui la perquisizione viene disposta. (La Corte di cassazione ha ritenuto che tali condizioni sono soddisfatte nel caso di un decreto di perquisizione in cui — premesso che si procede per i reati di cui agli artt. 1 e 2 L. 17 febbraio 1982 [associazioni segrete] e 416 c.p. [associazioni per delinquere] — si precisi che vi è fondato motivo di ritenere, «sulla base della documentazione acquisita agli atti», che nel luogo considerato «venga custodita documentazione concernente l'esistenza di logge coperte sotto forma di ordini o riti di diversa denominazione»).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 489 del  3 maggio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2289/1994
+                                      In caso di perquisizione seguita da sequestro, stante la stretta interdipendenza tra i due mezzi di ricerca della prova, la normativa del riesame sul sequestro consente il controllo del giudice anche sulla legittimità del decreto di perquisizione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2289 del 17 ottobre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 299/1994
+                                      Contro il provvedimento con il quale viene disposta la perquisizione — sia essa personale o locale — gli artt. 247 e seguenti, c.p.p. non prevedono alcuna impugnazione. Ne consegue che, per il principio della tassatività delle impugnazioni, fissato dal primo comma dell'art. 568 c.p.p., contro il detto provvedimento non è esperibile alcuna forma di riesame od impugnazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 299 del  8 marzo 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 195/1994
+                                      Gli artt. 250 e 252 c.p.p., che disciplinano le perquisizioni locali ed il sequestro conseguente a perquisizione, devono essere interpretati in relazione alla disposizione generale di cui all'art. 247, primo comma dello stesso codice, che regola casi e forme delle perquisizioni. Alla stregua di tale norma è evidente che anche nelle ipotesi di provvedimenti di perquisizione e sequestro previsti dagli artt. 250 e 252 c.p.p., le cose da ricercare ed, eventualmente, da sequestrare, devono necessariamente essere o «corpo di reato» ovvero «cose pertinenti al reato»; da ciò consegue che la motivazione dei provvedimenti che autorizzano le perquisizioni e i sequestri ai sensi e per gli effetti di cui all'art. 247, primo comma, già citato, devono tenere conto di tali caratteristiche delle cose oggetto dei provvedimenti medesimi e debbono, pertanto, specificare le imputazioni che sono a fondamento della ricerca di tali «corpi di reato» e delle «cose pertinenti al reato», mediante l'indicazione, sia pure sommaria ed approssimativa, delle fattispecie criminose contestate e dei fatti specifici imputati in relazione ai quali si ricercano i corpi di reato e le cose pertinenti ai reati, senza, ovviamente, limitarsi alla mera indicazione degli articoli del codice penale che si assumono violati dall'indagato nei confronti del quale viene disposto il provvedimento di perquisizione personale o locale e di eventuale sequestro. (In applicazione di tale principio la Corte ha dichiarato la nullità, per mancanza della motivazione richiesta dal combinato disposto degli artt. 247, secondo comma, e 125, terzo comma, c.p.p., di un provvedimento di perquisizione locale e sequestro emesso dal P.M. in cui ci si limitava ad affermare che si procedeva in ordine ai delitti previsti e puniti dagli artt. 416 c.p., 1 e 2, L. 25 gennaio 1982, n. 17, ipotizzandosi attività illecite commesse nell'ambito di associazioni massoniche, senza specificare, neppure in modo approssimativo e sommario, quale fosse il programma criminale dell'ipotizzata associazione a delinquere, quali i singoli reati posti in essere, quali le fattispecie criminose in concreto realizzate, che tipo di attività illecite fossero state commesse nell'ambito di associazioni massoniche).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        ordinanza n. 195 del 22 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4556/1994
+                                      La perquisizione, che è mezzo di ricerca della prova, presuppone l'esistenza di un fondato motivo che consenta di ritenere che il corpo del reato o cose pertinenti al reato si trovino sulla persona di un determinato soggetto o in un determinato luogo, sicché è essenziale la previa individuazione del thema probandum ed è necessaria l'esistenza di indizi di rilievo convergenti in riferimento ad una concreta figura di reato, verso la probabilità di rinvenimento della res oggetto della ricerca. Pertanto, qualora si proceda in base a semplici sospetti o illazioni e in difetto di un concreto nesso strumentale con una determinata attività criminosa, la perquisizione e il sequestro ad essa conseguente si trasformano da mezzo di ricerca della prova in mezzo di acquisizione di una notitia criminis, come tale inammissibile perché lesivo della libertà individuale lato sensu, che ha i suoi referenti negli artt. 13 e 14 della Costituzione. (Nella specie, relativa ad annullamento senza rinvio, la Suprema Corte ha osservato che il tribunale del riesame non avrebbe potuto non rilevare immediatamente che il P.M. non aveva individuato ipotesi criminose concrete né elementi fattuali specifici e precisi, essendosi limitato ad enunciare ipotesi di reato vaghe e non determinate attraverso meri riferimenti normativi e l'indicazione di una attività illecita di natura massonica che non apporta, di per sé, un qualsiasi apprezzabile contributo all'esigenza di formulazione, sia pur sommaria, di una specifica fattispecie criminosa).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4556 del  7 gennaio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1686/1993
+                                      La perquisizione, che è mezzo di ricerca della prova, presuppone l'esistenza di un fondato motivo che consente di ritenere che il corpo del reato o cose pertinenti al reato si trovino sulla persona o in un determinato luogo. La legittimazione a procedere all'atto non è legata, quindi, a meri sospetti, ma deve ancorarsi all'esistenza di indizi di rilievo convergenti verso la probabilità del rinvenimento della res, oggetto della ricerca sulla persona o nel luogo in cui è disposta la perquisizione. Ciò postula la previa individuazione del thema probandum poiché solo in tale ambito ha senso la ricerca di un dato afferente a un reato; altrimenti, in difetto di un riconosciuto nesso strumentale con l'attività criminosa, non di mezzo di ricerca della prova si tratta, ma di mezzo di acquisizione di notitia criminis, come tale inammissibile perché in violazione della libertà individuale lato sensu che ha i suoi referenti negli artt. 13 e 14 Cost. (Nella specie si è ritenuto illegittimo il provvedimento di merito motivato con la generica enunciazione di mere ipotesi di reato, senza alcuna indicazione degli elementi di fatto specifici e concreti che ne avrebbero dovuto giustificare l'emissione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1686 del  8 giugno 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1012/1993
+                                      Il dovere di motivazione del decreto con il quale l'autorità giudiziaria dispone la perquisizione locale, la cui osservanza è prescritta a pena di nullità dal combinato disposto degli artt. 247, secondo comma e 125, terzo comma, c.p.p., è da considerare soddisfatto tutte le volte in cui sia possibile ricavare dal contesto del provvedimento i «fondati motivi» che fanno ritenere che in un determinato luogo possano trovarsi oggetti che possano assumere rilevanza probatoria per il reato per il quale si procede.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1012 del 21 maggio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4128/1993
+                                      In tema di perquisizione personale ad iniziativa della polizia giudiziaria, la flagranza, come condizione di chi viene colto nell'atto di commettere un reato, presuppone un rapporto di contestualità fra il comportamento del reo ed il fatto percettivo dell'ufficiale di polizia giudiziaria che ordina la perquisizione, ma quest'ultimo può bene risolversi ad agire per la certezza interiore derivantegli dal fatto che una persona, a lui nota come «dedita ad illecita attività», venga vista entrare nell'abitazione sorvegliata di altro soggetto conosciuto come «dedito allo spaccio di stupefacente». La circostanza che detta persona sia poi trovata con la droga indosso, mentre sta per uscire dall'abitazione, viene a dimostrare a posteriori l'esistenza della flagranza e la legittimità della perquisizione e del successivo arresto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4128 del 28 aprile 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 205/1993
+                                      L'eventuale nullità dell'informazione di garanzia, ancorché questa sia contestuale all'esecuzione di perquisizione o di sequestro, non determina nullità o invalidità derivata perché utile per inutile non vitiatur sicché quella parte del provvedimento con cui si adempie all'obbligo della informazione di garanzia, ove priva dei requisiti essenziali, imposti dall'art. 369 c.p.p., non importa l'invalidità della restante parte dell'atto che dispone la perquisizione o il sequestro. (La Cassazione ha altresì rilevato che gli atti di ricerca della prova suindicati possono essere eseguiti senza la previa spedizione dell'informazione di garanzia e che tale fatto esalta l'autonomia di quest'ultima e rende chiaro che fra esse e le perquisizioni od i sequestri non v'è legame contenutistico né rapporto di necessaria dipendenza causale, non costituendone la premessa né logica né giuridica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 205 del 23 febbraio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 239/1992
+                                      È inammissibile l'istanza di riesame del decreto di perquisizione domiciliare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 239 del 31 marzo 1992)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle perquisizioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+La perquisizione appartiene ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+Le perquisizioni, unitamente alle ispezioni (artt. 244 e ss.) rappresentano due tipici “atti a sorpresa” di cui dispone l’autorità giudiziaria, da cui si evince il preciso intento del legislatore di attribuire tale potere non solo al giudice, ma altresì al pubblico ministero.
+
+Ferma la distinzione tra l’inspicere, destinato ad accertare sulle persone, nei luoghi o nelle cose le tracce e gli altri effetti materiali del reato, tipico delle ispezioni ed il perquirere, diretto a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso (attività tipica delle perquisizioni), il legislatore ha mostrato in entrambi i casi disciplinati un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.).
+
+La perquisizione personale può essere eseguita solo quando vi sia fondato motivo di ritenere che taluno occulti su di sé il corpo del reato o cose pertinenti al reato ed è chiaramente diretta a reperire ed in seguito sottoporre a sequestro le cose e gli elementi probatori necessari ad instaurare il procedimento penale.
+
+La perquisizione locale solo quando vi è fondato motivo di ritenere che tali cose si trovino in un determinato luogo ovvero che in esso possa eseguirsi l’arresto dell’imputato o dell’evaso.
+
+Fermo restando che la perquisizione, sia locale che personale, presuppone un decreto motivato e che possa essere eseguita anche da ufficiali di polizia giudiziaria delegati, il comma 1 bis disciplina la perquisizione di sistemi informatici, curandosi di precisare che devono essere adottate tecniche idonee ad assicurare la conservazione dei dati informatici reperiti.
+

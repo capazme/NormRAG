@@ -1,0 +1,33 @@
+
+==================================================
+
+===== Article 256-ter =====
+[Primary - Text]
+Art. 256-ter
+Titolo non trovato
+
+1.  Quando devono essere acquisiti, in originale o in copia, documenti, atti o altre cose per i quali il responsabile dell'ufficio detentore eccepisce il segreto di Stato, l'esame e la consegna sono sospesi; il documento, l'atto o la cosa è sigillato in appositi contenitori e trasmesso prontamente al Presidente del Consiglio dei ministri.
+
+2.  Nell'ipotesi prevista al comma 1, il Presidente del Consiglio dei ministri autorizza l'acquisizione del documento, dell'atto o della cosa ovvero conferma il segreto di Stato entro trenta giorni dalla trasmissione.
+
+3.  Se il Presidente del Consiglio dei ministri non si pronuncia nel termine di cui al comma 2, l'autorità giudiziaria acquisisce il documento, l'atto o la cosa.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 256 ter
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 256-ter
+
+[Secondary - Brocardi Information]
+Ratio: La norma in esame trova il proprio fondamento nell'esigenza di garantire il rispetto della sensibilità di quei documenti nei confronti dei quali viene ad eccepirsi il segreto di Stato.
+Spiegazione: 
+Il sequestro è un particolare mezzo di acquisizione della prova, che il legislatore ha inteso chiaramente differenziare dalle altre figure di sequestro presenti nel codice, accomunate comunque da un vincolo di indisponibilità della cosa, ma che rispondono ora a finalità conservative (artt. art. 316 del c.p.p.-320), ora a finalità preventive (artt. 321-323).
+
+L’articolo 256 bis prevede una disciplina particolare in relazione all’acquisizione ad opera dell’autorità giudiziaria di documenti presso le sedi dei servizi di informazione per la sicurezza, nell’ipotesi in cui dai responsabili dei relativi uffici non venga eccepito il segreto di Stato.
+
+In tale eventualità. è previsto che l’autorità giudiziaria, dopo aver proceduto tramite apposito ordine di esibizione all’esame sul posto dei documenti di cui sopra, e dopo aver acquisito solo quei documenti strettamente indispensabili per le indagini, possa rivolgersi al Presidente del Consiglio al fine di sollecitarne una decisione in merito, ove si ritenga che i documenti esibiti non siano quelli richiesti, oppure siano incompleti.
+
+Sempre al Premier dovrà rivolgersi necessariamente l’autorità giudiziaria qualora intenda acquisire un documento originato da un organismo informativo estero e trasmesso con vincolo di non divulgazione. In tale ipotesi è infatti prevista la sospensione dell’esame e della consegna, in attesa che il Presidente del Consiglio decida, autorizzando l’acquisizione del documento oppure opponendo il segreto di Stato entro sessanta giorni.
+
+Per contro, nell’ipotesi in cui il responsabile dell’ufficio detentore dei documenti eccepisca il segreto di Stato, la norma in commento dispone che l’esame e la consegna dei documenti stessi debba essere sospesa, in modo da consentire l’immediata trasmissione al Presidente del Consiglio. Se quest’ultimo non si esprime entro trenta giorni dalla trasmissione l’autorità giudiziaria potrà procedere all’acquisizione, configurandosi dunque una ipotesi di silenzio-assenso.
+

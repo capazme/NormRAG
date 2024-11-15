@@ -1,0 +1,116 @@
+
+==================================================
+
+===== Article 200 =====
+[Primary - Text]
+Art. 200
+Segreto professionale
+
+1.  Non possono essere obbligati a deporre su quanto hanno conosciuto per ragione del proprio ministero, ufficio o professione, salvi i casi in cui hanno l'obbligo di riferirne all'autorità giudiziaria:    
+ 
+ a) i ministri di confessioni religiose, i cui statuti non contrastino con l'ordinamento giuridico italiano;    
+ 
+ 
+ (( 
+ b) gli avvocati, gli investigatoriprivati autorizzati, i consulenti tecnici e i notai ; 
+ )) 
+ 
+ c) i medici e i chirurghi, i farmacisti, le ostetriche e ogni altro esercente una professione sanitaria;    
+ 
+ d) gli esercenti altri uffici o professioni ai quali la legge riconosce la facoltà di astenersi dal deporre determinata dal segreto professionale.
+
+2.  Il giudice, se ha motivo di dubitare che la dichiarazione resa da tali persone per esimersi dal deporre sia infondata, provvede agli accertamenti necessari. Se risulta infondata, ordina che il testimone deponga.
+
+3.  Le disposizioni previste dai commi 1 e 2 si applicano ai giornalisti professionisti iscritti nell'albo professionale, relativamente ai nomi delle persone dalle quali i medesimi hanno avuto notizie di carattere fiduciario nell'esercizio della loro professione. Tuttavia se le notizie sono indispensabili ai fini della prova del reato per cui si procede e la loro veridicità può essere accertata solo attraverso l'identificazione della fonte della notizia, il giudice ordina al giornalista di indicare la fonte delle sue informazioni.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo I - Testimonianza>Articolo 200
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 200
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 9989/2018
+                                      Il sequestro probatorio nei confronti di un giornalista avente ad oggetto atti e documenti relativi all'esercizio della sua attività professionale deve conformarsi con rigore al criterio di proporzionalità tra il contenuto del provvedimento ablativo e le esigenze di accertamento dei fatti oggetto delle indagini ex art. 200, comma 3 cod. proc. pen. e art. 10 CEDU come interpretato dalla Corte EDU, evitando quanto più é possibile interventi invasivi nella sfera professionale. (Fattispecie in cui é stato ritenuto illegittimo il sequestro indiscriminato di supporti telefonici ed informatici ad un giornalista, alla sua convivente ed alla sua ex moglie).
+                                          
+                      –
+                      
+                                                          In tema di sequestro probatorio, l'esecuzione di una perquisizione e sequestro nei confronti di una delle persone indicate dagli art. 200 e 201 cod. proc. pen. non deve essere preceduta dall'avvertimento della facoltà di opporre il segreto professionale ( nella specie connesso all'attività di giornalista) o di ufficio e può dunque essere eseguita nelle forme ordinarie, senza ulteriori limitazioni sino all'opposizione per " iscritto" del limite.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 9989 del  5 marzo 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 24617/2015
+                                      È illegittimo il ricorso alla perquisizione e al sequestro di sistema informatico in uso ad un giornalista al fine di acquisire i nomi delle persone dalle quali il medesimo ha avuto notizie di carattere fiduciario nell'esercizio della sua professione, salvo che non siano contestualmente esplicitate le ragioni per le quali si ritenga che tali notizie siano indispensabili ai fini della prova del reato per cui si procede e che la loro veridicità possa essere accertata solo attraverso l'identificazione della fonte di esse, atteso quanto disposto dall'art. 200, comma terzo, cod. proc. pen., e dall'art. 10 C.E.D.U. come interpretato dalla Corte E.D.U.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 24617 del 10 giugno 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15208/2010
+                                      In materia di assistenza giudiziaria penale, sono utilizzabili le deposizioni testimoniali rese in sede di rogatoria all'estero da soggetti che, secondo la legge italiana, avrebbero potuto avvalersi del segreto professionale ex art. 200 c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 15208 del 25 febbraio 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 25755/2007
+                                      Il segreto dei giornalisti professionisti è circoscritto all'indicazione del nome della fonte, nel cui ambito rientra qualsiasi indicazione che possa portare ad individuare la stessa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 25755 del  4 luglio 2007)
+                  
+
+- 
+
+- 
+Corte cost. n. 87/1997
+                                      È infondata, in riferimento agli artt. 3, primo comma, e 24, primo comma, della Costituzione, la questione di legittimità costituzionale delle norme processuali e dell'ordinamento professionale nella parte in cui non comprendono i praticanti procuratori tra coloro che non possono essere obbligati a deporre su quanto conosciuto per ragione del loro ufficio.
+                                                        
+                    (Corte costituzionale,
+                                        sentenza n. 87 del  8 aprile 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3288/1990
+                                      È legittimo il sequestro, eseguito presso lo studio di libero professionista (nella specie medico) al fine di accertare il reato di irregolare tenuta di scritture contabili finalizzata all'evasione fiscale, di documentazione contenente i nominativi dei clienti e i compensi percepiti, giacché il segreto professionale può essere opposto solo dal testimone, e l'unico segreto opponibile al magistrato penale è quello di Stato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3288 del 27 agosto 1990)
+                  
+
+- 
+
+Ratio: Tale deroga all'obbligo della deposizione trova la propria ratio nell'esistenza e tutela del c.d. segreto professionale.
+Spiegazione: 
+Oltre alla particolare disciplina relativa alla testimonianza dei prossimi congiunti di cui all'articolo 199, la norma in oggetto opera una ulteriore deroga al generale obbligo di verità della persona che si trovi a ricoprire l'ufficio di testimone.
+
+Per quanto concerne il segreto professionale, esso ricopre varie categorie di soggetti tenuti a non rivelare i segreti appresi nell'esercizio delle proprie professioni (si ricorda infatti che l'art. 622 c.p. punisce l'indebita rivelazione del segreto professionale). Oltre alle categorie elencate, la norma fa riferimento anche agli esercenti altri uffici o professioni, a cui la legge riconosce la facoltà di astenersi dal testimoniare.
+
+Un limite a tale facoltà è però previsto nelle ipotesi in cui i soggetti elencati hanno l'obbligo di riferire all'autorità giudiziaria le notizie conosciute per ragione del proprio ministero, ufficio o professione (ad es. in relazione agli esercenti professioni sanitarie, l'obbligo di referto nei casi di cui all'articolo 334 c.p.).
+
+Fermo restando il potere del giudice di ordinare che, in itali ipotesi, il testimone deponga, vale a dire tutte le volte in cui si convinca (in seguito ad appositi accertamenti) dell'infondatezza della dichiarazione di segretezza opposta dal medesimo per esimersi dal deporre, un regime a sé è previsto per i giornalisti professionisti iscritti all'albo.
+
+Difatti, per quanto riguarda le loro fonti, il legislatore ha sancito l'applicazione della medesima disciplina di cui ai primi due commi, ma al giudice è sempre riservato il potere di obbligarli a rivelare l'identità di tali persone, quando le suddette notizie siano indispensabili per la prova del reato, e la loro veridicità possa essere accertata solo attraverso l'identificazione della fonte.
+

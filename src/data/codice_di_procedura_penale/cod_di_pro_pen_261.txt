@@ -1,0 +1,74 @@
+
+==================================================
+
+===== Article 261 =====
+[Primary - Text]
+Art. 261
+Rimozione e riapposizione dei sigilli
+
+1.  L'autorità giudiziaria, quando occorre procedere alla rimozione dei sigilli, ne verifica prima l'identità e l'integrità con l'assistenza dell'ausiliario. Compiuto l'atto per cui si è resa necessaria la rimozione dei sigilli, le cose sequestrate sono nuovamente sigillate dall'ausiliario in presenza dell'autorità giudiziaria. L'autorità giudiziaria e l'ausiliario appongono presso il sigillo la data e la sottoscrizione.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 261
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 261
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 14992/2011
+                                      Le operazioni di rimozione e riapposizione di sigilli alle cose sequestrate, effettuate dal consulente tecnico del pubblico ministero senza la presenza del magistrato sono affette da nullità relativa, che, incidendo su un atto delle indagini preliminari, deve essere eccepita prima del provvedimento conclusivo dell'udienza preliminare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 14992 del 13 aprile 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6354/2006
+                                      In materia di rimozione e riapposizione di sigilli, la norma dell'art. 261 c.p.p. ha natura regolamentare in quanto è volta a disciplinare un'attività materiale, che pur rivestendo una naturale importanza ai fini della conservazione della genuinità della prova, non richiede la presenza del magistrato; tuttavia la regolarità formale della rimozione e riapposizione dei sigilli effettuata dal solo consulente tecnico deve essere garantita, a pena di nullità relativa, dalla presenza imprescindibile dell'ausiliario del giudice.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6354 del 17 febbraio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2592/1998
+                                      In materia di rimozione e di riapposizione di sigilli, la norma dell'art. 261 c.p.p. ha natura eminentemente regolamentare in quanto volta a disciplinare un'attività materiale, che pur rivestendo una naturale importanza ai fini della conservazione della genuinità della prova, non comporta certo un impiego apprezzabile di energie intellettive ed è già sufficientemente assicurata dalla presenza imprescindibile dell'ausiliario del giudice. L'inosservanza di tale disposizione non comporta, dunque, alcuna nullità, non essendo tale sanzione specificamente comminata dal legislatore, e non potendo essa neppure farsi discendere dal tenore dell'art. 178 c.p.p., che delinea categorie paradigmatiche cui l'anomalia in esame è del tutto estranea.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2592 del 27 febbraio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6703/1997
+                                      In tema di rimozione e riapposizione di sigilli alle cose sequestrate, qualora le relative operazioni, in violazione dell'art. 261 c.p.p., siano state effettuate dal consulente tecnico del pubblico ministero senza la presenza del magistrato, ciò determina una nullità relativa, che, incidendo su un atto delle indagini preliminari, deve essere eccepita prima della pronuncia da parte del giudice dell'udienza preliminare del provvedimento conclusivo di tale fase, ex art. 424 c.p.p. (Nella fattispecie, è stata ritenuta tardiva l'eccezione di nullità formulata dall'imputato dopo che, nell'udienza preliminare, era stato introdotto il giudizio abbreviato, essendo ormai preclusa la definibilità dell'udienza preliminare con un provvedimento ex art. 424 c.p.p., dovendo il giudice definire il giudizio abbreviato con sentenza a norma dell'art. 442 c.p.p.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6703 del  9 luglio 1997)
+                  
+
+- 
+
+Ratio: La disposizione in esame è atta ad evitare che le cose sottoposte a sequestro vengano manipolate o modificate, assicurandone così l'intangibilità.
+Spiegazione: 
+La norma in commento è destinata a tutelare l’integrità delle cose oggetto di sequestro, garantendo altresì la trasparenza delle operazioni di accertamento compiute dall’autorità giudiziaria.
+
+Difatti, in qualsiasi caso in cui sia necessario rimuovere i sigilli (ad esempio per compiere accertamenti peritali), l’autorità giudiziaria deve verificare l’integrità e l’identità del sigillo precedentemente apposto, al fine di garantire che non vi siano state manomissioni.
+
+Una volta compiuto l’atto per cui si è resa necessaria la rimozione, l’ausiliario appone nuovamente il sigillo, datandolo e sottoscrivendolo.
+
+Si ricordi che le cose sequestrate non possono essere rimosse dal luogo in cui sono custodite, se non nei casi consentiti dalla legge. Quando i sigilli appaiono rotti o alterati, si procede alla verificazione delle cose sequestrate, a cura della cancelleria o della segreteria. Di ogni verificazione e in tutti i casi di rimozione e riapposizione di sigilli è redatto verbale ex art. 82 delle disp. att. del presente codice.
+

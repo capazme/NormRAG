@@ -1,0 +1,7 @@
+.venv
+LightRAG
+__pycache__
+lib
+clean_text.py
+*.log
+backup_out

@@ -1,0 +1,34 @@
+
+==================================================
+
+===== Article 268-ter =====
+[Primary - Text]
+Art. 268-ter
+
+ARTICOLO ABROGATO DAL
+D.L. 30 DICEMBRE 2019, N. 161
+, CONVERTITO CON MODIFICAZIONI DALLA
+L. 28 FEBBRAIO 2020, N. 7
+(270)
+((275))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 268 ter
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 268-ter
+
+[Secondary - Brocardi Information]
+Spiegazione: 
+Ai sensi della norma in commento, il risultato delle intercettazioni è acquisito alle indagini su disposizione del pubblico ministero ai fini dell’adozione di una misura cautelare, ed è inserito nel fascicolo del pubblico ministero stesso.
+
+Negli altri casi, ovvero quando non è necessaria l’adozione di una misura cautelare, il pubblico ministero presenta al giudice la richiesta di acquisizione dell’elenco delle intercettazioni informatiche e/o telematiche rilevanti ai fini della prova, e avvisa i difensori delle parti.
+
+I difensori, nel termine di dieci giorni dalla ricezione dell’avviso relativo alla c.d. disclosure dei risultati delle intercettazioni hanno facoltà di richiedere l’acquisizione delle comunicazioni o conversazioni e dei flussi di comunicazioni informatiche o telematiche, rilevanti a fini di prova, non comprese nell’elenco formato dal pubblico ministero, ovvero l’eliminazione di quelle, ivi indicate, inutilizzabili o di cui è vietata la trascrizione.
+
+Tale termine, qualora il procedimento appaia particolarmente complesso o per il numero di intercettazioni, può essere prorogato dal giudice per un periodo non superiore a dieci giorni.
+
+Fin tanto che il giudice non ha adottato un provvedimento sulla questione, ai difensori delle parti ed al pubblico ministero è consentito integrare le richieste e presentare memorie, ponendo dunque in essere un contraddittorio e tentare di far valere le proprie ragioni prima della decisione del giudice.
+
+Sempre prima di tale decisione, il p.m. può ottenere il consenso del giudice a far eliminare le tracce delle intercettazioni irrilevanti ai fini del procedimento. Anche in tale ipotesi vi è dunque un controllo del giudice circa la legittimità e l’opportunità dell’acquisizione dei risultati delle intercettazioni.
+

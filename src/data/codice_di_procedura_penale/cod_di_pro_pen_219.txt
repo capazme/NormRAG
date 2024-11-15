@@ -1,0 +1,34 @@
+
+==================================================
+
+===== Article 219 =====
+[Primary - Text]
+Art. 219
+Modalità dell'esperimento giudiziale
+
+1.  L'ordinanza che dispone l'esperimento giudiziale contiene una succinta enunciazione dell'oggetto dello stesso e l'indicazione del giorno, dell'ora e del luogo in cui si procederà alle operazioni.   
+Con la stessa ordinanza o con un provvedimento successivo il giudice può designare un esperto per l'esecuzione di determinate operazioni.
+
+2.  Il giudice dà gli opportuni provvedimenti per lo svolgimento delle operazioni, disponendo per le rilevazioni fotografiche o cinematografiche o con altri strumenti o procedimenti.
+
+3.  Anche quando l'esperimento è eseguito fuori dell'aula di udienza, il giudice può adottare i provvedimenti previsti dall'articolo 471 al fine di assicurare il regolare compimento dell'atto.
+
+4.  Nel determinare le modalità dell'esperimento, il giudice, se del caso, dà le opportune disposizioni affinchè esso si svolga in modo da non offendere sentimenti di coscienza e da non esporre a pericolo l'incolumità delle persone o la sicurezza pubblica.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo V - Esperimenti giudiziali>Articolo 219
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 219
+
+[Secondary - Brocardi Information]
+Ratio: La disposizione in esame trova il proprio fondamento nell'esigenza di garantire una maggiore specificazione in ordine alle forme da osservare per fare luogo alla relativa procedura.
+Spiegazione: 
+Nello specifico, il mezzo di prova in questione serve essenzialmente ad accertare se un fatto sia avvenuto o meno in un determinato modo, mediante la riproduzione della situazione e la ripetizione delle modalità relative al suo presumibile svolgimento. In tal modo il giudice e le parti potranno assistere direttamente ad una plausibile riproduzione circa il modo in cui si siano effettivamente svolti i fatti, in modo da poter analizzare i vari passaggi della condotta, le cause che hanno determinato o hanno contribuito a determinare l'evento. Non si esclude che l'esperimento giudiziale possa essere altresì utilizzato per dimostrare come sarebbero andati i fatti se il soggetto agente avesse agito in maniera opportuna, come accade nei reati omissivi, in cui il giudizio c.d. controfattuale si rovescia.
+
+L’attenzione del legislatore si è focalizzata principalmente sulle forme da osservare nello svolgimento dell’esperimento giudiziale, come risulta dalla norma in commento.
+
+Vi è infatti una dettagliata previsione sia dei contenuti dell’ordinanza che dispone l’accertamento (tra cui l’eventuale nomina da parte del giudice di un esperto per l’espletamento di determinate operazioni), sia dei poteri del giudice atti ad assicurare un corretto svolgimento dell’atto.
+
+Nello specifico, viene ribadito l’obbligo del giudice di provvedere affinché l’esperimento giudiziale si svolga correttamente senza offendere sentimenti di coscienza e senza esporre a pericolo l’incolumità delle persone e la sicurezza pubblica.
+

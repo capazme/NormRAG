@@ -1,0 +1,1429 @@
+
+==================================================
+
+===== Article 253 =====
+[Primary - Text]
+Art. 253
+Oggetto e formalità del sequestro
+
+1.  L'autorità giudiziaria dispone con decreto motivato il sequestro del corpo del reato e delle cose pertinenti al reato necessarie per l'accertamento dei fatti.
+
+2.  Sono corpo del reato le cose sulle quali o mediante le quali il reato è stato commesso nonché le cose che ne costituiscono il prodotto, il profitto o il prezzo.
+
+3.  Al sequestro procede personalmente l'autorità giudiziaria ovvero un ufficiale di polizia giudiziaria delegato con lo stesso decreto.
+
+4.  Copia del decreto di sequestro è consegnata all'interessato, se presente.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo III - Sequestri>Articolo 253
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 253
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 34265/2020
+                                      In tema di sequestro probatorio, l'acquisizione indiscriminata di un'intera categorie di beni, nell'ambito della quale procedere successivamente alla selezione delle singole "res" strumentali all'accertamento del reato, è consentita a condizione che il sequestro non assuma una valenza meramente esplorativa e che il pubblico ministero adotti una motivazione che espliciti le ragioni per cui è necessario disporre un sequestro esteso e onnicomprensivo, in ragione del tipo di reato per cui si procede, della condotta e del ruolo attribuiti alla persona titolare dei beni, e della difficoltà di individuare "ex ante" l'oggetto del sequestro.(Fattispecie, in cui la Corte, in relazione al reato di finanziamento illecito ai partiti, ha ritenuto esplorativo e sproporzionato il sequestro indistinto di tutte le mail, personali e della società, riferibile ad un soggetto terzo estraneo al reato, trasmesse e ricevute nei dieci anni precedenti). (Annulla senza rinvio, TRIB. LIBERTA' FIRENZE, 16/12/2019).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 34265 del 22 settembre 2020)
+                  
+
+- 
+
+- 
+Cass. pen. n. 36072/2018
+                                      Il decreto di sequestro probatorio - così come il decreto di convalida - anche qualora abbia ad oggetto cose costituenti corpo di reato, deve contenere una motivazione che, per quanto concisa, dia conto specificatamente della finalità perseguita per l'accertamento dei fatti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 36072 del 27 luglio 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 25527/2017
+                                      In tema di sequestro probatorio, la restituzione, previo trattenimento di copia dei dati informatici estratti, dei beni materiali (server, computer e "hard disk") coercitivamente acquisiti per effettuare le operazioni di trasferimento dei dati non comporta il venir meno del vincolo, con la conseguenza che permane l'interesse a richiedere il controllo giurisdizionale sulla legittimità del sequestro. (La Corte, in una fattispecie di bancarotta fraudolenta, ritenuto ammissibile il ricorso, ha affermato la legittimità del sequestro della documentazione contabile ed extracontabile della società fallita contenuta negli hard disk restituiti all'indagato, fatto salvo il diritto di quest'ultimo a chiedere, ai sensi dell'art. 254, ultimo comma, cod. proc. pen., la distruzione delle copie di informazioni irrilevanti estratte).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 25527 del 23 maggio 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11817/2017
+                                      Anche per le cose che costituiscono corpo di reato il decreto di sequestro a fini di prova deve essere sorretto, a pena di nullità, da idonea motivazione sia in ordine alla rilevanza probatoria del bene assoggettato a sequestro, sia con riguardo al nesso di pertinenzialità fra "res" e reato. (In applicazione di questo principio la S.C. ha annullato con rinvio l'ordinanza del tribunale per il riesame che aveva confermato il decreto di sequestro probatorio avente ad oggetto, oltre a della sostanza stupefacente, anche una somma di denaro in contanti rinvenuta nell'abitazione dell'indagato, rilevando la carenza di adeguata motivazione dell'ordinanza sul punto che fondava la provenienza del denaro dall'attività di spaccio, che non aveva tenuto in conto della documentazione reddituale prodotta in allegato al ricorso di riesame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 11817 del 10 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2787/2016
+                                      In tema di sequestro probatorio, l'onere di motivazione in ordine al reato da accertare, deve essere modulato in ragione della progressione processuale cosicché nella fase iniziale delle indagini è legittimo il decreto di convalida apposto in calce al verbale della polizia giudiziaria che si limiti ad indicare gli articoli di legge per cui si intende procedere, richiamandone "per relationem" il contenuto, sempre che i fatti per cui si procede risultino compiutamente decritti nel verbale di sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2787 del 21 gennaio 2016)
+                  
+
+- 
+
+- 
+Cass. pen. n. 48021/2015
+                                      Il sequestro probatorio della documentazione necessaria per la comparazione delle scritture, disciplinata dall'art. 75 disp. att. cod. proc. pen., non necessita di specifica motivazione in ordine alla sussistenza del vincolo pertinenziale tra quanto sequestrato ed i reati in materia di falso, essendo detto vincolo predefinito dall'indicata norma processuale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 48021 del  3 dicembre 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15254/2015
+                                      In sede di riesame del sequestro probatorio il Tribunale è chiamato a verificare l'astratta configurabilità del reato ipotizzato, valutando il "fumus commissi delicti" in relazione alla congruità degli elementi rappresentati, non già nella prospettiva di un giudizio di merito sulla fondatezza dell'accusa, ma con riferimento alla idoneità degli elementi su cui si fonda la notizia di reato a rendere utile l'espletamento di ulteriori indagini per acquisire prove certe o ulteriori del fatto, non altrimenti esperibili senza la sottrazione del bene all'indagato o il trasferimento di esso nella disponibilità dell'autorità giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 15254 del 14 aprile 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4155/2015
+                                      Il decreto di sequestro probatorio delle cose che costituiscono corpo di reato, deve essere sorretto, a pena di nullità, da idonea motivazione in ordine al presupposto della finalità perseguita, in concreto, per l'accertamento dei fatti, a meno che la finalizzazione probatoria del corpo del reato sia connotato ontologico ed immanente rispetto alla natura delle cose inquadrabili in quel concetto. (Fattispecie in materia di contraffazione di marchi di orologi, nella quale la Corte nell'annullare il provvedimento di sequestro probatorio di una somma di denaro, costituente corpo di reato, in quanto privo di motivazione in ordine al presupposto della finalità perseguita, ha osservato che il denaro, anche nelle ipotesi in cui integri il corpo del reato, è privo di connotazioni identificative e dimostrative, salvo che proprio quelle banconote o monete, ad esempio perché contrassegnate o sospettate di falsità, occorrano al processo come elemento di tipo probatorio).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4155 del 28 gennaio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 33229/2014
+                                      Ai fini della legittimità del sequestro probatorio non è necessaria la prova del carattere di pertinenza o di corpo di reato delle cose oggetto del vincolo, essendo sufficiente la semplice possibilità, purché non astratta ed avulsa dalle caratteristiche del caso concreto, della configurabilità di un rapporto di queste con il reato. (Fattispecie in cui la Corte ha annullato il sequestro di una somma di denaro per carenza di motivazione in ordine alla sua provenienza quale compenso per traffico di influenze o alla sua destinazione quale provvista per corrompere pubblici funzionari).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 33229 del 28 luglio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26444/2014
+                                      L'espressione "cose pertinenti al reato", cui fa riferimento l'art. 321 c.p.p., se è più ampia di quella di corpo di reato, così come definita dall'art. 253 c.p.p., e comprende non solo le cose sulle quali o a mezzo delle quali il reato fu commesso o che ne costituiscono il prezzo, il prodotto o il profitto, ma anche quelle legate solo indirettamente alla fattispecie criminosa, non si estende sino al punto di attribuire rilevanza a rapporti meramente occasionali tra la "res" e l'illecito penale. (Fattispecie in cui, la Corte, ha escluso che potesse costituire cosa pertinente al reato di bancarotta fraudolenta patrimoniale un bene immobile oggetto di un contratto preliminare di acquisto rimasto inadempiuto e, quindi, mai entrato a far parte del patrimonio di società successivamente ammessa a concordato preventivo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 26444 del 18 giugno 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19886/2014
+                                      È legittimo il sequestro, ex art. 253 cod. proc. pen., di un sistema informatico, motivato in relazione alla sua rilevanza probatoria per il possibile contenuto di documentazione direttamente inerente alla condotta criminosa per cui si procede. (Fattispecie di sequestro probatorio di "Ipad", nell'ambito di indagini per reati fiscali).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 19886 del 14 maggio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19615/2014
+                                      Il decreto di sequestro probatorio delle cose che costituiscono corpo di reato, deve essere necessariamente sorretto, a pena di nullità, da idonea motivazione in ordine al presupposto della finalità perseguita, in concreto, per l'accertamento dei fatti. (Fattispecie in cui è stata ritenuta illegittima la motivazione di decreto di convalida emesso a norma dell'art. 355 c.p.p. sintetizzata nell'espressione di stile "quanto è stato oggetto di sequestro è corpo di reato trattandosi di cose sulle quali il reato è stato commesso").
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 19615 del 13 maggio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5967/2014
+                                      È legittimo il sequestro preventivo di un bene gravato da sequestro probatorio, alla condizione che sussista il pericolo concreto ed attuale della cessazione dell'esigenza probatoria, tale da rendere attuale il pericolo che il bene (nella specie una somma di denaro), una volta rientrato nella disponibilità dell'imputato, possa essere da quest'ultimo sottratto alle esigenze protette dall'art. 321 c.p.p. (nella specie la misura ablatoria della confisca).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 5967 del  7 febbraio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5650/2014
+                                      In tema di sequestro probatorio, a differenza di quanto previsto per le misure cautelari personali disposte per esigenze probatorie, la mancata indicazione di un termine di durata del vincolo non incide sulla validità originaria del provvedimento, potendo semmai l'eccessivo ed ingiustificato protrarsi del sequestro abilitare l'interessato alla richiesta di revoca della misura, nel presupposto della illegittimità del suo ulteriore mantenimento nel tempo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 5650 del  5 febbraio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1683/2014
+                                      In tema di sequestro probatorio, ai fini della legittimità dello stesso non è necessaria la prova del carattere di pertinenza o di corpo di reato delle cose oggetto del vincolo, essendo sufficiente la semplice possibilità del rapporto di queste con il reato. (In applicazione del principio, la Corte ha ritenuto corretto il sequestro di denaro, telefoni cellulari e computer rinvenuti in occasione dell'esecuzione di un'ordinanza di custodia cautelare per il reato di cui all'art. 73 d.P.R. n. 309 del 1990, attesa l'insufficienza degli elementi idonei a giustificare la lecita provenienza e disponibilità dei beni).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1683 del 15 gennaio 2014)
+                  
+
+- 
+
+- 
+Cass. pen. n. 39449/2013
+                                      Il sequestro per finalità probatorie risponde ad esigenze diverse da quelle che fondano il sequestro preventivo, con la conseguenza che l'emanazione di sequestro ex art. 321 cod. proc. pen. non priva di autonoma esistenza la misura disposta precedentemente al fine di acquisire e conservare, a disposizione dell'autorità procedente, gli elementi di prova utili alle indagini.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 39449 del 24 settembre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26901/2013
+                                      In tema di sequestro probatorio, la mancata indicazione, nel decreto del pubblico ministero che lo dispone o lo convalida, del reato in relazione al quale il provvedimento è adottato, non costituisce una carenza motivazionale alla quale possa porsi rimedio da parte del Tribunale del riesame nell'esercizio dei poteri di integrazione ad esso riconosciuti dalla legge, spettando al solo P.M. l'individuazione dei fatti specifici in ordine ai quali condurre le indagini ed emettere i provvedimenti ritenuti utili ai fini probatori.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 26901 del 20 giugno 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21103/2013
+                                      In tema di sequestro probatorio, il principio del "ne bis in idem" non preclude la possibilità di disporre nuovamente la misura quando l'autorità procedente sia chiamata a valutare elementi precedentemente non valutati. (Fattispecie relativa al sequestro di materiale informatico emesso relativamente al reato di dichiarazione fiscale infedele, dopo l'annullamento del precedente provvedimento emesso per il delitto di cui all'art. 326 c.p., disposto sul presupposto che l'indagato aveva ricevuto notizia dell'imminente verifica fiscale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 21103 del 16 maggio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3250/2013
+                                      È inammissibile, per il principio di tassatività dei mezzi di impugnazione, il ricorso per cassazione, proposto dal P.M., avverso i provvedimenti di rigetto della richiesta di sequestro preventivo e probatorio, per i quali non è previsto alcun mezzo di impugnazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 3250 del 22 gennaio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12511/2012
+                                      E inammissibile per sopravvenuta carenza di interesse il ricorso per cassazione avverso l'ordinanza di rigetto del tribunale del riesame relativa al decreto di sequestro probatorio di un'area (nella specie, adibita alla realizzazione di un impianto fotovoltaico in violazione dell'art. 44, comma primo, lett. a) del d.P.R. 6 giugno 2001, n. 380) qualora, nelle more, detta misura sia stata convertita in sequestro preventivo ed abbia perciò perso efficacia, dovendo indirizzarsi le doglianze degli aventi diritto al sequestro disposto dal g.i.p. in sede di conversione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 12511 del  3 aprile 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3692/2011
+                                      È illegittimo il provvedimento con cui il giudice del riesame rigetti la relativa richiesta omettendo di indicare e, pertanto, di valutare i corpi di reato o le cose pertinenti al reato per finalità probatorie, considerato che il sequestro probatorio concerne solo le cose connesse alla notizia di reato per cui si procede, salvo che quelle rinvenute ne offrano per sé una propria, con la conseguenza che l'individuazione e la cernita delle cose utili alla prova deve avvenire 'a monte del sequestro di ciascuna di esse per finalità probatoria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 3692 del  1 febbraio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1769/2011
+                                      È nullo il decreto di convalida del sequestro probatorio operato dalla polizia giudiziaria su cose costituenti corpo di reato, in difetto di idonea motivazione in ordine al presupposto della finalità perseguita, in concreto, per l'accertamento dei fatti. (Nella specie la Corte ha ritenuto meramente apparente la motivazione sintetizzata nell'espressione "trattandosi di corpo del reato di cui all'art. 474 c.p.").
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1769 del 20 gennaio 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11843/2010
+                                      Qualora il sequestro probatorio riguardi cose che assumono la qualifica di corpo di reato, non é necessario offrire la dimostrazione della necessità in concreto del sequestro stesso in funzione dell'accertamento dei fatti. (Fattispecie in tema di rigetto della richiesta di restituzione di un ciclomotore coinvolto in un incidente stradale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 11843 del 26 marzo 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 47000/2008
+                                      In tema di sequestro probatorio, il giudice del riesame può integrare la motivazione del provvedimento impugnato a condizione che esso contenga, sia pur con incompletezze o lacune, le ragioni giustificative del vincolo sul bene.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 47000 del 18 dicembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 43282/2008
+                                      In tema di sequestro, il P.M. che, delegando la polizia giudiziaria alla esecuzione di una perquisizione, abbia disposto il sequestro "di quanto rinvenuto (corpo di reato e cose pertinenti al reato) e, in ogni caso, ritenuto utile al fine delle indagini", è tenuto a provvedere alla convalida relativamente al sequestro avente ad oggetto cose non specificate nel relativo provvedimento, in quanto l'indeterminatezza dell'oggetto rimette - sempre che non si tratti di beni soggetti a confisca obbligatoria - al giudizio della polizia giudiziaria l'individuazione del presupposto fondamentale del sequestro (qualifica del bene come corpo o pertinenza del reato), la quale non può che avere natura provvisoria, essendo necessario il controllo dell' Autorità giudiziaria, ai sensi dell'art. 355 c.p.p..
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 43282 del 19 novembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 35866/2008
+                                      È legittimo il sequestro operato dalla polizia giudiziaria di cose ritenute corpo di reato o pertinenti al reato in esecuzione di un decreto di perquisizione del pubblico ministero, seppure in detto decreto non siano state minuziosamente descritte e però alla loro individuazione possa giungersi in base sia alla natura del reato indicato nel decreto di perquisizione, sia alla nozione normativa di «corpo di reato » e di «cosa pertinente al reato ».
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 35866 del 18 settembre 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42210/2004
+                                      L'eccezionalità della normativa che disciplina la c.d. «attività di contrasto» prevista dall'art. 14 della legge 3 agosto 1998, n. 269, esclude che essa possa avere applicazione, per analogia, al di fuori dei casi espressamente previsti. Debbono, pertanto, ritenersi inutilizzabili, anche ai fini dell'imposizione e del mantenimento di un sequestro probatorio, i risultati di detta attività quando il reato allo stato ipotizzabile sia soltanto quello di cui all'art. 600 quater (detenzione di materiale pornografico), non compreso nell'elencazione di cui al citato art. 14 della legge n. 269/1998.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 42210 del 28 ottobre 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5876/2004
+                                      Anche per le cose che costituiscono corpo di reato il decreto di sequestro a fini di prova deve essere sorretto, a pena di nullità, da idonea motivazione in ordine al presupposto della finalità perseguita, in concreto, per l'accertamento dei fatti.
+                                          
+                      –
+                      
+                                                          Nel caso di radicale mancanza della motivazione, in ordine alla necessaria sussistenza della concreta finalità probatoria perseguita in funzione dell'accertamento dei fatti, del decreto di sequestro di cose qualificate come corpo di reato, che, sebbene non integrato sul punto dal P.M. neppure all'udienza di riesame, sia stato confermato dall'ordinanza emessa all'esito di questa procedura, la Corte di cassazione deve pronunziare sentenza di annullamento senza rinvio di entrambi i provvedimenti.
+                                          
+                      –
+                      
+                                                          Nel caso di radicale mancanza di motivazione sia del decreto di sequestro probatorio di cose qualificate come «corpo del reato» che dell'ordinanza confermativa del riesame, in ordine alla necessaria sussistenza della concreta finalità probatoria perseguita in funzione dell'accertamento dei fatti, la Corte di Cassazione deve pronunziare sentenza di annullamento senza rinvio sia dell'ordinanza di riesame che del decreto di sequestro.
+                                          
+                      –
+                      
+                                                          Qualora il pubblico ministero non abbia indicato, nel decreto di sequestro a fini di prova, le ragioni che, in funzione dell'accertamento dei fatti storici enunciati, siano idonee a giustificare in concreto l'applicazione della misura e abbia persistito nell'inerzia pure nel contraddittorio del procedimento di riesame, il giudice di quest'ultimo non è legittimato a disegnare, di propria iniziativa, il perimetro delle specifiche finalità del sequestro, così integrando il titolo cautelare mediante un'arbitraria opera di supplenza delle scelte discrezionali che, pur dovorose da parte dell'organo dell'accusa, siano state da questo radicalmente e illegittimamente pretermesse.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 5876 del 13 febbraio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 291/2004
+                                      In materia edilizia la avvenuta presentazione della domanda di definizione degli illeciti edilizi effettuata ai sensi dell'art. 32 del D.L. 30 settembre 2003 n. 269, convertito con modificazione con L. 24 novembre 2003 n. 326, cd. condono edilizio, non incide sulla possibilità di eseguire la misura cautelare reale disposta sull'immobile oggetto di condono.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 291 del  9 gennaio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 47117/2003
+                                      La proposizione di una domanda di condono edilizio, di cui all'art. 32 del D.L. 30 settembre 2003 n. 269, convertito con modificazioni con L. 24 novembre 2003 n. 326, non impedisce l'adozione o la permanenza di un provvedimento di sequestro, sia perchè la misura cautelare reale o a fini probatori ha il solo scopo di lasciare inalterata la situazione o di impedire la prosecuzione dell'opera, sia in quanto la speciale causa estintiva discendente dalla procedura di condono richiede la sua formale dichiarazione previo accertamento dei presupposti cui la stessa è subordinata.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 47117 del 10 dicembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 36775/2003
+                                      È ammissibile l'istanza di riesame di un provvedimento di sequestro probatorio di comparizione, successivamente restituita dal pubblico ministero previa estrazione di copie, sussistendo l'interesse del richiedente a verificare che l'uso del mezzo tendente all'acquisizione della prova sia avvenuto nei casi ed entro i limiti previsti dalla legge (in applicazione di tale principio la Corte ha annullato con rinvio l'ordinanza del Tribunale del riesame che, nel ritenere inammissibile per carenza di interesse la richiesta di riesame proposta dell'indagato, aveva omesso di svolgere la richiesta attività di controllo sulla sussistenza del fumus commissi delicti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 36775 del 25 settembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29204/2003
+                                      Il sequestro probatorio di somme di denaro depositate in conto corrente bancario, ove non risulti positivamente dimostrata la loro qualificabilità come “corpo di reato”, ai sensi dell'art. 253, comma 2, c.p.p., può trovare giustificazione solo in quanto si dimostri, oltre alla loro “pertinenza” al reato, anche la concreta inidoneità, a fini probatori, della sola acquisizione della documentazione bancaria attinente alla movimentazione del conto corrente.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 29204 del 10 luglio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19766/2003
+                                      Per l'adozione del sequestro probatorio non è necessario che sussistano indizi di colpevolezza nei confronti di un soggetto, in quanto, trattandosi di un mezzo di ricerca della prova, è sufficiente che esistano elementi tali da far configurare l'esistenza di un reato e la sussistenza di una relazione necessaria fra la cosa oggetto del sequestro ed il reato stesso, relazione che non ha bisogno di dimostrazione quando il sequestro cade sul corpo di reato, cioè sulle cose con le quali o mediante le quali esso è stato commesso o che non costituiscono il prodotto (nel caso di specie, si trattava del sequestro di un quantitativo di novellame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 19766 del 29 aprile 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 18079/2003
+                                      Non è consentito il giudizio di riesame avverso il provvedimento con cui il P.M. abbia disposto - in relazione ad un'istanza di dissequestro proposta dalla P.A. e preordinata alla demolizione di un fabbricato abusivo - il ripristino, fermo restando il sequestro, dello stato dei luoghi, in quanto, per il principio di tassatività dei mezzi di impugnazione, il riesame è ammissibile nei soli casi previsti dalla legge. Ne consegue che è illegittima l'ordinanza con cui il giudice si sia pronunciato, in sede di riesame, avverso il detto provvedimento, anziché qualificare l'impugnazione come ricorso per cassazione e trasmettere gli atti al giudice di legittimità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 18079 del 16 aprile 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13662/2003
+                                      Il sequestro di somme di denaro su conti correnti, aventi natura di corpo di reato, non eslcude la necessità di provare o comunque di dare atto della sussistenza di un rapporto di pertinenza fra le singole disponibilità sottoposte a vincolo e lo specifico fatto reato contestato ovvero la necessità di motivare sulla qualificazione dei medesimi conti correnti come specifico corpo di reato. (Segnalazione di contrasto n. 146 del 2000).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 13662 del 25 marzo 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 74/2003
+                                      Il sequestro probatorio (art. 253 c.p.p.), quando ha per oggetto «le cose pertinenti al reato», presuppone che sussistano le esigenze probatorie e, pertanto, il rigetto dell'istanza di dissequestro richiede che dette esigenze permangano e che il relativo provvedimento sia adeguatamente motivato, a differenza del rigetto dell'istanza di dissequestro di cose qualificabili come «corpo di reato», che richiede invece l'indicazione degli elementi che giustificano tale qualificazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 74 del  8 gennaio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41178/2002
+                                      In tema di sequestro probatorio, non è necessario, in relazione alle cose che assumono la qualifica di corpo di reato, offrire la dimostrazione della necessità del sequestro in funzione dell'accertamento dei fatti, poiché l'esigenza probatoria del corpus delicti è in re ipsa, con la conseguenza che i provvedimenti dell'autorità giudiziaria di sequestro e di convalida del sequestro sono sempre legittimi quando abbiano ad oggetto cose qualificabili come corpo di reato, essendo, a tal fine, necessario e sufficiente che risulti giustificata tale qualificazione, senza che occorra specifica motivazione sulla sussistenza, concreto, delle finalità proprie del sequestro probatorio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 41178 del 10 dicembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 36538/2002
+                                      In tema di riesame del sequestro, l'accertamento sulla sussistenza del fumus commissi delicti va compiuto sotto il profilo della congruità degli elementi rappresentati, che non possono essere censurati sul piano fattuale, per apprezzarne la coincidenza con le reali risultanze processuali, ma che vanno valutati così come esposti al fine di verificare se essi consentono - in una prospettiva di ragionevole probabilità - di inquadrare l'ipotesi formulata dall'accusa in quella tipica.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 36538 del  4 novembre 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29903/2002
+                                      In tema di sequestro disposto dall'autorità giudiziaria, la motivazione richiesta dall'art. 253, comma 1 c.p.p. impone che nel decreto vi sia l'enunciazione del fatto di reato per cui si procede, di cui siano indicati, sia pure sommariamente, gli elementi costitutivi, in maniera tale da consentire al giudice del riesame la verifica circa l'astratta possibilità di sussumere il fatto attribuito alla persona sottoposta ad indagini in una specifica ipotesi di reato, nonché la sussistenza del rapporto di pertinenzialità tra l'oggetto del sequestro e il fatto reato ipotizzato (nel caso di specie, la Corte ha annullato l'ordinanza del tribunale del riesame che, nel rigettare la richiesta degli indagati, aveva ritenuto che il decreto di sequestro fosse sufficientemente motivato con la mera indicazione degli articoli di legge relativi ai reati e con un generico riferimento all'oggetto del sequestro costituente corpo di reato, senza specificare in quale fatto il reato consistesse).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 29903 del 21 agosto 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13641/2002
+                                      In tema di sequestro probatorio, il rapporto di pertinenza fra le cose sequestrate e l'ipotesi di reato per cui si procede non può essere considerato in termini esclusivi di relazione immediata, ben potendo acquisire rilievo ed essere oggetto di ricerca ed apprensione ogni elemento utile a ricostruire i fatti che anche in forma indiretta possono contribuire al giudizio sul merito della contestazione.(Nell'affermare tale principio, la Corte ha rilevato che in materia di reati tributari ben può assumere rilevanza probatoria, ed essere quindi oggetto di ricerca e sequestro, anche la documentazione commerciale e fiscale relativa ad anni d'imposta diversi da quelli oggetto d'indagine, a condizione che si sia in presenza di documentazione che appare in grado di fornire un quadro significativo dell'evoluzione aziendale e dei metodi di tenuta della contabilità).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 13641 del 10 aprile 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38851/2001
+                                      In tema di sequestro probatorio, diversamente da quando sono soggette a vincolo le «cose pertinenti al reato», non è necessario, allorché il sequestro riguarda cose che assumono la qualifica di «corpo di reato», che si provveda a una specifica motivazione circa la necessità del sequestro stesso in funzione dell'accertamento dei fatti, atteso che la qualità di corpo del reato comporta l'esistenza di un rapporto di immediatezza tra le cose e l'illecito penale e di una conseguente necessaria efficacia probatoria diretta, a meno che non vengano mosse specifiche e motivate contestazioni circa la fondatezza e la necessità della misura. (Nell'affermare tale principio la Corte ha rigettato il ricorso nei confronti di ordinanza confermatoria del sequestro di corpo di reato che si limitava a motivare che esso «in concreto, appare necessario per l'accertamento dei fatti»).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 38851 del 30 ottobre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 34019/2001
+                                      In tema di sequestro di cose pertinenti a reato che ne renda obbligatoria la successiva confisca (nella specie, veicolo adoperato per favorire l'ingresso clandestino in Italia di soggetti provenienti da paesi extracomunitari), il terzo che chieda la restituzione delle cose sequestrate qualificandosi come proprietario o titolare di altro diritto reale su di esse è tenuto a provare i fatti costitutivi della sua pretesa e quindi, in particolare, oltre alla titolarità del diritto vantato, anche l'estraneità al reato e la buona fede, intesa, quest'ultima, come assenza di condizioni che rendano profilabile a suo carico un qualsivoglia addebito di negligenza da cui sia derivata la possibilità dell'uso illecito della cosa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 34019 del 18 settembre 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 23058/2001
+                                      In tema di riesame di decreto di sequestro probatorio, nulla vieta al giudice di compiere un'accurata valutazione degli elementi acquisiti onde pervenire alla totale esclusione della sussistenza del fumus del reato e, pertanto, della necessità del mantenimento della misura cautelare. (Affermando il principio, la Corte ha rigettato il ricorso del P.M. che lamentava come il Tribunale del riesame, anziché limitarsi a valutare l'astratta configurabilità del reato, avesse compiuto un'illegittima disamina di merito).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 23058 del  5 giugno 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10427/2001
+                                      In tema di sequestro probatorio, qualora il decreto emanato dal pubblico ministero (nella specie, in contestualità con un decreto di perquisizione), non indichi specificamente le cose da sequestrare ma dia mandato alla polizia giudiziaria di far cadere il sequestro su quanto genericamente ritenuto utile ai fini delle indagini, la relativa attività esecutiva dev'essere oggetto di ulteriore verifica, sotto forma di convalida da parte dell'autorità giudiziaria. Ne consegue che, nella situazione sopra descritta, ove manchi detta convalida, non è proponibile richiesta di riesame ma chi abbia interesse alla restituzione deve attivare la procedura prevista dall'art. 263 c.p.p. (istanza al pubblico ministero seguita, in caso di rigetto, da opposizione davanti al giudice per le indagini preliminari).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 10427 del 14 marzo 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3817/2001
+                                      È legittimo il provvedimento con il quale il tribunale del riesame integra la motivazione del decreto di sequestro probatorio del P.M. (nella specie di apparecchiature per giochi elettronici), impropriamente definito come preventivo, indicandone la corretta qualificazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3817 del 31 gennaio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4394/2000
+                                      In sede di riesame del provvedimento di sequestro probatorio di videogiochi quale corpo del reato di esercizio di giuochi d'azzardo (art. 718 c.p.), è sufficiente verificare l'astratta configurabilità del reato ipotizzato sulla base delle allegazioni del pubblico ministero, senza necessità di procedere ad accertamenti concreti, ed il fumus delicti va ritenuto sussistente allorché la tipologia degli apparecchi sequestrati sia tale da consentire di inquadrarli in quelli d'azzardo; in particolare, quando le apparecchiature abbiano insite la scommessa, come il videopoker o le slot-machine, la destinazione al gioco d'azzardo è implicita nello schema del gioco sicché è la stessa descrizione delle apparecchiature come appartenenti alle dette tipologie ad integrare il fumus del reato ipotizzato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 4394 del  8 novembre 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2728/2000
+                                      Qualora il sequestro probatorio riguardi cose che assumono la qualifica di corpo di reato, non è necessario offrire la dimostrazione della necessità del sequestro stesso in funzione dell'accertamento dei fatti, atteso che la qualità di corpo del reato implica, per definizione, un vincolo necessario con la prova del reato e postula l'esistenza di un rapporto di immediatezza tra le cose e l'illecito penale, con conseguente necessaria efficacia probatoria diretta in ordine all'avvenuta commissione di un reato ed alla sua attribuibilità ad un soggetto determinato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2728 del 25 agosto 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4587/2000
+                                      In tema di sequestro preventivo, la nozione di “cose pertinenti al reato” ha un significato ampio, comprendente anche quanto indirettamente legato alla fattispecie criminosa come il risultato della trasformazione del prodotto o del profitto del reato. (Fattispecie relativa a sequestro preventivo di un immobile acquistato con denaro costituente profitto del reato di appropriazione indebita).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 4587 del 25 maggio 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1026/2000
+                                      In tema di sequestro probatorio, il fatto che il P.M. ritenga di disporre una consulenza tecnica per approfondire nel merito la sussistenza del reato ipotizzato, appartiene alla normale dialettica processuale e non può essere considerato come prova della carenza di presupposti concreti per l'adozione della misura cautelare.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1026 del 10 aprile 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6149/2000
+                                      Nel giudizio di riesame del sequestro probatorio di un corpo di reato, l'indagine rimessa al giudice è ristretta alla verifica dell'astratta configurabilità dell'illecito penale nell'ambito delle indicazioni di fatto offerte dal pubblico ministero e, attraverso l'accertamento della relazione di immediatezza richiesta dall'articolo 253, secondo comma, c.p.p., dell'effettiva possibilità di qualificare come tale la cosa appresa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6149 del  2 marzo 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3694/1999
+                                      Il tribunale del riesame deve, nell'ambito degli elementi di fatto indicati dall'accusa, verificare la loro congruità, ai fini della legittimità del provvedimento di sequestro, essendogli inibito l'espletamento di una attività dimostrativa della fondatezza concreta della contestazione mossa all'indagato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3694 del 16 dicembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5846/1999
+                                      Anche nel vigente codice di procedura penale è configurabile la conversione del sequestro penale in sequestro conservativo, per cui, una volta divenuta irrevocabile la sentenza di condanna, tutte le cose comunque sequestrate nel corso del procedimento penale, se appartenenti al condannato e non soggette a confisca, devono essere destinate al soddisfacimento delle obbligazioni nascenti dal reato. (Fattispecie relativa a somme di danaro depositate in c/c bancario cointestato al condannato, frattanto deceduto, e a terzo estraneo al reato. In relazione ad essa, la S.C. ha ritenuto errata la decisione di merito che aveva assegnato alla parte civile, una volta divenuta irrevocabile la sentenza di condanna, la metà delle somme in sequestro, rinviando le parti per l'accertamento della proprietà della restante metà dinanzi al giudice civile al quale è stata, invece, riconosciuta la competenza per l'eventuale scioglimento della comunione sull'intera somma).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5846 del  2 dicembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3273/1999
+                                      Il sequestro probatorio, in quanto mezzo di ricerca della prova dei fatti costituenti reato, non può per ciò stesso essere fondato sulla prova del carattere di pertinenza ovvero di corpo di reato delle cose oggetto del vincolo patrimoniale, ma solo sul fumus di esso, cioè sulla mera possibilità del rapporto di esse con il reato. Qualora quindi dal complesso delle prime indagini tale fumus emerga, il sequestro si appalesa non solo legittimo ma opportuno, in quanto volto a stabilire, di per sè o attraverso le successive indagini che da esso scaturiscono, se esiste il collegamento pertinenziale tra res e illecito. (Fattispecie in tema di sequestro probatorio, disposto nell'ambito di indagini preliminari concernenti il delitto di usura, di documentazione varia di cui il ricorrente sosteneva il difetto di capacità rappresentativa e quindi l'impossibilità di considerarla «cosa pertinente al reato»).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 3273 del 20 novembre 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4496/1999
+                                      In sede di riesame del sequestro probatorio, il tribunale deve stabilire l'astratta configurabilità del reato ipotizzato. Tale astrattezza, però, non limita i poteri del giudice nel senso che questi deve esclusivamente prendere atto della tesi accusatoria senza svolgere alcun'altra attività, ma determina soltanto l'impossibilità di esercitare una verifica in concreto della sua fondatezza. Alla giurisdizione compete, perciò, il potere-dovere di espletare il controllo di legalità, sia pure nell'ambito delle indicazioni di fatto offerte dal pubblico ministero. L'accertamento della sussistenza del fumus commissi delicti va compiuto sotto il profilo della congruità degli elementi rappresentati, che non possono essere censurati in punto di fatto per apprezzarne la coincidenza con le reali risultanze processuali, ma che vanno valutati così come esposti, al fine di verificare se essi consentono di assumere l'ipotesi formulata in quella tipica. Pertanto, il tribunale non deve instaurare un processo nel processo, ma svolgere l'indispensabile ruolo di garanzia, tenendo nel debito conto le contestazioni difensive sull'esistenza della fattispecie dedotta ed esaminando l'integralità dei presupposti che legittimano il sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4496 del 27 luglio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1792/1999
+                                      In tema di riesame del sequestro probatorio, il sindacato del tribunale non può investire la concreta fondatezza dell'accusa, ma deve limitarsi alla verifica dell'astratta possibilità di riferire il fatto attribuito ad un soggetto di una ipotesi di reato, nonché al controllo dell'esatta qualificazione dell'oggetto del provvedimento come corpus delicti. Tuttavia il controllo al quale è chiamato il giudice del riesame non deve essere puramente formale ed apparente della legalità della misura cautelare adottata, limitandosi ad una presa d'atto della tesi accusatoria, ma deve estendersi all'accertamento del fumus commissi delicti mediante un esame della fattispecie concreta nei suoi estremi di luogo, tempo ed azione e indicazione della norma che si ritiene violata, e delle ragioni per cui la fattispecie potrebbe integrare il reato ipotizzato, con il solo limite che gli elementi rappresentati non possono essere censurati in fatto per apprezzarne la coincidenza con le reali risultanze processuali. Ed invero, il tribunale del riesame non può fondarsi esclusivamente sulla mera enunciazione delle fonti di prova indicate dal P.M., specie quando quest'ultimo abbia basato la sua richiesta su atti non inviati all'organo giudicante.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1792 del 21 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1766/1999
+                                      In tema di sequestro probatorio delle cose qualificate corpo del reato, il giudice di merito non deve ridurre la sua delibazione alla mera presa d'atto delle affermazione del P.M. Sulla base dell'ipotesi tipica, formulata dall'accusa, ha il potere-dovere di esaminare la documentazione esibita dalle parti per verificare se in astratto la fattispecie sia configurabile. Eseguito tale controllo deve stabilire se la cosa sequestrata è riferibile al reato indicato in tesi. Quando si tratta di corpo di reato deve accertare la possibilità di catalogazione della res nella relativa nozione precisata dall'art. 253, comma 2, c.p.p. L'unica indagine che il giudice non deve compiere è quella concernente la necessità di dimostrare l'esistenza della finalità probatoria, poiché quest'ultima è in re ipsa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1766 del 16 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1003/1999
+                                      In tema di motivazione del decreto di sequestro probatorio, nel caso in cui il provvedimento, nonostante il vizio di motivazione, venga eseguito proprio sulle cose pertinenti al reato, la eventuale incertezza sul fatto e la difettosa indicazione delle cose da sequestrare ben possono essere eliminate dal giudice del riesame, in base al suo riconosciuto potere di integrazione motivazionale. Pertanto, qualora tale giudice abbia, in modo completo e congruo, colmato le eventuali lacune del decreto di sequestro, l'indagato non può, in sede di legittimità, dolersi di carenze relative alla motivazione del P.M.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1003 del 11 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 793/1999
+                                      In tema di sequestro probatorio, il tribunale in sede di riesame non deve limitarsi a «prendere atto» della tesi accusatoria senza svolgere alcuna attività di controllo ma deve esercitare una verifica in concreto della fondatezza dell'accusa, accertando l'astratta configurabilità del reato ipotizzato. In sostanza, alla giurisdizione compete il potere-dovere di espletare il cotnrollo di legalità: l'accertamento del fumus commissi delicti va compiuto, dunque, sotto il profilo della congruità degli elementi rappresentati, che non possono essere censurati in punto di fatto per apprezzarne la coincidenza con le reali risultanze processuali, ma che vanno valutati così come esposti, al fine di verificare se essi consentano di sussumere l'ipotesi considerata in quella tipica.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 793 del 21 aprile 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 709/1999
+                                      In tema di sequestro probatorio, il principio del ne bis in idem, ricavabile dalle linee generali dell'ordinamento processuale, comporta la impossibilità di una reiterazione di un provvedimento avente medesimo oggetto e fondato su identico contenuto, solo quando sia intervenuta pronuncia giurisdizionale non più soggetta ad impugnazione, la quale pronuncia abbia escluso la sussistenza delle condizioni per disporlo, e non anche nell'ipotesi di caducazione di un originario provvedimento ablativo per motivi puramente formali. (Nella fattispecie, la Corte ha rigettato il ricorso dell'indagato che, in considerazione del fatto che il precedente sequestro, operato dalla polizia giudiziaria sugli stessi beni, era stato annullato dal Riesame, aveva sostenuto essere non conforme a legge la successiva ordinanza del medesimo giudice che aveva rigettato sua istanza di riesame avverso un nuovo decreto di sequestro, incidente sullo stesso oggetto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 709 del 22 marzo 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 366/1999
+                                      In tema di sequestro probatorio, l'attività della polizia giudiziaria necessita di convalida ex art. 355 c.p.p. ogniqualvolta il decreto del P.M. non indichi l'oggetto specifico della misura, ma contenga un generico richiamo a quanto rinvenuto; ciò in quanto una siffatta indeterminatezza rimette alla discrezionalità degli operanti l'individuazione del presupposto fondamentale del sequestro e cioè della qualifica dei beni come corpo e/o pertinenza del reato, per la quale attività, non definitiva, è richiesto un controllo dell'autorità giudiziaria. Ne consegue che qualora il P.M. delegando la polizia giudiziaria, indipendentemente dai riferimenti normativi contenuti nel provvedimento e dalla modulistica utilizzata, disponga il sequestro nei termini di cui sopra e non provveda poi alla convalida, contro quest'ultimo non è esperibile la procedura del riesame, che l'ordinamento riserva al decreto emesso ex art. 253 c.p.p. il quale, invece, deve contenere l'indicazione delle cose da sequestrare. In tale ultima ipotesi qualora il P.M. non restituisca d'ufficio i beni sequestrati, ai sensi dell'art. 355, secondo comma, c.p.p., l'interessato potrà avanzare al medesimo la relativa istanza, con facoltà di proporre opposizione al Gip contro l'eventuale diniego.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 366 del 21 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2882/1998
+                                      Al fine di evitare che i provvedimenti di perquisizione e sequestro si trasformino in strumenti di ricerca della notitia criminis è necessario che essi individuino, almeno nelle linee essenziali, gli oggetti da sequestrare con riferimento a specifiche attività illecite, onde consentire che la perquisizione e il conseguente sequestro siano eseguiti non sulla base di semplici congetture, ma trovino giustificazione in concrete ipotesi di reato rinvenibili in fatti addebitati a un determinato soggetto, e permettere, inoltre, la verifica, in caso di «cose pertinenti al reato», della sussistenza delle esigenze probatorie, ovvero, qualora tali esigenze siano in re ipsa, della effettiva possibilità di qualificazione di «corpo del reato» delle cose apprese, attraverso l'accertamento dell'immediatezza descritta dal secondo comma dell'art. 253 c.p.p. tra esse e l'illecito penale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2882 del 11 dicembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1334/1998
+                                      Nel provvedimento di sequestro probatorio del corpo di reato o di cose a esso pertinenti non è sufficiente la mera indicazione delle norme di legge violate, ma occorre anche che sia individuato il rapporto diretto o pertinenziale tra cosa sequestrata e delitto ipotizzato, e che, quindi, siano descritti gli estremi essenziali di tempo, di luogo e di azione del fatto, in modo che siano specificati gli episodi in relazione ai quali si ricercano le cose da sequestrare. (Nel caso la Corte ha ritenuto insufficiente il requisito richiesto per essere stato disposto il sequestro in relazione a «Rapporti illeciti tra lo stesso [indagato] e titolari o comunque soggetti interessati nella gestione di discoteche ubicate nel Comune di Firenze e comuni limitrofi, nonché tra lo stesso e associazioni criminose straniere»).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1334 del 14 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1887/1998
+                                      In materia di sequestro probatorio la verifica, da parte del Tribunale del riesame e della Cassazione, delle condizioni di legittimità del decreto che lo ha disposto non può tradursi in una anticipata decisione della questione di merito, concernente la responsabilità dell'indagato in ordine al reato oggetto di investigazione, ma deve limitarsi al controllo, nei limiti del devolutum, della compatibilità tra fattispecie concreta e fattispecie legale ipotizzata, con valutazione prioritaria ed attenta della antigiuridicità penale del fatto.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1887 del 31 luglio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1640/1998
+                                      Nella categoria dei beni pertinenti al reato necessari per l'accertamento dello spaccio di stupefacenti, e perciò sottoposti a sequestro, rientrano anche le somme di danaro, che, pur derivando in quanto prodotto o profitto da un'attività illecita pregressa e già perfezionatasi, sono funzionali a dimostrare la destinazione al commercio della droga sequestrata. (Nella specie la somma di denaro era sproporzionata rispetto al reddito di un operaio dipendente pubblico, frazionata in banconote di piccolo taglio e occultata nella cassaforte collocata nella soffitta della abitazione dei genitori dell'indagato, i quali ne ignoravano l'esistenza e non ne detenevano la chiave).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1640 del  1 luglio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1786/1998
+                                      In tema di motivazione del decreto di sequestro probatorio, anche in relazione alle cose che costituiscono corpo del reato occorre indicare la ragione della necessità del sequestro in funzione dell'«accertamento dei fatti», come si ricava, in primo luogo, dalla ratio dell'art. 253, comma primo, c.p.p., che se collega tale espressione al sequestro delle cose pertinenti al reato, non autorizza certo il sequestro del corpo di reato al di fuori di ogni finalità di indagine; in secondo luogo, dall'art 262 del medesimo codice, che prevede la restituzione delle cose sequestrate, tra cui anche quelle che costituiscono corpo del reato, quando «non è necessario mantenere il sequestro a fini di prova». A ritenere il contrario, si renderebbe possibile un'ablazione della cosa al di fuori della indicazione dei motivi di interesse pubblico, collegati all'accertamento dei fatti di reato, con lesione dell'art. 42 Cost.; il che sarebbe tanto più grave in quanto si tratti di cose di proprietà di terzi estranei, oggetto della condotta delittuosa. (Fattispecie di sequestro probatorio di un cavallo, qualificato come corpo del reato di cui all'art. 392 c.p., di proprietà della persona offesa querelante).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1786 del 11 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1671/1998
+                                      In tema di sequestro preventivo, la nozione di cose pertinenti al reato, è più ampia di quella di corpo di reato definita dall'art. 253 comma 2 c.p.p., in quanto non solo include in sè i beni costituenti corpo di reato ma abbraccia anche tutte le cose legate anche indirettamente alla fattispecie criminosa. Ciò comporta che, in astratto, ogni bene può essere pertinente a reato, salvo verificarne in concreto il legame con quest'ultimo. Nulla esclude, quindi, che i locali in cui vengono svolte attività criminose (nella specie: attività di intermediazione finanziaria senza abilitazione) possano ritenersi pertinenti a reato. Tuttavia, la pertinenza della cosa al reato va collegata — al fine di evitare una indiscriminata compressione del diritto di proprietà e di uso del bene — alla finalità di impedire che la disponibilità della cosa stessa da parte dell'indagato comporti il pericolo di aggravamento o protrazione delle conseguenze di reato. Si tratta comunque di una valutazione di merito che, se congruamente motivata in riferimento alla specifica stabile strumentalità della cosa sottoposta a sequestro all'attività illecita ed alla possibilità che quest'ultima venga reiterata, si sottrae al sindacato di legittimità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1671 del  9 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 731/1998
+                                      In sede di riesame del sequestro probatorio, il tribunale deve limitarsi a stabilire l'astratta configurabilità del reato ipotizzato; tale astrattezza, però, non limita i poteri del giudice (nel senso che questi debba esclusivamente «prendere atto della tesi accusatoria», senza svolgere alcuna altra attività), ma determina soltanto l'impossibilità di esercitare una verifica in concreto della sua fondatezza; alla giurisdizione compete, perciò, il potere-dovere di espletare il controllo di legalità, sia pure nell'ambito delle indicazioni di fatto offerte dal pubblico ministero; l'accertamento della sussistenza del fumus commissi delicti, perciò, va compiuto sotto il profilo della congruità degli elementi rappresentati, che non possono essere censurati in punto di fatto per apprezzarne la coincidenza con le reali risultanze processuali, ma che vanno valutati così come posti, al fine di verificare se essi consentono di sussumere l'ipotesi formulata in quella tipica; pertanto, il tribunale non deve instaurare un processo nel processo, ma svolgere l'indispensabile ruolo di garanzia, tenendo nel debito conto le contestazioni difensive sull'esistenza della fattispecie dedotta ed esaminando l'integralità dei presupposti che legittimano il sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 731 del  9 aprile 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 103/1998
+                                      In tema di sequestro probatorio di cose costituenti corpo di reato, se è vero che non è necessario offrire la dimostrazione della necessità del sequestro in funzione dell'accertamento dei fatti, atteso che la esigenza probatoria del corpus delicti è in re ipsa, è anche vero che, ai fini della qualificazione come corpo di reato delle cose in sequestro, il provvedimento deve dare concretamente conto della relazione di immediatezza descritta nel comma secondo dell'art. 253 c.p.p. tra la res e l'illecito penale. (Fattispecie riguardante il sequestro di pratiche di sussidio economico presso un comune le quali, secondo la prospettazione accusatoria, costituivano corpo del reato di abuso di ufficio).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 103 del 16 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5185/1998
+                                      L'accertamento che determinati beni sono stati acquistati dall'imputato con il denaro ricavato dai reati contestatigli ne rende legittimo il sequestro probatorio in quanto corpo di reato, del quale costituiscono il prodotto, ai sensi dell'art. 253, comma secondo, c.p.p., senza che occorra una specifica dimostrazione della necessità probatoria del sequestro. (Fattispecie in cui l'acquisto di certificati di deposito e di una autovettura sono stati ricollegati al denaro ricavato dai reati di falso in atti pubblici, frode in pubbliche forniture, truffa, concussione in base ad una serie di elementi convergenti quali la coincidenza delle operazioni economiche di acquisto dei beni con l'epoca delle dazioni, le modalità di compimento delle operazioni, l'assenza di idonee fonti lecite di guadagno giustificative delle disponibilità finanziarie).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5185 del 10 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 337/1998
+                                      In tema di sequestro probatorio di cose costituenti corpo di reato, non è necessario offrire la dimostrazione della necessità del sequestro in funzione dell'accertamento dei fatti, atteso che l'esigenza probatoria del corpus delicti è in re ipsa, onde il decreto di sequestro è sempre legittimo quando abbia ad oggetto cose qualificabili come corpo di reato, essendo necessario e sufficiente, a tal fine, che risulti giustificata detta qualificazione. (Fattispecie riguardante il sequestro di un computer, che, secondo la prospettazione accusatoria, costituiva il mezzo di documentazione dei corrispettivi e delle operazioni alberghiere che l'imprenditore doveva per legge effettuare e sul quale era stata operata una cancellazione della memorizzazione di tali dati al fine di evasione fiscale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 337 del  5 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5062/1998
+                                      In tema di misure cautelari reali il sequestro probatorio è impugnabile solo con la richiesta di riesame e, indirettamente, con l'opposizione avverso il rigetto della richiesta di restituzione. La proposizione del riesame o dell'appello avverso il diniego della restituzione deve essere convertito in opposizione e trasmesso al Gip. Deve perciò essere annullata senza rinvio l'ordinanza del tribunale della libertà che abbia improvvisamente deciso avverso il gravame presentato in tale forma e gli atti devono essere trasmessi al Gip.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 5062 del 13 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3879/1998
+                                      Il principio dell'invalidità derivata del sequestro probatorio, per cui lo stesso, allorché è eseguito all'esito di una perquisizione illegittima, non è utilizzabile come prova nel processo, trova un limite con riferimento all'ipotesi prevista dall'art. 253, comma primo, c.p.p. Secondo tale previsione di sequestro probatorio è obbligatorio non solo per il corpo di reato che venga ritrovato nel corso della perquisizione in quanto dimostrativo in via immediata del collegamento della cosa stessa con l'illecito penale, ma anche per le cose pertinenti al reato, in quanto siano indispensabili per l'accertamento dei fatti e della responsabilità penale ipotizzati a carico dell'indagato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3879 del 10 gennaio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3131/1997
+                                      Le provviste di denaro esistenti sui conti correnti non possono essere considerate “corpo di reato” ai sensi dell'art. 253 c.p.p. in relazione ad ipotizzati illeciti fiscali. Esse infatti non possono essere considerate provento del reato, cioé il quantum di imposta non versata all'erario.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3131 del  4 novembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2409/1997
+                                      È pienamente legittimo il nuovo provvedimento di sequestro probatorio emesso dal Pubblico Ministero ex art. 253 c.p.p. sui medesimi oggetti già sequestrati e restituiti all'indagato, allorquando l'annullamento del precedente provvedimento di sequestro, non impugnato, attenga a profili formali (nella specie, insufficiente indicazione del titolo dei reati per i quali si procede), non preclusivi, pertanto, dei poteri istituzionali del P.M. volti alla ricerca delle prove. (La S.C. ha altresì ritenuto che con il nuovo provvedimento di sequestro non sono più deducibili le questioni afferenti al primo sequestro, il cui annullamento, da parte del Tribunale del riesame, rende, comunque, inconferente ogni ulteriore esame al riguardo; che il provvedimento di sequestro probatorio, emesso dal P.M. incompetente, non incide sull'efficacia dell'atto inteso come mezzo di ricerca della prova penale (stante l'espressa previsione dell'art. 26 c.p.p., secondo cui l'inosservanza delle norme sulla competenza non produce l'inefficacia delle prove già acquisite), né sulla legittimità dello stesso, stante la sua natura strumentale di ricerca, anche immediata della prova, sottratta, in quanto tale, a una declaratoria di incompetenza; che l'inefficacia del provvedimento a causa dell'inosservanza del termine di cinque giorni previsto dall'art. 309, comma 5, c.p.p., come modificato, riguarda le misure cautelari e non anche quelle reali e neppure — a maggior ragione — il sequestro probatorio, che è mezzo di ricerca della prova).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2409 del 26 settembre 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1950/1997
+                                      Fermo restando il principio secondo il quale in sede di riesame del sequestro il giudice non può sindacare la fondatezza e la gravità degli indizi, ma deve limitarsi a verificare la astratta configurabilità dell'ipotesi delittuosa indicata e la riferibilità ad essa dell'oggetto del sequestro, non può ritenersi legittimo il sequestro della documentazione contabile relativa ad un intero gruppo di società finalizzato alla ricerca di prove relative all'avvenuta corruzione di un ufficiale della guardia di finanza incaricato di controlli relativamente ad alcune società del medesimo gruppo in mancanza di indicazioni che consentano di correlare l'asserita corruzione ad un ipotizzabile falso in bilancio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1950 del 12 giugno 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3537/1997
+                                      È ammissibile il sequestro preventivo di cosa già sottoposta a sequestro probatorio, purché non sussista un pericolo concreto ed attuale della cessazione del vincolo di indisponibilità impresso da quest'ultimo, che renda reale e non solo presunta la prospettiva della riconduzione del bene nella sfera di chi potrebbe servirsene in contrasto con le esigenze protette dall'art. 321 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 3537 del  9 giugno 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1933/1997
+                                      In tanto è possibile presumere le finalità tipiche del sequestro probatorio — sicché l'autorità giudiziaria procedente ha il solo onere di giustificare la qualificazione giuridica di corpo di reato della res appresa — in quanto il provvedimento tenda a rendere materialmente indisponibile la «cosa» che, secondo la previsione dell'art. 253, secondo comma, c.p.p., necessariamente assume rilievo ai fini di prova in quanto caratterizzata da un rapporto di fisica immediatezza con il reato stesso. Ne deriva che un diritto di credito, pur potendo essere oggetto di vincolo probatorio in quanto idoneo a fornire elementi utili per l'accertamento di un fatto ma consistendo, per sua natura, in un bene immateriale, non può costituire «corpo» del reato, ed è pertanto sequestrabile solo ove suscettibile di essere qualificato come «cosa pertinente al reato», con l'ulteriore conseguenza che è sempre necessario, per l'apposizione del vincolo, che se ne dimostri in concreto la destinabilità a fini di prova. (Nell'occasione la Corte ha precisato, altresì, che il medesimo principio è applicabile al sequestro di una somma di danaro, la quale può essere definita quale «corpo di reato» solo ove sia proprio quella acquisita attraverso l'attività criminosa; mentre, ove rappresenti esclusivamente la misura del valore di un credito — come avviene dopo il suo eventuale deposito in un istituto bancario — essa può essere vincolata al processo solo in quanto «cosa pertinente al reato»).
+                                          
+                      –
+                      
+                                                          Un diritto di credito, in quanto tale, non può essere considerato corpo di reato ed assoggettato, quindi, a sequestro probatorio, potendo un tale sequestro cadere soltanto sul documento rappresentativo di tale credito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 1933 del 22 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 23/1997
+                                      In sede di riesame del sequestro probatorio, il tribunale deve stabilire l'astratta configurabilità del reato ipotizzato. Tale astrattezza, però, non limita i poteri del giudice nel senso che questi deve esclusivamente «prendere atto» della tesi accusatoria senza svolgere alcun'altra attività, ma determina soltanto l'impossibilità di esercitare una verifica in concreto della sua fondatezza. Alla giurisdizione compete, perciò, il potere-dovere di espletare il controllo di legalità, sia pure nell'ambito delle indicazioni di fatto offerte dal pubblico ministero. L'accertamento della sussistenza del fumus commissi delicti va compiuto sotto il profilo della congruità degli elementi rappresentati, che non possono essere censurati in punto di fatto per apprezzarne la coincidenza con le reali risultanze processuali, ma che vanno valutati così come esposti, al fine di verificare se essi consentono di assumere l'ipotesi formulata in quella tipica. Pertanto, il tribunale non deve instaurare un processo nel processo, ma svolgere l'indispensabile ruolo di garanzia, tenendo nel debito conto le contestazioni difensive sull'esistenza della fattispecie dedotta ed esaminando l'integralità dei presupposti che legittimano il sequestro.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 23 del 29 gennaio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4421/1997
+                                      A norma dell'art. 253 c.p.p., la legittimità del sequestro probatorio postula che il vincolo di temporanea indisponibilità sia imposto soltanto ai beni qualificabili come corpo di reato o cose pertinenti al reato. La nozione di corpo di reato, definito dalla norma con una dizione che ripete, nella sostanza, quella relativa alla confisca — art. 240 c.p. — comprende i corpora delicti ed i producta sceleris, cioè cose che sono in rapporto diretto ed immediato con l'azione delittuosa. La nozione di cose pertinenti al reato è necessariamente generica, invece, in quanto comprende tutte quelle res che sono in rapporto indiretto con la fattispecie concreta e sono strumentali, secondo i principi generali della libera prova e del libero convincimento del giudice, all'accertamento dei fatti. In tale dizione vanno ricomprese, quindi, le cose necessarie sia alla dimostrazione del reato e delle modalità di preparazione ed esecuzione, sia alla conservazione delle tracce, all'identificazione del colpevole, all'accertamento del movente ed alla determinazione dell'ante factum e del post factum, comunque ricollegabili al reato, pur se esterni all'iter criminis, purché funzionali alla finalità perseguita, cioè all'accertamento del fatto e all'individuazione dell'autore. Consegue che l'obbligo di motivazione si traduce, sia per il pubblico ministero, in ordine al decreto di sequestro ed al decreto di convalida, sia per il giudice del riesame, nell'indicazione delle finalità preventiva o probatoria del sequestro e nella dimostrazione dell'esistenza del rapporto diretto o pertinenziale tra cosa sequestrata e delitto ipotizzato. Poiché questo rapporto può essere dimostrato soltanto in concreto, la norma postula l'esigenza, non solo dell'indicazione delle norme violate, ma anche e soprattutto di specificazione della fattispecie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 4421 del 22 gennaio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5309/1997
+                                      Poiché anche in relazione al «corpo del reato» vige l'obbligo, previsto dall'art. 262 c.p.p., della restituzione delle cose sequestrate a chi ne abbia diritto quando non è più necessario mantenerne il vincolo ai fini della prova, e poiché, inoltre, non può ritenersi che il corpo del reato sia sempre necessario per l'accertamento dei fatti e debba quindi formare in ogni caso oggetto di sequestro, il provvedimento che ne dispone il sequestro probatorio deve sempre indicare le finalità che con l'atto si intendono perseguire ed il giudice del riesame deve farsi carico di controllare tali finalità per verificare la legittimità del provvedimento stesso.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 5309 del 18 gennaio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3123/1996
+                                      Per disporre un sequestro probatorio non è necessaria la circostanziata qualificazione giuridica del reato, essendo sufficiente il fumus dello stesso, sicché, nei reati finanziari, è possibile pervenire al sequestro della documentazione contabile di un'impresa, relativa ad anni in cui non è stata concretamente accertata alcuna evasione, sulla supposizione che l'imprenditore, avendo evaso negli anni precedenti, possa avere proseguito nell'attività illecita.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3123 del  9 settembre 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7173/1996
+                                      Qualora l'esistenza delle cose da sequestrare, nella specie documentazione bancaria, risulti da un interrogatorio dell'indagato, poi dichiarato nullo, in applicazione dell'art. 185 c.p.p., rende invalido il provvedimento di sequestro emesso, venendo questo in concreto a dipendere dall'atto nullo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 7173 del 18 luglio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1677/1996
+                                      Possono essere oggetto di sequestro probatorio ai sensi dell'art. 253 comma 2 c.p.p. le cose che costituiscono il profitto e quindi il corpo del reato, cioè gli oggetti provvisti di utilità economica che il reo si è procurato attraverso il reato. In tal caso il sequestro può essere disposto senza che l'autorità giudiziaria debba motivare in ordine alla sufficienza degli indizi. Una somma di denaro può essere definita «cosa che costituisce profitto del reato» solo se è proprio quella che è stata acquisita attraverso l'attività criminosa, ma dal momento che essa perde tale identità, come avviene ad esempio attraverso il suo deposito presso un istituto di credito, per disporne il sequestro occorre dimostrare la necessità dell'acquisizione ai fini dell'accertamento dei fatti, motivare sul punto il provvedimento e trasmettere al tribunale del riesame, in caso di impugnazione, gli atti su cui il provvedimento si fonda. (Nell'affermare il principio di cui in massima la Corte ha annullato senza rinvio il provvedimento di sequestro del P.M. e l'ordinanza del tribunale del riesame che lo confermava con il quale era stato disposto il sequestro, quale corpo del reato, delle somme erogate dal Coni all'Asi ritenendole profitto del reato di abuso patrimoniale in atti di ufficio).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1677 del 28 maggio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1497/1996
+                                      Le trasformazioni che le banconote provenienti da traffici illeciti abbiano subito nella loro circolazione e la conseguente impossibilità di identificare le somme sequestrate su conti correnti bancari con quelli provenienti da detti traffici non tolgono alle somme di provenienza illecita la natura di «corpo del reato», con la conseguente loro assoggettabilità al vincolo di indisponibilità, propedeutico alla confisca.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1497 del 20 maggio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 925/1996
+                                      Il difensore dell'indagato può proporre la richiesta di riesame del provvedimento di sequestro disposto dal P.M. (art. 253 c.p.p.), anche se egli non è espressamente menzionato tra le persone a ciò legittimate dall'art. 257 c.p.p. In forza dell'art. 99, comma 1, c.p.p., infatti, va esteso al difensore l'esercizio di ogni diritto e facoltà riconosciuti all'indagato, salvi quelli a lui personalmente riservati: il sequestro non coinvolge interessi esclusivamente patrimoniali del soggetto interessato, ma comprende anche l'interesse alla prova, in relazione al quale non può rimanere esclusa l'assistenza tecnica.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 925 del 21 marzo 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 588/1996
+                                      Le provviste di denaro esistenti su conti correnti non costituiscono «corpo di reato», ai sensi dell'art. 253 c.p.p., in relazione agli illeciti fiscali ipotizzati, (nella specie omessa annotazione di corrispettivi a fini Iva ed emissione ed utilizzo di fatture per operazioni inesistenti), sicché il sequestro di esse è illegittimo. (La S.C. ha altresì osservato che non può condividersi la prospettazione del tribunale, secondo la quale «esiste la concreta probabilità che le somme versate sui conti correnti in questione costituiscano il provento del reato e cioè il quantum di imposta non versata all'erario», poiché un siffatto modo di argomentare, del tutto ipotetico, conduce all'aberrante conclusione di ritenere sempre e comunque legittimo il sequestro a fini probatori del patrimonio di qualsiasi soggetto venga indiziato di illeciti tributari).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 588 del  7 marzo 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 490/1996
+                                      La nozione di cose pertinenti al reato, lasciata espressamente dal legislatore all'elaborazione giurisprudenziale e dottrinale, è più ampia di quella di corpo di reato definita nell'art. 253 comma 2 c.p.p. essendosi in detta norma operata tale distinzione per fornire una «definizione sufficientemente comprensiva sul concetto di corpo del reato e per mettere in risalto che la categoria dei beni pertinenti al reato non comprende solo questo ma abbraccia tutte le cose legate anche indirettamente alla fattispecie criminosa». Pertanto, poiché l'art. 253 definisce corpo di reato «le cose sulle quali o mediante le quali il reato è stato commesso, nonché le cose che ne costituiscono il prodotto, il profitto o il prezzo», la nozione di cose pertinenti al reato in sede di sequestro preventivo, oltre a comprendere dette cose, deve riguardare anche quelle, mobili o immobili che anche in via indiretta sono collegate in vario modo al reato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 490 del  2 marzo 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6226/1996
+                                      La possibilità del sequestro per l'accertamento dei fatti riguarda soltanto le cose pertinenti al reato e non già il corpo del reato che è sequestrabile senza condizioni, possedendo in sè e senza necessità di apposito accertamento, l'attitudine probatoria in questione. (Fattispecie relativa a sequestro di somma di danaro proveniente da cessione di armi comuni da sparo, senza licenza dell'Autorità, e costituente prova esclusiva del fatto addebitato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 6226 del 24 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2971/1996
+                                      In tema di sequestro probatorio, l'art. 253 c.p.p. fa riferimento al prodotto, al profitto o al prezzo del reato, senza distinguere il valore dei beni a seconda del tempo nel quale il sequestro stesso interviene. (Fattispecie relativa al sequestro di quote di società a responsabilità limitata, nella quale la S.C. ha statuito che correttamente il giudice del riesame aveva ritenuto irrilevante la circostanza che il loro valore, esiguo al momento dell'acquisizione, si fosse poi accresciuto per effetto delle capacità gestionali della titolare, indagata del reato di bancarotta fraudolenta).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2971 del 18 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2834/1996
+                                      I provvedimenti dispositivi di perquisizioni e sequestri ex art. 247 c.p.p. devono da un lato, specificare le imputazioni a fondamento della ricerca dei corpi di reato e delle cose pertinenti al reato mediante l'indicazione anche sommaria delle fattispecie criminose contestate e dei fatti specifici addebitati, in relazione ai quali si ricercano le cose stesse, dall'altro enunciare sia pure in forma approssimativa le ragioni per le quali si ritiene probabile che esse si trovino in un determinato luogo. (Fattispecie relativa a decreto di perquisizione locale).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2834 del  5 gennaio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3890/1995
+                                      In materia di reati tributari, quando il loro accertamento dipenda dall'esame di ogni documento relativo all'indagato, il decreto di sequestro può limitarsi ad una indicazione relativa a qualsiasi tipologia di atto o documento, proprio per la particolare natura di questi reati che si basano sull'esame dell'intero coacervo cartolare. L'unico limite è naturalmente quello della pertinenza che non può essere stabilito con valutazione antecedente, ma soltanto al momento dell'esecuzione del provvedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3890 del 14 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3278/1995
+                                      L'inosservanza del disposto dell'art. 100, comma 2, D.P.R. 9 ottobre 1990, n. 309 è sanzionata a pena di nullità. Ed infatti, la mancata instaurazione del contraddittorio nei confronti del terzo proprietario non è irrilevante, posto che il citato art. 100, comma 2, prevede anche che si applichino, in quanto compatibili, le norme del codice di procedura penale ed è da escludere la incompatibilità con la suddetta disposizione degli strumenti predisposti dalla normativa processuale generale a tutela del diritto di difesa dell'indagato e delle altre parti private del processo. (Nella fattispecie il P.M., ai sensi e per gli effetti di cui agli artt. 253 c.p.p. e 100, D.P.R. 9 ottobre 1990, n. 309 aveva disposto il sequestro di una vettura trovata nella disponibilità di soggetto indagato per il reato ex art. 73, comma 1, D.P.R., detto, ma di proprietà di un terzo sul rilievo che trattavasi di veicolo utilizzato per l'attuazione dell'attività di spaccio di stupefacenti, e l'aveva affidata alla P.G., autorizzandone l'impiego in operazioni antidroga. Il proprietario del mezzo aveva presentato richiesta di riesame che era stata rigettata dal tribunale che, tra l'altro, aveva osservato che l'inosservanza del comma 2 dell'art. 100, D.P.R. 1990, n. 309, non poteva determinare la nullità del provvedimento del P.M., non essendo la posizione del terzo equiparabile a quella dell'indagato o della altre parti private del processo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 3278 del 11 dicembre 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2344/1995
+                                      In tema di sequestro probatorio, quando questo abbia ad oggetto somme depositate presso istituti bancari, che si assumano qualificabili come «corpo di reato», in quanto costituenti profitto del reato per cui si procede, il dissequestro di tali somme, una volta esaurite le esigenze probatorie, non può essere negato quando la loro provenienza risulti altrimenti giustificata. (Nella specie la Corte ha ritenuto erroneo il richiamo operato dal giudice di merito alla pretesa assoggettabilità delle somme in questione a confisca obbligatoria - rientrando esse invece solo nell'ambito della confisca facoltativa - come pure il richiamo alla «confusione» che poteva essersi realizzata fra somme lecitamente acquisite e somme costituenti provento di reato, non tenendo conto, detto ultimo richiamo, del fatto che la nozione di «corpo di reato» postula l'esistenza di un rapporto di immediatezza tra la cosa e la fattispecie penale ipotizzata).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2344 del 29 agosto 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2649/1995
+                                      Affinché il sequestro del corpo del reato — che rientra sempre nella categoria del sequestro probatorio — e l'eventuale procedimento di riesame non anticipino, con stravolgimento dell'ordine processuale, il definitivo accertamento sulla sussistenza del reato, il decreto che dispone il sequestro deve essere giustificato soltanto mediante l'indicazione della fattispecie concreta nei suoi estremi essenziali di tempo, di luogo e di azione, nonché dalla normativa penale che si assume violata. Il controllo in sede di riesame, peraltro, deve essere rivolto alla ricerca ed alla individuazione di indizi di reato gravi, precisi e concordanti che facciano ritenere certa ed univoca la commissione del fatto e la coincidenza tra fattispecie concreta e fattispecie legale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2649 del  7 agosto 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2550/1995
+                                      L'avvenuta presentazione di istanze di condono con richiesta di rilascio di concessioni in sanatoria per gli immobili in sequestro non esclude che, in presenza di esigenze probatorie, il vincolo imposto su di essi a norma dell'art. 253 c.p.p. venga mantenuto fino al soddisfacimento delle stesse che nella specie non è stato ritenuto raggiunto per l'avvenuto espletamento di consulenza tecnica e per l'interrogatorio degli imputati effettuato in fase di indagini preliminari. Va però, considerato che la destinazione ai fini probatori del «corpo di reato», mentre si presume al momento della sottoposizione di esso al sequestro di cui all'art. 253 c.p.p., deve essere motivata in maniera adeguata, corretta e logica al fine del mantenimento di detto sequestro in fase di giudizio. (La Suprema Corte ha annullato ordinanza di rigetto di opposizione perché assolutamente carente di motivazione sulla individuazione delle esigenze probatorie legittimanti il mantenimento del sequestro, apoditticamente affermato meritevole di essere «mantenuto ai fini probatori»).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2550 del  4 agosto 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 23/1995
+                                      È ammissibile il sequestro preventivo di cosa già soggetta a sequestro probatorio, purché sussista un pericolo concreto e attuale della cessazione del vincolo di indisponibilità impresso da quest'ultimo, che renda reale e non solo presunta la prospettiva della riconduzione del bene nella sfera di chi potrebbe servirsene in contrasto con le esigenze protette dall'art. 321 c.p.p. (In motivazione, la S.C. ha chiarito: 1) che, quantunque manchi, per le misure cautelari reali, una previsione esplicita come quella codificata, per le misure sulla libertà personale, dalla lett. c), degli artt. 274 e 292 c.p.p., è nella fisiologia del sequestro preventivo, come misura limitativa anch'essa di libertà protette costituzionalmente, che il pericolo debba presentare i requisiti della concretezza e dell'attualità e debba essere valutato in riferimento alla situazione esistente al momento dell'adozione della misura reale e non già nella prospettiva di un'astratta, oltre che incerta nell'an e nel «quando», futura possibilità di caducazione del sequestro probatorio; 2) che un pericolo di tale natura è da escludere solo finché il procedimento resti nella fase delle indagini preliminari, nella quale, spettando al pubblico ministero il potere-dovere di restituzione e quello della relativa esecuzione, lo stesso P.M. può ovviare al predetto pericolo, o rivolgendosi in tempo al giudice per le indagini preliminari per il sequestro preventivo, o emettendo direttamente, in via d'urgenza e salvo convalida, il relativo decreto, ma che, al di fuori di tale ipotesi e quando sia stata esercitata l'azione penale, è possibile che il P.M. - a causa della mancanza di un punto di saldatura tra i provvedimenti o dei tempi tecnici occorrenti per comunicazioni o notifiche - si venga a trovare nell'impossibilità di attivarsi prontamente per l'applicazione della misura preventiva; 3) che in questi ultimi casi e in altri analoghi non è, ovviamente, richiesto, per l'adozione della misura cautelare reale, che la cessazione del sequestro probatorio e la restituzione delle cose non più necessarie a fini di prova siano già intervenute o già disposte, ma è sufficiente che sussista in itinere la probabilità che ciò accada e che l'imputato riacquisti la libera disponibilità del bene, fermo restando il concorso del pericolo attuale e concreto della protrazione dell'attività criminosa o dell'aggravamento dei suoi effetti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 23 del 14 luglio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2287/1995
+                                      In tema di sequestro probatorio delle cose che assumono la qualifica di «corpo del reato», non è richiesta la dimostrazione della necessità del sequestro in relazione all'accertamento dei fatti, tuttavia il pubblico ministero dovrà motivare, convalidando il sequestro, in ordine alla stessa configurabilità quali corpo del reato delle cose sottoposte a vincolo. (Nel caso di specie la Corte ha ritenuto, in un procedimento per usura, che non fosse necessaria una analitica dimostrazione della natura di corpo di reato della documentazione contenente conteggi e ricognizioni di debito, stante la inequivocabile attinenza con l'attività usuraria, mentre una specifica motivazione fosse indispensabile per dimostrare tale natura in alcuni oggetti di valore, in particolare tappeti orientali in numero rilevante, trovati nella disponibilità dell'indagato e per i quali era ipotizzabile una provenienza estranea ai reati contestati).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2287 del  9 maggio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1711/1995
+                                      Il sequestro di cosa pertinente al reato eseguito dalla polizia giudiziaria in esecuzione di un provvedimento di perquisizione emesso dal pubblico ministero ed indicante le cose da sequestrare non è soggetto ad autonoma procedura di convalida essendo il decreto del P.M. riconducibile all'art. 253 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 1711 del 24 aprile 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 552/1995
+                                      Il sequestro del veicolo condotto da persona non abilitata alla guida può essere disposto per tutte le finalità contemplate da tale istituto, e non già solo in funzione della confisca del mezzo che sia di proprietà dell'autore del reato. Qualora tale confisca non possa essere ordinata per l'appartenenza a persona estranea al reato del veicolo, questo può essere sequestrato se vi è pericolo di aggravio di protrazione delle conseguenze del reato e di agevolazione della commissione di altri reati, ove trattasi di sequestro preventivo, ovvero di dispersione di cose utili all'accertamento dei fatti nel sequestro probatorio. (Fattispecie relativa ad annullamento con rinvio di ordinanza con cui il tribunale, rigettando l'appello del P.M. avverso il diniego da parte del Gip di disporre il sequestro preventivo di un veicolo per violazione dell'art. 116, comma 13, D.L.vo 30 aprile 1992, n. 285, ha rilevato che il sequestro è consentito solo allorché si debba con la successiva condanna ordinare la confisca, non possibile nel caso in esame per l'appartenenza del mezzo a persona estranea al reato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 552 del 14 aprile 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1143/1995
+                                      Poiché un atto compiuto da una parte processuale, che sia stato dichiarato illegittimo, non può produrre effetti sfavorevoli alla parte contro interessata, non è consentito il sequestro probatorio di copie di documenti delle quali sia stato disposta dal tribunale del riesame la restituzione perché illegittimamente estratte. (Nella fattispecie erano stati sequestrati documenti nel corso di una perquisizione ordinata dal P.M. con decreto poi dichiarato nullo dal tribunale per il riesame, con conseguente ordine di immediata restituzione agli interessati delle cose sequestrate e il P.M., prima di rendere i documenti in originale, aveva disposto l'estrazione di copia. In seguito, avendo il tribunale ordinato la consegna anche di dette copie, il P.M. aveva proceduto a sequestro probatorio delle stesse e poi proposto ricorso per cassazione avverso il nuovo provvedimento del tribunale di revoca del sequestro stesso. La Corte di cassazione ha dichiarato inammissibile tale impugnazione, in quanto l'estrazione delle copie era da ritenersi illegittima per difetto di un legittimo provvedimento di sequestro e tale illegittimità si comunicava al successivo sequestro probatorio. Il Supremo Collegio ha altresì rilevato che il P.M. aveva il potere di ordinare il sequestro degli originali dei documenti, a prescindere dal fatto se fossero stati o meno restituiti agli aventi diritto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        ordinanza n. 1143 del  5 aprile 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 251/1995
+                                      In tema di sequestro probatorio, l'interessato a cui, se presente, deve essere consegnata la copia del decreto di sequestro, non è necessariamente anche il proprietario della cosa sottoposta a sequestro, bensì, come risulta dal successivo art. 257 c.p.p., l'imputato, la persona alla quale le cose sono state sequestrate, quella che avrebbe diritto alla sua restituzione. Ne consegue che la mancata notifica al proprietario della cosa sottoposta a sequestro, non presente al momento del compimento del sequestro, non dà luogo ad alcuna nullità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 251 del 14 marzo 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 105/1995
+                                      Gli attrezzi rinvenuti in un cantiere edile, ai fini della configurabilità del reato di costruzione abusiva, potrebbero non qualificarsi come corpo di reato, potendo essere utilizzati in altri luoghi e in altri modi ed essere occasione di lavoro per l'esecuzione di opere edilizie legittimamente assentite, ma costituiscono cose pertinenti al reato e come tali suscettibili di sequestro tutte le volte in cui esistano concrete esigenze probatorie, che possono essere le più svariate e debbono essere valutate caso per caso. Peraltro, ove voglia attenersi alla lettera della disposizione dell'art. 253 c.p.p., senza alcuno sforzo interpretativo, e ritenere il cantiere corpo di reato, perché relativo a «cose mediante le quali è stato commesso l'illecito», è necessario tener conto del disposto dell'art. 262 stesso codice, secondo il quale tutte le cose, comunque sequestrate, vanno restituite «a chi ne abbia diritto» quando non è più necessario mantenere il sequestro ai fini probatori. Detto accertamento è particolarmente necessario per cose che per la loro molteplice destinazione e funzione e per le loro caratteristiche potrebbero non mantenere nel tempo le esigenze probatorie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 105 del 25 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42/1995
+                                      Deve ritenersi suscettibile di confisca obbligatoria, ai sensi del primo comma dell'art. 301 D.P.R. 23 gennaio 1973, n. 43 (T.U. delle disposizioni legislative in materia doganale), un'autovettura assoggettata a sequestro, che, in quanto cosa servita a commettere il reato di contrabbando di tabacchi lavorati esteri, è corpo di reato. (Nella specie, relativa a rigetto di ricorso nel quale si deduceva la non confiscabilità dell'autovettura ai sensi del secondo comma dell'art. 301 D.P.R. n. 43 del 1973, in quanto appartenente a persona assolutamente estranea al reato e non essendo necessaria la sua acquisizione a fini probatori, la Suprema Corte ha osservato che non risultavano verificate (e neppure enunciate) le condizioni di applicabilità della norma invocata, relative all'appartenenza ed alla dimostrazione di non aver potuto prevedere l'illecito impiego anche occasionale e di non essere incorso in un difetto di vigilanza).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 42 del  6 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5006/1995
+                                      In tema di misure cautelari reali, costituisce sequestro penale obbligatorio quello del corpo del reato che mira a sottrarre all'indagato tutte le cose sulle quali o mediante le quali il reato è stato commesso, nonché le cose che ne costituiscono il prodotto, il profitto e il prezzo. Sotto tale aspetto, il sequestro del corpo di reato non ha nulla a che vedere con il sequestro delle cose pertinenti al reato, che è, invece, facoltativo e presuppone la tutela delle esigenze probatorie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 5006 del  9 gennaio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3056/1994
+                                      Atteso il principio per cui, in caso di sequestro effettuato a seguito di decreto di perquisizione, il riesame può investire anche quest'ultimo provvedimento, deve derivarne l'ulteriore conseguenza che, secondo il disposto del comma 9 dell'art. 309 c.p.p., il tribunale può integrare o completare l'eventuale insufficienza o carenza di motivazione, divenendo, perciò, del tutto indifferente se detta motivazione, in precedenza, fosse stata completa ed esauriente, dato che il provvedimento dispositivo dell'eseguito sequestro e l'ordinanza decisoria sulla richiesta di riesame sono strettamente collegati e complementari quanto alla enunciazione delle ragioni logiche e giuridiche che ne sono a base.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3056 del  4 ottobre 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2413/1994
+                                      Pure se la nozione di cosa pertinente al reato che giustifica l'adozione del sequestro probatorio ha un contenuto più ampio della nozione di corpo di reato, postulando la seconda l'esistenza di un rapporto di immediatezza tra la cosa e l'illecito penale e la prima soltanto un rapporto anche indiretto rispetto all'accertamento dei fatti, la verificata provenienza lecita della res sequestrata vale comunque a sottrarla dalle cose pertinenti al reato non essendo ravvisabile alcun rapporto, neppure indiretto tra di essa ed il reato addebitato. La detta nozione — non postulando un rapporto di mediatezza tra la res e l'illecito — resta, infatti, designata dal nesso strumentale con la necessità per l'accertamento del reato in cui si esprime la sua valenza teleologica. (Nella fattispecie la Corte ha annullato il provvedimento di conferma del sequestro probatorio di una somma di danaro, osservando che la finalità, additata dal giudice a quo, di ricostruire l'origine e l'evolversi del credito nel corso degli anni, non appare sufficiente per giustificare la misura, potendo l'ipotizzata esigenza essere perseguita attraverso l'acquisizione della documentazione bancaria, considerando il valore monofunzionale del sequestro probatorio quando esso concerna (non il corpo di reato, ma) cose pertinenti al reato. Senza contare che, in caso contrario, si consentirebbe — e con modalità davvero surrettizie — l'utilizzazione di uno strumento, come quello previsto dall'art. 253 e seguenti, c.p.p., preordinato a fini di prova, a mere esigenze di prevenzione, coinvolgendo, oltre tutto, in una materia costituzionalmente presidiata, una diversa disciplina normativa, non correttamente chiamata in causa, considerato lo scopo perseguito).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2413 del 20 luglio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3706/1994
+                                      In tema di sequestro probatorio, «necessario per l'accertamento dei fatti», sono solo le cose pertinenti al reato, e, solo se ed in quanto necessarie a fini probatori, certe cose potranno essere qualificate come «pertinenti al reato» e, dunque, essere oggetto del provvedimento di sequestro. In tal caso, nella motivazione del provvedimento, dovrà darsi puntuale contezza della «pertinenza» probatoria delle cose oggetto di sequestro. Dette valutazioni non sono, al contrario, richieste per il «corpo del reato», individuato dal legislatore, nel secondo comma dell'art. 253 c.p.p., né «le cose sulle quali o mediante le quali il reato è stato commesso» e né «le cose che ne costituiscono il prodotto, il profitto o il prezzo»: per tali cose, invero, il rapporto con il reato non è mediato dalla finalità della prova, ma è immediato, tant'è che in via generale ne è prevista la confisca.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3706 del  6 maggio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 833/1994
+                                      Le risultanze e le certificazioni anagrafiche, nel loro valore di pubblicità e non costitutivo, inducono una presunzione semplice circa la residenza in un determinato luogo delle sole persone che in esso anagraficamente risultano avere fissato stabilmente la loro dimora, per cui detta presunzione è certamente superabile in virtù di oggettive ed univoche circostanze di fatto, che denunciano come nel suddetto luogo altri soggetti dimorano, ovvero come esso appartenga pure ad altri a titolo diverso dalla normale dimora. Ne consegue che è legittimo il sequestro di cose pertinenti al reato, rinvenute in luogo non corrispondente alla residenza anagrafica dell'indagato, ma nella quale risulti che quest'ultimo ha facoltà di riporre, custodire o mantenere beni di sua esclusiva proprietà. (Fattispecie relativa a sequestro di danaro contante e altri oggetti rinvenuti nell'abitazione dei genitori dell'indagato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 833 del 29 marzo 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2/1994
+                                      In tema di sequestro probatorio, in relazione alle cose che assumono la qualifica di «corpo di reato» non è necessario offrire la dimostrazione della necessità del sequestro in funzione dell'accertamento dei fatti, atteso che l'esigenza probatoria del corpus delicti è in re ipsa. Ne consegue che i provvedimenti dell'autorità giudiziaria di sequestro o di convalida del sequestro sono sempre legittimi quando abbiano ad oggetto cose qualificabili come «corpo di reato», essendo necessario e sufficiente, a tal fine, che risulti giustificata tale qualificazione, senza che occorra specifica motivazione sulla sussistenza nel concreto delle finalità proprie del sequestro probatorio. (La Cassazione ha altresì evidenziato, da un lato, che comunque i provvedimenti in questione devono avere una motivazione, seppur limitata alla sola configurabilità delle cose come «corpo di reato», e, dall'altro, che anche per ciò che attiene al «corpo del reato» è applicabile il disposto dell'art. 262 c.p.p., secondo il quale tutte le cose sequestrate vanno restituite «a chi ne abbia diritto», quando non è più necessario mantenere il sequestro ai fini di prova).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 2 del 15 marzo 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 195/1994
+                                      Gli artt. 250 e 252 c.p.p., che disciplinano le perquisizioni locali ed il sequestro conseguente a perquisizione, devono essere interpretati in relazione alla disposizione generale di cui all'art. 247, primo comma dello stesso codice, che regola casi e forme delle perquisizioni. Alla stregua di tale norma è evidente che anche nelle ipotesi di provvedimenti di perquisizione e sequestro previsti dagli artt. 250 e 252 c.p.p., le cose da ricercare ed, eventualmente, da sequestrare, devono necessariamente essere o «corpo di reato» ovvero «cose pertinenti al reato»; da ciò consegue che la motivazione dei provvedimenti che autorizzano le perquisizioni e i sequestri ai sensi e per gli effetti di cui all'art. 247, primo comma, già citato, devono tenere conto di tali caratteristiche delle cose oggetto dei provvedimenti medesimi e debbono, pertanto, specificare le imputazioni che sono a fondamento della ricerca di tali «corpi di reato» e delle «cose pertinenti al reato», mediante l'indicazione, sia pure sommaria ed approssimativa, delle fattispecie criminose contestate e dei fatti specifici imputati in relazione ai quali si ricercano i corpi di reato e le cose pertinenti ai reati, senza, ovviamente, limitarsi alla mera indicazione degli articoli del codice penale che si assumono violati dall'indagato nei confronti del quale viene disposto il provvedimento di perquisizione personale o locale e di eventuale sequestro. (In applicazione di tale principio la Corte ha dichiarato la nullità, per mancanza della motivazione richiesta dal combinato disposto degli artt. 247, secondo comma, e 125, terzo comma, c.p.p., di un provvedimento di perquisizione locale e sequestro emesso dal P.M. in cui ci si limitava ad affermare che si procedeva in ordine ai delitti previsti e puniti dagli artt. 416 c.p., 1 e 2, L. 25 gennaio 1982, n. 17, ipotizzandosi attività illecite commesse nell'ambito di associazioni massoniche, senza specificare, neppure in modo approssimativo e sommario, quale fosse il programma criminale dell'ipotizzata associazione a delinquere, quali i singoli reati posti in essere, quali le fattispecie criminose in concreto realizzate, che tipo di attività illecite fossero state commesse nell'ambito di associazioni massoniche).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        ordinanza n. 195 del 22 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4251/1994
+                                      In tema di sequestro probatorio, disciplinato dall'art. 253 nuovo c.p.p., la sussistenza delle esigenze probatorie va in ogni caso verificata, sia che il sequestro riguardi cose pertinenti al reato, sia che abbia avuto ad oggetto il corpo del reato. Il sequestro probatorio, nel nuovo codice di rito, risulta inserito nel titolo relativo ai mezzi di ricerca della prova; e, come chiarito anche nella relazione ministeriale al progetto preliminare del codice, attraverso il riferimento dell'art. 253, primo comma, citato, alla finalità di «accertamento dei fatti», si è voluto escludere che il sequestro penale possa servire per fini diversi da quelli probatori — cioè per fini di cautela sostanziale o di prevenzione — rispetto ai quali è stata dettata un'apposita disciplina (vedi titolo secondo del libro quarto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4251 del  9 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4252/1993
+                                      Soltanto il giudice è l'organo competente a valutare se vi siano i presupposti per un sequestro che abbia finalità preventive, che può essere attuato da parte del pubblico ministero o della polizia giudiziaria in via d'urgenza purché si osservi la disciplina dettata dall'art. 321, terzo comma bis e terzo comma ter, c.p.p. Ne consegue che è illegittimo il provvedimento di sequestro adottato dal P.M. ai fini sostanzialmente preventivi, ancorché dichiaratamente probatori (in realtà insussistenti, tenuto conto della possibilità di realizzare l'asserita finalità probatoria mediante l'acquisizione o il sequestro di documenti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 4252 del 23 novembre 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2643/1993
+                                      Il sequestro, sia probatorio sia preventivo, può riguardare tanto i beni mobili quanto quelli immobili, tra cui è da annoverare anche il locus commissi delicti, sempre che ricorrano in concreto i presupposti legittimanti, a norma degli artt. 253 e 321 c.p.p., l'adozione dei due provvedimenti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2643 del 25 ottobre 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1665/1993
+                                      Il sequestro probatorio di beni, denaro od altra utilità, fittiziamente intestati al fine di eludere disposizioni di legge (art. 12 quinquies D.L. n. 306 del 1992 conv. con modif. in legge n. 356 del 1992) è legittimamente ordinato nei confronti del dominus apparente, quando da elementi probatori risulti detta fittizietà, pur se l'identità del reale titolare sia sconosciuta. (Nella specie trattavasi di natante, fittiziamente intestato per eludere la normativa in materia di contrabbando).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1665 del 23 settembre 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3556/1993
+                                      In tema di sequestro probatorio, nel conferire all'autorità giudiziaria la facoltà di delegare un ufficiale di polizia giudiziaria per la esecuzione del sequestro, l'art. 253, comma terzo, c.p.p. non ha inteso stabilire un rapporto fiduciario con il singolo ufficiale, caratterizzato da una valutazione di capacità o affidabilità personale, ma ha semplicemente voluto consentire al magistrato di non eseguire personalmente il sequestro e di delegare un ufficiale della polizia giudiziaria, in quanto istituzionalmente destinata ad assolvere la propria attività «alle dipendenze e sotto la direzione dell'autorità giudiziaria) (art. 56 c.p.p.). Ne consegue la ammissibilità della subdelega da parte dell'ufficiale delegato, semprechè questi deleghi a sua volta altro ufficiale di polizia giudiziaria.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3556 del 27 marzo 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 425/1993
+                                      La sussistenza in concreto di esigenze probatorie, ai fini del sequestro previsto dall'art. 253 c.p.p., deve essere verificata e motivata non solo quando si tratti di «cose pertinenti al reato» ma anche quando il detto sequestro abbia ad oggetto cosa qualificabile come «corpo di reato», dovendosi escludere la configurabilità di quello che, altrimenti, sarebbe un quartum genus di sequestro, da aggiungersi ai tre previsti dal codice di rito (probatorio, conservativo e preventivo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 425 del 23 febbraio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 205/1993
+                                      L'eventuale nullità dell'informazione di garanzia, ancorché questa sia contestuale all'esecuzione di perquisizione o di sequestro, non determina nullità o invalidità derivata perché utile per inutile non vitiatur sicché quella parte del provvedimento con cui si adempie all'obbligo della informazione di garanzia, ove priva dei requisiti essenziali, imposti dall'art. 369 c.p.p., non importa l'invalidità della restante parte dell'atto che dispone la perquisizione o il sequestro. (La Cassazione ha altresì rilevato che gli atti di ricerca della prova suindicati possono essere eseguiti senza la previa spedizione dell'informazione di garanzia e che tale fatto esalta l'autonomia di quest'ultima e rende chiaro che fra esse e le perquisizioni od i sequestri non v'è legame contenutistico né rapporto di necessaria dipendenza causale, non costituendone la premessa né logica né giuridica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 205 del 23 febbraio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14/1993
+                                      La mancata convalida del sequestro effettuato d'iniziativa dalla polizia giudiziaria non preclude la possibilità, per il pubblico ministero, di disporre autonomamente, in ogni tempo, finché siano in corso le indagini preliminari, il sequestro delle stesse cose già sequestrate dalla polizia giudiziaria, indipendentemente dalla circostanza che tali cose siano state o meno nel frattempo restituite all'interessato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 14 del 22 febbraio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2321/1993
+                                      Ai fini dell'applicazione di un provvedimento di sequestro, è necessario accertare la configurabilità di un reato nella sua accezione naturalistica e prima facie, senza l'esame di questioni attinenti al giudizio di cognizione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2321 del 16 gennaio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1002/1992
+                                      Il sequestro di cui all'art. 253 nuovo c.p.p. deve essere adottato sulla base di esigenze probatorie e non per impedire la perpetrazione di altri eventuali reati futuri o per rendere possibile provvedimenti eventualmente conseguenziali alla sentenza di condanna, non rientrando tali finalità tra quelle legislativamente previste. Il provvedimento di sequestro deve dare conto della verifica della sussistenza delle suddette esigenze, con motivazione adeguata idonea a convincere della necessità della misura adottata.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 1002 del  4 luglio 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 979/1992
+                                      Le quote sociali, di una società a responsabilità limitata, non potendo considerarsi beni immateriali in senso stretto, sono assoggettabili a sequestro penale. Infatti, la quota di un socio di una società a responsabilità limitata trova pur sempre concretezza in una rappresentazione cartolare, costituita dal libro dei soci, nella quale il diritto si integra, nulla rilevando che il documento permanga nella disponibilità di un soggetto diverso dal titolare ed abbia, dal punto di vista societario, funzione informativa complessa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 979 del  8 maggio 1992)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3496/1991
+                                      In tema di sequestro probatorio (nella specie di uno stabile asseritamente abusivo), requisito indispensabile per l'ammissione del provvedimento è l'astratta configurabilità del reato. Con l'espressione «astratta» ci si deve però riferire ad una fattispecie tipica, ipotizzabile non soltanto in base ad un eventuale successivo sviluppo delle indagini, ma ad una teorica possibilità, pur sempre collegata con elementi processuali già acquisiti in atti. (Nella specie la Corte ha annullato sia l'ordinanza del tribunale del riesame che il decreto di sequestro di un immobile, per il quale era stata configurata dai giudici del merito una ipotesi di ristrutturazione edilizia senza concessione e non anche di restauro e risanamento conservativo senza autorizzazione, non costituente reato. Ha rilevato la Cassazione che dal testo del provvedimento impugnato risultava che agli atti mancava qualsiasi elemento, per stabilire le caratteristiche, le dimensioni e la consistenza dell'edificio preesistente e quindi ogni estremo in base al quale operare il raffronto tra vecchio e nuovo. Il decreto di sequestro era stato tuttavia confermato, poiché «in astratto» era configurabile il reato suddetto da accertare in prosieguo).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3496 del 14 dicembre 1991)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6331/1990
+                                      In tema di sequestro probatorio, il denaro può configurarsi come corpo di reato, in relazione alla contravvenzione di possesso ingiustificato di valori, prevista dall'art. 708 c.p., anche nel caso in cui l'imputato ne sia stato colto in possesso unitamente ad oggetti non confacenti al suo stato e si assuma che esso sia stato acquisito mediante la vendita di altri oggetti anch'essi non confacenti al suo stato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6331 del 17 dicembre 1990)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3717/1990
+                                      Deve essere ritenuto legittimo il sequestro, oltre che delle merci recanti il marchio o i marchi contraffatti, anche della macchina stampatrice, degli altri strumenti destinati all'apposizione dei falsi marchi di fabbrica e delle merci non ancora contraffatte, qualora si consideri che la macchina, i punzoni e le altre apparecchiature non possano non ritenersi di pertinenza delittuosa, essendo essi i mezzi impiegati per la commissione del reato, e che eguale apprezzamento di pertinenza criminosa debba riguardare le merci non ancora contraffatte, essendo queste destinate comunque alla contraffazione, nella specie non ancora verificatasi sol perché frappostosi l'intervento (impeditivo) della polizia giudiziaria. (Fattispecie relativa a rigetto di ricorso avverso ordinanza che respingeva richiesta di riesame).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 3717 del 13 settembre 1990)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3288/1990
+                                      È legittimo il sequestro, eseguito presso lo studio di libero professionista (nella specie medico) al fine di accertare il reato di irregolare tenuta di scritture contabili finalizzata all'evasione fiscale, di documentazione contenente i nominativi dei clienti e i compensi percepiti, giacché il segreto professionale può essere opposto solo dal testimone, e l'unico segreto opponibile al magistrato penale è quello di Stato.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 3288 del 27 agosto 1990)
+                  
+
+- 
+
+Ratio: Il legislatore ha tratteggiato in tal senso la disciplina del sequestro penale al fine di distinguerne in maniera non equivoca la finalità probatoria, distinta dalle altre forme di imposizione di un vincolo di indisponibilità sulla cosa.
+Spiegazione: 
+La chiara funzione probatoria della tipologia di sequestro in esame si evince dalla stessa definizione dell’oggetto, in cui il corpo del reato o le cose pertinenti al reato sono acquisite al processo se necessarie per l’accertamento dei fatti.
+
+Ai sensi del comma 2, il corpo del reato sono quelle cose sulle quali o mediante le quali il reato è stato commesso, ovvero quelle cose che rappresentano il prodotto, il prezzo o il profitto del reato.
+
+Trattasi delle medesime cose per la cui ricerca può venire disposta una perquisizione (art. 247), di guisa che appare ancora più evidente il rapporto di logica consequenzialità tra perquisizione e sequestro.
+
+In sintesi, anche se il sequestro può non essere preceduto necessariamente da una perquisizione, tant’è che il legislatore stesso favorisce forme di consegna spontanea o di esibizione (v. artt. 248 e 256), appartiene ad una logica conseguenza che le cose rinvenute tramite la perquisizione vengano poi sequestrate.
+
+Come precisato dal comma 4, al sequestro procede l’autorità giudiziaria o anche un ufficiale di polizia giudiziaria, ma solo se munito di apposita delega fornita dall’A.G.. Inoltre, copia del decreto che dispone il sequestro va consegnata nelle mani dell’interessato, se presente.
+

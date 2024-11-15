@@ -1,0 +1,202 @@
+
+==================================================
+
+===== Article 244 =====
+[Primary - Text]
+Art. 244
+Casi e forme delle ispezioni
+
+1.  L'ispezione delle persone, dei luoghi e delle cose è disposta con decreto motivato quando occorre accertare le tracce e gli altri effetti materiali del reato.
+
+2.  Se il reato non ha lasciato tracce o effetti materiali, o se questi sono scomparsi o sono stati cancellati o dispersi, alterati o rimossi, l'autorità giudiziaria descrive lo stato attuale e, in quanto possibile, verifica quello preesistente, curando anche di individuare modo, tempo e cause delle eventuali modificazioni.   
+L'autorità giudiziaria può disporre rilievi segnaletici, descrittivi e fotografici e ogni altra operazione tecnica  (( , anche in relazione a sistemi informatici o telematici, adottando misure tecniche dirette ad assicurare la conservazione dei dati originali e ad impedirne l'alterazione. ))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo I - Ispezioni>Articolo 244
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 244
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 795/2010
+                                      Non necessita del previo inoltro dell'informazione di garanzia l'espletamento, ad opera della polizia giudiziaria a tal fine delegata dal pubblico ministero, di una mera attività di descrizione dello stato dei luoghi corredata da rilievi fotografici. (Fattispecie nella quale la Corte ha ritenuto affetta da abnormità l'ordinanza del giudice che, in dipendenza di tale omissione, aveva dichiarato la nullità degli atti successivi, rappresentati dall'avviso di conclusione delle indagini preliminari e dal decreto di citazione a giudizio). (Annulla senza rinvio,Trib.Trinitapoli, sez. dist. Foggia, 18/11/2009).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 795 del  5 novembre 2010)
+                  
+
+- 
+
+- 
+Cass. pen. n. 34149/2009
+                                      In tema di indagini preliminari, mentre il rilievo consiste nell'attività di raccolta di dati pertinenti al reato, l'accertamento tecnico si estende al loro studio e valutazione critica secondo canoni tecnico - scientifici. (In applicazione di tale principio sono stati qualificati come meri rilievi gli accertamenti di polizia compiuti su un numero di telaio di un ciclomotore). (Rigetta, App. Milano, 26 febbraio 2007).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 34149 del 10 luglio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 38087/2009
+                                      L'attività di misurazione di molluschi, mediante un calibro metallico a scorsoio, rientra nella previsione dell'art. 354 cod. proc. pen. risolvendosi in un'attività materiale di lettura, raccolta e conservazione dei dati che non postula il rispetto delle formalità prescritte dagli artt. 359 e 360 stesso codice, non richiedendo alcuna discrezionalità o preparazione tecnica per la loro valutazione. (Fattispecie di abusiva detenzione per la vendita di un consistente quantitativo di novellame di vongole lupini, oggetto di misurazione da parte della P.G.). (Rigetta, Trib. Ferrara, 23/09/2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 38087 del  2 luglio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11503/2009
+                                      Non dà luogo ad accertamento tecnico irripetibile la lettura dell' "hard disk" di un computer sequestrato, che è attività di polizia giudiziaria volta, anche con urgenza, all'assicurazione delle fonti di prova.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 11503 del 25 febbraio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 18253/2008
+                                      Una volta restituita la cosa sequestrata, la richiesta di riesame del sequestro, o l'eventuale ricorso per cassazione contro la decisione del tribunale del riesame è inammissibile per sopravvenuta carenza di interesse, che non è configurabile neanche qualora l'autorità giudiziaria disponga, all'atto della restituzione, l'estrazione di copia degli atti o documenti sequestrati, dal momento che il relativo provvedimento è autonomo rispetto al decreto di sequestro, né è soggetto ad alcuna forma di gravame, stante il principio di tassatività delle impugnazioni. (Fattispecie relativa a sequestro di un computer e di alcuni documenti). (Rigetta, Trib. lib. Brescia, 13 Aprile 2007).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 18253 del 24 aprile 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 15739/2008
+                                      La violazione da parte della polizia giudiziaria dell'obbligo di avvertire, ai sensi dell'art. 114 disp. att. cod. proc. pen., l'indagato della facoltà di farsi assistere, nel corso di una perquisizione o sequestro, da un difensore di fiducia, integra una nullità generale a regime intermedio e, pertanto, va eccepita, ai sensi dell'art. 182, cod. proc. pen., o prima del compimento dell'atto o immediatamente dopo, intendendosi con tale formula che la nullità deve essere eccepita dal difensore subito dopo la sua nomina, ovvero entro il termine di cinque giorni che l'art. 366 cod. proc. pen. concede a quest'ultimo per l'esame degli atti. (Rigetta, Trib. lib. Messina, 8 ottobre 2007).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 15739 del 14 marzo 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2443/2007
+                                      In tema di indagini preliminari, la nozione di accertamento tecnico concerne non l'attività di raccolta o di prelievo dei dati pertinenti al reato (nel caso di specie, il prelievo di un campione biologico), priva di alcun carattere di invasività, bensì soltanto il loro studio e la loro valutazione critica. (Annulla con rinvio, Ass.App. Perugia, 11 dicembre 2006).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2443 del 13 novembre 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14852/2007
+                                      In tema di indagini preliminari, la nozione di accertamento tecnico concerne non l'attività di raccolta o di prelievo dei dati pertinenti al reato, che si esaurisce nei semplici rilievi, bensì il loro studio e la loro valutazione critica. (Fattispecie in cui la Corte ha qualificato come mero prelievo e non come accertamento tecnico il prelievo del dna dal materiale biologico rinvenuto in un passamontagna, conservato e non esaurito pur all'esito delle prime indagini e, successivamente, utilizzato per effettuare a dibattimento, nel contraddittorio fra le parti, l'esame comparativo con il dna dell'imputato). (Dichiara inammissibile, Ass.App. Cagliari, 29 Marzo 2006).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 14852 del 31 gennaio 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 632/2006
+                                      In tema di indagini preliminari, i rilievi fonometrici sono tipici accertamenti "a sorpresa" da inquadrare fra le attività svolte dalla polizia giudiziaria ai sensi degli artt. 348 e 354, comma secondo, cod. proc. pen. e non tra gli accertamenti tecnici irripetibili riguardanti cose e luoghi il cui stato é soggetto a modificazione, per i quali l'art. 360 cod. proc. pen. richiede, in quanto non ripetibili, il previo avviso all'indagato. (Annulla in parte senza rinvio, Trib. Cosenza, 15 febbraio 2006).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 632 del  7 dicembre 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2584/2006
+                                      In occasione dell'effettuazione dell'"alcooltest", il mancato avvertimento della facoltà di farsi assistere da un difensore di fiducia, in violazione dell'articolo 114 delle disposizioni di attuazione cod. proc. pen., dà luogo ad un nullità di natura "intermedia", che deve ritenersi sanata se non dedotta prima ovvero immediatamente dopo il compimento dell'atto, ai sensi dell'articolo 182, comma secondo, del codice di rito, senza attendere il compimento di un successivo atto del procedimento. (Ann.in parte s.rinvio,Giud.pace Cividale Del Friuli, 7 novembre 2003).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 2584 del 18 settembre 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 45437/2005
+                                      In tema di accertamenti urgenti sulle cose, i prelievi di polvere da sparo, quantunque prodromici all'effettuazione di accertamenti tecnici, non sono tuttavia identificabili con questi ultimi, per cui, pur essendo irripetibili, non richiedono alcuna partecipazione difensiva. (Rigetta, App. Napoli, 16 Marzo 2005).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 45437 del 30 novembre 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 42588/2005
+                                      In tema di indagini difensive, la possibilità di accesso a luoghi privati o non aperti al pubblico ai sensi dell'art. 391 septies cod. proc. pen., prevede per il difensore esclusivamente la possibilità di ispezione dei luoghi, ma non i poteri di perquisizione al fine di acquisire documentazione. Ne consegue che tale attività non è consentita in quanto espressamente disciplinata dall'art. 391 quater cod. proc. pen., solo con riferimento alla Pubblica Amministrazione. (Fattispecie in cui la Corte di cassazione ha sottolineato come i poteri derivanti dall'art. 391 septies vadano letti insieme alla disciplina prevista dall'art. 391 sexies, che regola l'accesso ai luoghi, e che consente di procedere esclusivamente alla descrizione dei luoghi medesimi o delle cose e di eseguire rilievi tecnici, grafici, planimetrici, fotografici o audiovisivi, redigendo apposito verbale, e all'art. 391 quater cod. proc. pen. che si riferisce esclusivamente alla richiesta di documentazione alla Pubblica Amministrazione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 42588 del 12 ottobre 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3513/1997
+                                      In tema di mezzi di ricerca della prova, una volta che sia stata legittimamente disposta dal giudice ovvero dal pubblico ministero la perquisizione locale, la riservatezza dell'indagato subisce una compressione che include necessariamente, anche in assenza di espressa indicazione nel provvedimento del magistrato, il sacrificio derivante dalla documentazione fotografica delle operazioni esecutive e dei luoghi in cui esse si sono svolte; l'esecuzione della perquisizione, infatti, implica e comprende per definizione l'attività di ispezione e di documentazione, e la fotografia, mezzo tecnico idoneo a fissare ed a prolungare la visione, altro non è che una modalità in cui può atteggiarsi la doverosa descrizione dei luoghi perquisiti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 3513 del 22 maggio 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5021/1996
+                                      Allorquando la perquisizione sia stata effettuata senza l'autorizzazione del magistrato e non nei «casi» e nei «modi» stabiliti dalla legge, come prescritto dall'art. 13 Cost., si è in presenza di un mezzo di ricerca della prova che non è compatibile con la tutela del diritto di libertà del cittadino, estrinsecabile attraverso il riconoscimento dell'inviolabilità del domicilio. Ne consegue che, non potendo essere qualificato come inutilizzabile un mezzo di ricerca della prova, ma solo la prova stessa, la perquisizione è nulla e il sequestro eseguito all'esito di essa non è utilizzabile come prova nel processo, salvo che ricorra l'ipotesi prevista dall'art. 253, primo comma, c.p.p., nella quale il sequestro del corpo del reato o delle cose pertinenti al reato, costituendo un atto dovuto, rende del tutto irrilevante il modo con cui ad esso si sia pervenuti. (Fattispecie relativa a perquisizione domiciliare, eseguita senza l'autorizzazione della competente A.G., nel corso della quale erano stati sequestrati circa trentuno grammi di cocaina. La S.C., nell'enunciare il principio di cui in massima, ha escluso che l'ufficiale di P.G., il quale abbia eseguito una perquisizione fuori dei casi e non nei modi consentiti dalla legge, non abbia l'obbligo, a causa dell'abuso compiuto, di sequestrare la cosa pertinente al reato rinvenuta nel corso di essa, quasi che l'arbitrarietà o l'illiceità della condotta possa privare l'autore della qualifica soggettiva da lui rivestita).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5021 del 27 marzo 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 125/1993
+                                      L'accertamento dei residui di polvere da sparo sul corpo di una persona è un atto di ispezione personale, appartenente alla categoria dei mezzi di ricerca delle prove (art. 244, comma primo, c.p.p.). Esso si risolve nella constatazione descrittiva e statica di elementi obiettivi, acquisita con l'ausilio di un esperto al quale, a differenza di quanto accade per la perizia, non viene richiesto il parere per indagini che impegnano particolari cognizioni di determinate scienze o arti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 125 del  9 febbraio 1993)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle ispezioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+L’ispezione appartiene ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+Le ispezioni, unitamente alle perquisizioni (artt. 247 e ss.) rappresentano due tipici “atti a sorpresa” di cui dispone l’autorità giudiziaria, da cui si evince il preciso intento del legislatore di attribuire tale potere non solo al giudice, ma altresì al pubblico ministero.
+
+Ferma la distinzione tra l’inspicere, destinato ad accertare sulle persone, nei luoghi o nelle cose le tracce e gli altri effetti materiali del reato, tipico delle ispezioni ed il perquirere, diretto a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso (attività tipica delle perquisizioni), il legislatore ha mostrato in entrambi i casi disciplinati un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.).
+
+Per quanto concerne le ispezioni, la norma in commento stabilisce che esse possono essere disposto con decreto motivato sia dal giudice che dal pubblico ministero (a seconda della fase in cui ci si trova).
+
+Inoltre, nelle ipotesi in cui il reato non abbia lasciato traccia alcuna o gli effetti materiali del reato siano andati cancellati, alterati, dispersi o rimossi, l’autorità giudiziaria descrive lo stato attuale, ricostruendo (figurativamente) se possibile lo stato preesistente.
+
+Al fine di tutelare il più possibile i dati informatici, l’autorità giudiziaria deve adottare misure tecniche dirette ad assicurarne la conservazione.
+

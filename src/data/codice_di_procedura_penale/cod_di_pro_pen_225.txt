@@ -1,0 +1,69 @@
+
+==================================================
+
+===== Article 225 =====
+[Primary - Text]
+Art. 225
+Nomina del consulente tecnico
+
+1.  Disposta la perizia, il pubblico ministero e le parti private hanno facoltà di nominare propri consulenti tecnici in numero non superiore, per ciascuna parte, a quello dei periti.
+
+2.  Le parti private, nei casi e alle condizioni previste dalla legge sul patrocinio statale dei non abbienti, hanno diritto di farsi assistere da un consulente tecnico a spese dello Stato.
+
+3.  Non può essere nominato consulente tecnico chi si trova nelle condizioni indicate nell'articolo 222 comma 1 lettere a) , b) , c) , d).
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 225
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 225
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 39512/2017
+                                      L'incarico di esperto con funzione di sostegno in favore del minore vittima di abusi sessuali non è incompatibile con quello di consulente nominato dal pubblico ministero, nè la sovrapposizione dei due ruoli rende di per sè inutilizzabili le dichiarazioni rese dal minore in audizione protetta all'esperto in ausilio. (In motivazione, la S.C. ha precisato che nei confronti dei consulenti tecnici del pubblico ministero non trovano applicazione le ipotesi di incapacità ed incompatibilità dei periti, previste dall'art. 225, comma 3, cod. proc. pen., e che non sussiste alcuna inutilizzabilità degli accertamenti compiuti dai consulenti tecnici che versino in una delle situazioni di incompatibilità ed incapacità indicate dall'art. 222 cod. proc. pen.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 39512 del 29 agosto 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4526/2002
+                                      È incompatibile sia con l'ufficio di testimone (art. 197, lett. d), c.p.p.) sia con quello di consulente tecnico (art. 225, comma 3, c.p.p.) l'esperto di neuropsichiatria infantile che abbia partecipato quale ausiliario all'assunzione delle sommarie informazioni rese al Pubblico ministero dal minorenne offeso dal reato, atteso che lo svolgimento di tale compito implica, da parte dell'ausiliario, una valutazione sull'attendibilità della persona offesa dalla quale necessariamente deriva l'incapacità a testimoniare su qualsiasi tema che a detta attendibilità inerisca.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 4526 del  6 febbraio 2002)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7385/1992
+                                      L'intervento e l'assistenza alle operazioni peritali, anche per mezzo di un consulente tecnico di parte, è un diritto riservato all'imputato sottoposto a perizia, e non già a coimputati interessati non tanto all'accertamento della capacità di intendere e di volere del primo, quanto all'attendibilità dello stesso, accertamento che non può essere fatto oggetto di indagine peritale.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7385 del 24 giugno 1992)
+                  
+
+- 
+
+Ratio: Nel pieno rispetto del principio del contradditorio tra le parti il legislatore ha previsto la possibilità per le parti di nominare personalmente degli esperti affinchè sia condotto un esame peritale.
+Spiegazione: 
+La perizia può essere disposta dal giudice sia su apposita istanza di parte, sia d’ufficio, con ordinanza motivata, che enuclei la sommaria enunciazione dei fatti, la nomina del perito e l’indicazione del giorno, dell’ora e del luogo in cui dovrà essere svolta la perizia.
+
+La perizia appartiene anch’essa ai mezzi di prova, caratterizzati dal fatto che offrono al giudice dei risultati direttamente utilizzabili dal giudice ai fini della successiva decisione. I mezzi di prova non vanno confusi con i mezzi di ricerca della prova (ispezioni, perquisizioni, sequestri, intercettazioni), che sono invece funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria.
+
+Ai sensi della norma in commento, una volta disposta la perizia, le parti private ed il pubblico ministero hanno la facoltà di nominare propri consulenti tecnici in numero non superiore, per ciascuna parte, a quello dei periti, e questo al fine di permettere un contraddittorio paritario tra i vari soggetti del procedimento penale. Il legislatore ha infatti ritenuto opportuno evitare che le valutazioni del giudice si fondino solamente sulle deduzioni e sulla relazione del perito nominato dal giudice stesso.
+
+Anche il consulente tecnico non deve trovarsi in una delle ipotesi di incompatibilità di cui all'articolo 222. Da un lato vi sono casi in cui il consulente non presenta quelle qualità morali e professionali richieste dalla natura dell’incarico, mentre dall’altro lato vi sono casi in cui il consulente stesso risulta in una posizione di conflitto d’interesse con l’oggetto del procedimento, o comunque non può avere un giudizio imparziale circa l’oggetto della perizia disposta dal giudice.
+
+Inoltre, al fine di rendere effettiva tale facoltà, il comma 2 dispone che le parti private, ove prive della capacità economica necessaria a sostenere il costo della consulenza tecnica, possono godere del patrocinio statale previsto per i non abbienti. Tuttavia, come per le ipotesi di incompatibilità del perito, anche il consulente tecnico non deve trovarsi in una delle situazioni di cui all’articolo 222 comma 1, lett. a, b, c, d.
+

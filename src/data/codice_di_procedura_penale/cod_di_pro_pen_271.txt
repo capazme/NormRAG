@@ -1,0 +1,561 @@
+
+==================================================
+
+===== Article 271 =====
+[Primary - Text]
+Art. 271
+Divieti di utilizzazione
+
+1.  I risultati delle intercettazioni non possono essere utilizzati qualora le stesse siano state eseguite fuori dei casi consentiti dalla legge o qualora non siano state osservate le disposizioni previste dagli articoli 267 e 268 commi 1 e 3.
+
+1-bis.  Non sono in ogni caso utilizzabili i dati acquisiti nel corso delle operazioni preliminari all'inserimento del captatore informatico sul dispositivo elettronico portatile e i dati acquisiti al di fuori dei limiti di tempo e di luogo indicati nel decreto autorizzativo. (253) (260) (263) (267) (270) ((275))
+
+2.  Non possono essere utilizzate le intercettazioni relative a conversazioni o comunicazioni delle persone indicate nell'articolo 200 comma 1, quando hanno a oggetto fatti conosciuti per ragione del loro ministero, ufficio o professione, salvo che le stesse persone abbiano deposto sugli stessi fatti o li abbiano in altro modo divulgati.
+
+3.  In ogni stato e grado del processo il giudice dispone che la documentazione delle intercettazioni previste dai commi 1 , 1-bis e 2 sia distrutta, salvo che costituisca corpo del reato. (253) (260) (263) (267) (270) ((275))
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo IV - Intercettazioni di conversazioni o comunicazioni>Articolo 271
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 271
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 15288/2018
+                                      I risultati delle intercettazioni telefoniche disposte per un reato rientrante tra quelli indicati nell'art. 266 cod. proc. pen. sono utilizzabili anche relativamente ad altro reato, non contemplato da detta previsione, la cui sussistenza emerga dalle stesse intercettazioni, ancorché per esso venga successivamente disposta la separazione del procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 15288 del  5 aprile 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8880/2018
+                                      In tema di intercettazioni di conversazioni e comunicazioni, l'impiego di una motivazione sintetica del decreto che autorizza il ritardo nel deposito dei verbali e delle registrazioni sino alla conclusione delle indagini preliminari non determina l'inutilizzabilità del contenuto delle intercettazioni, atteso il mancato richiamo nell'art. 271, comma 1, cod. proc. pen. del comma 5 dell'art. 268 cod. proc. pen., né, in assenza di un'esplicita previsione normativa, costituisce un vizio censurabile in sede di legittimità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 8880 del 23 febbraio 2018)
+                  
+
+- 
+
+- 
+Cass. pen. n. 14248/2017
+                                      In tema di intercettazioni di conversazioni o comunicazioni, il mancato rispetto del termine di 5 giorni dalla conclusione delle operazioni per il deposito dei verbali e delle registrazioni non è causa di nullità, non essendo espressamente prevista, né di inutilizzabilità dei risultati delle intercettazioni, atteso il mancato richiamo, nell'art. 271 cod. proc. pen., al quarto e al sesto comma dell'art. 268 dello stesso codice. (In motivazione la Suprema Corte ha precisato che, in caso di autorizzazione al ritardato deposito, il termine di cui all'art. 268, comma quinto cod. proc. pen. coincide con quello di cui all'art. 415 bis stesso codice, sicché si fa luogo ad un unico deposito e l'indagato ed il suo difensore possono esercitare anche le facoltà di cui all'art. 268, comma sesto del codice di rito).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 14248 del 23 marzo 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 19158/2015
+                                      La registrazione di conversazioni effettuata da un privato su impulso della polizia giudiziaria non costituisce una forma di documentazione dei contenuti del dialogo, ma una vera e propria attività investigativa che comprime il diritto alla segretezza con finalità di accertamento processuale, che richiede un provvedimento dell'autorità giudiziaria ovvero un decreto motivato in forma scritta del Pubblico Ministero. (Fattispecie nella quale la Corte ha ritenuto non sufficiente ai fini dell'utilizzabilità delle registrazioni la mera autorizzazione orale del P.M.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 19158 del  8 maggio 2015)
+                  
+
+- 
+
+- 
+Cass. pen. n. 41142/2013
+                                      In tema di sindacato di legittimità, con riferimento al divieto di utilizzazione del risultato delle intercettazioni eseguite fuori dai casi preveduti dalla legge, il relativo motivo di ricorso può essere esaminato solo a condizione che l'atto asseritamente inutilizzabile (o dal quale consegue l'inutilizzabilità della prova) sia stato specificamente indicato e faccia parte del fascicolo trasmesso al giudice di legittimità, atteso che - pur trattandosi di motivo di carattere processuale e, pertanto, pur essendo alla Corte consentito di esaminare il fascicolo del procedimento - l'applicazione di tale principio presuppone in concreto che da parte del ricorrente venga quantomeno indicato l'atto viziato e che esso sia contenuto nel fascicolo. (Fattispecie relativa alla mancata indicazione ed allegazione dei provvedimenti asseritamente viziati).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 41142 del  7 ottobre 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 27278/2013
+                                      In tema di intercettazioni, qualora sia stata disposta l'utilizzazione di impianti esterni e il prosieguo delle operazioni con impianti interni, non sussiste alcun obbligo di avvisare i difensori circa il mutamento degli strumenti captativi, attesa la natura di atti di indagini "a sorpresa" delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 27278 del 21 giugno 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 17979/2013
+                                      Il divieto di utilizzazione dei risultati delle intercettazioni, stabilito dall'art. 271, comma secondo, c.p.p., è posto, tra gli altri, a tutela dell'avvocato (come degli altri soggetti indicati nell'art. 200, comma primo, c.p.p.) e dell'esercizio della sua funzione, ancorché non formalizzato in un mandato professionale, purché detto esercizio sia causa della conoscenza del fatto, ben potendo un avvocato venire a conoscenza, in ragione della sua professione, di fatti relativi ad un soggetto del quale non sia difensore. Ne consegue che detto divieto sussiste ed è operativo quando le conversazioni o le comunicazioni intercettate siano pertinenti all'attività professionale svolta dai soggetti indicati nell'art. 200, comma primo, c.p.p. e riguardino, di conseguenza, fatti conosciuti in ragione della professione da questi esercitata, a nulla rilevando il fatto che si tratti di intercettazione indiretta. (Fattispecie in cui la S.C. ha censurato la decisione del giudice di merito il quale era pervenuto alla conclusione dell'utilizzabilità dei risultati delle intercettazioni delle conversazioni dell'imputato con un avvocato, distinguendo tra fatti conosciuti da quest'ultimo in quanto difensore in un procedimento civile e fatti di cui avrebbe conosciuto come "amico", esulanti dal divieto in questione, non considerando che la ragione della conoscenza di detti fatti era pur sempre data dal rivestire la qualità di avvocato e che proprio in quanto tale egli forniva consigli all'imputato).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 17979 del  5 marzo 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1287/2013
+                                      Sono inutilizzabili le riprese video, pur se autorizzate dal Gip, di comportamenti non comunicativi, eseguite all'interno del domicilio anche se esse abbiano registrato attività direttamente criminose. (Fattispecie in tema di reato di corruzione e turbativa d'asta, i cui gravi indizi erano documentati attraverso videocaptazioni di scambio di denaro).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1287 del 10 gennaio 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 12252/2012
+                                      La proroga tardiva dell'autorizzazione alle operazioni di intercettazione non può legittimare a posteriori le captazioni "medio tempore" eseguite, delle quali non è dunque consentita l'utilizzazione probatoria, ancorché il loro contenuto può costituire "notitia criminis" validamente posta a fondamento di attività d'indagine e dell'autorizzazione allo svolgimento di ulteriori intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 12252 del  2 aprile 2012)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1153/2009
+                                      L'inutilizzabilità dei risultati delle intercettazioni, accertata nel giudizio penale di cognizione, ha effetti anche nel giudizio promosso per ottenere la riparazione per ingiusta detenzione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 1153 del 13 gennaio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4111/2008
+                                      In tema di intercettazioni di conversazioni o comunicazioni, non determina l'inutilizzabilità delle intercettazioni la circostanza che il verbale delle operazioni eseguite venga redatto in un luogo diverso da quello in cui viene effettuata la registrazione, né la predetta sanzione processuale può essere estesa all'inosservanza delle prescrizioni di cui all'art. 89 att. c.p.p., tra cui non è compresa l'identificazione del luogo di redazione del verbale con quello in cui le registrazioni sono state materialmente eseguite.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 4111 del 28 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1161/2008
+                                      L'inutilizzabilità delle intercettazioni nel giudizio di cognizione non preclude la loro utilizzabilità nel processo di prevenzione, se non in presenza di vizi tali da determinarne una patologica inutilizzabilità, come accade ad esempio quando siano violate le regole indicate dall'art. 15 Cost.; in ogni altro caso, i risultati delle intercettazioni inutilizzabili possono essere acquisiti e valutati nel processo di prevenzione. (Fattispecie in cui la S.C. ha ritenuto che l'inadeguata motivazione sull'uso degli impianti di intercettazione esterni non può considerarsi un «vizio» in grado di proiettare i suoi effetti nell'ambito delle regole probatorie del processo di prevenzione, in quanto non intacca in modo sostanziale la validità della prova acquisita nel procedimento di prevenzione).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1161 del 10 gennaio 2008)
+                  
+
+- 
+
+- 
+Cass. pen. n. 29688/2007
+                                      L'esecuzione di intercettazioni illegali, ai sensi degli artt. 268 e 271 c.p.p., ne determina l'inutilizzabilità come prova in qualsiasi tipo di procedimento, in quanto assunta in violazione dei diritti dei cittadini garantiti dai principi costituzionali, e quindi anche nel procedimento di prevenzione, dove pure vige la regola della piena e autonoma utilizzabilità di qualsiasi elemento indiziario.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 29688 del 20 luglio 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 33810/2007
+                                      La distruzione delle documentazione delle intercettazioni, i cui risultati non possono essere utilizzati a norma dell'art. 271, commi primo e secondo, c.p.p., non può essere disposta in esecuzione di una dichiarazione di inutilizzabilità intervenuta nel procedimento incidentale de libertate perché presuppone una statuizione di inutilizzabilità processualmente insuscettibile di modifiche, che faccia escludere la possibilità di utilizzazione futura nell'ambito del processo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 33810 del 26 aprile 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1812/2007
+                                      I risultati delle intercettazioni disposte al fine di agevolare le ricerche del latitante non possono essere utilizzati a fini probatori qualora non siano state osservate le garanzie e le prescrizioni di cui agli artt. 266 e seguenti c.p.p., trovando applicazione, nonostante la mancanza di un espresso richiamo nell'art. 295, comma terzo, c.p.p., il regime dei divieti di utilizzazione di cui all'art. 271 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1812 del 22 gennaio 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2817/2006
+                                      L'inutilizzabilità delle intercettazioni eseguite fuori dai casi consentiti o nell'inosservanza delle disposizioni stabilite dagli artt. 267 e 268, commi primo e terzo, c.p.p. attiene non soltanto al contenuto delle conversazioni ma anche ad ogni altro dato da esse desumibile, come le generalità dei soggetti coinvolti nella captazione, dal momento che si tratta di dato informativo non desunto da altri accertamenti ma proprio e soltanto dai risultati delle intercettazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2817 del 24 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3437/2005
+                                      Quando si prospetta davanti al giudice di legittimità l'inutilizzabilità dei risultati delle intercettazioni telefoniche, l'eccezione, per i limiti intrinseci del giudizio di legittimità, può essere esaminata solo se l'atto inutilizzabile, o dal quale consegue l'inutilizzabilità, sia stato specificamente indicato e faccia parte del fascicolo trasmesso al giudice di legittimità. È pur vero che, trattandosi di motivo di natura processuale, alla Corte di cassazione sarebbe consentito di esaminare gli atti del fascicolo processuale al fine di verificare il fondamento dell'eccezione proposta, ma l'applicazione concreta di questo principio presuppone, comunque, che venga quanto meno specificamente indicato l'atto affetto dal vizio denunciato e che l'atto da esaminare sia contenuto nel medesimo fascicolo. Se, invece, questa indicazione non viene fornita, deve ritenersi che il motivo sia inammissibile per genericità, non consentendo al giudice di legittimità di individuare l'atto affetto dal vizio denunciato. Mentre se l'indicazione viene fornita, ma l'esame dell'eccezione richiede l'acquisizione di atti o documenti o notizie di qualsiasi genere che non formano parte del fascicolo del processo, deve ritenersi che costituisca onere della parte richiederne l'acquisizione al giudice di merito, compreso quello d'appello, ed anche indipendentemente dalla formulazione di motivi di appello sul punto, in considerazione della rilevabilità delle ipotesi di inutilizzabilità anche d'ufficio e in ogni stato e grado del procedimento. Del resto, diversamente, verrebbe attribuito al giudice di legittimità un compito di individuazione, ricerca e acquisizione di atti, notizie o documenti del tutto estraneo ai limiti istituzionali del giudizio di legittimità.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 3437 del  2 febbraio 2005)
+                  
+
+- 
+
+- 
+Cass. pen. n. 45189/2004
+                                      Nel caso di acquisizione dei risultati di intercettazione disposte in altro procedimento, l'eventuale inutilizzabilità della prova a norma dell'art. 271 c.p.p. può dipendere dall'illegalità del procedimento di ammissione dell'intercettazione, ma non dalla mancata trasmissione del documento rappresentativo dell'intervenuta autorizzazione o della proroga delle operazioni; e, trattandosi di un fatto processuale, il fatto dal quale dipende tale illegalità va provato dalla parte che la eccepisce. (Mass. redaz.).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 45189 del 23 novembre 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 10772/2004
+                                      In tema di disposizioni per l'attuazione dell'art. 68 della Costituzione, con riferimento alla disciplina sulla utilizzabilità delle intercettazioni, delle conversazioni o delle comunicazioni, l'espressione «alle quali hanno preso parte membri del Parlamento» di cui all'art. 6 comma 1 legge n. 140/2003 va interpretata nel senso di ritenere comprese nella tutela apprestata dalla norma tutte le conversazioni nelle quali il membro del Parlamento è il vero interlocutore, anche se comunica per mezzo di un terzo il quale svolge funzioni di nuncius e si limiti esclusivamente a trasmettere il messaggio. (In applicazione del principio la Corte ha ritenuto ricompresa nella disciplina della menzionata norma l'ipotesi — di cui alla fattispecie — relativa all'intercettazione cosiddetta «indiretta» di conversazioni sostenute tra il venditore di stupefacente ed un soggetto che fungeva da tramite con il membro del Parlamento, acquirente della droga).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        ordinanza n. 10772 del  9 marzo 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 44756/2003
+                                      Il disposto di cui all'art. 271 c.p.p., non richiamato, a differenza degli artt. 268, 269 e 270, dall'art. 295, comma 3, c.p.p., non può essere invocato come causa di inutilizzabilità delle intercettazioni effettuate ai sensi di detta ultima norma.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 44756 del 20 novembre 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 20072/2003
+                                      Il divieto di intercettazione di conversazioni o comunicazioni nei confronti dei difensori, sancito dall'art. 103, quinto comma, c.p.p., riguarda l'attività captativa in danno del difensore in quanto tale, e dunque nell'esercizio delle funzioni inerenti al suo ufficio, quale che sia il procedimento cui si riferisca, e non si estende ad ogni altra conversazione, non inerente (tanto più ove costituisce essa stessa reato), che si svolga nel suo studio o domicilio. La prescrizione anzidetta non si traduce, in definitiva, in un divieto assoluto di conoscenza ex ante, come se il legale godesse di un ambito di immunità assoluta o di un privilegio di categoria, ma implica una verifica postuma del rispetto dei relativi limiti, la cui violazione comporta l'inutilizzabilità delle risultanze dell'ascolto non consentito, ai sensi dell'art. 103, settimo comma, e la distruzione della relativa documentazione, a norma dell'art. 271 richiamato dallo stesso art. 103, settimo comma, del codice di rito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 20072 del  5 maggio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 9245/2003
+                                      Non dà luogo a inutilizzabilità dei risultati di intercettazioni eseguite in altri procedimenti ai sensi dell'art. 270 c.p.p. il mancato deposito dei verbali e delle registrazioni, come pure dei decreti di autorizzazione (ove si ritenga che anche a tali decreti debba estendersi l'obbligo previsto dalla suddetta disposizione normativa), atteso che tali inosservanze non rientrano fra quelle indicate, con carattere di tassatività, dall'art. 271 c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 9245 del 27 febbraio 2003)
+                  
+
+- 
+
+- 
+Cass. pen. n. 26015/2001
+                                      In tema di intercettazioni di conversazioni o comunicazioni, all'eventuale mancata specificazione, nel decreto del P.M. emesso in via di urgenza, della durata delle operazioni a norma dell'art. 267, comma 3, c.p.p., sopperisce l'indicazione legislativa del termine massimo di quindici giorni ivi previsto, sicché non si determina l'inutilizzabilità dei relativi risultati, che l'art. 271 stesso codice ricollega alla violazione dell'art. 267, da ritenere configurabile solo nel caso in cui sia stato superato quel termine massimo.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 26015 del 25 giugno 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 8437/2001
+                                      A differenza di quanto si verifica nel caso in cui sia mancata ab origine la registrazione su supporto magnetico di conversazioni intercettate, il sopravvenuto deterioramento di detto supporto recante le registrazioni a suo tempo debitamente effettuate non è causa di inutilizzabilità dei risultati delle intercettazioni, quando essi siano recuperabili mediante ricorso ad altri mezzi, ivi comprese le annotazioni effettuate sui c.d. «brogliacci» e le eventuali deposizioni dei verbalizzanti.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 8437 del 28 febbraio 2001)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3631/2000
+                                      In tema di intercettazioni telefoniche in sede cautelare, è sanzionata da inutilizzabilità ex art. 271 c.p.p. la sola violazione dell'obbligo di trasmissione al Gip o al tribunale del riesame dei decreti autorizzativi o delle eventuali proroghe, stabilito al fine di consentire ad essi l'esercizio delle funzioni di controllo loro demandate dalla legge, non anche la mancata allegazione della documentazione inerente alla mera attività esecutiva dell'attività di intercettazione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3631 del 13 giugno 2000)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2405/1999
+                                      In tema di acquisizione dei tabulati concernenti il flusso informatico relativo ai dati esterni alla comunicazione telefonica, il divieto di utilizzazione previsto dall'articolo 271 c.p.p. è riferibile all'acquisizione dei tabulati tutte le volte che avvenga in violazione dell'articolo 267 c.p.p., cioè in assenza del prescritto decreto motivato. Ne consegue che l'eventuale successiva autorizzazione alle acquisizioni già disposte dal P.M. non può avere efficacia sanante essendo estraneo al nostro ordinamento processuale l'istituto della ratifica, sicché l'inutilizzabilità originaria impedisce del tutto di avvalersi del mezzo di prova.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 2405 del 21 luglio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7239/1999
+                                      È legittima l'utilizzazione, nel processo, del contenuto di una conversazione privata (nella specie, tra presenti) registrata su nastro magnetico da parte di uno degli interlocutori. (Nell'enunciare tale principio, la S.C. ha ritenuto anche manifestamente infondata una questione di legittimità costituzionale di numerose norme del codice di procedura penale, prospettata in riferimento, tra gli altri, agli artt. 15 e 24 Cost., sul rilievo che la divulgazione del contenuto della registrazione non incide sulla libertà e segretezza delle comunicazioni, non costituendo un'intromissione dall'esterno in ambiti privati inviolabili, ma riguarda solo l'interesse alla riservatezza, non tutelato costituzionalmente e, in ogni caso, soccombente rispetto all'interesse pubblico all'accertamento della verità).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7239 del  8 giugno 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1347/1999
+                                      Il pubblico ministero, nel chiedere l'applicazione di una misura cautelare sulla base dell'esito di intercettazioni telefoniche, non ha il potere di coprire con omissis, per rappresentate esigenze di segretezza connesse alle attività di indagine ancora in corso, i numeri indicativi delle utenze controllate, sostituendo le relative indicazioni, anche nelle copie dei decreti autorizzativi trasmesse a corredo della richiesta, con identificativi convenzionali. Ove ciò avvenga, l'esito delle intercettazioni è da considerare inutilizzabile e la misura cautelare eventualmente disposta va revocata.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 1347 del 24 maggio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1231/1999
+                                      Le intercettazioni telefoniche effettuate sulla base di decreto autorizzativo motivato per relationem non rientrano nell'ambito previsionale dell'art. 271 c.p.p. e, pertanto, non ricadono nel divieto di utilizzabilità ivi previsto. Peraltro, il decreto così motivato può integrare un possibile vizio di inidonea o insufficiente motivazione che, in quanto tale, non può essere rilevato d'ufficio dal giudice di merito né può essere dedotto per la prima volta in sede di legittimità attesoché l'assenza di qualsivoglia valutazione in ordine alla congruità della motivazione dei decreti in questione sottende la mancanza di qualsiasi censura in sede di riesame ed impedisce al giudice di legittimità una pronuncia che comporterebbe necessariamente l'esame del merito.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 1231 del 13 maggio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6037/1999
+                                      La registrazione ed utilizzazione delle dichiarazioni rese ad un terzo da persona successivamente imputata sono legittime perché non riconducibili nell'ambito delle intercettazioni irrituali né in quello delle dichiarazioni indizianti rese da persona non indiziata né indagata, rispettivamente inutilizzabili a norma degli articoli 63 e 271 c.p.p.. Ed invero non si è in presenza di intercettazioni, cioè di occulta conoscenza da parte di terzi e mediante congegni particolari, di comunicazioni riservate; ma di registrazione di un colloquio ad opera di uno degli interlocutori, attività riconducibile ad una memorizzazione di notizie procurate lecitamente. (La Corte nella specie ha ritenuto che le registrazioni suddette sono acquisibili ed utilizzabili in dibattimento come documenti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 6037 del 25 gennaio 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6723/1998
+                                      Poiché l'inutilizzabilità degli esiti delle intercettazioni deriva dalla effettiva inosservanza delle disposizioni richiamate dall'art. 271 c.p.p., essa non può ricollegarsi alla mancata trasmissione al tribunale del riesame, da parte del pubblico ministero, dei decreti autorizzativi delle operazioni: tale trasmissione, infatti, non costituisce un obbligo di legge e la sua funzione è soltanto quella di rendere verificabile l'effettiva sussistenza delle condizioni legittimanti l'effettuazione delle intercettazioni. È invero evidente che dall'omessa allegazione non può desumersi né l'inesistenza né l'invalidità dei decreti in questione non trovando simile presunzione la benché minima base normativa, per cui un'eventuale affermazione di inutilizzabilità risulterebbe del tutto arbitraria; né, tantomeno, può farsi da essa discendere una nullità per violazione dei diritti della difesa ai sensi dell'art. 178, lett. c) c.p.p., considerato che l'obbligo di trasmissione non può dirsi funzionale a garantire l'intervento dell'indagato, né tantomeno la sua assistenza o rappresentanza.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6723 del 22 ottobre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 985/1998
+                                      In tema di intercettazioni telefoniche, la sanzione di inutilizzabilità, stante la regola della tassatività, non può essere allargata sino a comprendere l'inosservanza dell'art. 89 delle disposizioni di attuazione del codice di procedura penale, non espressamente richiamate dall'art. 271 dello stesso codice. Ne consegue che la predetta sanzione non può trovare applicazione nei casi in cui il P.M. non abbia allegato alla richiesta di misura cautelare i verbali delle operazioni di intercettazione e le registrazioni delle conversazioni nella loro integralità, essendo sufficiente la presentazione di trascrizioni sommarie e di semplici riferimenti riassuntivi, previsti, del resto, dall'art. 268, comma secondo, c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 985 del 16 luglio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 982/1998
+                                      Nel caso di intercettazione telefonica «a cornetta sollevata», la registrazione dei colloqui fra presenti non dipende da un'indebita violazione della privacy ma dal comportamento degli interlocutori, i quali, lasciando il ricevitore alzato, fanno sì che la loro conversazione - altrimenti percettibile solo tramite un'intercettazione ambientale - viaggi liberamente lungo la rete telefonica, rimanendo «scoperta» dal punto di vista della segretezza. Pertanto, il casuale ascolto di tale conversazione nel corso di un'intercettazione telefonica ritualmente autorizzata è utilizzabile ai fini dell'applicazione di una misura cautelare, non rientrando nella sfera di operatività degli artt. 15 Cost. e 266-271 c.p.p., che non sono applicabili nella specie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 982 del 16 luglio 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 11/1998
+                                      In materia di intercettazioni telefoniche, l'inutilizzabilità va riferita solo alla violazione delle norme degli artt. 267 e 268, commi primo e terzo, c.p.p., mentre le eventuali illegittimità formali (come quelle relative a violazione delle altre previsioni del citato art. 268 o alla mancata motivazione del decreto autorizzativo) ne determinano, semmai, l'invalidità. (Fattispecie relativa a censura di asserita inutilizzabilità delle intercettazioni dovuta ad aspetti motivazionali dei relativi provvedimenti).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 11 del  2 giugno 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 21/1997
+                                      In tema di intercettazioni di conversazioni e comunicazioni, l'inutilizzabilità — che è disciplinata dall'art. 271 c.p.p., siccome norma a carattere speciale, prevalente, come tale, su quella del precedente art. 191 — colpisce non l'intercettazione in quanto mezzo di ricerca della prova, bensì i suoi risultati, che possono rivestire sia la natura di prova, tipica della fase del giudizio, sia quella di indizi, tipica della fase delle indagini preliminari. E invero, è irragionevole ricollegare la sanzione dell'inutilizzabilità a questa o a quella fase del procedimento ovvero a questo o a quel particolare tipo di violazione. E poiché tale inutilizzabilità è rilevabile d'ufficio o eccepibile ad istanza di parte in ogni stato e grado del procedimento, ne consegue che, in sede cautelare, il giudice per le indagini preliminari e quello del riesame (o dell'appello) devono esercitare il potere-dovere di verificare la legittimità delle intercettazioni al fine di valutarne l'utilizzabilità dei risultati, e quindi la sussistenza dei gravi indizi di colpevolezza. Ne discende che è onere del P.M. trasmettere al Gip e, successivamente, al tribunale della libertà in sede di riesame o di appello i decreti autorizzativi delle intercettazioni, al fine di consentire ad essi l'esercizio delle funzioni di controllo loro demandate dalla legge.
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 21 del  5 marzo 1997)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5301/1996
+                                      In tema di utilizzabilità della prova, il fatto che l'inutilizzabilità sia stata dichiarata nel corso del procedimento incidentale de libertate svoltosi durante le indagini preliminari, anche se con il vaglio della Corte di cassazione, non ha alcun effetto preclusivo sulla sua utilizzazione in sede di giudizio dal momento che il problema dell'utilizzabilità delle prove si pone esclusivamente con riferimento al dibattimento ed ogni valutazione compiuta in proposito in tema di procedimento cautelare, non può vincolare il giudice del dibattimento. (Nell'affermare il principio di cui in massima la Corte ha ritenuto irrilevante ai fini della decisione della utilizzabilità delle intercettazioni telefoniche, il fatto che nel corso di un procedimento cautelare relativo ad alcuni degli imputati, fossero state dichiarate inutilizzabili le intercettazioni successive ad una certa data).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 5301 del  4 giugno 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3/1996
+                                      L'inutilizzabilità dei risultati delle intercettazioni di conversazioni o comunicazioni ha rilievo anche nel procedimento cautelare, poiché la sanzione processuale colpisce i risultati viziati del mezzo di ricerca della prova in quanto tali, in qualunque sede si intenda impiegarli, donde la conseguenza che, in sede di richiesta della misura cautelare il pubblico ministero ha, verso il Gip, l'obbligo di allegare i decreti autorizzativi delle intercettazioni e, nel procedimento di riesame o di appello, il giudice a quo ha lo stesso obbligo verso il tribunale e, in caso di sua inosservanza, il Gip nel primo caso e il tribunale della libertà nel secondo devono disporne l'acquisizione. Ne deriva che, in caso di riesame, il termine perentorio di cui all'art. 309, comma nono, c.p.p., decorre dalla data di arrivo di tali decreti al tribunale. (Fattispecie relativa a procedimento di riesame di misura cautelare conclusosi prima dell'entrata in vigore dell'art. 16 della legge n. 332 del 1995 che ha trasformato in perentorio il termine ordinatorio dell'art. 309, comma quinto, c.p.p.; per essa, la S.C. ha ritenuto l'applicabilità, in forza del principio tempus regit actum, della disciplina anteriore a tale legge).
+                                                        
+                    (Cassazione penale,
+                                          Sez. Unite,
+                                        sentenza n. 3 del 31 maggio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4136/1996
+                                      Dall'inutilizzabilità delle intercettazioni telefoniche consegue necessariamente l'impossibilità di acquisire il contenuto delle stesse attraverso l'esame testimoniale delle persone che hanno provveduto al loro ascolto. (Fattispecie di non luogo a procedere in ordine al reato ex art. 367 c.p., nella quale l'inutilizzabilità è stata fatta discendere dalla circostanza che la registrazione era stata effettuata sull'utenza dell'indagato, sottoposta ad intercettazione per indagini relative ad altro reato, da cui era risultato che all'ora indicata non era pervenuta alcuna telefonata minatoria, ma solo una sveglia telefonica).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4136 del  8 febbraio 1996)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2455/1995
+                                      In materia di intercettazioni telefoniche va fatta distinzione, ai sensi dell'art. 271 c.p.p., tra violazioni di legge che rendono le intercettazioni inutilizzabili per la loro sostanziale illegittimità e violazioni di legge che le rendono, invece, inutilizzabili per illegittimità formale. Sono sostanzialmente illegittime ai sensi degli artt. 267 e 268, commi 1 e 3, c.p.p., le intercettazioni eseguite fuori dei casi consentiti dalla legge e cioè in assenza di gravi indizi di reato o di assoluta indispensabilità ai fini della prosecuzione delle indagini; sono, invece, formalmente illegittime le intercettazioni realizzate senza le modalità previste dai citati artt. 267 e 268, e cioè, ad esempio, senza decreto autorizzativo motivato o con modalità di registrazione o deposito diverso da quelle previste dalla legge. Soltanto l'illegittimità sostanziale rende le intercettazioni inutilizzabili ai fini della verifica dei gravi indizi di colpevolezza necessari ex art. 273 c.p.p. per l'applicazione della custodia cautelare, mentre entrambi i tipi di illegittimità comportano, nei casi previsti dall'indicato art. 271, l'inutilizzabilità dei risultati delle intercettazioni ai fini del giudizio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2455 del 15 luglio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1344/1995
+                                      In materia di intercettazioni telefoniche, ai sensi dell'art. 268 comma 6, c.p.p. l'obbligo di avviso al difensore sussiste solo per l'ascolto delle registrazioni e non per l'esame delle loro trascrizioni. Infatti la trascrizione delle registrazioni è un atto successivo disposto dal giudice ai sensi dell'art. 268 comma 7, c.p.p. e all'esito di tali operazioni non è previsto il deposito degli atti trascritti, in quanto le trascrizioni sono inserite nel fascicolo del dibattimento e, quindi, sono direttamente esaminate dal difensore.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1344 del 10 febbraio 1995)
+                  
+
+- 
+
+- 
+Cass. pen. n. 7759/1994
+                                      Il principio fissato nell'art. 185, comma 1, c.p.p., secondo cui la nullità di un atto rende invalidi gli atti consecutivi che dipendono da quello dichiarato nullo, non trova applicazione in materia di inutilizzabilità, riguardando quest'ultima solo le prove illegittimamente acquisite e non altre la cui acquisizione sia avvenuta in modo autonomo e nelle forme consentite. (Nella specie, in applicazione di tale principio, la Corte ha escluso che la ritenuta inutilizzabilità di intercettazioni telefoniche nel corso delle quali era stata acquisita una notizia di reato potesse estendersi ad altre successive intercettazioni ritualmente disposte a seguito di detta notizia).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 7759 del 11 luglio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 728/1994
+                                      La registrazione di una telefonata, fatta da uno degli interlocutori, all'insaputa dell'altro, è utilizzabile come prova nel procedimento penale. Essa ha la natura di documento, di cui all'art. 234 c.p.p. e, non rientrando tra le intercettazioni telefoniche, non è sottoposta alle limitazioni e formalità proprie delle predette intercettazioni, né il fatto che essa venga registrata alla insaputa di uno dei due interlocutori costituisce offesa alla libertà di autodeterminazione dell'altro
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 728 del  6 giugno 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5331/1994
+                                      Nell'ipotesi in cui una intercettazione venga ritualmente ordinata con riferimento al reato per il quale si procede, che in astratto preveda la pena massima superiore a cinque anni, e successivamente l'imputazione venga mutata in altra, per la quale l'intercettazione stessa non sarebbe stata ammissibile, la prova acquisita è utilizzabile, in quanto il divieto di cui all'art. 271 c.p.p. è imposto soltanto con riferimento ai provvedimenti adottati in casi non consentiti. Se l'atto è invece legittimo, i suoi risultati mantengono tale carattere anche se la modifica della qualificazione giuridica del reato fa diventare, con valutazione postuma, non più conforme alla previsione processuale la intercettazione eseguita.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 5331 del  6 maggio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1625/1993
+                                      È processualmente inutilizzabile il contenuto di una conversazione tra presenti intercettata in modo anomalo e fortuito (nella specie, a seguito di errato posizionamento del ricevitore di apparecchio telefonico, le comunicazioni effettuate mediante il quale siano oggetto di intercettazione regolarmente autorizzata), non potendosi estendere detta autorizzazione, legata a presupposti e parametri del tutto diversi rispetto a quelli legittimanti la cosiddetta intercettazione ambientale, a quest'ultima.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1625 del  8 giugno 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 4604/1993
+                                      Le intercettazioni telefoniche possono costituire valida fonte di ricostruzione del quadro indiziario prima ancora che vengano trascritte, purchè siano state rispettate le norme processuali concernenti le autorizzazioni e le modalità di esecuzione, in quanto, da un lato, il mancato deposito dei verbali e delle registrazioni delle intercettazioni telefoniche, disposte in altro procedimento, presso l'autorità giudiziaria competente per il diverso procedimento, non è causa di inutilizzabilità dei risultati delle intercettazioni, e dall'altro il mancato rispetto degli artt. 267 e 268 c.p.p. rileva solo in tema di prova ai fini del giudizio.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 4604 del 26 gennaio 1993)
+                  
+
+- 
+
+- 
+Cass. pen. n. 5467/1992
+                                      La registrazione e l'utilizzazione delle dichiarazioni rese a terzo da persona successivamente imputata sulla base di esse sono legittime, in quanto non possono essere ricondotte né nell'ambito delle intercettazioni irrituali, né in quello delle dichiarazioni indizianti nei confronti di persona non indiziata né indagata, inutilizzabili ai sensi, rispettivamente, degli artt. 271 e 63 c.p.p. Ed invero, quanto alle prime, non si è in presenza di intercettazioni, cioè di occulta presa di conoscenza, da parte di terzi e mediante congegni particolari, di comunicazioni riservate, ma di registrazione di un colloquio ad opera di uno degli interlocutori, cioè di un'attività riconducibile nella memorizzazione fornita di notizie che uno degli interlocutori si è procurato lecitamente dall'altro, riguardo alla quale attività il diritto alla riservatezza, il solo astrattamente opponibile è costituito dalla pretesa che la notizia, liberamente affidata ad altri, non sia da costui propalata senza il consenso dell'affidante, non costituisce un valore garantito nel processo, ma cede certamente rispetto all'esigenza di formazione della prova. Quanto alle seconde, l'inutilizzabilità opera con riferimento alle dichiarazioni rese all'autorità giudiziaria o alla polizia giudiziaria e non è assolutamente ipotizzabile né che un privato possa trovarsi investito vive funzioni di polizia giudiziaria (al di fuori dei casi di flagranza del reato ex art. 383 c.p.p. nei quali, peraltro, può esimersi dalle stesse), né che sia tenuto, se in colloquio con persona che gli confidi fatti compromettenti sul piano penale, ad ascoltarlo dopo avergli assicurato le garanzie previste per l'imputato. (In motivazione la S.C. ha precisato che le dichiarazioni rese dall'imputato al teste e da costui registrate su nastro magnetico possono in ogni caso costituire oggetto di testimonianza diretta del teste e indiretta degli agenti di P.G. cui siano state comunicate, e che il nastro magnetico legittimamente può essere acquisito agli atti processuali).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 5467 del  9 maggio 1992)
+                  
+
+- 
+
+Ratio: La ratio di tale disposizione si coglie nell'esigenza di garantire il principio costituzionalmente garantito della libertà e della segretezza delle comunicazioni (art. 15), le cui limitazioni sono dunque ammissibili solo se poste in essere nel rispetto delle garanzie stabilite ex lege.
+Spiegazione: 
+Le intercettazioni appartengono ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+L’ambito delle intercettazioni si presenta assai delicato, in quanto coinvolge la libertà e la segretezza delle comunicazioni, definite inviolabili dall’articolo 15 della Costituzione. Quando le regole dette per l’ammissibilità delle intercettazioni non vengono rispettate (v. artt. 267 e 268), è prevista la inutilizzabilità delle stesse a fini probatori.
+
+Ai sensi del comma 1, i risultati delle operazioni di intercettazione non possono essere infatti utilizzati sul piano probatorio (e dunque possono comunque essere utilizzati per dar vita a nuove indagini, rappresentando valide notizie di reato), quando siano effettuate senza osservare le disposizioni di cui agli artt. 267 e 268 commi 1 e 3 o, comunque,  fuori dei casi consentiti dalla legge.
+
+In tale ultimo ambito rientrano ad esempio:
+
+
+
+		i divieti di utilizzazione in caso di violazione dell’articolo 103 co. 5;
+
+
+
+
+		mancata osservanza dell’articolo 68 Cost in materia di autorizzazione della Camera di appartenenza per poter sottoporre i membri del Parlamento ad intercettazioni in qualsiasi forma eseguite;
+
+
+
+
+		il divieto di intercettazioni di cui all’articolo 200, quando abbiano ad oggetto fatti appresi per ragione del loro ministero, ufficio o professione;
+
+
+Il comma 1 bis estende espressamente la disciplina dell’inutilizzabilità anche al c.d. captatori informatici.
+
+Per quanto concerne le registrazioni ed i verbali relativi alle intercettazioni inutilizzabili, il comma stabilisce che essi debbano essere distrutti tramite ordine del giudice in ogni stato e grado del processo, salvo che essi costituiscano corpo del reato.
+

@@ -1,0 +1,47 @@
+
+==================================================
+
+===== Article 221 =====
+[Primary - Text]
+Art. 221
+Nomina del perito
+
+1.  Il giudice nomina il perito scegliendolo tra gli iscritti negli appositi albi o tra persone fornite di particolare competenza nella specifica disciplina. Quando la perizia è dichiarata nulla, il giudice cura, ove possibile, che il nuovo incarico sia affidato ad altro perito.
+
+2.  Il giudice affida l'espletamento della perizia a più persone quando le indagini e le valutazioni risultano di notevole complessità ovvero richiedono distinte conoscenze in differenti discipline.
+
+3.  Il perito ha l'obbligo di prestare il suo ufficio, salvo che ricorra uno dei motivi di astensione previsti dall'articolo 36.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 221
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 221
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 2211/2006
+                                      In tema di perizia e consulenza tecnica, la scelta dell'esperto tra soggetti non iscritti nell''Albo dei consulenti del giudice non produce alcuna nullità della nomina, né tantomeno incide sulla relazione da questi prodotta, o sulla attendibilità della stessa.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 2211 del 19 gennaio 2006)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare la più idonea competenza tecnica e scientifica dei periti, nonchè l'efficienza di tale fondamentale mezzo di prova.
+Spiegazione: 
+La perizia, per l’importanza che spesso può avere all’interno di un procedimento penale, deve assicurare una notevole professionalità da parte di chi la espleta.
+
+Per tali motivi la norma in esame richiede una speciale qualificazione delle persone cui la perizia viene affidata. Ciò viene assicurato da un lato, adottando come criterio principale per la nomina quello della iscrizione ad appositi albi professionali, anche se non si esclude sussidiariamente il ricorso ad altri esperti di particolare competenza e dall’altro lato, imponendo al giudice di disporre una perizia collegiale quando le indagini e le valutazioni risultano di notevole complessità.
+
+Dal punto di vista pratico, presso ogni tribunale è istituito un albo dei periti, diviso in categorie, tra cui sono sempre previste le categorie di esperti in medicina legale, psichiatria, contabilità, ingegneria e relative specialità, infortunistica del traffico e della circolazione stradale, balistica, chimica, analisi e comparazione della grafia.
+
+L'albo dei periti è tenuto a cura del presidente del tribunale ed è formato da un comitato da lui presieduto e composto dal procuratore della Repubblica presso il medesimo tribunale, dal presidente del consiglio dell'ordine forense, dal presidente dell'ordine o del collegio a cui appartiene la categoria di esperti per la quale si deve provvedere ovvero da loro delegati.
+
+Ai sensi del comma 3, il perito ha l’obbligo di prestare il suo ufficio, salvo che ricorra uno dei motivi di astensione di cui all’articolo 36.
+

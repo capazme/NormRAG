@@ -1,0 +1,116 @@
+
+==================================================
+
+===== Article 229 =====
+[Primary - Text]
+Art. 229
+Comunicazioni relative alle operazioni peritali
+
+1.  Il perito indica il giorno, l'ora e il luogo in cui inizierà le operazioni peritali e il giudice ne fa dare atto nel verbale.
+
+2.  Della eventuale continuazione delle operazioni peritali il perito dà comunicazione senza formalità alle parti presenti.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 229
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 229
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 52604/2017
+                                      Il tema di perizia, oltre all'avviso del conferimento di un incarico peritale, il difensore ha diritto anche di presenziare alle conseguenti operazioni,a condizione che - qualora queste si svolgano senza la presenza del giudice - abbia esplicitamente chiesto a quest'ultimo di parteciparvi.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 52604 del 17 novembre 2017)
+                  
+
+- 
+
+- 
+Cass. pen. n. 13068/2013
+                                      Non è nulla la perizia qualora sia stata omessa a favore dei consulenti di parte non presenti alle operazioni peritali la comunicazione del prosieguo di queste ultime in altra data, atteso che detta comunicazione, ancorchè senza formalità, è obbligatoria ex art. 229, comma secondo, c.p.p. soltanto in favore delle parti presenti all'inizio delle predette operazioni.
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 13068 del 21 marzo 2013)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32254/2007
+                                      In tema di perizia, qualora all'atto del conferimento dell'incarico non venga indicata la data di inizio delle operazioni, il perito deve tempestivamente procedere alla relativa comunicazione al difensore anche se questi non abbia nominato un consulente tecnico di parte; l'omissione di tale comunicazione determina la nullità a regime intermedio della perizia.
+                                                        
+                    (Cassazione penale,
+                                          Sez. III,
+                                        sentenza n. 32254 del  8 agosto 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 34354/2004
+                                      In tema di svolgimento delle operazioni peritali, la comunicazione dell'eventuale continuazione in altra data delle operazioni medesime è data senza formalità. Ne consegue che la prova dell'avvenuta comunicazione può essere desunta da ogni elemento significativo. (La Corte ha ritenuto tale la partecipazione del difensore al successivo svolgimento delle operazioni).
+                                                        
+                    (Cassazione penale,
+                                          Sez. IV,
+                                        sentenza n. 34354 del 11 agosto 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 32494/2004
+                                      In tema di operazioni peritali, qualora all'atto del conferimento dell'incarico non venga indicata la data e l'ora dell'inizio delle operazioni, la comunicazione fatta successivamente dal perito al difensore della parte è idonea a garantire il diritto di difesa anche se analogo avviso non sia stato inviato al consulente già nominato
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 32494 del 26 luglio 2004)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2885/1999
+                                      In tema di operazioni peritali, in caso di prosieguo delle stesse fissato dal perito, l'avviso dato al difensore della parte è atto a soddisfare l'esigenza di assistenza e rappresentanza della stessa; nel caso, pertanto, in cui tale avviso sia stato effettuato, non comporta nullità la omissione di analoga comunicazione al consulente di parte.
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 2885 del  3 marzo 1999)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3643/1998
+                                      Il difensore che ne abbia fatto richiesta ha diritto di assistere alle operazioni peritali. Ne segue che, nel giudizio di cognizione la sua esclusione dà luogo, indipendentemente dalla presenza, o non, dei consulenti di parte, a nullità di ordine generale attinente all'assistenza dell'imputato. Tale conclusione va estesa al patrocinio dell'interessato nei procedimenti di esecuzione e di sorveglianza, nei quali, sebbene l'espletamento della perizia non sia soggetto a particolari formalità, deve pur sempre essere garantito il rispetto del contraddittorio e l'esercizio dei connessi poteri difensivi. (Fattispecie relativa ad esclusione della presenza del difensore, che aveva presentato apposita istanza, a perizia medica disposta nei confronti di condannato che aveva chiesto il differimento dell'esecuzione della pena).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 3643 del 16 settembre 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 1079/1995
+                                      Qualora un consulente di parte venga nominato successivamente al regolare inizio delle operazioni peritali e prima della fissazione di una nuova data per la loro prosecuzione, le modalità di comunicazione di essa devono ritenersi libere, in considerazione dell'assenza di formalità che, a norma dell'art. 229, comma secondo, c.p.p., caratterizza questa fase del procedimento.
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 1079 del  1 febbraio 1995)
+                  
+
+- 
+
+Ratio: La disposizione in esame è diretta ad assicurare un pronto ed efficiente utilizzo di tale fondamentale mezzo di prova.
+Spiegazione: 
+La norma in esame disciplina semplicemente le comunicazione relative alle operazioni peritali. In sintesi, il giudice fa inserire nel verbale le indicazioni del perito circa l’ora, il giorno ed il luogo in cui ha deciso che si svolgeranno le operazioni peritali. Nell’ipotesi di mera continuazione delle operazioni peritali, il perito fornisce semplice comunicazione alle parti presenti, senza formalità di alcun tipo.
+
+Se le parti non hanno assistito alla prima sessione di lavoro perdono il diritto ad ottenere specifiche comunicazioni circa la prosecuzione dell'indagine peritale, le quali potranno informalmente essere richieste dalle parti interessate alla cancelleria del giudice avanti al quale si procede o allo stesso perito.
+

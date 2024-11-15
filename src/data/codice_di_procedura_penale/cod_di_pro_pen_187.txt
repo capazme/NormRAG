@@ -1,0 +1,80 @@
+
+==================================================
+
+===== Article 187 =====
+[Primary - Text]
+Art. 187
+Oggetto della prova
+
+1.  Sono oggetto di prova i fatti che si riferiscono all'imputazione, alla punibilità e alla determinazione della pena o della misura di sicurezza.
+
+2.  Sono altresì oggetto di prova i fatti dai quali dipende l'applicazione di norme processuali.
+
+3.  Se vi è costituzione di parte civile, sono inoltre oggetto di prova i fatti inerenti alla responsabilità civile derivante dal reato.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo I - Disposizioni generali>Articolo 187
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 187
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 10210/2011
+                                      Le sentenze del giudice amministrativo, ancorchè definitive, non vincolano quello penale ed una volta acquisite agli atti del dibattimento sono liberamente valutabili ai fini della decisione.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 10210 del 14 marzo 2011)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2809/2006
+                                      In tema di intercettazioni disposte in procedimenti diversi, l'utilizzazione dei risultati intercettativi è consentita quando sono indispensabili non solo all'accertamento del fatto reato, ma anche con riferimento all'intera imputazione, compresi i fatti relativi alla punibilità, alla determinazione della pena, alla qualificazione del reato in rapporto alle circostanze attenuanti o aggravanti, ed anche quando l'indispensabilità è in funzione di riscontro di dichiarazioni accusatorie.
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 2809 del 24 gennaio 2006)
+                  
+
+- 
+
+- 
+Cass. pen. n. 3396/1998
+                                      Una volte acquisite a norma dell'art. 238 bis c.p.p., le sentenze irrevocabili sono valutabili entro i limiti indicati dagli artt. 187 e 192, comma terzo, c.p.p. Pertanto, il giudice, perché tali sentenze assurgano a dignità di prova nel processo nel quale vengono acquisite, deve, in primo luogo, nel contraddittorio delle parti, accertare la veridicità dei fatti ritenuti come dimostrati dalle dette sentenze e rilevanti ex art. 187 c.p.p., salva la facoltà dell'imputato di essere ammesso a provare il contrario. Inoltre, il giudice è tenuto, su richiesta dell'accusa, ad acquisire al dibattimento, nel contraddittorio delle parti, gli elementi di prova che confermino la veridicità dei fatti accertati nelle sentenze irrevocabili, che divengono, in tal modo, fonti di prova del reato per cui si procede. (Fattispecie di concessione edilizia illegittima in quanto conseguente ad abuso di ufficio accertato con sentenza irrevocabile).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 3396 del 18 marzo 1998)
+                  
+
+- 
+
+- 
+Cass. pen. n. 391/1993
+                                      Non può accertarsi la falsità materiale di un documento o della sola sottoscrizione quando, mancando l'originale, non si abbia la certezza assoluta della totale conformità a questo della copia disponibile; la relativa prova, pertanto, può avere solo ad oggetto il fatto storico della formazione della copia in modo conforme all'originale, non potendo la conformità essere dimostrata per induzione. (Fattispecie relativa ad autentica della procura stilata a margine della copia dell'atto di citazione allegato al fascicolo d'ufficio e caratterizzata dalla mancanza dell'originale, non rinvenuto).
+                                                        
+                    (Cassazione penale,
+                                          Sez. V,
+                                        sentenza n. 391 del 18 gennaio 1993)
+                  
+
+- 
+
+Ratio: La disposizione in esame, determinando i confini oggettivi dell'esercizio del diritto alla prova, risponde all'esigenza di evitare che l'attività probatoria possa arbitrariamente orientarsi verso qualunque obiettivo di verità storica.
+Spiegazione: 
+La collocazione unitaria del regime delle prove riverbera i suoi effetti anche in ordine ad una sostanziale unitarietà di fondo delle previsioni dettate nel Libro III, in vista della costruzione di un vero e proprio sottosistema normativo dedicato alle prove penali.
+
+Tale sottosistema si articola dunque nella regolamentazione del diritto alla prova e dei rapporti tra prova e decisione, in un’ottica di evidenziazione del principio di legalità sotteso.
+
+La norma in commento fa riferimento all’oggetto della prova definendolo implicitamente come il tema della decisione. Attraverso tale riferimento il legislatore ha fissato il requisito della pertinenza come criterio-guida per lo sviluppo dell’attività probatoria e nel contempo allo scopo di definirne i confini.
+
+La presente elencazione manifesta dunque lo sforzo di delimitare il perimetro del thema probandum, il quale concerne i fatti che si riferiscono all’imputazione, alla punibilità dell’imputato, nonché alla determinazione della pena o delle misure di sicurezza. Inoltre, nell’eventualità in cui vi sia costituzione di parte civile, il tema probatorio si espande sino a ricomprendere le questioni derivanti dall’esercizio dell’azione civile in sede penale.
+
+Anche se può sembrare un rilievo superfluo, il legislatore ha pensato bene di estendere l’oggetto di prova anche ai fatti processuali, in tal modo esplicitando l’importanza del principio di legalità anche con riferimento a questioni importanti, come possono essere quelle relative alla regolarità delle notificazioni.
+

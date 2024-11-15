@@ -1,0 +1,25 @@
+
+==================================================
+
+===== Article 226 =====
+[Primary - Text]
+Art. 226
+Conferimento dell'incarico
+
+1.  Il giudice, accertate le generalità del perito, gli chiede se si trova in una delle condizioni previste dagli articoli 222 e 223, lo avverte degli obblighi e delle responsabilità previste dalla legge penale e lo invita a rendere la seguente dichiarazione: "consapevole della responsabilità morale e giuridica che assumo nello svolgimento dell'incarico, mi impegno ad adempiere al mio ufficio senza altro scopo che quello di far conoscere la verità e a mantenere il segreto su tutte le operazione peritali".
+
+2.  Il giudice formula quindi i quesiti, sentiti il perito, i consulenti tecnici, il pubblico ministero e i difensori presenti.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo II - Mezzi di prova>Capo VI - Perizia>Articolo 226
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 226
+
+[Secondary - Brocardi Information]
+Ratio: La disposizione in esame è diretta ad assicurare la più idonea competenza tecnica e scientifica dei periti, nonchè l'efficienza di tale fondamentale mezzo di prova.
+Spiegazione: 
+Per quanto concerne la disciplina generale della perizia, la norma in commento stabilisce che il giudice, una volta accertate le generalità del perito, gli domanda se egli si trovi in una delle situazioni di incompatibilità o inconferibilità dell’incarico previste dagli articoli 222 e 223, lo avverte delle responsabilità penali in cui può incorrere in caso di reticenza o mendacio (v. art. 373 c.p.) e gli fa recitare l’apposita formula.
+
+Ai sensi del comma 2, il giudice, una volta sentiti il perito, i consulenti tecnici, il pubblico ministero ed i difensori, formula i quesiti da sottoporre, le cui risposte integreranno la relazione peritale.
+

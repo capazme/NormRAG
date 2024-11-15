@@ -1,0 +1,80 @@
+
+==================================================
+
+===== Article 246 =====
+[Primary - Text]
+Art. 246
+Ispezione di luoghi o di cose
+
+1.  All'imputato e in ogni caso a chi abbia l'attuale disponibilità del luogo in cui è eseguita l'ispezione è consegnata, nell'atto di iniziare le operazioni e sempre che essi siano presenti, copia del decreto che dispone tale accertamento.
+
+2.  Nel procedere all'ispezione dei luoghi, l'autorità giudiziaria può ordinare, enunciando nel verbale i motivi del provvedimento, che taluno non si allontani prima che le operazioni siano concluse e può far ricondurre coattivamente sul posto il trasgressore.
+
+Position: Codice di procedura penale>LIBRO TERZO - Prove>Titolo III - Mezzi di ricerca della prova>Capo I - Ispezioni>Articolo 246
+
+[Norma Details]
+Tipo_atto: codice di procedura penale
+Articolo: 246
+
+[Secondary - Brocardi Information]
+Massime: 
+- 
+
+- 
+Cass. pen. n. 21539/2009
+                                      Nell'ipotesi in cui si accinga ad eseguire un'ispezione, una perquisizione o un sequestro nell'ufficio di un difensore, l'obbligo per l'autorità giudiziaria di procedervi personalmente e di darne avviso al consiglio dell'ordine forense del luogo non viene meno, sebbene il difensore sia persona indagata, quando lo studio professionale risulti cointestato ad altro avvocato nominato suo difensore di fiducia e non sottoposto in quel momento ad indagini, con la conseguente nullità degli atti compiuti ove quelle prescrizioni non siano rispettate. (Rigetta, Trib. La Spezia, 22 Ottobre 2008).
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 21539 del 18 febbraio 2009)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6002/2007
+                                      L'obbligo per l'autorità giudiziaria, che si accinga ad eseguire un'ispezione, una perquisizione o un sequestro nell'ufficio di un difensore, di darne avviso al consiglio dell'ordine forense del luogo non viene meno, sebbene il difensore sia sottoposto all'indagine, se lo studio professionale interessato sia cointestato ad altro avvocato non sottoposto in quel momento all'indagine e che abbia assunto l'ufficio difensivo seppure al di fuori di quel procedimento, con la conseguente nullità, ove l'avviso non sia dato, degli atti compiuti. (Annulla senza rinvio, Trib. lib. Cremona, 6 Aprile 2007).
+                                                        
+                    (Cassazione penale,
+                                          Sez. II,
+                                        sentenza n. 6002 del  8 novembre 2007)
+                  
+
+- 
+
+- 
+Cass. pen. n. 2555/1994
+                                      Il verbale di sopralluogo, nel quale si descrive una situazione soggetta a modifiche - quale è quella di una sede stradale occlusa considerata nella specie dai verbalizzanti - è un tipico atto per il dibattimento a norma dell'art. 431 lett. b) c.p.p. Il concetto di irripetibilità si riferisce infatti all'impossibilità di attuare in sede dibattimentale quello stesso atto che la polizia giudiziaria ha a suo tempo compiuto. (Nella specie l'ispezione dei luoghi, atto previsto dagli artt. 244 e 246 c.p.p. tra i «mezzi di ricerca delle prove», che consiste nella verifica e descrizione dello stato dei luoghi attuate sul posto ed è strutturalmente diverso dal mezzo di prova costituito dalla testimonianza).
+                                                        
+                    (Cassazione penale,
+                                          Sez. I,
+                                        sentenza n. 2555 del 26 febbraio 1994)
+                  
+
+- 
+
+- 
+Cass. pen. n. 6861/1993
+                                      L'ispezione dei luoghi non è una prova ma un mezzo di ricerca della prova: in quanto tale sfugge alla disciplina dettata dall'art. 495, secondo comma, c.p.p., non essendo consentito ricomprendere nel termine «prova» — intesa come fonte di convincimento — il «mezzo» attraverso il quale la prova stessa viene ricercata per essere poi offerta al giudice ai fini della decisione. Le nozioni di mezzo di prova e di mezzo di ricerca della prova sono fra loro nettamente differenziate anche sotto il profilo normativo, come è dato evincere dal fatto che tutti i «mezzi di prova» — ossia le fonti di prova, personali o reali (testimonianze, esame delle parti, confronti, ricognizioni, esperimenti giudiziali, perizia, documenti) — sono ricompresi nel titolo secondo del libro terzo del codice penale, i «mezzi di ricerca dalla prova» (ispezioni, perquisizioni, sequestri, intercettazioni di conversazioni o comunicazioni) trovano una loro specifica ed autonoma disciplina nel successivo titolo terzo. Il ruolo che il nuovo codice di rito assegna al giudice gli impedisce di svolgere, di regolare, attività di ricerca della prova, essendo ciò demandato alle parti. Ne consegue che il rifiuto opposto dal giudice di merito di procedere ad ispezione dei luoghi è ricorribile in cassazione a norma dell'art. 606, primo comma, lettera d), c.p.p.
+                                                        
+                    (Cassazione penale,
+                                          Sez. VI,
+                                        sentenza n. 6861 del  9 luglio 1993)
+                  
+
+- 
+
+Ratio: Il legislatore ha qui privilegiato una disciplina delle ispezioni caratterizzata da un rafforzamento della dimensione garantistica, la cui ratio si ravvisa nell'esigenza di mostrare una maggiore sensibilità legislativa in relazione al profilo di incidenza di tale mezzo di ricerca della prova sui diritti di libertà tutelati costituzionalmente.
+Spiegazione: 
+L’ispezione appartiene ai mezzi di ricerca della prova, caratterizzati dal fatto che sono funzionali a permettere l’acquisizione di tracce, notizie o dichiarazioni idonee ad assumere rilevanza probatoria. I mezzi di ricerca della prova non vanno confusi con i mezzi di prova che offrono invece al giudice dei risultati direttamente utilizzabili ai fini della successiva decisione.
+
+Le ispezioni, unitamente alle perquisizioni (artt. 247 e ss.) rappresentano due tipici “atti a sorpresa” di cui dispone l’autorità giudiziaria, da cui si evince il preciso intento del legislatore di attribuire tale potere non solo al giudice, ma altresì al pubblico ministero.
+
+Ferma la distinzione tra l’inspicere, destinato ad accertare sulle persone, nei luoghi o nelle cose le tracce e gli altri effetti materiali del reato, tipico delle ispezioni ed il perquirere, diretto a ricercare il corpo del reato o cose pertinenti al reato sulle persone od in luoghi determinati, ovvero ad ivi eseguire l’arresto dell’imputato o dell’evaso (attività tipica delle perquisizioni), il legislatore ha mostrato in entrambi i casi disciplinati un’attenta sensibilità per i diritti di libertà tutelati a livello costituzionale (v. artt. 13 e 14 Cost.).
+
+Per quanto concerne le ispezioni di luoghi o di cose, deve essere sottolineata l’estensione a tali atti della garanzia rappresentata dalla consegna del decreto dell’autorità giudiziaria che l’ha disposta, e questo prima dell’inizio delle operazioni. Copia del decreto va consegnata all’imputato ed alla persona titolare della disponibilità dei luoghi, se presenti.
+
+L’autorità giudiziaria dispone inoltre del potere di impedire coattivamente l’allontanamento di una o più persone dai luoghi dell’ispezione, prima della loro conclusione, e di farle ivi condurre con provvedimento motivato.
+
+Ovviamente, tale disposizione trova la sua ragion d'essere nella necessità avvertita dal legislatore di consentire il più possibile l'efficacia delle operazioni ispettive, evitando la fuga di soggetti che di lì a poco potrebbero essere arrestati per via degli accertamenti effettuati, tutelando inoltre la genuinità del luogo, per evitare che i soggetti stessi portino via corpi del reato o elementi di prova.
+
