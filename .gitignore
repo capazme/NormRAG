@@ -5,3 +5,4 @@ lib
 clean_text.py
 *.log
 backup_out
+.DS_Store
